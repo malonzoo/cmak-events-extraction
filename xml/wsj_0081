@@ -1,0 +1,143 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A licensing company representing the University of Pennsylvania added Johnson &amp; Johnson to its lawsuit challenging a university faculty member over rights to Retin-A acne medicine.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN licensing) (NN company) )
+      (VP (VBG representing) 
+        (NP 
+          (NP (DT the) (NNP University) )
+          (PP (IN of) 
+            (NP (NNP Pennsylvania) )))))
+    (VP (VBD added) 
+      (NP (NNP Johnson) (CC &amp;) (NNP Johnson) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (PRP$ its) (NN lawsuit) )
+          (VP (VBG challenging) 
+            (NP (DT a) (NN university) (NN faculty) (NN member) )
+            (PP (IN over) 
+              (NP 
+                (NP (NNS rights) )
+                (PP (TO to) 
+                  (NP (NNP Retin-A) (NN acne) (NN medicine) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>University Patents Inc., based in Westport, Conn., said it seeks Johnson &amp; Johnson's profits from sales of Retin-A, estimated at $50 million, a similar amount of punitive damages and the right to license Retin-A elsewhere.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP University) (NNP Patents) (NNP Inc.) )
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP 
+            (NP (NNP Westport) )
+            (, ,) 
+            (NP (NNP Conn.) )
+            (, ,) ))))
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ seeks) 
+            (NP 
+              (NP 
+                (NP 
+                  (NP 
+                    (NP (NNP Johnson) (CC &amp;) (NNP Johnson) (POS 's) )
+                    (NNS profits) )
+                  (PP (IN from) 
+                    (NP 
+                      (NP (NNS sales) )
+                      (PP (IN of) 
+                        (NP (NNP Retin-A) )))))
+                (, ,) 
+                (VP (VBN estimated) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (IN at) 
+                    (NP 
+                      (QP ($ $) (CD 50) (CD million) )
+                      (-NONE- *U*) ))))
+              (, ,) 
+              (NP 
+                (NP (DT a) (JJ similar) (NN amount) )
+                (PP (IN of) 
+                  (NP (JJ punitive) (NNS damages) )))
+              (CC and) 
+              (NP (DT the) (NN right) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB license) 
+                      (NP (NNP Retin-A) )
+                      (ADVP-LOC (RB elsewhere) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In May, University Patents filed a suit in federal court in Philadelphia against Albert M. Kligman, a researcher and professor at the University of Pennsylvania School of Medicine who developed Retin-A in the 1960s to combat acne.</Text><Parse>( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP May) ))
+    (, ,) 
+    (NP-SBJ (NNP University) (NNP Patents) )
+    (VP (VBD filed) 
+      (NP 
+        (NP (DT a) (NN suit) )
+        (PP (-NONE- *ICH*-1) ))
+      (PP-LOC (IN in) 
+        (NP (JJ federal) (NN court) ))
+      (PP-LOC (IN in) 
+        (NP (NNP Philadelphia) ))
+      (PP-1 (IN against) 
+        (NP 
+          (NP (NNP Albert) (NNP M.) (NNP Kligman) )
+          (, ,) 
+          (NP 
+            (NP (DT a) (NN researcher) 
+              (CC and)
+              (NN professor) )
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (DT the) 
+                  (NAC (NNP University) 
+                    (PP (IN of) 
+                      (NP (NNP Pennsylvania) )))
+                  (NNP School) )
+                (PP (IN of) 
+                  (NP (NNP Medicine) ))))
+            (SBAR 
+              (WHNP-182 (WP who) )
+              (S 
+                (NP-SBJ-2 (-NONE- *T*-182) )
+                (VP (VBD developed) 
+                  (NP (NNP Retin-A) )
+                  (PP-TMP (IN in) 
+                    (NP (DT the) (CD 1960s) ))
+                  (S-PRP 
+                    (NP-SBJ (-NONE- *-2) )
+                    (VP (TO to) 
+                      (VP (VB combat) 
+                        (NP (NN acne) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Dr. Kligman patented the medicine while employed by the University, but later licensed the Retin-A to a division of Johnson &amp; Johnson.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNP Dr.) (NNP Kligman) )
+    (VP 
+      (VP (VBD patented) 
+        (NP (DT the) (NN medicine) )
+        (SBAR-TMP (IN while) 
+          (S 
+            (NP-SBJ-2 (-NONE- *-1) )
+            (VP (VBN employed) 
+              (NP (-NONE- *-2) )
+              (PP (IN by) 
+                (NP-LGS (DT the) (NNP University) ))))))
+      (, ,) (CC but) 
+      (VP 
+        (ADVP-TMP (JJ later) )
+        (VBD licensed) 
+        (NP (DT the) (NNP Retin-A) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT a) (NN division) )
+            (PP (IN of) 
+              (NP (NNP Johnson) (CC &amp;) (NNP Johnson) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In New Brunswick, N.J., a Johnson &amp; Johnson spokesman declined comment.</Text><Parse>( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NNP New) (NNP Brunswick) )
+        (, ,) 
+        (NP (NNP N.J.) )
+        (, ,) ))
+    (NP-SBJ (DT a) (NNP Johnson) (CC &amp;) (NNP Johnson) (NN spokesman) )
+    (VP (VBD declined) 
+      (NP (NN comment) ))</Parse></Sentence></Sentences>

@@ -1,0 +1,1078 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Investors unsettled by the stock market's gyrations can take some comfort in the predictable arrival of quarterly dividend checks.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNS Investors) )
+      (VP (VBN unsettled) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT the) (NN stock) (NN market) (POS 's) )
+            (NNS gyrations) ))))
+    (VP (MD can) 
+      (VP (VB take) 
+        (NP (DT some) (NN comfort) )
+        (PP-CLR (IN in) 
+          (NP 
+            (NP (DT the) (JJ predictable) (NN arrival) )
+            (PP (IN of) 
+              (NP (JJ quarterly) (NN dividend) (NNS checks) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That has been particularly true this year with many companies raising their payouts more than 10%.</Text><Parse>( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ has) 
+      (VP (VBN been) 
+        (ADJP-PRD (RB particularly) (JJ true) )
+        (NP-TMP (DT this) (NN year) )
+        (PP (IN with) 
+          (S-NOM 
+            (NP-SBJ (JJ many) (NNS companies) )
+            (VP (VBG raising) 
+              (NP (PRP$ their) (NNS payouts) )
+              (NP-EXT 
+                (QP (JJR more) (IN than) (CD 10) )
+                (NN %) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But don't breathe too easy: Those dividend increases may signal trouble ahead for stock prices, some analysts warn.</Text><Parse>( (S 
+    (S (CC But) 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBP do) (RB n't) 
+        (VP (VB breathe) 
+          (ADVP-MNR (RB too) (JJ easy) ))))
+    (: :) 
+    (S 
+      (S-TPC-1 
+        (NP-SBJ (DT Those) (NN dividend) (NNS increases) )
+        (VP (MD may) 
+          (VP (VB signal) 
+            (NP 
+              (NP (NN trouble) )
+              (ADVP-LOC (RB ahead) )
+              (PP (IN for) 
+                (NP (NN stock) (NNS prices) ))))))
+      (, ,) 
+      (NP-SBJ (DT some) (NNS analysts) )
+      (VP (VBP warn) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In the past, they say, the strongest dividend growth has often come at times when the stock-market party was almost over.</Text><Parse>( (S-1 
+    (PP-TMP (IN In) 
+      (NP (DT the) (NN past) ))
+    (PRN 
+      (, ,)
+      (NP-SBJ (PRP they) )
+      (VP (VBP say) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (, ,) )
+    (NP-SBJ (DT the) (JJS strongest) (NN dividend) (NN growth) )
+    (VP (VBZ has) 
+      (ADVP-TMP (RB often) )
+      (VP (VBN come) 
+        (PP-TMP (IN at) 
+          (NP 
+            (NP (NNS times) )
+            (SBAR-TMP 
+              (WHADVP-2 (WRB when) )
+              (S 
+                (NP-SBJ (DT the) (NN stock-market) (NN party) )
+                (VP (VBD was) 
+                  (ADJP-PRD (RB almost) (JJ over) )
+                  (ADVP-TMP (-NONE- *T*-2) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That can be a trap for unwary investors, says Richard Bernstein, senior quantitative analyst at Merrill Lynch &amp; Co. Strong dividend growth, he says, is "the black widow of valuation" -- a reference to the female spiders that attract males and then kill them after mating.</Text><Parse>( (SINV 
+    (S-TPC-1 
+      (NP-SBJ (DT That) )
+      (VP (MD can) 
+        (VP (VB be) 
+          (NP-PRD (DT a) (NN trap) )
+          (PP (IN for) 
+            (NP (JJ unwary) (NNS investors) )))))
+    (, ,) 
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Richard) (NNP Bernstein) )
+      (, ,) 
+      (NP 
+        (NP (JJ senior) (JJ quantitative) (NN analyst) )
+        (PP-LOC (IN at) 
+          (NP (NNP Merrill) (NNP Lynch) (CC &amp;) (NNP Co) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Stephen Boesel, president of T. Rowe Price Growth and Income Fund, explains that companies raise their payouts most robustly only after the economy and corporate profits have been growing for some time. "Invariably, those strong periods in the economy give way to recessionary environments," he says. "And recessionary environments aren't hospitable to the stock market."</Text><Parse>( (S-1 
+    (NP-SBJ (JJ Strong) (NN dividend) (NN growth) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBZ says) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (VP (VBZ is) 
+      (NP-PRD (`` ``) 
+        (NP 
+          (NP (DT the) (JJ black) (NN widow) )
+          (PP (IN of) 
+            (NP (NN valuation) )))
+        ('' '') 
+        (PRN (: --) 
+          (NP 
+            (NP (DT a) (NN reference) )
+            (PP (TO to) 
+              (NP 
+                (NP (DT the) (JJ female) (NNS spiders) )
+                (SBAR 
+                  (WHNP-231 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-231) )
+                    (VP 
+                      (VP (VBP attract) 
+                        (NP (NNS males) ))
+                      (CC and) 
+                      (ADVP (RB then) )
+                      (VP (VBP kill) 
+                        (NP (PRP them) )
+                        (PP-TMP (IN after) 
+                          (NP (VBG mating) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Indeed, analysts say that payouts have sometimes risen most sharply when prices were already on their way down from cyclical peaks.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Stephen) (NNP Boesel) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (NNP T.) (NNP Rowe) (NNP Price) (NNP Growth) 
+            (CC and)
+            (NNP Income) (NNP Fund) )))
+      (, ,) )
+    (VP (VBZ explains) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNS companies) )
+          (VP (VBP raise) 
+            (NP (PRP$ their) (NNS payouts) )
+            (ADVP-MNR (RBS most) (RB robustly) )
+            (SBAR-TMP 
+              (ADVP (RB only) )
+              (IN after) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (NN economy) )
+                  (CC and) 
+                  (NP (JJ corporate) (NNS profits) ))
+                (VP (VBP have) 
+                  (VP (VBN been) 
+                    (VP (VBG growing) 
+                      (PP-TMP (IN for) 
+                        (NP (DT some) (NN time) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In 1976, for example, dividends on the stocks in Standard &amp; Poor's 500-stock index soared 10%, following much slower growth the year before.</Text><Parse>( (S (`` ``) 
+    (S-TPC-1 
+      (ADVP (RB Invariably) )
+      (, ,) 
+      (NP-SBJ 
+        (NP (DT those) (JJ strong) (NNS periods) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN economy) )))
+      (VP (VBP give) 
+        (NP-CLR (NN way) )
+        (PP-CLR (TO to) 
+          (NP (JJ recessionary) (NNS environments) ))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The S&amp;P index started sliding in price in September 1976, and fell 12% in 1977 -- despite a 15% expansion in dividends that year.</Text><Parse>( (S (`` ``) (CC And) 
+    (NP-SBJ (JJ recessionary) (NNS environments) )
+    (VP (VBP are) (RB n't) 
+      (ADJP-PRD (JJ hospitable) 
+        (PP (TO to) 
+          (NP (DT the) (NN stock) (NN market) ))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That pattern hasn't always held, but recent strong growth in dividends makes some market watchers anxious.</Text><Parse>( (S 
+    (ADVP (RB Indeed) )
+    (, ,) 
+    (NP-SBJ (NNS analysts) )
+    (VP (VBP say) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNS payouts) )
+          (VP (VBP have) 
+            (ADVP-TMP (RB sometimes) )
+            (VP (VBN risen) 
+              (ADVP-MNR (RBS most) (RB sharply) )
+              (SBAR-TMP 
+                (WHADVP-1 (WRB when) )
+                (S 
+                  (NP-SBJ (NNS prices) )
+                  (VP (VBD were) 
+                    (ADVP-TMP (RB already) )
+                    (PP-PRD (IN on) 
+                      (NP 
+                        (NP (PRP$ their) (NN way) )
+                        (ADVP-DIR (IN down) )
+                        (PP-DIR (IN from) 
+                          (NP (JJ cyclical) (NNS peaks) ))))
+                    (ADVP-TMP (-NONE- *T*-1) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Payouts on the S&amp;P 500 stocks rose 10% in 1988, according to Standard &amp; Poor's Corp., and Wall Street estimates for 1989 growth are generally between 9% and 14%.</Text><Parse>( (S 
+    (PP-TMP (IN In) 
+      (NP (CD 1976) ))
+    (PRN 
+      (, ,)
+      (PP (IN for) 
+        (NP (NN example) ))
+      (, ,) )
+    (NP-SBJ 
+      (NP (NNS dividends) )
+      (PP (IN on) 
+        (NP 
+          (NP (DT the) (NNS stocks) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NNP Standard) (CC &amp;) (NNP Poor) (POS 's) )
+              (JJ 500-stock) (NN index) )))))
+    (VP (VBD soared) 
+      (NP-EXT (CD 10) (NN %) )
+      (, ,) 
+      (PP-TMP (VBG following) 
+        (NP 
+          (NP 
+            (ADJP (RB much) (JJR slower) )
+            (NN growth) )
+          (ADVP-TMP 
+            (NP (DT the) (NN year) )
+            (IN before) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Many people believe the growth in dividends will slow next year, although a minority see double-digit gains continuing.</Text><Parse>( (S 
+    (NP-SBJ-1 (DT The) (NNP S&amp;P) (NN index) )
+    (VP 
+      (VP (VBD started) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG sliding) 
+            (PP (IN in) 
+              (NP (NN price) ))
+            (PP-TMP (IN in) 
+              (NP (NNP September) (CD 1976) )))))
+      (, ,) 
+      (CC and)
+      (VP (VBD fell) 
+        (NP-EXT (CD 12) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (CD 1977) ))
+        (: --) 
+        (PP (IN despite) 
+          (NP 
+            (NP (DT a) 
+              (ADJP (CD 15) (NN %) )
+              (NN expansion) )
+            (PP (IN in) 
+              (NP (NNS dividends) ))
+            (NP-TMP (DT that) (NN year) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Meanwhile, many market watchers say recent dividend trends raise another warning flag: While dividends have risen smartly, their expansion hasn't kept pace with even stronger advances in stock prices.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (DT That) (NN pattern) )
+      (VP (VBZ has) (RB n't) 
+        (ADVP-TMP (RB always) )
+        (VP (VBN held) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (JJ recent) (JJ strong) (NN growth) )
+        (PP-LOC (IN in) 
+          (NP (NNS dividends) )))
+      (VP (VBZ makes) 
+        (S 
+          (NP-SBJ (DT some) (NN market) (NNS watchers) )
+          (ADJP-PRD (JJ anxious) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>As a result, the market's dividend yield -- dividends as a percentage of price -- has slid to a level that is fairly low and unenticing by historical standards.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNS Payouts) )
+        (PP (IN on) 
+          (NP (DT the) (NNP S&amp;P) (CD 500) (NNS stocks) )))
+      (VP (VBD rose) 
+        (NP-EXT (CD 10) (NN %) )
+        (PP-TMP (IN in) 
+          (NP (CD 1988) ))
+        (, ,) 
+        (PP (VBG according) 
+          (PP (TO to) 
+            (NP 
+              (NP (NNP Standard) (CC &amp;) (NNP Poor) (POS 's) )
+              (NNP Corp.) )))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (NNP Wall) (NNP Street) (NNS estimates) )
+        (PP (IN for) 
+          (NP (CD 1989) (NN growth) )))
+      (VP (VBP are) 
+        (ADVP (RB generally) )
+        (PP-LOC-PRD (IN between) 
+          (NP 
+            (QP (CD 9) (NN %) 
+              (CC and)
+              (CD 14) (NN %) )
+            (-NONE- *U*) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Put another way, the decline in the yield suggests stocks have gotten pretty rich in price relative to the dividends they pay, some market analysts say.</Text><Parse>( (S 
+    (NP-SBJ (JJ Many) (NNS people) )
+    (VP (VBP believe) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN growth) )
+            (PP (IN in) 
+              (NP (NNS dividends) )))
+          (VP (MD will) 
+            (VP (VB slow) 
+              (NP-TMP (JJ next) (NN year) )))))
+      (, ,) 
+      (SBAR-ADV (IN although) 
+        (S 
+          (NP-SBJ (DT a) (NN minority) )
+          (VP (VBP see) 
+            (S 
+              (NP-SBJ (JJ double-digit) (NNS gains) )
+              (VP (VBG continuing) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>They are keeping a close watch on the yield on the S&amp;P 500.</Text><Parse>( (S 
+    (S 
+      (ADVP-TMP (RB Meanwhile) )
+      (, ,) 
+      (NP-SBJ (JJ many) (NN market) (NNS watchers) )
+      (VP (VBP say) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (JJ recent) (NN dividend) (NNS trends) )
+            (VP (VBP raise) 
+              (NP (DT another) (NN warning) (NN flag) ))))))
+    (: :) 
+    (S 
+      (SBAR-TMP (IN While) 
+        (S 
+          (NP-SBJ (NNS dividends) )
+          (VP (VBP have) 
+            (VP (VBN risen) 
+              (ADVP-MNR (RB smartly) )))))
+      (, ,) 
+      (NP-SBJ (PRP$ their) (NN expansion) )
+      (VP (VBZ has) (RB n't) 
+        (VP (VBD kept) 
+          (NP-CLR (NN pace) )
+          (PP-CLR (IN with) 
+            (NP 
+              (NP 
+                (ADJP (JJ even) (JJR stronger) )
+                (NNS advances) )
+              (PP-LOC (IN in) 
+                (NP (NN stock) (NNS prices) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The figure is currently about 3.3%, up from 3.2% before the recent market slide.</Text><Parse>( (S 
+    (PP-PRP (IN As) 
+      (NP (DT a) (NN result) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (DT the) (NN market) (POS 's) )
+        (NN dividend) (NN yield) )
+      (PRN (: --) 
+        (NP 
+          (NP (NNS dividends) )
+          (PP (IN as) 
+            (NP 
+              (NP (DT a) (NN percentage) )
+              (PP (IN of) 
+                (NP (NN price) )))))
+        (: --) ))
+    (VP (VBP has) 
+      (VP (VBD slid) 
+        (PP-DIR (TO to) 
+          (NP 
+            (NP (DT a) (NN level) )
+            (SBAR 
+              (WHNP-232 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-232) )
+                (VP (VBZ is) 
+                  (ADJP-PRD (RB fairly) (JJ low) 
+                    (CC and)
+                    (JJ unenticing) )
+                  (PP (IN by) 
+                    (NP (JJ historical) (NNS standards) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Some analysts say investors should run for the exits if a sustained market rebound pushes the yield below 3%.</Text><Parse>( (S 
+    (S-TPC-3 
+      (S-ADV 
+        (NP-SBJ-1 (-NONE- *) )
+        (VP (VBN Put) 
+          (NP (-NONE- *-1) )
+          (NP-MNR (DT another) (NN way) )))
+      (, ,) 
+      (NP-SBJ 
+        (NP (DT the) (NN decline) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN yield) )))
+      (VP (VBZ suggests) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (NNS stocks) )
+            (VP (VBP have) 
+              (VP (VBN gotten) 
+                (ADJP-PRD (RB pretty) (JJ rich) 
+                  (PP-LOC (IN in) 
+                    (NP (NN price) )))
+                (ADVP (JJ relative) 
+                  (PP (TO to) 
+                    (NP 
+                      (NP (DT the) (NNS dividends) )
+                      (SBAR 
+                        (WHNP-2 (-NONE- 0) )
+                        (S 
+                          (NP-SBJ (PRP they) )
+                          (VP (VBP pay) 
+                            (NP (-NONE- *T*-2) )))))))))))))
+    (, ,) 
+    (NP-SBJ (DT some) (NN market) (NNS analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-3) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A drop below that 3% benchmark "has always been a strong warning sign that stocks are fully valued," says Mr. Boesel of T. Rowe Price.</Text><Parse>( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP are) 
+      (VP (VBG keeping) 
+        (NP 
+          (NP (DT a) (JJ close) (NN watch) )
+          (PP (IN on) 
+            (NP 
+              (NP (DT the) (NN yield) )
+              (PP (IN on) 
+                (NP (DT the) (NNP S&amp;P) (CD 500) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In fact, "the market has always tanked.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN figure) )
+    (VP (VBZ is) 
+      (ADVP-TMP (RB currently) )
+      (NP-PRD 
+        (NP 
+          (QP (RB about) (CD 3.3) )
+          (NN %) )
+        (, ,) 
+        (ADVP (IN up) 
+          (PP (IN from) 
+            (NP (CD 3.2) (NN %) )
+            (PP-TMP (IN before) 
+              (NP (DT the) (JJ recent) (NN market) (NN slide) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Always.</Text><Parse>( (S 
+    (NP-SBJ (DT Some) (NNS analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS investors) )
+          (VP (MD should) 
+            (VP (VB run) 
+              (PP-CLR (IN for) 
+                (NP (DT the) (NNS exits) ))
+              (SBAR-ADV (IN if) 
+                (S 
+                  (NP-SBJ (DT a) (VBN sustained) (NN market) (NN rebound) )
+                  (VP (VBZ pushes) 
+                    (NP (DT the) (NN yield) )
+                    (PP-DIR (IN below) 
+                      (NP (CD 3) (NN %) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>There's never been an exception," says Gerald W. Perritt, a Chicago investment adviser and money manager, based on a review of six decades of stock-market data.</Text><Parse>( (SINV 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT A) (NN drop) )
+        (PP-DIR (IN below) 
+          (NP (DT that) 
+            (ADJP (CD 3) (NN %) )
+            (NN benchmark) )))
+      (`` ``) 
+      (VP (VBZ has) 
+        (ADVP-TMP (RB always) )
+        (VP (VBN been) 
+          (NP-PRD (DT a) (JJ strong) (NN warning) (NN sign) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ-2 (NNS stocks) )
+                (VP (VBP are) 
+                  (VP 
+                    (ADVP-MNR (RB fully) )
+                    (VBN valued) 
+                    (NP (-NONE- *-2) )))))))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Boesel) )
+      (PP (IN of) 
+        (NP (NNP T.) (NNP Rowe) (NNP Price) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The last time the S&amp;P 500 yield dropped below 3% was in the summer of 1987.</Text><Parse>( (S 
+    (PP (IN In) 
+      (NP (NN fact) ))
+    (, ,) (`` ``) 
+    (NP-SBJ (DT the) (NN market) )
+    (VP (VBZ has) 
+      (ADVP-TMP (RB always) )
+      (VP (VBN tanked) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Stockholders who took the hint and sold shares escaped the October debacle.</Text><Parse>( (ADVP-TMP (RB Always) (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>There have been only seven other times -- in 1929, 1933, 1961, 1965, 1968, 1971 and 1972 -- when the yield on the S&amp;P 500 dropped below 3% for at least two consecutive months, Mr. Perritt found.</Text><Parse>( (S-1 
+    (NP-SBJ (EX There) )
+    (VP (VBZ 's) 
+      (ADVP-TMP (RB never) )
+      (VP (VBN been) 
+        (NP-PRD (DT an) (NN exception) )
+        (PRN 
+          (, ,)
+          ('' '') 
+          (SINV 
+            (VP (VBZ says) 
+              (SBAR (-NONE- 0) 
+                (S (-NONE- *T*-1) )))
+            (NP-SBJ 
+              (NP (NNP Gerald) (NNP W.) (NNP Perritt) )
+              (, ,) 
+              (NP (DT a) (NNP Chicago) (NN investment) (NN adviser) 
+                (CC and)
+                (NN money) (NN manager) )))
+          (, ,) )
+        (PP (VBN based) 
+          (PP (IN on) 
+            (NP 
+              (NP (DT a) (NN review) )
+              (PP (IN of) 
+                (NP 
+                  (NP (CD six) (NNS decades) )
+                  (PP (IN of) 
+                    (NP (NN stock-market) (NN data) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>And in each case, he says, a sharp drop in stock prices began within a year.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ last) (NN time) )
+      (SBAR 
+        (WHADVP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (DT the) (NNP S&amp;P) (CD 500) (NN yield) )
+          (VP (VBD dropped) 
+            (PP-DIR (IN below) 
+              (NP (CD 3) (NN %) ))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (VP (VBD was) 
+      (PP-TMP-PRD (IN in) 
+        (NP 
+          (NP (DT the) (NN summer) )
+          (PP (IN of) 
+            (NP (CD 1987) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Still, some market analysts say the current 3.3% reading isn't as troublesome as it might have been in years past. "It's not a very meaningful indicator currently because corporations are not behaving in a traditional manner," says James H. Coxon, head of stock investments for Cigna Corp., the Philadelphia-based insurer.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNS Stockholders) )
+      (SBAR 
+        (WHNP-233 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-233) )
+          (VP 
+            (VP (VBD took) 
+              (NP (DT the) (NN hint) ))
+            (CC and) 
+            (VP (VBD sold) 
+              (NP (NNS shares) ))))))
+    (VP (VBD escaped) 
+      (NP (DT the) (NNP October) (NN debacle) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In particular, Mr. Coxon says, businesses are paying out a smaller percentage of their profits and cash flow in the form of dividends than they have historically.</Text><Parse>( (S 
+    (S-TPC-2 
+      (NP-SBJ (EX There) )
+      (VP (VBP have) 
+        (VP (VBN been) 
+          (NP-PRD 
+            (NP 
+              (QP (RB only) (CD seven) )
+              (JJ other) (NNS times) )
+            (PRN (: --) 
+              (PP (NN in) 
+                (NP (CD 1929) 
+                  (, ,)
+                  (CD 1933) 
+                  (, ,)
+                  (CD 1961) 
+                  (, ,)
+                  (CD 1965) 
+                  (, ,)
+                  (CD 1968) 
+                  (, ,)
+                  (CD 1971) 
+                  (CC and)
+                  (CD 1972) ))
+              (: --) )
+            (SBAR 
+              (WHADVP-1 (WRB when) )
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (NN yield) )
+                  (PP (IN on) 
+                    (NP (DT the) (NNP S&amp;P) (CD 500) )))
+                (VP (VBD dropped) 
+                  (PP-DIR (IN below) 
+                    (NP (CD 3) (NN %) ))
+                  (PP-TMP (IN for) 
+                    (NP 
+                      (QP (IN at) (JJS least) (CD two) )
+                      (JJ consecutive) (NNS months) ))
+                  (ADVP-TMP (-NONE- *T*-1) )))))))
+      (, ,) )
+    (NP-SBJ (NNP Mr.) (NNP Perritt) )
+    (VP (VBD found) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>So, while stock prices may look fairly high relative to dividends, they are not excessive relative to the underlying corporate strength.</Text><Parse>( (S-1 (CC And) 
+    (PP-LOC (IN in) 
+      (NP (DT each) (NN case) ))
+    (PRN 
+      (, ,)
+      (NP-SBJ (PRP he) )
+      (VP (VBZ says) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (, ,) )
+    (NP-SBJ 
+      (NP (DT a) (JJ sharp) (NN drop) )
+      (PP-LOC (IN in) 
+        (NP (NN stock) (NNS prices) )))
+    (VP (VBD began) 
+      (PP-TMP (IN within) 
+        (NP (DT a) (NN year) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Rather than increasing dividends, some companies have used cash to buy back some of their shares, notes Steven G. Einhorn, co-chairman of the investment policy committee at Goldman, Sachs &amp; Co.</Text><Parse>( (S 
+    (ADVP (RB Still) )
+    (, ,) 
+    (NP-SBJ (DT some) (NN market) (NNS analysts) )
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ current) 
+            (ADJP (CD 3.3) (NN %) )
+            (NN reading) )
+          (VP (VBZ is) (RB n't) 
+            (ADJP-PRD 
+              (ADJP (RB as) (JJ troublesome) )
+              (SBAR (IN as) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (MD might) 
+                    (VP (VB have) 
+                      (VP (VBN been) 
+                        (ADJP-PRD (-NONE- *?*) )
+                        (PP-TMP (IN in) 
+                          (NP 
+                            (NP (NNS years) )
+                            (ADJP (NN past) )))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He factors that into the market yield to get an adjusted yield of about 3.6%.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) (RB not) 
+        (NP-PRD (DT a) 
+          (ADJP (RB very) (JJ meaningful) )
+          (NN indicator) )
+        (ADVP-TMP (RB currently) )
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (NNS corporations) )
+            (VP (VBP are) (RB not) 
+              (VP (VBG behaving) 
+                (PP-MNR (IN in) 
+                  (NP (DT a) (JJ traditional) (NN manner) ))))))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP James) (NNP H.) (NNP Coxon) )
+      (, ,) 
+      (NP 
+        (NP (NN head) )
+        (PP (IN of) 
+          (NP (NN stock) (NNS investments) ))
+        (PP (IN for) 
+          (NP 
+            (NP (NNP Cigna) (NNP Corp.) )
+            (, ,) 
+            (NP (DT the) (JJ Philadelphia-based) (NN insurer) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That is just a tad below the average of the past 40 years or so, he says.</Text><Parse>( (S-1 
+    (PP (IN In) 
+      (ADJP (JJ particular) ))
+    (PRN 
+      (, ,)
+      (NP-SBJ (NNP Mr.) (NNP Coxon) )
+      (VP (VBZ says) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (, ,) )
+    (NP-SBJ (NNS businesses) )
+    (VP (VBP are) 
+      (VP (VBG paying) 
+        (PRT (RP out) )
+        (NP 
+          (NP (DT a) (JJR smaller) (NN percentage) )
+          (PP (IN of) 
+            (NP (PRP$ their) (NNS profits) 
+              (CC and)
+              (NN cash) (NN flow) ))
+          (SBAR (-NONE- *ICH*-3) ))
+        (PP-CLR (IN in) 
+          (NP 
+            (NP (DT the) (NN form) )
+            (PP (IN of) 
+              (NP (NNS dividends) ))))
+        (SBAR-3 (IN than) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBP have) 
+              (VP (-NONE- *?*) 
+                (ADVP-TMP (RB historically) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>What will happen to dividend growth next year?</Text><Parse>( (S (RB So) 
+    (, ,)
+    (SBAR-ADV (IN while) 
+      (S 
+        (NP-SBJ (NN stock) (NNS prices) )
+        (VP (MD may) 
+          (VP (VB look) 
+            (ADJP-PRD (RB fairly) (JJ high) )
+            (ADVP (JJ relative) 
+              (PP (TO to) 
+                (NP (NNS dividends) )))))))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBP are) (RB not) 
+      (ADJP-PRD (JJ excessive) )
+      (ADVP (JJ relative) 
+        (PP (TO to) 
+          (NP (DT the) (JJ underlying) (JJ corporate) (NN strength) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Common wisdom suggests a single-digit rate of growth, reflecting a weakening in the economy and corporate profits.</Text><Parse>( (SINV 
+    (S-TPC-2 
+      (PP (RB Rather) (IN than) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG increasing) 
+            (NP (NNS dividends) ))))
+      (, ,) 
+      (NP-SBJ-1 (DT some) (NNS companies) )
+      (VP (VBP have) 
+        (VP (VBN used) 
+          (NP (NN cash) )
+          (S-CLR 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB buy) 
+                (PRT (RP back) )
+                (NP 
+                  (NP (DT some) )
+                  (PP (IN of) 
+                    (NP (PRP$ their) (NNS shares) )))))))))
+    (, ,) 
+    (VP (VBZ notes) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (NP-SBJ 
+      (NP (NNP Steven) (NNP G.) (NNP Einhorn) )
+      (, ,) 
+      (NP 
+        (NP (NN co-chairman) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN investment) (NN policy) (NN committee) )
+            (PP-LOC (IN at) 
+              (NP (NNP Goldman) 
+                (, ,)
+                (NNP Sachs) (CC &amp;) (NNP Co) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>PaineWebber Inc., for instance, is forecasting growth in S&amp;P 500 dividends of just under 5% in 1990, down from an estimated 11% this year.</Text><Parse>( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP (VBZ factors) 
+      (NP (DT that) )
+      (PP-CLR (IN into) 
+        (NP (DT the) (NN market) (NN yield) ))
+      (S-PRP 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB get) 
+            (NP 
+              (NP (DT an) (VBN adjusted) (NN yield) )
+              (PP (IN of) 
+                (NP 
+                  (QP (RB about) (CD 3.6) )
+                  (NN %) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In other years in which there have been moderate economic slowdowns -- the environment the firm expects in 1990 -- the change in dividends ranged from a gain of 4% to a decline of 1% , according to PaineWebber analyst Thomas Doerflinger.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT That) )
+      (VP (VBZ is) 
+        (PP-PRD 
+          (NP-ADV (RB just) (DT a) (NN tad) )
+          (IN below) 
+          (NP 
+            (NP (DT the) (NN average) )
+            (PP (IN of) 
+              (NP (DT the) (JJ past) (CD 40) (NNS years) 
+                (QP (CC or) (RB so) )))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The minority argument, meanwhile, is that businesses have the financial wherewithal this time around to declare sharply higher dividends even if their earnings weaken.</Text><Parse>( (SBARQ 
+    (WHNP-234 (WP What) )
+    (SQ 
+      (NP-SBJ (-NONE- *T*-234) )
+      (VP (MD will) 
+        (VP (VB happen) 
+          (PP-CLR (TO to) 
+            (NP (NN dividend) (NN growth) ))
+          (NP-TMP (JJ next) (NN year) ))))
+    (. ?) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Dividend growth on the order of 12% is expected by both Mr. Coxon of Cigna and Mr. Einhorn of Goldman Sachs.</Text><Parse>( (S 
+    (NP-SBJ (JJ Common) (NN wisdom) )
+    (VP (VBZ suggests) 
+      (NP 
+        (NP (DT a) (JJ single-digit) (NN rate) )
+        (PP (IN of) 
+          (NP (NN growth) ))
+        (, ,) 
+        (VP (VBG reflecting) 
+          (NP 
+            (NP (DT a) (NN weakening) )
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (DT the) (NN economy) )
+                (CC and) 
+                (NP (JJ corporate) (NNS profits) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Those dividend bulls argue that corporations are in the unusual position of having plenty of cash left over after paying dividends and making capital expenditures.</Text><Parse>( (S 
+    (NP-SBJ (NNP PaineWebber) (NNP Inc.) )
+    (PRN 
+      (, ,)
+      (PP (IN for) 
+        (NP (NN instance) ))
+      (, ,) )
+    (VP (VBZ is) 
+      (VP (VBG forecasting) 
+        (NP 
+          (NP (NN growth) )
+          (PP-LOC (IN in) 
+            (NP (NNP S&amp;P) (CD 500) (NNS dividends) ))
+          (PP (IN of) 
+            (NP 
+              (QP (RB just) (IN under) (CD 5) )
+              (NN %) ))
+          (PP-TMP (IN in) 
+            (NP (CD 1990) ))
+          (, ,) 
+          (ADVP (IN down) 
+            (PP (IN from) 
+              (NP (DT an) (VBN estimated) (CD 11) (NN %) )
+              (NP-TMP (DT this) (NN year) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>One indicator investors might want to watch is the monthly tally from Standard &amp; Poor's of the number of public companies adjusting their dividends.</Text><Parse>( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (JJ other) (NNS years) )
+        (SBAR 
+          (WHPP-2 (IN in) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ (EX there) )
+            (VP (VBP have) 
+              (VP (VBN been) 
+                (NP-PRD 
+                  (NP (JJ moderate) (JJ economic) (NNS slowdowns) )
+                  (: --) 
+                  (NP 
+                    (NP (JJ the) (NN environment) )
+                    (SBAR 
+                      (WHNP-1 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (DT the) (NN firm) )
+                        (VP (VBZ expects) 
+                          (NP (-NONE- *T*-1) )
+                          (PP-TMP (IN in) 
+                            (NP (CD 1990) )))))))
+                (PP-TMP (-NONE- *T*-2) )))))))
+    (: --) 
+    (NP-SBJ 
+      (NP (JJ the) (NN change) )
+      (PP-LOC (IN in) 
+        (NP (NNS dividends) )))
+    (VP (VBD ranged) 
+      (PP-DIR (IN from) 
+        (NP 
+          (NP (DT a) (NN gain) )
+          (PP (IN of) 
+            (NP (CD 4) (NN %) ))))
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (DT a) (NN decline) )
+          (PP (IN of) 
+            (NP (CD 1) (NN %) ))))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (NNP PaineWebber) (NN analyst) (NNP Thomas) (NNP Doerflinger) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A total of 139 companies raised dividends in October, basically unchanged from 138 a year ago, S&amp;P said Wednesday.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN minority) (NN argument) )
+    (, ,) 
+    (ADVP-TMP (RB meanwhile) )
+    (, ,) 
+    (VP (VBZ is) 
+      (SBAR-PRD (IN that) 
+        (S 
+          (NP-SBJ (NNS businesses) )
+          (VP (VBP have) 
+            (NP 
+              (NP (DT the) (JJ financial) (JJ wherewithal) )
+              (SBAR (-NONE- *ICH*-2) ))
+            (NP-TMP 
+              (NP (DT this) (NN time) )
+              (ADVP (RP around) ))
+            (SBAR-2 
+              (WHADVP-1 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB declare) 
+                    (NP 
+                      (ADJP (RB sharply) (JJR higher) )
+                      (NNS dividends) )
+                    (ADVP-MNR (-NONE- *T*-1) )))))
+            (SBAR-SBJ (RB even) (IN if) 
+              (S 
+                (NP-SBJ (PRP$ their) (NNS earnings) )
+                (VP (VBP weaken) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That followed four straight months in which the number of increases trailed the year-earlier pace.</Text><Parse>( (S 
+    (NP-SBJ-142 
+      (NP (NN Dividend) (NN growth) )
+      (PP (IN on) 
+        (NP 
+          (NP (DT the) (NN order) )
+          (PP (IN of) 
+            (NP (CD 12) (NN %) )))))
+    (VP (VBZ is) 
+      (VP (VBN expected) 
+        (NP (-NONE- *-142) )
+        (PP (IN by) 
+          (NP-LGS (DT both) 
+            (NP 
+              (NP (NNP Mr.) (NNP Coxon) )
+              (PP (IN of) 
+                (NP (NNP Cigna) )))
+            (CC and) 
+            (NP 
+              (NP (NNP Mr.) (NNP Einhorn) )
+              (PP (IN of) 
+                (NP (NNP Goldman) (NNP Sachs) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>While the S&amp;P tally doesn't measure the magnitude of dividend changes, a further slippage in the number of dividend increases could be a harbinger of slower dividend growth next year.</Text><Parse>( (S 
+    (NP-SBJ (DT Those) (NN dividend) (NNS bulls) )
+    (VP (VBP argue) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 (NNS corporations) )
+          (VP (VBP are) 
+            (PP-LOC-PRD (IN in) 
+              (NP 
+                (NP (DT the) (JJ unusual) (NN position) )
+                (PP (IN of) 
+                  (S-NOM 
+                    (NP-SBJ-1 (-NONE- *-2) )
+                    (VP (VBG having) 
+                      (NP 
+                        (NP (NN plenty) )
+                        (PP (IN of) 
+                          (NP (NN cash) ))
+                        (VP (VBD left) 
+                          (PRT (RP over) )
+                          (NP (-NONE- *) )))
+                      (SBAR-TMP (IN after) 
+                        (S 
+                          (NP-SBJ (-NONE- *-1) )
+                          (VP 
+                            (VP (VBG paying) 
+                              (NP (NNS dividends) ))
+                            (CC and) 
+                            (VP (VBG making) 
+                              (NP (NN capital) (NNS expenditures) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In any case, opinion is mixed on how much of a boost the overall stock market would get even if dividend growth continues at double-digit levels.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (CD One) (NN indicator) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ-2 (NNS investors) )
+          (VP (MD might) 
+            (VP (VB want) 
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB watch) 
+                    (NP (-NONE- *T*-1) )))))))))
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (JJ monthly) (NN tally) )
+        (PP (IN from) 
+          (NP 
+            (NP (NNP Standard) (CC &amp;) (NNP Poor) (POS 's) )))
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN number) )
+            (PP (IN of) 
+              (NP 
+                (NP (JJ public) (NNS companies) )
+                (VP (VBG adjusting) 
+                  (NP (PRP$ their) (NNS dividends) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Einhorn of Goldman Sachs estimates the stock market will deliver a 12% to 15% total return from appreciation and dividends over the next 12 months -- vs. a "cash rate of return" of perhaps 7% or 8% if dividend growth is weak.</Text><Parse>( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP 
+          (QP (DT A) (NN total) (IN of) (CD 139) )
+          (NNS companies) )
+        (ADJP (-NONE- *ICH*-1) ))
+      (VP (VBD raised) 
+        (NP (NNS dividends) )
+        (PP-TMP (IN in) 
+          (NP (NNP October) ))
+        (, ,) 
+        (ADJP-1 (RB basically) (JJ unchanged) 
+          (PP (IN from) 
+            (NP 
+              (NP (CD 138) )
+              (ADVP-TMP 
+                (NP (DT a) (NN year) )
+                (RB ago) ))))))
+    (, ,) 
+    (NP-SBJ (NNP S&amp;P) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) ))
+      (NP-TMP (NNP Wednesday) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But Mr. Boesel of T. Rowe Price, who also expects 12% growth in dividends next year, doesn't think it will help the overall market all that much. "Having the dividend increases is a supportive element in the market outlook, but I don't think it's a main consideration," he says.</Text><Parse>( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBD followed) 
+      (NP 
+        (NP (CD four) (JJ straight) (NNS months) )
+        (SBAR 
+          (WHPP-1 (IN in) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN number) )
+              (PP (IN of) 
+                (NP (NNS increases) )))
+            (VP (VBD trailed) 
+              (NP (DT the) (JJ year-earlier) (NN pace) )
+              (PP-TMP (-NONE- *T*-1) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>With slower economic growth and flat corporate earnings likely next year, "I wouldn't look for the market to have much upside from current levels."</Text><Parse>( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (DT the) (NNP S&amp;P) (NN tally) )
+        (VP (VBZ does) (RB n't) 
+          (VP (VB measure) 
+            (NP 
+              (NP (DT the) (NN magnitude) )
+              (PP (IN of) 
+                (NP (NN dividend) (NNS changes) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT a) (JJ further) (NN slippage) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT the) (NN number) )
+          (PP (IN of) 
+            (NP (NN dividend) (NNS increases) )))))
+    (VP (MD could) 
+      (VP (VB be) 
+        (NP-PRD 
+          (NP (DT a) (NN harbinger) )
+          (PP (IN of) 
+            (NP 
+              (NP (JJR slower) (NN dividend) (NN growth) )
+              (NP-TMP (IN next) (NN year) ))))))
+    (. .) ))</Parse></Sentence></Sentences>

@@ -1,0 +1,493 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Transportation Department, responding to pressure from safety advocates, took further steps to impose on light trucks and vans the safety requirements used for automobiles.</Text><Parse>( (S 
+    (NP-SBJ-1 (DT The) (NNP Transportation) (NNP Department) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG responding) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (NN pressure) )
+            (PP-DIR (IN from) 
+              (NP (NN safety) (NNS advocates) ))))))
+    (, ,) 
+    (VP (VBD took) 
+      (NP 
+        (NP (JJ further) (NNS steps) )
+        (SBAR 
+          (WHADVP-2 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB impose) 
+                (PP-CLR (IN on) 
+                  (NP 
+                    (NP (JJ light) (NNS trucks) )
+                    (CC and) 
+                    (NP (NNS vans) )))
+                (NP 
+                  (NP (DT the) (NN safety) (NNS requirements) )
+                  (VP (VBN used) 
+                    (NP (-NONE- *) )
+                    (PP-CLR (IN for) 
+                      (NP (NNS automobiles) ))))
+                (ADVP-MNR (-NONE- *T*-2) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The department proposed requiring stronger roofs for light trucks and minivans, beginning with 1992 models.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN department) )
+    (VP (VBD proposed) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (VBG requiring) 
+          (NP 
+            (NP (JJR stronger) (NNS roofs) )
+            (PP (IN for) 
+              (NP 
+                (NP (JJ light) (NNS trucks) )
+                (CC and) 
+                (NP (NNS minivans) ))))
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG beginning) 
+              (PP (IN with) 
+                (NP (CD 1992) (NNS models) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>It also issued a final rule requiring auto makers to equip light trucks and minivans with lap-shoulder belts for rear seats beginning in the 1992 model year.</Text><Parse>( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP (RB also) )
+    (VP (VBD issued) 
+      (NP 
+        (NP (DT a) (JJ final) (NN rule) )
+        (VP (VBG requiring) 
+          (S 
+            (NP-SBJ (NN auto) (NNS makers) )
+            (VP (TO to) 
+              (VP (VB equip) 
+                (NP 
+                  (NP (JJ light) (NNS trucks) )
+                  (CC and) 
+                  (NP (NNS minivans) ))
+                (PP-CLR (IN with) 
+                  (NP 
+                    (NP (JJ lap-shoulder) (NNS belts) )
+                    (PP (IN for) 
+                      (NP (JJ rear) (NNS seats) ))))
+                (S-ADV 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG beginning) 
+                    (PP-TMP (IN in) 
+                      (NP (DT the) (CD 1992) (NN model) (NN year) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Such belts already are required for the vehicles' front seats.</Text><Parse>( (S 
+    (NP-SBJ-89 (JJ Such) (NNS belts) )
+    (ADVP-TMP (RB already) )
+    (VP (VBP are) 
+      (VP (VBN required) 
+        (NP (-NONE- *-89) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NNS vehicles) (POS ') )
+            (JJ front) (NNS seats) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"Today's action," Transportation Secretary Samuel Skinner said, "represents another milestone in the ongoing program to promote vehicle occupant safety in light trucks and minivans through its extension of passenger car standards."</Text><Parse>( (S-1 (`` ``) 
+    (NP-SBJ 
+      (NP (NN Today) (POS 's) )
+      (NN action) )
+    (PRN 
+      (, ,)
+      ('' '') 
+      (S 
+        (NP-SBJ (NNP Transportation) (NNP Secretary) (NNP Samuel) (NNP Skinner) )
+        (VP (VBD said) 
+          (S (-NONE- *T*-1) )))
+      (, ,) )
+    (`` ``) 
+    (VP (VBZ represents) 
+      (NP 
+        (NP (DT another) (NN milestone) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT the) (JJ ongoing) (NN program) )
+            (SBAR 
+              (WHNP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *T*-2) )
+                (VP (TO to) 
+                  (VP (VB promote) 
+                    (NP 
+                      (NP (NN vehicle) (NN occupant) (NN safety) )
+                      (PP-LOC (IN in) 
+                        (NP 
+                          (NP (JJ light) (NNS trucks) )
+                          (CC and) 
+                          (NP (NNS minivans) ))))
+                    (PP-MNR (IN through) 
+                      (NP 
+                        (NP (PRP$ its) (NN extension) )
+                        (PP (IN of) 
+                          (NP (NN passenger) (NN car) (NNS standards) ))))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In September, the department had said it will require trucks and minivans to be equipped with the same front-seat headrests that have long been required on passenger cars.</Text><Parse>( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP September) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN department) )
+    (VP (VBD had) 
+      (VP (VBN said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD will) 
+              (VP (VB require) 
+                (S 
+                  (NP-SBJ-90 (NNS trucks) 
+                    (CC and)
+                    (NNS minivans) )
+                  (VP (TO to) 
+                    (VP (VB be) 
+                      (VP (VBN equipped) 
+                        (NP (-NONE- *-90) )
+                        (PP-CLR (IN with) 
+                          (NP 
+                            (NP (DT the) (JJ same) (NN front-seat) (NNS headrests) )
+                            (SBAR 
+                              (WHNP-1 (WDT that) )
+                              (S 
+                                (NP-SBJ-91 (-NONE- *T*-1) )
+                                (VP (VBP have) 
+                                  (ADVP-TMP (RB long) )
+                                  (VP (VBN been) 
+                                    (VP (VBN required) 
+                                      (NP (-NONE- *-91) )
+                                      (PP-LOC (IN on) 
+                                        (NP (NN passenger) (NNS cars) )))))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Big Three auto makers said the rule changes weren't surprising because Bush administration officials have long said they planned to impose car safety standards on light trucks and vans.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Big) (NNP Three) (NN auto) (NNS makers) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN rule) (NNS changes) )
+          (VP (VBD were) (RB n't) 
+            (ADJP-PRD (JJ surprising) )
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ (NNP Bush) (NN administration) (NNS officials) )
+                (VP (VBP have) 
+                  (ADVP-TMP (RB long) )
+                  (VP (VBN said) 
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP-SBJ-1 (PRP they) )
+                        (VP (VBD planned) 
+                          (S 
+                            (NP-SBJ (-NONE- *-1) )
+                            (VP (TO to) 
+                              (VP (VB impose) 
+                                (NP (NN car) (NN safety) (NNS standards) )
+                                (PP-CLR (IN on) 
+                                  (NP 
+                                    (NP (JJ light) (NNS trucks) )
+                                    (CC and) 
+                                    (NP (NNS vans) )))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Safety advocates, including some members of Congress, have been urging the department for years to extend car-safety requirements to light trucks and vans, which now account for almost one-third of all vehicle sales in the U.S.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NN Safety) (NNS advocates) )
+      (, ,) 
+      (PP (VBG including) 
+        (NP 
+          (NP (DT some) (NNS members) )
+          (PP (IN of) 
+            (NP (NNP Congress) ))))
+      (, ,) )
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (VP (VBG urging) 
+          (NP-2 (DT the) (NN department) )
+          (PP-TMP (IN for) 
+            (NP (NNS years) ))
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB extend) 
+                (NP (JJ car-safety) (NNS requirements) )
+                (PP-CLR (TO to) 
+                  (NP 
+                    (NP 
+                      (NP (JJ light) (NNS trucks) )
+                      (CC and) 
+                      (NP (NNS vans) ))
+                    (, ,) 
+                    (SBAR 
+                      (WHNP-157 (WDT which) )
+                      (S 
+                        (ADVP-TMP (RB now) )
+                        (NP-SBJ (-NONE- *T*-157) )
+                        (VP (VBP account) 
+                          (PP-CLR (IN for) 
+                            (NP 
+                              (NP 
+                                (QP (RB almost) (NN one-third) ))
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (DT all) (NN vehicle) (NNS sales) )
+                                  (PP-LOC (IN in) 
+                                    (NP (DT the) (NNP U.S.) )))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>They say that many vehicles classed as commercial light trucks actually carry more people than cargo and therefore should have the same safety features as cars.</Text><Parse>( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP say) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ many) (NNS vehicles) )
+            (VP (VBN classed) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN as) 
+                (NP (JJ commercial) (JJ light) (NNS trucks) ))))
+          (VP 
+            (VP 
+              (ADVP (RB actually) )
+              (VBP carry) 
+              (NP 
+                (NP (JJR more) (NNS people) )
+                (PP (IN than) 
+                  (NP (NN cargo) ))))
+            (CC and) 
+            (VP 
+              (ADVP (RB therefore) )
+              (MD should) 
+              (VP (VB have) 
+                (NP 
+                  (NP (DT the) (JJ same) (NN safety) (NNS features) )
+                  (PP (IN as) 
+                    (NP (NNS cars) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>They didn't have much luck during the Reagan administration. "But now, there seems to be a fairly systematic effort to address the problem," said Chuck Hurley, vice president of communications for the Insurance Institute for Highway Safety. "We're in a very different regulatory environment." Sen. John Danforth (R., Mo.) praised the department's actions, noting that rollover crashes account for almost half of all light-truck deaths. "We could prevent many of these fatalities with minimum roof-crush standards," he said.</Text><Parse>( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB have) 
+        (NP (JJ much) (NN luck) )
+        (PP-TMP (IN during) 
+          (NP (DT the) (NNP Reagan) (NN administration) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Sen. Danforth and others also want the department to require additional safety equipment in light trucks and minivans, including air bags or automatic seat belts in front seats and improved side-crash protection.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 (CC But) 
+      (ADVP-TMP (RB now) )
+      (, ,) 
+      (NP-SBJ-2 (EX there) )
+      (VP (VBZ seems) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (NP-PRD (DT a) (RB fairly) (JJ systematic) (NN effort) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB address) 
+                      (NP (DT the) (NN problem) ))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Chuck) (NNP Hurley) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (NNS communications) ))
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NNP Insurance) (NNP Institute) )
+            (PP (IN for) 
+              (NP (NNP Highway) (NNP Safety) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The department's roof-crush proposal would apply to vehicles weighing 10,000 pounds or less.</Text><Parse>( (S (`` ``) 
+    (NP-SBJ (PRP We) )
+    (VP (VBP 're) 
+      (PP-LOC-PRD (IN in) 
+        (NP (DT a) 
+          (ADJP (RB very) (JJ different) )
+          (JJ regulatory) (NN environment) )))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The roofs would be required to withstand a force of 1.5 times the unloaded weight of the vehicle.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (NNP Sen.) (NNP John) (NNP Danforth) )
+      (PRN 
+        (-LRB- -LRB-)
+        (NP (NNP R.) )
+        (, ,) 
+        (NP-LOC (NNP Mo) (. .) )
+        (-RRB- -RRB-) ))
+    (VP (VBD praised) 
+      (NP 
+        (NP (DT the) (NN department) (POS 's) )
+        (NNS actions) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG noting) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (NN rollover) (NNS crashes) )
+              (VP (VBP account) 
+                (PP-CLR (IN for) 
+                  (NP 
+                    (NP 
+                      (QP (RB almost) (DT half) ))
+                    (PP (IN of) 
+                      (NP (DT all) (JJ light-truck) (NNS deaths) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>During the test, the roof couldn't be depressed more than five inches.</Text><Parse>( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP (MD could) 
+        (VP (VB prevent) 
+          (NP 
+            (NP (JJ many) )
+            (PP (IN of) 
+              (NP (DT these) (NNS fatalities) )))
+          (PP-MNR (IN with) 
+            (NP (JJ minimum) (JJ roof-crush) (NNS standards) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In Detroit, a Chrysler Corp. official said the company currently has no rear-seat lap and shoulder belts in its light trucks, but plans to begin phasing them in by the end of the 1990 model year.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Sen.) (NNP Danforth) )
+      (CC and) 
+      (NP (NNS others) ))
+    (ADVP (RB also) )
+    (VP (VBP want) 
+      (S 
+        (NP-SBJ (DT the) (NN department) )
+        (VP (TO to) 
+          (VP (VB require) 
+            (NP 
+              (NP (JJ additional) (NN safety) (NN equipment) )
+              (PP (-NONE- *ICH*-1) ))
+            (PP-LOC (IN in) 
+              (NP 
+                (NP (JJ light) (NNS trucks) )
+                (CC and) 
+                (NP (NNS minivans) )))
+            (, ,) 
+            (PP-1 (VBG including) 
+              (NP 
+                (NP 
+                  (NP 
+                    (NP (NN air) (NNS bags) )
+                    (CC or) 
+                    (NP (JJ automatic) (NN seat) (NNS belts) ))
+                  (PP-LOC (IN in) 
+                    (NP (JJ front) (NNS seats) )))
+                (CC and) 
+                (NP (VBN improved) (JJ side-crash) (NN protection) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He said Chrysler fully expects to have them installed across its light-truck line by the Sept. 1, 1991, deadline.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN department) (POS 's) )
+      (JJ roof-crush) (NN proposal) )
+    (VP (MD would) 
+      (VP (VB apply) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (NNS vehicles) )
+            (VP (VBG weighing) 
+              (NP (CD 10,000) (NNS pounds) 
+                (QP (CC or) (JJR less) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Chrysler said its trucks and vans already meet the roof-crush resistance standard for cars.</Text><Parse>( (S 
+    (NP-SBJ-1 (DT The) (NNS roofs) )
+    (VP (MD would) 
+      (VP (VB be) 
+        (VP (VBN required) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB withstand) 
+                (NP 
+                  (NP (DT a) (NN force) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP 
+                        (QP (CD 1.5) (NNS times) )
+                        (DT the) (JJ unloaded) (NN weight) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN vehicle) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>John Leinonen, executive engineer of Ford Motor Co. 's auto-safety office, said Ford trucks have met car standards for roof-crush resistance since 1982.</Text><Parse>( (S 
+    (PP-TMP (IN During) 
+      (NP (DT the) (NN test) ))
+    (, ,) 
+    (NP-SBJ-92 (DT the) (NN roof) )
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN depressed) 
+          (NP (-NONE- *-92) )
+          (NP-EXT 
+            (QP (RBR more) (IN than) (CD five) )
+            (NNS inches) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Ford began installing the rear-seat belts in trucks with its F-series Crew Cab pickups in the 1989 model year.</Text><Parse>( (S 
+    (PP-LOC (IN In) 
+      (NP (NNP Detroit) ))
+    (, ,) 
+    (NP-SBJ (DT a) (NNP Chrysler) (NNP Corp.) (NN official) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN company) )
+          (VP 
+            (VP 
+              (ADVP-TMP (RB currently) )
+              (VBZ has) 
+              (NP (DT no) (NN rear-seat) (NN lap) 
+                (CC and)
+                (NN shoulder) (NNS belts) )
+              (PP-LOC (IN in) 
+                (NP (PRP$ its) (JJ light) (NNS trucks) )))
+            (, ,) (CC but) 
+            (VP (VBZ plans) 
+              (S 
+                (NP-SBJ-2 (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB begin) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (VBG phasing) 
+                        (NP (PRP them) )
+                        (PRT (RP in) )
+                        (PP-TMP (IN by) 
+                          (NP 
+                            (NP (DT the) (NN end) )
+                            (PP (IN of) 
+                              (NP (DT the) (CD 1990) (NN model) (NN year) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The new Explorer sport-utility vehicle, set for introduction next spring, will also have the rear-seat belts.</Text><Parse>( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNP Chrysler) )
+          (VP 
+            (ADVP-MNR (RB fully) )
+            (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB have) 
+                  (S 
+                    (NP-SBJ-2 (PRP them) )
+                    (VP (VBN installed) 
+                      (NP (-NONE- *-2) )
+                      (PP-LOC (IN across) 
+                        (NP (PRP$ its) (JJ light-truck) (NN line) ))
+                      (PP-TMP (IN by) 
+                        (NP (DT the) 
+                          (NAC-TMP (NNP Sept.) (CD 1) 
+                            (, ,)
+                            (CD 1991) 
+                            (, ,)
+                            )
+                          (NN deadline) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Leinonen said he expects Ford to meet the deadline easily.</Text><Parse>( (S 
+    (NP-SBJ (NNP Chrysler) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNS trucks) 
+            (CC and)
+            (NNS vans) )
+          (ADVP-TMP (RB already) )
+          (VP (VBP meet) 
+            (NP 
+              (NP (DT the) (JJ roof-crush) (NN resistance) (NN standard) )
+              (PP (IN for) 
+                (NP (NNS cars) )))))))
+    (. .) ))</Parse></Sentence></Sentences>

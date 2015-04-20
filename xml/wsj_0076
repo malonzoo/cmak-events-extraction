@@ -1,0 +1,49 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Lancaster Colony Corp. said it acquired Reames Foods Inc. in a cash transaction.</Text><Parse>( (S 
+    (NP-SBJ (NNP Lancaster) (NNP Colony) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBD acquired) 
+            (NP (NNP Reames) (NNP Foods) (NNP Inc.) )
+            (PP-LOC (IN in) 
+              (NP (DT a) (NN cash) (NN transaction) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Terms weren't disclosed.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Reames, a maker and marketer of frozen noodles and pre-cooked pasta based in Clive, Iowa, has annual sales of about $11 million, Lancaster said.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (NNP Reames) )
+        (, ,) 
+        (NP 
+          (NP (DT a) (NN maker) 
+            (CC and)
+            (NN marketer) )
+          (PP (IN of) 
+            (NP 
+              (NP (VBN frozen) (NNS noodles) )
+              (CC and) 
+              (NP (JJ pre-cooked) (NN pasta) )))
+          (VP (VBN based) 
+            (NP (-NONE- *) )
+            (PP-LOC-CLR (IN in) 
+              (NP 
+                (NP (NNP Clive) )
+                (, ,) 
+                (NP (NNP Iowa) )
+                (, ,) )))))
+      (VP (VBZ has) 
+        (NP 
+          (NP (JJ annual) (NNS sales) )
+          (PP (IN of) 
+            (NP 
+              (QP (RB about) ($ $) (CD 11) (CD million) )
+              (-NONE- *U*) )))))
+    (, ,) 
+    (NP-SBJ (NNP Lancaster) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))</Parse></Sentence></Sentences>

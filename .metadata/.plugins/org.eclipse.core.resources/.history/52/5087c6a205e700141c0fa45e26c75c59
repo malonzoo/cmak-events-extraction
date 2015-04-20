@@ -1,0 +1,38 @@
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+
+
+public class Sentence {
+	public String word;
+	public String lemma;
+	public String ner;
+	
+	public Sentence(NodeList nList) {
+		
+    	// runs through each <sentence> node
+    	for (int temp = 0; temp < nList.getLength(); temp++) {
+    		Node nNode = nList.item(temp);	// gets the current <sentence>     
+    		System.out.println("\nCurrent Element :" + nNode.getNodeName() + ": " + ((Element)nNode).getAttribute("id"));
+     
+    		// get the first thing in <sentence> which is <tokens>
+    		if (nNode.getNodeType() == Node.ELEMENT_NODE) { 
+    			Element eElement = (Element) nNode;
+    			
+    			// get a list of <token> under <tokens>
+    			NodeList tList = eElement.getElementsByTagName("token");
+    			// run through all the <token>'s
+    			for (int t = 0; t < tList.getLength(); t++) {
+    				Node tNode = tList.item(t);	// the current token
+    				
+    				if (tNode.getNodeType() == Node.ELEMENT_NODE) {
+    					Element tElement = (Element) tNode;
+    					String tNodeNER = tElement.getElementsByTagName("NER").item(0).getTextContent();
+    					String word = tElement.getElementsByTagName("lemma").item(0).getTextContent();
+    				}
+    			}    			
+    		}
+    	}
+	}
+
+}

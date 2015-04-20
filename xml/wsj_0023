@@ -1,0 +1,77 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>F.H. Faulding &amp; Co., an Australian pharmaceuticals company, said its Moleculon Inc. affiliate acquired Kalipharma Inc. for $23 million.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP F.H.) (NNP Faulding) (CC &amp;) (NNP Co.) )
+      (, ,) 
+      (NP (DT an) (JJ Australian) (NNS pharmaceuticals) (NN company) )
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP$ its) (NNP Moleculon) (NNP Inc.) (NN affiliate) )
+          (VP (VBD acquired) 
+            (NP (NNP Kalipharma) (NNP Inc.) )
+            (PP-CLR (IN for) 
+              (NP 
+                (QP ($ $) (CD 23) (CD million) )
+                (-NONE- *U*) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Kalipharma is a New Jersey-based pharmaceuticals concern that sells products under the Purepac label.</Text><Parse>( (S 
+    (NP-SBJ (NNP Kalipharma) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) 
+          (ADJP (JJ New) (JJ Jersey-based) )
+          (NNS pharmaceuticals) (NN concern) )
+        (SBAR 
+          (WHNP-34 (WDT that) )
+          (S 
+            (NP-SBJ (-NONE- *T*-34) )
+            (VP (VBZ sells) 
+              (NP (NNS products) )
+              (PP-MNR (IN under) 
+                (NP (DT the) (NNP Purepac) (NN label) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Faulding said it owns 33% of Moleculon's voting stock and has an agreement to acquire an additional 19%.</Text><Parse>( (S 
+    (NP-SBJ (NNP Faulding) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (VP (VBZ owns) 
+              (NP 
+                (NP (CD 33) (NN %) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Moleculon) (POS 's) )
+                    (NN voting) (NN stock) ))))
+            (CC and) 
+            (VP (VBZ has) 
+              (NP (DT an) (NN agreement) 
+                (S 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (TO to) 
+                    (VP (VB acquire) 
+                      (NP (DT an) (JJ additional) (CD 19) (NN %) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That stake, together with its convertible preferred stock holdings, gives Faulding the right to increase its interest to 70% of Moleculon's voting stock.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT That) (NN stake) )
+      (, ,) 
+      (PP 
+        (ADVP (RB together) )
+        (IN with) 
+        (NP (PRP$ its) (JJ convertible) (VBN preferred) (NN stock) (NNS holdings) ))
+      (, ,) )
+    (VP (VBZ gives) 
+      (NP (NNP Faulding) )
+      (NP (DT the) (NN right) 
+        (S 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB increase) 
+              (NP (PRP$ its) (NN interest) )
+              (PP-DIR (TO to) 
+                (NP 
+                  (NP (CD 70) (NN %) )
+                  (PP (IN of) 
+                    (NP 
+                      (NP (NNP Moleculon) (POS 's) )
+                      (NN voting) (NN stock) )))))))))</Parse></Sentence></Sentences>

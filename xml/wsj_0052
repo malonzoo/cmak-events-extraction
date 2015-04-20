@@ -1,0 +1,41 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>PAPERS: Backe Group Inc. agreed to acquire Atlantic Publications Inc., which has 30 community papers and annual sales of $7 million.</Text><Parse>( (NP-HLN (NNS PAPERS) (: :) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Terms weren't disclosed.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNP Backe) (NNP Group) (NNP Inc.) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB acquire) 
+            (NP 
+              (NP (NNP Atlantic) (NNP Publications) (NNP Inc.) )
+              (, ,) 
+              (SBAR 
+                (WHNP-141 (WDT which) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-141) )
+                  (VP (VBZ has) 
+                    (NP 
+                      (NP (CD 30) (NN community) (NNS papers) )
+                      (CC and) 
+                      (NP 
+                        (NP (JJ annual) (NNS sales) )
+                        (PP (IN of) 
+                          (NP 
+                            (QP ($ $) (CD 7) (CD million) )
+                            (-NONE- *U*) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Backe is a closely held media firm run by former CBS Inc. President John Backe.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNS Terms) )
+    (VP (VBD were) (RB n't) 
+      (VP (VBN disclosed) 
+        (NP (-NONE- *-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>TV: Price Communications Corp. completed the sale of four of its TV stations to NTG Inc. for $120 million in cash and notes, retaining a 10% equity stake in the new concern.</Text><Parse>( (S 
+    (NP-SBJ (NNP Backe) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) 
+          (ADJP (RB closely) (VBN held) )
+          (NNS media) (NN firm) )
+        (VP (VBN run) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (JJ former) (NNP CBS) (NNP Inc.) (NNP President) (NNP John) (NNP Backe) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>NTG was formed by Osborn Communications Corp. and Desai Capital.</Text><Parse>( (NP-HLN (NN TV) (: :) ))</Parse></Sentence></Sentences>

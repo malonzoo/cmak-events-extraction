@@ -1,0 +1,848 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>It was Richard Nixon's first visit to China in 1972 that set in motion the historic rapprochement between Beijing and Washington.</Text><Parse>( (S-CLF 
+    (NP-SBJ (PRP It) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP 
+          (NP (NNP Richard) (NNP Nixon) (POS 's) )
+          (JJ first) (NN visit) )
+        (PP (TO to) 
+          (NP (NNP China) ))
+        (PP-TMP (IN in) 
+          (NP (CD 1972) )))
+      (SBAR 
+        (WHNP-238 (WDT that) )
+        (S 
+          (NP-SBJ (-NONE- *T*-238) )
+          (VP (VBD set) 
+            (PP-CLR (IN in) 
+              (NP (NN motion) ))
+            (NP 
+              (NP (DT the) (JJ historic) (NN rapprochement) )
+              (PP-LOC (IN between) 
+                (NP (NNP Beijing) 
+                  (CC and)
+                  (NNP Washington) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But the former U.S. president's sixth visit to China, during which he spoke at length with Chinese leaders, was nowhere near as successful at easing strains that have recently afflicted the Sino-U.S. relationship.</Text><Parse>( (S (CC But) 
+    (NP-SBJ 
+      (NP 
+        (NP (DT the) (JJ former) (NNP U.S.) (NN president) (POS 's) )
+        (JJ sixth) (NN visit) )
+      (PP (TO to) 
+        (NP (NNP China) ))
+      (, ,) 
+      (SBAR-TMP 
+        (WHPP-1 (IN during) 
+          (WHNP (WDT which) ))
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD spoke) 
+            (PP-TMP (IN at) 
+              (NP (NN length) ))
+            (PP (IN with) 
+              (NP (JJ Chinese) (NNS leaders) ))
+            (PP-TMP (-NONE- *T*-1) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (ADJP-PRD 
+        (ADVP (RB nowhere) (JJ near) )
+        (IN as) (JJ successful) 
+        (PP (IN at) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (VP (VBG easing) 
+              (NP 
+                (NP (NNS strains) )
+                (SBAR 
+                  (WHNP-239 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-239) )
+                    (VP (VBP have) 
+                      (ADVP-TMP (RB recently) )
+                      (VP (VBN afflicted) 
+                        (NP (DT the) (NNP Sino-U.S.) (NN relationship) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Nixon, the most prominent American to come to China since Beijing's bloody suppression of pro-democracy demonstrators in June, harped on international outrage over the massacre.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Nixon) )
+      (, ,) 
+      (NP 
+        (NP (DT the) 
+          (ADJP (RBS most) (JJ prominent) )
+          (NNP American) )
+        (SBAR 
+          (WHNP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ (-NONE- *T*-1) )
+            (VP (TO to) 
+              (VP (VB come) 
+                (PP-DIR (TO to) 
+                  (NP (NNP China) ))
+                (PP-TMP (IN since) 
+                  (NP 
+                    (NP 
+                      (NP (NNP Beijing) (POS 's) )
+                      (JJ bloody) (NN suppression) )
+                    (PP (IN of) 
+                      (NP (JJ pro-democracy) (NNS demonstrators) ))
+                    (PP-TMP (IN in) 
+                      (NP (NNP June) )))))))))
+      (, ,) )
+    (VP (VBD harped) 
+      (PP-CLR (IN on) 
+        (NP 
+          (NP (JJ international) (NN outrage) )
+          (PP (IN over) 
+            (NP (DT the) (NN massacre) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Chinese, in turn, took aim at American "interference" in China's domestic affairs.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Chinese) )
+    (, ,) 
+    (PP (IN in) 
+      (NP (NN turn) ))
+    (, ,) 
+    (VP (VBD took) 
+      (NP-CLR (NN aim) )
+      (PP-CLR (IN at) 
+        (NP 
+          (NP (JJ American) (`` ``) (NN interference) ('' '') )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NNP China) (POS 's) )
+              (JJ domestic) (NNS affairs) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>One official newspaper, Legal Daily, even directly criticized Mr. Nixon, who is normally referred to here as an "old friend." The paper accused him of being a leading proponent of "peaceful evolution," a catch phrase to describe what China believes is the policy of Western countries to seduce socialist nations into the capitalist sphere.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (CD One) (JJ official) (NN newspaper) )
+      (, ,) 
+      (NP (NNP Legal) (NNP Daily) )
+      (, ,) )
+    (ADVP (RB even) )
+    (VP 
+      (ADVP-MNR (RB directly) )
+      (VBD criticized) 
+      (NP 
+        (NP (NNP Mr.) (NNP Nixon) )
+        (, ,) 
+        (SBAR 
+          (WHNP-240 (WP who) )
+          (S 
+            (NP-SBJ-1 (-NONE- *T*-240) )
+            (VP (VBZ is) 
+              (ADVP-TMP (RB normally) )
+              (VP (VBN referred) 
+                (PP (TO to) 
+                  (NP (-NONE- *T*-1) ))
+                (ADVP-LOC (RB here) )
+                (PP-CLR (IN as) 
+                  (NP (DT an) (`` ``) (JJ old) (NN friend) ))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The tension was evident on Wednesday evening during Mr. Nixon's final banquet toast, normally an opportunity for reciting platitudes about eternal friendship.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN paper) )
+    (VP (VBD accused) 
+      (NP-3 (PRP him) )
+      (PP-CLR (IN of) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-3) )
+          (VP (VBG being) 
+            (NP-PRD 
+              (NP (DT a) (VBG leading) (NN proponent) )
+              (PP (IN of) 
+                (NP (`` ``) 
+                  (NP (JJ peaceful) (NN evolution) )
+                  (, ,) ('' '') 
+                  (NP 
+                    (NP (DT a) (NN catch) (NN phrase) )
+                    (SBAR 
+                      (WHADVP-2 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB describe) 
+                            (SBAR-NOM 
+                              (WHNP-1 (WP what) )
+                              (S 
+                                (NP-SBJ (NNP China) )
+                                (VP (VBZ believes) 
+                                  (SBAR (-NONE- 0) 
+                                    (S 
+                                      (NP-SBJ (-NONE- *T*-1) )
+                                      (VP (VBZ is) 
+                                        (NP-PRD 
+                                          (NP (DT the) (NN policy) 
+                                            (S (-NONE- *ICH*-4) ))
+                                          (PP (IN of) 
+                                            (NP (JJ Western) (NNS countries) ))
+                                          (S-4 
+                                            (NP-SBJ (-NONE- *) )
+                                            (VP (TO to) 
+                                              (VP (VB seduce) 
+                                                (NP (JJ socialist) (NNS nations) )
+                                                (PP-CLR (IN into) 
+                                                  (NP (DT the) (JJ capitalist) (NN sphere) ))))))))))))
+                            (ADVP-MNR (-NONE- *T*-2) )))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Instead, Mr. Nixon reminded his host, Chinese President Yang Shangkun, that Americans haven't forgiven China's leaders for the military assault of June 3-4 that killed hundreds, and perhaps thousands, of demonstrators.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN tension) )
+    (VP (VBD was) 
+      (ADJP-PRD (JJ evident) )
+      (PP-TMP (IN on) 
+        (NP (NNP Wednesday) (NN evening) ))
+      (PP-TMP (IN during) 
+        (NP 
+          (NP 
+            (NP (NNP Mr.) (NNP Nixon) (POS 's) )
+            (JJ final) (NN banquet) (NN toast) )
+          (, ,) 
+          (ADVP-TMP (RB normally) )
+          (NP 
+            (NP (DT an) (NN opportunity) )
+            (PP (IN for) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG reciting) 
+                  (NP 
+                    (NP (NNS platitudes) )
+                    (PP (IN about) 
+                      (NP (JJ eternal) (NN friendship) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"Many in the United States, including many friends of China, believe the crackdown was excessive and unjustified," Mr. Nixon told Mr. Yang, who was directly involved in ordering the attack. "The events of April through June damaged the respect and confidence which most Americans previously had for the leaders of China."</Text><Parse>( (S 
+    (ADVP (RB Instead) )
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Nixon) )
+    (VP (VBD reminded) 
+      (NP 
+        (NP (PRP$ his) (NN host) )
+        (, ,) 
+        (NP (NNP Chinese) (NNP President) (NNP Yang) (NNP Shangkun) )
+        (, ,) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNPS Americans) )
+          (VP (VBP have) (RB n't) 
+            (VP (VBN forgiven) 
+              (NP 
+                (NP (NNP China) (POS 's) )
+                (NNS leaders) )
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (DT the) (JJ military) (NN assault) )
+                  (PP (IN of) 
+                    (NP (NNP June) (CD 3-4) ))
+                  (SBAR 
+                    (WHNP-241 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-241) )
+                      (VP (VBD killed) 
+                        (NP 
+                          (NP (NNS hundreds) 
+                            (, ,)
+                            
+                            (CC and)
+                            (RB perhaps) (NNS thousands) )
+                          (, ,) 
+                          (PP (IN of) 
+                            (NP (NNS demonstrators) )))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Chinese responded in an equally undiplomatic fashion.</Text><Parse>( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (JJ Many) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NNP United) (NNPS States) ))
+        (, ,) 
+        (PP (VBG including) 
+          (NP 
+            (NP (JJ many) (NNS friends) )
+            (PP (IN of) 
+              (NP (NNP China) ))))
+        (, ,) )
+      (VP (VBP believe) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN crackdown) )
+            (VP (VBD was) 
+              (ADJP-PRD (JJ excessive) 
+                (CC and)
+                (JJ unjustified) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Nixon) )
+    (VP (VBD told) 
+      (NP 
+        (NP (NNP Mr.) (NNP Yang) )
+        (, ,) 
+        (SBAR 
+          (WHNP-242 (WP who) )
+          (S 
+            (NP-SBJ-2 (-NONE- *T*-242) )
+            (VP (VBD was) 
+              (VP 
+                (ADVP-MNR (RB directly) )
+                (VBN involved) 
+                (NP (-NONE- *-2) )
+                (PP-CLR (IN in) 
+                  (S-NOM 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (VBG ordering) 
+                      (NP (DT the) (NN attack) )))))))))
+      (S (-NONE- *T*-1) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In talks with Mr. Nixon, Chinese leaders expressed no regret for the killings, and even suggested that the U.S. was prominently involved in the demonstrations this spring.</Text><Parse>( (S (`` ``) 
+    (NP-SBJ 
+      (NP (DT The) (NNS events) )
+      (PP (IN of) 
+        (NP (NNP April) (IN through) (NNP June) )))
+    (VP (VBD damaged) 
+      (NP 
+        (NP (DT the) (NN respect) 
+          (CC and)
+          (NN confidence) )
+        (SBAR 
+          (WHNP-1 (WDT which) )
+          (S 
+            (NP-SBJ (JJS most) (NNPS Americans) )
+            (ADVP-TMP (RB previously) )
+            (VP (VBD had) 
+              (NP (-NONE- *T*-1) ))))
+        (PP (IN for) 
+          (NP 
+            (NP (DT the) (NNS leaders) )
+            (PP (IN of) 
+              (NP (NNP China) ))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In a meeting Tuesday, supreme leader, Deng Xiaoping, told Mr. Nixon, "Frankly speaking, the U.S. was involved too deeply in the turmoil and counterrevolutionary rebellion which occurred in Beijing not long ago.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Chinese) )
+    (VP (VBD responded) 
+      (PP-MNR (IN in) 
+        (NP (DT an) (RB equally) (JJ undiplomatic) (NN fashion) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>China was the real victim and it is unjust to reprove China for it."</Text><Parse>( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (NNS talks) )
+        (PP (IN with) 
+          (NP (NNP Mr.) (NNP Nixon) ))))
+    (, ,) 
+    (NP-SBJ (JJ Chinese) (NNS leaders) )
+    (VP 
+      (VP (VBD expressed) 
+        (NP 
+          (NP (DT no) (NN regret) )
+          (PP (IN for) 
+            (NP (DT the) (NNS killings) ))))
+      (, ,) 
+      (CC and)
+      (VP 
+        (ADVP (RB even) )
+        (VBD suggested) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (DT the) (NNP U.S.) )
+            (VP (VBD was) 
+              (VP 
+                (ADVP-MNR (RB prominently) )
+                (VBN involved) 
+                (NP (-NONE- *-1) )
+                (PP-CLR (IN in) 
+                  (NP 
+                    (NP (DT the) (NNS demonstrations) )
+                    (NP-TMP (DT this) (NN spring) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Despite the harsh exchanges, the U.S. and China still seem to be looking for a way to mend relations, which have deteriorated into what Mr. Nixon referred to as "the greatest crisis in Chinese-American relations" since his initial visit to China 17 years ago.</Text><Parse>( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (NN meeting) ))
+    (NP-TMP (NNP Tuesday) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NN supreme) (NN leader) )
+      (, ,) 
+      (NP (NNP Deng) (NNP Xiaoping) )
+      (, ,) )
+    (VP (VBD told) 
+      (NP (NNP Mr.) (NNP Nixon) )
+      (, ,) (`` ``) 
+      (S 
+        (S-ADV 
+          (NP-SBJ (-NONE- *) )
+          (VP 
+            (ADVP-MNR (RB Frankly) )
+            (VBG speaking) ))
+        (, ,) 
+        (NP-SBJ-146 (DT the) (NNP U.S.) )
+        (VP (VBD was) 
+          (VP (VBN involved) 
+            (NP (-NONE- *-146) )
+            (ADVP-MNR (RB too) (RB deeply) )
+            (PP-CLR (IN in) 
+              (NP 
+                (NP (DT the) 
+                  (NX 
+                    (NX (NN turmoil) )
+                    (CC and) 
+                    (NX (JJ counterrevolutionary) (NN rebellion) )))
+                (SBAR 
+                  (WHNP-243 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-243) )
+                    (VP (VBD occurred) 
+                      (PP-LOC (IN in) 
+                        (NP (NNP Beijing) ))
+                      (ADVP-TMP (RB not) (RB long) (RB ago) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In his return toast to Mr. Nixon, Mr. Yang said the relationship had reached a "stalemate."</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (NNP China) )
+      (VP (VBD was) 
+        (NP-PRD (DT the) (JJ real) (NN victim) )))
+    (CC and) 
+    (S 
+      (NP-SBJ 
+        (NP (PRP it) )
+        (S (-NONE- *EXP*-1) ))
+      (VP (VBZ is) 
+        (ADJP-PRD (JJ unjust) )
+        (S-1 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP (VB reprove) 
+              (NP (NNP China) )
+              (PP-PRP (IN for) 
+                (NP (PRP it) )))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Relations between China and the U.S. have been tense since June 7, when Chinese dissident Fang Lizhi and his wife, Li Shuxian, took refuge in the U.S. Embassy in Beijing.</Text><Parse>( (S 
+    (PP (IN Despite) 
+      (NP (DT the) (JJ harsh) (NNS exchanges) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT the) (NNP U.S.) )
+      (CC and) 
+      (NP (NNP China) ))
+    (ADVP-TMP (RB still) )
+    (VP (VBP seem) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (VP (VBG looking) 
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP (DT a) (NN way) )
+                  (SBAR 
+                    (WHADVP-3 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB mend) 
+                          (NP 
+                            (NP (NNS relations) )
+                            (, ,) 
+                            (SBAR 
+                              (WHNP-244 (WDT which) )
+                              (S 
+                                (NP-SBJ (-NONE- *T*-244) )
+                                (VP (VBP have) 
+                                  (VP (VBN deteriorated) 
+                                    (PP-CLR (IN into) 
+                                      (SBAR-NOM 
+                                        (WHNP-2 (WP what) )
+                                        (S 
+                                          (NP-SBJ (NNP Mr.) (NNP Nixon) )
+                                          (VP (VBD referred) 
+                                            (PP (TO to) 
+                                              (NP (-NONE- *T*-2) ))
+                                            (PP-CLR (IN as) 
+                                              (NP (`` ``) 
+                                                (NP (DT the) (JJS greatest) (NN crisis) )
+                                                (PP-LOC (IN in) 
+                                                  (NP (NNP Chinese-American) (NNS relations) ))
+                                                ('' '') 
+                                                (PP-TMP (IN since) 
+                                                  (NP 
+                                                    (NP (PRP$ his) (JJ initial) (NN visit) )
+                                                    (PP (TO to) 
+                                                      (NP (NNP China) ))
+                                                    (ADVP-TMP 
+                                                      (NP (CD 17) (NNS years) )
+                                                      (IN ago) ))))))))))))))
+                          (ADVP-MNR (-NONE- *T*-3) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Shortly afterwards, Mr. Bush imposed a series of anti-China sanctions, including suspension of most high-level talks, which could be codified in U.S. congressional legislation in the coming weeks.</Text><Parse>( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (PRP$ his) (NN return) (NN toast) )
+        (PP (TO to) 
+          (NP (NNP Mr.) (NNP Nixon) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Yang) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN relationship) )
+          (VP (VBD had) 
+            (VP (VBN reached) 
+              (NP (DT a) (`` ``) (NN stalemate) ))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Nixon is traveling in China as a private citizen, but he has made clear that he is an unofficial envoy for the Bush administration.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNS Relations) )
+      (PP-LOC (IN between) 
+        (NP 
+          (NP (NNP China) )
+          (CC and) 
+          (NP (DT the) (NNP U.S.) ))))
+    (VP (VBP have) 
+      (VP (VBN been) 
+        (ADJP-PRD (JJ tense) )
+        (PP-TMP (IN since) 
+          (NP 
+            (NP (NNP June) (CD 7) )
+            (, ,) 
+            (SBAR 
+              (WHADVP-1 (WRB when) )
+              (S 
+                (NP-SBJ 
+                  (NP 
+                    (NP (JJ Chinese) (NN dissident) (NNP Fang) (NNP Lizhi) )
+                    (CC and) 
+                    (NP 
+                      (NP (PRP$ his) (NN wife) )
+                      (, ,) 
+                      (NP (NNP Li) (NNP Shuxian) )
+                      (, ,) )))
+                (VP (VBD took) 
+                  (NP-CLR (NN refuge) )
+                  (PP-LOC-CLR (IN in) 
+                    (NP 
+                      (NP (DT the) (NNP U.S.) (NNP Embassy) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP Beijing) ))))
+                  (ADVP-TMP (-NONE- *T*-1) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Nixon met Mr. Bush and his national security adviser, Brent Scowcroft, before coming to China on Saturday.</Text><Parse>( (S 
+    (ADVP-TMP (RB Shortly) (RB afterwards) )
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Bush) )
+    (VP (VBD imposed) 
+      (NP 
+        (NP (DT a) (NN series) )
+        (PP (IN of) 
+          (NP 
+            (NP (JJ anti-China) (NNS sanctions) )
+            (, ,) 
+            (PP (VBG including) 
+              (NP 
+                (NP (NN suspension) )
+                (PP (IN of) 
+                  (NP (JJS most) (JJ high-level) (NNS talks) ))))
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (NP-SBJ-147 (-NONE- *T*-1) )
+                (VP (MD could) 
+                  (VP (VB be) 
+                    (VP (VBN codified) 
+                      (NP (-NONE- *-147) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP U.S.) (JJ congressional) (NN legislation) ))
+                      (PP-TMP (IN in) 
+                        (NP (DT the) (VBG coming) (NNS weeks) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>And he plans to brief the president at the end of the week, U.S. sources said.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (NNP Mr.) (NNP Nixon) )
+      (VP (VBZ is) 
+        (VP (VBG traveling) 
+          (PP-LOC (IN in) 
+            (NP (NNP China) ))
+          (PP-MNR (IN as) 
+            (NP (DT a) (JJ private) (NN citizen) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBZ has) 
+        (VP (VBN made) 
+          (S 
+            (ADJP-PRD (RB clear) )
+            (SBAR-SBJ (IN that) 
+              (S 
+                (NP-SBJ (PRP he) )
+                (VP (VBZ is) 
+                  (NP-PRD 
+                    (NP (DT an) (JJ unofficial) (NN envoy) )
+                    (PP (IN for) 
+                      (NP (DT the) (NNP Bush) (NN administration) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Nixon was to leave China today.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNP Mr.) (NNP Nixon) )
+    (VP (VBD met) 
+      (NP 
+        (NP (NNP Mr.) (NNP Bush) )
+        (CC and) 
+        (NP 
+          (NP (PRP$ his) (JJ national) (NN security) (NN adviser) )
+          (, ,) 
+          (NP (NNP Brent) (NNP Scowcroft) )
+          (, ,) ))
+      (PP-TMP (IN before) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG coming) 
+            (PP-DIR (TO to) 
+              (NP (NNP China) ))
+            (PP-TMP (IN on) 
+              (NP (NNP Saturday) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>According to an American member of the Nixon party, the former president raised a number of controversial issues in his 20 hours of talks with top-level Chinese officials.</Text><Parse>( (S 
+    (S-TPC-2 (CC And) 
+      (NP-SBJ-1 (PRP he) )
+      (VP (VBZ plans) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB brief) 
+              (NP (DT the) (NN president) )
+              (PP-TMP (IN at) 
+                (NP 
+                  (NP (DT the) (NN end) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN week) )))))))))
+    (, ,) 
+    (NP-SBJ (NNP U.S.) (NNS sources) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>These included China's economic policies, human rights and the question of Mr. Fang.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNP Mr.) (NNP Nixon) )
+    (VP (VBD was) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB leave) 
+            (NP (NNP China) )
+            (NP-TMP (NN today) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Nixon also proposed that China restore its participation in the Fulbright Program, a U.S. government-funded academic exchange.</Text><Parse>( (S 
+    (PP (VBG According) 
+      (PP (TO to) 
+        (NP 
+          (NP (DT an) (JJ American) (NN member) )
+          (PP (IN of) 
+            (NP (DT the) (NNP Nixon) (NN party) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ former) (NN president) )
+    (VP (VBD raised) 
+      (NP 
+        (NP (DT a) (NN number) )
+        (PP (IN of) 
+          (NP (JJ controversial) (NNS issues) )))
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (PRP$ his) (CD 20) (NNS hours) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS talks) )
+              (PP (IN with) 
+                (NP (JJ top-level) (JJ Chinese) (NNS officials) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>China pulled out of the program in July.</Text><Parse>( (S 
+    (NP-SBJ (DT These) )
+    (VP (VBD included) 
+      (NP 
+        (NP 
+          (NP (NNP China) (POS 's) )
+          (JJ economic) (NNS policies) )
+        (, ,) 
+        (NP (JJ human) (NNS rights) )
+        (CC and) 
+        (NP 
+          (NP (DT the) (NN question) )
+          (PP (IN of) 
+            (NP (NNP Mr.) (NNP Fang) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In his talks, the former president urged China's leaders to acknowledge that their nation is part of the world community and welcome the infusion of outside contacts and ideas. "Ideas are going over borders, and there's no SDI ideological weapon that can shoot them down," he told a group of Americans at the U.S. Embassy on Wednesday.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Nixon) )
+    (ADVP (RB also) )
+    (VP (VBD proposed) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NNP China) )
+          (VP (VB restore) 
+            (NP 
+              (NP (PRP$ its) (NN participation) )
+              (PP (IN in) 
+                (NP 
+                  (NP (DT the) (NNP Fulbright) (NNP Program) )
+                  (, ,) 
+                  (NP (DT a) 
+                    (ADJP (NNP U.S.) (JJ government-funded) )
+                    (JJ academic) (NN exchange) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>There are no signs, however, of China's yielding on key issues.</Text><Parse>( (S 
+    (NP-SBJ (NNP China) )
+    (VP (VBD pulled) 
+      (ADVP-CLR (IN out) 
+        (PP (IN of) 
+          (NP (DT the) (NN program) )))
+      (PP-TMP (IN in) 
+        (NP (NNP July) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But in one minor matter, Mr. Nixon appears to have gained a concession.</Text><Parse>( (S 
+    (PP-LOC (IN In) 
+      (NP (PRP$ his) (NNS talks) ))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ former) (NN president) )
+    (VP (VBD urged) 
+      (NP-1 
+        (NP (NNP China) (POS 's) )
+        (NNS leaders) )
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP 
+            (VP (VB acknowledge) 
+              (SBAR (DT that) 
+                (S 
+                  (NP-SBJ (PRP$ their) (NN nation) )
+                  (VP (VBZ is) 
+                    (NP-PRD 
+                      (NP (NN part) )
+                      (PP (IN of) 
+                        (NP (DT the) (NN world) (NN community) )))))))
+            (CC and) 
+            (VP (VB welcome) 
+              (NP 
+                (NP (DT the) (NN infusion) )
+                (PP (IN of) 
+                  (NP (JJ outside) (NNS contacts) 
+                    (CC and)
+                    (NNS ideas) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In a meeting with Premier Li Peng on Monday, Mr. Nixon said that he hoped he wouldn't encounter guards with machine guns during his visit to the U.S. Embassy.</Text><Parse>( (S (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (NNS Ideas) )
+        (VP (VBP are) 
+          (VP (VBG going) 
+            (PP-DIR (IN over) 
+              (NP (NNS borders) )))))
+      (, ,) 
+      (CC and)
+      (S 
+        (NP-SBJ (EX there) )
+        (VP (VBZ 's) 
+          (NP-PRD 
+            (NP (DT no) (NNP SDI) (JJ ideological) (NN weapon) )
+            (SBAR 
+              (WHNP-245 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-245) )
+                (VP (MD can) 
+                  (VP (VB shoot) 
+                    (NP (PRP them) )
+                    (PRT (IN down) )))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD told) 
+      (NP 
+        (NP (DT a) (NN group) )
+        (PP (IN of) 
+          (NP (NNPS Americans) )))
+      (S (-NONE- *T*-1) )
+      (PP-LOC (IN at) 
+        (NP (DT the) (NNP U.S.) (NNP Embassy) ))
+      (PP-TMP (IN on) 
+        (NP (NNP Wednesday) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Sure enough, when he arrived at the embassy two days later, the machine-gun-toting guards were gone -- for the first time in five months.</Text><Parse>( (S 
+    (NP-SBJ (EX There) )
+    (VP (VBP are) 
+      (NP-PRD 
+        (NP (DT no) (NNS signs) )
+        (PRN 
+          (, ,)
+          (ADVP (RB however) )
+          (, ,) )
+        (PP (IN of) 
+          (S-NOM 
+            (NP-SBJ (NNP China) (POS 's) )
+            (VP (NN yielding) 
+              (PP-CLR (IN on) 
+                (NP (JJ key) (NNS issues) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A few blocks away, at the U.S. ambassador's residence, the guards encircling the compound also had discarded their Uzi-model arms for the first time since early June.</Text><Parse>( (S (CC But) 
+    (PP-LOC (IN in) 
+      (NP (CD one) (JJ minor) (NN matter) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Mr.) (NNP Nixon) )
+    (VP (VBZ appears) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB have) 
+            (VP (VBN gained) 
+              (NP (DT a) (NN concession) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But the guards there retained their pistols, and a large contingent of plainclothes police remained nearby in unmarked cars.</Text><Parse>( (S 
+    (PP-LOC (IN In) 
+      (NP 
+        (NP (DT a) (NN meeting) )
+        (PP (IN with) 
+          (NP (NNP Premier) (NNP Li) (NNP Peng) ))
+        (PP-TMP (IN on) 
+          (NP (NNP Monday) ))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Nixon) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBD hoped) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP he) )
+                (VP (MD would) (RB n't) 
+                  (VP (VB encounter) 
+                    (NP 
+                      (NP (NNS guards) )
+                      (PP (IN with) 
+                        (NP (NN machine) (NNS guns) )))
+                    (PP-TMP (IN during) 
+                      (NP 
+                        (NP (PRP$ his) (NN visit) )
+                        (PP (TO to) 
+                          (NP (DT the) (NNP U.S.) (NNP Embassy) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Moreover, police and soldiers continue to harass Americans, who have filed several protests with the Foreign Ministry in the past week.</Text><Parse>( (S 
+    (ADVP (RB Sure) (RB enough) )
+    (, ,) 
+    (SBAR-TMP 
+      (WHADVP (WRB when) )
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBD arrived) 
+          (PP-DIR (IN at) 
+            (NP (DT the) (NN embassy) ))
+          (ADVP-TMP 
+            (NP (CD two) (NNS days) )
+            (JJ later) ))))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ machine-gun-toting) (NNS guards) )
+    (VP (VBD were) 
+      (ADJP-PRD (VBN gone) )
+      (: --) 
+      (PP-TMP (IN for) 
+        (NP 
+          (NP (DT the) (JJ first) (NN time) )
+          (PP-TMP (IN in) 
+            (NP (CD five) (NNS months) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Several times, Chinese guards have pointed their automatic rifles at young children of U.S. diplomats and clicked the trigger.</Text><Parse>( (S 
+    (ADVP-LOC 
+      (NP (DT A) (JJ few) (NNS blocks) )
+      (RB away) )
+    (, ,) 
+    (PP-LOC (IN at) 
+      (NP 
+        (NP (DT the) (NNP U.S.) (NN ambassador) (POS 's) )
+        (NN residence) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NNS guards) )
+      (VP (VBG encircling) 
+        (NP (DT the) (NN compound) )))
+    (ADVP (RB also) )
+    (VP (VBD had) 
+      (VP (VBN discarded) 
+        (NP (PRP$ their) (JJ Uzi-model) (NNS arms) )
+        (PP-TMP (IN for) 
+          (NP 
+            (NP (DT the) (JJ first) (NN time) )
+            (PP-TMP (IN since) 
+              (NP (JJ early) (NNP June) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The rifles weren't loaded.</Text><Parse>( (S (CC But) 
+    (S 
+      (NP-SBJ (DT the) (NNS guards) (RB there) )
+      (VP (VBN retained) 
+        (NP (PRP$ their) (NNS pistols) )))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ 
+        (NP (DT a) (JJ large) (NN contingent) )
+        (PP (IN of) 
+          (NP (NNS plainclothes) (NNS police) )))
+      (VP (VBD remained) 
+        (ADVP-LOC-CLR (RB nearby) )
+        (PP-LOC (IN in) 
+          (NP (JJ unmarked) (NNS cars) ))))
+    (. .) ))</Parse></Sentence></Sentences>

@@ -1,0 +1,10 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>INGERSOLL-RAND Co. (Woodcliff Lake, N.J.) -- William G. Kuhns, former chairman and chief executive officer of General Public Utilities Corp., was elected a director of this maker of industrial and construction equipment, increasing board membership to 10.</Text><Parse>( (NP-HLN 
+    (NP (NNP INGERSOLL-RAND) (NNP Co) (. .) )
+    (PRN 
+      (-LRB- -LRB-)
+      (NP-LOC 
+        (NP (NNP Woodcliff) (NNP Lake) )
+        (, ,) 
+        (NP (NNP N.J) (. .) ))
+      (-RRB- -RRB-) )
+    (: --) ))</Parse></Sentence></Sentences>

@@ -1,0 +1,373 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>When it's time for their biannual powwow, the nation's manufacturing titans typically jet off to the sunny confines of resort towns like Boca Raton and Hot Springs.</Text><Parse>( (S 
+    (SBAR-TMP 
+      (WHADVP-1 (WRB When) )
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (VBZ 's) 
+          (NP-PRD 
+            (NP (NN time) )
+            (PP (IN for) 
+              (NP (PRP$ their) (JJ biannual) (NN powwow) )))
+          (ADVP-TMP (-NONE- *T*-1) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT the) (NN nation) (POS 's) )
+      (VBG manufacturing) (NNS titans) )
+    (ADVP (RB typically) )
+    (VP (VBP jet) 
+      (PRT (RP off) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (DT the) (JJ sunny) (NNS confines) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN resort) (NNS towns) )
+              (PP (IN like) 
+                (NP 
+                  (NP (NNP Boca) (NNP Raton) )
+                  (CC and) 
+                  (NP (NNP Hot) (NNP Springs) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Not this year.</Text><Parse>( (FRAG (RB Not) 
+    (NP-TMP (DT this) (NN year) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The National Association of Manufacturers settled on the Hoosier capital of Indianapolis for its fall board meeting.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP National) (NNP Association) )
+      (PP (IN of) 
+        (NP (NNP Manufacturers) )))
+    (VP (VBD settled) 
+      (PP-CLR (IN on) 
+        (NP 
+          (NP (DT the) (NNP Hoosier) (NN capital) )
+          (PP (IN of) 
+            (NP (NNP Indianapolis) ))))
+      (PP (IN for) 
+        (NP (PRP$ its) (NN fall) (NN board) (NN meeting) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>And the city decided to treat its guests more like royalty or rock stars than factory owners.</Text><Parse>( (S (CC And) 
+    (NP-SBJ-1 (DT the) (NN city) )
+    (VP (VBD decided) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB treat) 
+            (NP (PRP$ its) (NNS guests) )
+            (PP-MNR 
+              (PP 
+                (ADVP (JJR more) )
+                (IN like) 
+                (NP 
+                  (NP (NN royalty) )
+                  (CC or) 
+                  (NP (NN rock) (NNS stars) )))
+              (PP (IN than) 
+                (NP (NN factory) (NNS owners) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The idea, of course: to prove to 125 corporate decision makers that the buckle on the Rust Belt isn't so rusty after all, that it's a good place for a company to expand.</Text><Parse>( (FRAG 
+    (NP (DT The) (NN idea) )
+    (, ,) 
+    (PP (IN of) 
+      (NP (NN course) ))
+    (: :) 
+    (S 
+      (NP-SBJ (-NONE- *) )
+      (VP (TO to) 
+        (VP (VB prove) 
+          (PP-CLR (TO to) 
+            (NP (CD 125) (JJ corporate) (NN decision) (NNS makers) ))
+          (SBAR 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ 
+                  (NP (DT the) (NN buckle) )
+                  (PP (IN on) 
+                    (NP (DT the) (NNP Rust) (NNP Belt) )))
+                (VP (VBZ is) (RB n't) 
+                  (ADJP-PRD (RB so) (JJ rusty) )
+                  (PP (IN after) 
+                    (NP (DT all) )))))
+            (, ,) 
+            (SBAR (IN that) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBZ 's) 
+                  (NP-PRD 
+                    (NP (DT a) (JJ good) (NN place) )
+                    (SBAR 
+                      (WHADVP-1 (-NONE- 0) )
+                      (IN for) 
+                      (S 
+                        (NP-SBJ (DT a) (NN company) )
+                        (VP (TO to) 
+                          (VP (VB expand) 
+                            (ADVP-LOC (-NONE- *T*-1) )))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>On the receiving end of the message were officials from giants like Du Pont and Maytag, along with lesser knowns like Trojan Steel and the Valley Queen Cheese Factory.</Text><Parse>( (SINV 
+    (PP-LOC-PRD-TPC-1 (IN On) 
+      (NP 
+        (NP (DT the) (VBG receiving) (NN end) )
+        (PP (IN of) 
+          (NP (DT the) (NN message) ))))
+    (VP (VBD were) 
+      (PP-LOC-PRD (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNS officials) )
+      (PP (IN from) 
+        (NP 
+          (NP 
+            (NP (NNS giants) )
+            (PP (IN like) 
+              (NP 
+                (NP (NNP Du) (NNP Pont) )
+                (CC and) 
+                (NP (NNP Maytag) ))))
+          (, ,) 
+          (CONJP (IN along) (IN with) )
+          (NP 
+            (NP (JJR lesser) (NNS knowns) )
+            (PP (IN like) 
+              (NP 
+                (NP (NNP Trojan) (NNP Steel) )
+                (CC and) 
+                (NP (DT the) (NNP Valley) (NNP Queen) (NNP Cheese) (NNP Factory) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>For starters, the executives joined Mayor William H. Hudnut III for an evening of the Indianapolis Symphony Orchestra and a guest pianist-comedian Victor Borge.</Text><Parse>( (S 
+    (PP (IN For) 
+      (NP (NNS starters) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNS executives) )
+    (VP (VBD joined) 
+      (NP (NNP Mayor) (NNP William) (NNP H.) (NNP Hudnut) (NNP III) )
+      (PP (IN for) 
+        (NP 
+          (NP (DT an) (NN evening) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NNP Indianapolis) (NNP Symphony) (NNP Orchestra) )
+              (CC and) 
+              (NP (DT a) (NN guest) (NN pianist-comedian) (NNP Victor) (NNP Borge) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Champagne and dessert followed.</Text><Parse>( (S 
+    (NP-SBJ (NN Champagne) 
+      (CC and)
+      (NN dessert) )
+    (VP (VBD followed) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The next morning, with a police escort, busloads of executives and their wives raced to the Indianapolis Motor Speedway, unimpeded by traffic or red lights.</Text><Parse>( (S 
+    (NP-TMP (DT The) (JJ next) (NN morning) )
+    (, ,) 
+    (PP (IN with) 
+      (NP (DT a) (NN police) (NN escort) ))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNS busloads) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNS executives) )
+          (CC and) 
+          (NP (PRP$ their) (NNS wives) ))))
+    (VP (VBD raced) 
+      (PP-DIR (TO to) 
+        (NP (DT the) (NNP Indianapolis) (NNP Motor) (NNP Speedway) ))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (ADJP-PRD (JJ unimpeded) 
+          (PP (IN by) 
+            (NP 
+              (NP (NN traffic) )
+              (CC or) 
+              (NP (JJ red) (NNS lights) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The governor couldn't make it, so the lieutenant governor welcomed the special guests.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (DT The) (NN governor) )
+      (VP (MD could) (RB n't) 
+        (VP (VB make) 
+          (NP (PRP it) ))))
+    (, ,) (IN so) 
+    (S 
+      (NP-SBJ (DT the) (NN lieutenant) (NN governor) )
+      (VP (VBD welcomed) 
+        (NP (DT the) (JJ special) (NNS guests) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A buffet breakfast was held in the museum, where food and drinks are banned to everyday visitors.</Text><Parse>( (S 
+    (NP-SBJ-1 (DT A) (NN buffet) (NN breakfast) )
+    (VP (VBD was) 
+      (VP (VBN held) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN museum) ))
+        (, ,) 
+        (SBAR-LOC 
+          (WHADVP-3 (WRB where) )
+          (S 
+            (NP-SBJ-2 (NN food) 
+              (CC and)
+              (NNS drinks) )
+            (VP (VBP are) 
+              (VP (VBN banned) 
+                (NP (-NONE- *-2) )
+                (PP (TO to) 
+                  (NP (JJ everyday) (NNS visitors) ))
+                (ADVP-LOC (-NONE- *T*-3) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Then, in the guests' honor, the speedway hauled out four drivers, crews and even the official Indianapolis 500 announcer for a 10-lap exhibition race.</Text><Parse>( (S 
+    (ADVP-TMP (RB Then) )
+    (, ,) 
+    (PP (IN in) 
+      (NP 
+        (NP (DT the) (NNS guests) (POS ') )
+        (NN honor) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NN speedway) )
+    (VP (VBD hauled) 
+      (PRT (RP out) )
+      (NP 
+        (NP (CD four) (NNS drivers) )
+        (, ,) 
+        (NP (NNS crews) )
+        (CC and) 
+        (NP (RB even) (DT the) (JJ official) (NNP Indianapolis) (CD 500) (NN announcer) ))
+      (PP-PRP (IN for) 
+        (NP (DT a) (JJ 10-lap) (NN exhibition) (NN race) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>After the race, Fortune 500 executives drooled like schoolboys over the cars and drivers.</Text><Parse>( (S 
+    (PP-TMP (IN After) 
+      (NP (DT the) (NN race) ))
+    (, ,) 
+    (NP-SBJ (NNP Fortune) (CD 500) (NNS executives) )
+    (VP (VBD drooled) 
+      (PP-MNR (IN like) 
+        (NP (NNS schoolboys) ))
+      (PP-CLR (IN over) 
+        (NP (DT the) (NNS cars) 
+          (CC and)
+          (NNS drivers) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>No dummies, the drivers pointed out they still had space on their machines for another sponsor's name or two.</Text><Parse>( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (NP-PRD (DT No) (NNS dummies) ))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNS drivers) )
+    (VP (VBD pointed) 
+      (PRT (RP out) )
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (ADVP (RB still) )
+          (VP (VBD had) 
+            (NP 
+              (NP (NN space) )
+              (PP (IN on) 
+                (NP (PRP$ their) (NNS machines) ))
+              (PP (IN for) 
+                (NP 
+                  (NP 
+                    (NP (DT another) (NN sponsor) (POS 's) )
+                    (NN name) )
+                  (CC or) 
+                  (NP (CD two) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Back downtown, the execs squeezed in a few meetings at the hotel before boarding the buses again.</Text><Parse>( (S 
+    (ADVP-LOC (RB Back) (NN downtown) )
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NNS execs) )
+    (VP (VBD squeezed) 
+      (PRT (RP in) )
+      (NP 
+        (NP (DT a) (JJ few) (NNS meetings) )
+        (PP-LOC (IN at) 
+          (NP (DT the) (NN hotel) )))
+      (PP-TMP (IN before) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG boarding) 
+            (NP (DT the) (NNS buses) )
+            (ADVP (RB again) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>This time, it was for dinner and dancing -- a block away.</Text><Parse>( (S 
+    (NP-TMP (DT This) (NN time) )
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD was) 
+      (PP-PRD (IN for) 
+        (NP 
+          (NP (NN dinner) 
+            (CC and)
+            (NN dancing) )
+          (: --) 
+          (ADVP-LOC 
+            (NP (DT a) (NN block) )
+            (RB away) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Under the stars and moons of the renovated Indiana Roof ballroom, nine of the hottest chefs in town fed them Indiana duckling mousseline, lobster consomme, veal mignon and chocolate terrine with a raspberry sauce.</Text><Parse>( (S 
+    (PP-LOC (IN Under) 
+      (NP 
+        (NP (DT the) (NNS stars) 
+          (CC and)
+          (NNS moons) )
+        (PP (IN of) 
+          (NP (DT the) (VBN renovated) (NNP Indiana) (NNP Roof) (NN ballroom) ))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (CD nine) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (JJS hottest) (NNS chefs) )
+          (PP (IN in) 
+            (NP (NN town) )))))
+    (VP (VBD fed) 
+      (NP (PRP them) )
+      (NP 
+        (NP (NNP Indiana) (NN duckling) (NN mousseline) )
+        (, ,) 
+        (NP (NN lobster) (NN consomme) )
+        (, ,) 
+        (NP (NN veal) (NN mignon) )
+        (CC and) 
+        (NP 
+          (NP (JJ chocolate) (NN terrine) )
+          (PP (IN with) 
+            (NP (DT a) (NN raspberry) (NN sauce) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Knowing a tasty -- and free -- meal when they eat one, the executives gave the chefs a standing ovation.</Text><Parse>( (S 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-2) )
+      (VP (VBG Knowing) 
+        (NP (DT a) 
+          (ADJP (JJ tasty) 
+            (PRN (: --) 
+              (CC and)
+              (JJ free) (: --) ))
+          (NN meal) )
+        (SBAR-TMP 
+          (WHADVP-1 (WRB when) )
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBP eat) 
+              (NP (CD one) )
+              (ADVP-TMP (-NONE- *T*-1) ))))))
+    (, ,) 
+    (NP-SBJ-2 (DT the) (NNS executives) )
+    (VP (VBD gave) 
+      (NP (DT the) (NNS chefs) )
+      (NP (DT a) (JJ standing) (NN ovation) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>More than a few CEOs say the red-carpet treatment tempts them to return to a heartland city for future meetings.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (JJR More) )
+      (PP (IN than) 
+        (NP (DT a) (JJ few) (NNS CEOs) )))
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ red-carpet) (NN treatment) )
+          (VP (VBZ tempts) 
+            (S 
+              (NP-SBJ (PRP them) )
+              (VP (TO to) 
+                (VP (VB return) 
+                  (PP-DIR (TO to) 
+                    (NP (DT a) (NN heartland) (NN city) ))
+                  (PP-PRP (IN for) 
+                    (NP (JJ future) (NNS meetings) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But for now, they're looking forward to their winter meeting -- Boca in February.</Text><Parse>( (S (CC But) 
+    (PP-TMP (IN for) 
+      (ADVP (RB now) ))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBP 're) 
+      (VP (VBG looking) 
+        (ADVP-CLR (RB forward) )
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (PRP$ their) (NN winter) (NN meeting) )
+            (PRN (: --) 
+              (NP-LOC (NNP Boca) )
+              (PP-TMP (IN in) 
+                (NP (NNP February) )))))))</Parse></Sentence></Sentences>

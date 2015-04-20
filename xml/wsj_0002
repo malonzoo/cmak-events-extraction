@@ -1,0 +1,22 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Rudolph Agnew, 55 years old and former chairman of Consolidated Gold Fields PLC, was named a nonexecutive director of this British industrial conglomerate.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (NNP Rudolph) (NNP Agnew) )
+      (, ,) 
+      (UCP 
+        (ADJP 
+          (NP (CD 55) (NNS years) )
+          (JJ old) )
+        (CC and) 
+        (NP 
+          (NP (JJ former) (NN chairman) )
+          (PP (IN of) 
+            (NP (NNP Consolidated) (NNP Gold) (NNP Fields) (NNP PLC) ))))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (NP-PRD 
+            (NP (DT a) (JJ nonexecutive) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (JJ British) (JJ industrial) (NN conglomerate) ))))))</Parse></Sentence></Sentences>

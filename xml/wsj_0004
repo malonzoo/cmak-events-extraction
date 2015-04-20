@@ -1,0 +1,336 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Yields on money-market mutual funds continued to slide, amid signs that portfolio managers expect further declines in interest rates.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (NNS Yields) )
+      (PP (IN on) 
+        (NP (JJ money-market) (JJ mutual) (NNS funds) )))
+    (VP (VBD continued) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB slide) )))
+      (, ,) 
+      (PP-LOC (IN amid) 
+        (NP (NNS signs) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (NN portfolio) (NNS managers) )
+              (VP (VBP expect) 
+                (NP 
+                  (NP (JJ further) (NNS declines) )
+                  (PP-LOC (IN in) 
+                    (NP (NN interest) (NNS rates) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The average seven-day compound yield of the 400 taxable funds tracked by IBC/Donoghue's Money Fund Report eased a fraction of a percentage point to 8.45% from 8.47% for the week ended Tuesday.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ average) (JJ seven-day) (NN compound) (NN yield) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (CD 400) (JJ taxable) (NNS funds) )
+          (VP (VBN tracked) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP (NNP IBC) (POS 's) )
+                (NNP Money) (NNP Fund) (NNP Report) ))))))
+    (VP (VBD eased) 
+      (NP-ADV 
+        (NP (DT a) (NN fraction) )
+        (PP (IN of) 
+          (NP (DT a) (NN percentage) (NN point) )))
+      (PP-DIR (TO to) 
+        (NP (CD 8.45) (NN %) ))
+      (PP-DIR (IN from) 
+        (NP (CD 8.47) (NN %) ))
+      (PP-TMP (IN for) 
+        (NP 
+          (NP (DT the) (NN week) )
+          (VP (VBD ended) 
+            (NP-TMP (NNP Tuesday) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Compound yields assume reinvestment of dividends and that the current yield continues for a year.</Text><Parse>( (S 
+    (NP-SBJ (NN Compound) (NNS yields) )
+    (VP (VBP assume) 
+      (UCP 
+        (NP 
+          (NP (NN reinvestment) )
+          (PP (IN of) 
+            (NP (NNS dividends) )))
+        (CC and) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (DT the) (JJ current) (NN yield) )
+            (VP (VBZ continues) 
+              (PP-TMP (IN for) 
+                (NP (DT a) (NN year) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Average maturity of the funds' investments lengthened by a day to 41 days, the longest since early August, according to Donoghue's.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (JJ Average) (NN maturity) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NNS funds) (POS ') )
+          (NNS investments) )))
+    (VP (VBD lengthened) 
+      (PP-EXT (IN by) 
+        (NP (DT a) (NN day) ))
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (CD 41) (NNS days) )
+          (, ,) 
+          (NP 
+            (NP (DT the) (JJS longest) )
+            (PP-TMP (IN since) 
+              (NP (JJ early) (NNP August) )))
+          (, ,) ))
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (NNP Donoghue) (POS 's) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Longer maturities are thought to indicate declining interest rates because they permit portfolio managers to retain relatively higher rates for a longer period.</Text><Parse>( (S 
+    (NP-SBJ-1 (JJR Longer) (NNS maturities) )
+    (VP (VBP are) 
+      (VP (VBN thought) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB indicate) 
+              (NP (VBG declining) (NN interest) (NNS rates) )
+              (SBAR-PRP (IN because) 
+                (S 
+                  (NP-SBJ (PRP they) )
+                  (VP (VBP permit) 
+                    (S 
+                      (NP-SBJ (NN portfolio) (NNS managers) )
+                      (VP (TO to) 
+                        (VP (VB retain) 
+                          (NP (RB relatively) (JJR higher) (NNS rates) )
+                          (PP-TMP (IN for) 
+                            (NP (DT a) (JJR longer) (NN period) )))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Shorter maturities are considered a sign of rising rates because portfolio managers can capture higher rates sooner.</Text><Parse>( (S 
+    (NP-SBJ-9 (JJR Shorter) (NNS maturities) )
+    (VP (VBP are) 
+      (VP (VBN considered) 
+        (S 
+          (NP-SBJ (-NONE- *-9) )
+          (NP-PRD 
+            (NP (DT a) (NN sign) )
+            (PP (IN of) 
+              (NP (VBG rising) (NNS rates) ))))
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (NN portfolio) (NNS managers) )
+            (VP (MD can) 
+              (VP (VB capture) 
+                (NP (JJR higher) (NNS rates) )
+                (ADVP-TMP (RB sooner) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The average maturity for funds open only to institutions, considered by some to be a stronger indicator because those managers watch the market closely, reached a high point for the year -- 33 days.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ average) (NN maturity) )
+      (PP (IN for) 
+        (NP 
+          (NP (NNS funds) )
+          (ADJP (JJ open) 
+            (PP 
+              (ADVP (RB only) )
+              (TO to) 
+              (NP (NNS institutions) )))))
+      (, ,) 
+      (RRC 
+        (VP (VBN considered) 
+          (PP (IN by) 
+            (NP-LGS (DT some) ))
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB be) 
+                (NP-PRD (DT a) (JJR stronger) (NN indicator) )
+                (SBAR-PRP (IN because) 
+                  (S 
+                    (NP-SBJ (DT those) (NNS managers) )
+                    (VP (VBP watch) 
+                      (NP (DT the) (NN market) )
+                      (ADVP-MNR (RB closely) )))))))))
+      (, ,) )
+    (VP (VBD reached) 
+      (NP 
+        (NP 
+          (NP (DT a) (JJ high) (NN point) )
+          (PP (IN for) 
+            (NP (DT the) (NN year) )))
+        (PRN (: --) 
+          (NP (CD 33) (NNS days) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Nevertheless, said Brenda Malizia Negus, editor of Money Fund Report, yields "may blip up again before they blip down" because of recent rises in short-term interest rates.</Text><Parse>( (S-1 
+    (ADVP (RB Nevertheless) )
+    (PRN 
+      (, ,)
+      (SINV 
+        (VP (VBD said) 
+          (S (-NONE- *T*-1) ))
+        (NP-SBJ 
+          (NP (NNP Brenda) (NNP Malizia) (NNP Negus) )
+          (, ,) 
+          (NP 
+            (NP (NN editor) )
+            (PP (IN of) 
+              (NP (NNP Money) (NNP Fund) (NNP Report) )))))
+      (, ,) )
+    (NP-SBJ (NNS yields) )
+    (`` ``) 
+    (VP (MD may) 
+      (VP (VB blip) 
+        (ADVP-DIR (RP up) )
+        (ADVP-TMP (RB again) )
+        (SBAR-TMP (IN before) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBP blip) 
+              (ADVP-DIR (RP down) ))))
+        ('' '') 
+        (PP-PRP (IN because) (IN of) 
+          (NP 
+            (NP (JJ recent) (NNS rises) )
+            (PP-LOC (IN in) 
+              (NP (JJ short-term) (NN interest) (NNS rates) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The yield on six-month Treasury bills sold at Monday's auction, for example, rose to 8.04% from 7.90%.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN yield) )
+      (PP (IN on) 
+        (NP 
+          (NP (JJ six-month) (NNP Treasury) (NNS bills) )
+          (VP (VBN sold) 
+            (NP (-NONE- *) )
+            (PP-LOC (IN at) 
+              (NP 
+                (NP (NNP Monday) (POS 's) )
+                (NN auction) ))))))
+    (, ,) 
+    (PP (IN for) 
+      (NP (NN example) ))
+    (, ,) 
+    (VP (VBD rose) 
+      (PP-DIR (TO to) 
+        (NP (CD 8.04) (NN %) ))
+      (PP-DIR (IN from) 
+        (NP (CD 7.90) (NN %) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Despite recent declines in yields, investors continue to pour cash into money funds.</Text><Parse>( (S 
+    (PP (IN Despite) 
+      (NP 
+        (NP (JJ recent) (NNS declines) )
+        (PP-LOC (IN in) 
+          (NP (NNS yields) ))))
+    (, ,) 
+    (NP-SBJ-1 (NNS investors) )
+    (VP (VBP continue) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB pour) 
+            (NP (NN cash) )
+            (PP-DIR (IN into) 
+              (NP (NN money) (NNS funds) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Assets of the 400 taxable funds grew by $1.5 billion during the latest week, to $352.7 billion.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNS Assets) )
+      (PP (IN of) 
+        (NP (DT the) (CD 400) (JJ taxable) (NNS funds) )))
+    (VP (VBD grew) 
+      (PP-EXT (IN by) 
+        (NP 
+          (QP ($ $) (CD 1.5) (CD billion) )
+          (-NONE- *U*) ))
+      (PP-TMP (IN during) 
+        (NP (DT the) (JJS latest) (NN week) ))
+      (, ,) 
+      (PP-DIR (TO to) 
+        (NP 
+          (QP ($ $) (CD 352.7) (CD billion) )
+          (-NONE- *U*) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Typically, money-fund yields beat comparable short-term investments because portfolio managers can vary maturities and go after the highest rates.</Text><Parse>( (S 
+    (ADVP (RB Typically) )
+    (, ,) 
+    (NP-SBJ (NN money-fund) (NNS yields) )
+    (VP (VBP beat) 
+      (NP (JJ comparable) (JJ short-term) (NNS investments) )
+      (SBAR-PRP (IN because) 
+        (S 
+          (NP-SBJ (NN portfolio) (NNS managers) )
+          (VP (MD can) 
+            (VP 
+              (VP (VB vary) 
+                (NP (NNS maturities) ))
+              (CC and) 
+              (VP (VB go) 
+                (PP-CLR (IN after) 
+                  (NP (DT the) (JJS highest) (NNS rates) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The top money funds are currently yielding well over 9%.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (JJ top) (NN money) (NNS funds) )
+    (VP (VBP are) 
+      (ADVP-TMP (RB currently) )
+      (VP (VBG yielding) 
+        (NP 
+          (QP (RB well) (IN over) (CD 9) )
+          (NN %) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Dreyfus World-Wide Dollar, the top-yielding fund, had a seven-day compound yield of 9.37% during the latest week, down from 9.45% a week earlier.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Dreyfus) (NNP World-Wide) (NNP Dollar) )
+      (, ,) 
+      (NP (DT the) (JJ top-yielding) (NN fund) )
+      (, ,) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT a) (JJ seven-day) (NN compound) (NN yield) )
+        (PP (IN of) 
+          (NP (CD 9.37) (NN %) )))
+      (PP-TMP (IN during) 
+        (NP (DT the) (JJS latest) (NN week) ))
+      (, ,) 
+      (ADVP (RB down) 
+        (PP (IN from) 
+          (NP (CD 9.45) (NN %) )
+          (ADVP-TMP 
+            (NP (DT a) (NN week) )
+            (JJR earlier) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>It invests heavily in dollar-denominated securities overseas and is currently waiving management fees, which boosts its yield.</Text><Parse>( (S 
+    (NP-SBJ (PRP It) )
+    (VP 
+      (VP (VBZ invests) 
+        (ADVP-MNR (RB heavily) )
+        (PP-CLR (IN in) 
+          (NP (JJ dollar-denominated) (NNS securities) ))
+        (ADVP-LOC (RB overseas) ))
+      (CC and) 
+      (VP (VBZ is) 
+        (ADVP-TMP (RB currently) )
+        (VP 
+          (VP (VBG waiving) 
+            (NP (NN management) (NNS fees) ))
+          (, ,) 
+          (SBAR-ADV 
+            (WHNP-9 (WDT which) )
+            (S 
+              (NP-SBJ (-NONE- *T*-9) )
+              (VP (VBZ boosts) 
+                (NP (PRP$ its) (NN yield) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The average seven-day simple yield of the 400 funds was 8.12%, down from 8.14%.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ average) (JJ seven-day) (JJ simple) (NN yield) )
+      (PP (IN of) 
+        (NP (DT the) (CD 400) (NNS funds) )))
+    (VP (VBD was) 
+      (NP-PRD (CD 8.12) (NN %) )
+      (, ,) 
+      (ADVP (RB down) 
+        (PP (IN from) 
+          (NP (CD 8.14) (NN %) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The 30-day simple yield fell to an average 8.19% from 8.22%; the 30-day compound yield slid to an average 8.53% from 8.56%.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (DT The) (JJ 30-day) (JJ simple) (NN yield) )
+      (VP (VBD fell) 
+        (PP-DIR (TO to) 
+          (NP (DT an) (JJ average) (CD 8.19) (NN %) ))
+        (PP-DIR (IN from) 
+          (NP (CD 8.22) (NN %) ))))
+    (: ;) 
+    (S 
+      (NP-SBJ (DT the) (JJ 30-day) (NN compound) (NN yield) )
+      (VP (VBD slid) 
+        (PP-DIR (TO to) 
+          (NP (DT an) (JJ average) (CD 8.53) (NN %) ))
+        (PP-DIR (IN from) 
+          (NP (CD 8.56) (NN %) ))))</Parse></Sentence></Sentences>

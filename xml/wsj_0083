@@ -1,0 +1,810 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>While worry grows about big Japanese investments in the U.S., Japan's big trading companies are rapidly increasing their stake in America's smaller business.</Text><Parse>( (S 
+    (SBAR-TMP (IN While) 
+      (S 
+        (NP-SBJ 
+          (NP (NN worry) )
+          (PP (-NONE- *ICH*-1) ))
+        (VP (VBZ grows) 
+          (PP-1 (IN about) 
+            (NP 
+              (NP (JJ big) (JJ Japanese) (NNS investments) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (NNP U.S.) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Japan) (POS 's) )
+      (JJ big) (NN trading) (NNS companies) )
+    (VP (VBP are) 
+      (ADVP-MNR (RB rapidly) )
+      (VP (VBG increasing) 
+        (NP 
+          (NP (PRP$ their) (NN stake) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NNP America) (POS 's) )
+              (JJR smaller) (NN business) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>For Japan, the controversial trend improves access to American markets and technology.</Text><Parse>( (S 
+    (PP (IN For) 
+      (NP (NNP Japan) ))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ controversial) (NN trend) )
+    (VP (VBZ improves) 
+      (NP 
+        (NP (NN access) )
+        (PP (TO to) 
+          (NP (JJ American) (NNS markets) 
+            (CC and)
+            (NN technology) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But for small American companies, it also provides a growing source of capital and even marketing help.</Text><Parse>( (S (CC But) 
+    (PP (IN for) 
+      (NP (JJ small) (JJ American) (NNS companies) ))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (ADVP (RB also) )
+    (VP (VBZ provides) 
+      (NP 
+        (NP (DT a) (VBG growing) (NN source) )
+        (PP (IN of) 
+          (NP 
+            (NP (NN capital) )
+            (CC and) 
+            (ADVP (RB even) )
+            (NP (NN marketing) (NN help) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Take the deal with Candela Laser Corp., a Wayland, Mass., manufacturer of high-tech medical devices, which three years ago set its sights on Japan as an export market.</Text><Parse>( (S 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Take) 
+      (NP 
+        (NP (DT the) (NN deal) )
+        (PP (IN with) 
+          (NP 
+            (NP (NNP Candela) (NNP Laser) (NNP Corp.) )
+            (, ,) 
+            (NP 
+              (NP (DT a) 
+                (NAC-LOC (NNP Wayland) 
+                  (, ,)
+                  (NNP Mass.) 
+                  (, ,)
+                  )
+                (NN manufacturer) )
+              (PP (IN of) 
+                (NP (JJ high-tech) (JJ medical) (NNS devices) )))
+            (, ,) 
+            (SBAR 
+              (WHNP-1 (WDT which) )
+              (S 
+                (ADVP-TMP 
+                  (NP (CD three) (NNS years) )
+                  (RB ago) )
+                (NP-SBJ (-NONE- *T*-1) )
+                (VP (VBP set) 
+                  (NP (PRP$ its) (NNS sights) )
+                  (PP-CLR (IN on) 
+                    (NP 
+                      (NP (NNP Japan) )
+                      (PP (IN as) 
+                        (NP (DT an) (NN export) (NN market) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Partly to help clear the myriad obstacles facing any overseas company trying to penetrate Japan, tiny Candela turned to Mitsui &amp; Co., one of Japan's largest trading companies, for investment.</Text><Parse>( (S 
+    (S-PRP 
+      (ADVP (RB Partly) )
+      (NP-SBJ-2 (-NONE- *-1) )
+      (VP (TO to) 
+        (VP (VB help) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (VB clear) 
+              (NP 
+                (NP (DT the) (JJ myriad) (NNS obstacles) )
+                (VP (VBG facing) 
+                  (NP 
+                    (NP (DT any) (JJ overseas) (NN company) )
+                    (VP (VBG trying) 
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB penetrate) 
+                            (NP (NNP Japan) )))))))))))))
+    (, ,) 
+    (NP-SBJ-1 (JJ tiny) (NNP Candela) )
+    (VP (VBD turned) 
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (NNP Mitsui) (CC &amp;) (NNP Co.) )
+          (, ,) 
+          (NP 
+            (NP (CD one) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP Japan) (POS 's) )
+                (JJS largest) (VBG trading) (NNS companies) )))
+          (, ,) ))
+      (PP-PRP (IN for) 
+        (NP (NN investment) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In a joint-venture deal, Mitsui guided Candela through Tokyo's bureaucratic maze.</Text><Parse>( (S 
+    (PP-LOC (IN In) 
+      (NP (DT a) (JJ joint-venture) (NN deal) ))
+    (, ,) 
+    (NP-SBJ (NNP Mitsui) )
+    (VP (VBD guided) 
+      (NP (NNP Candela) )
+      (PP-CLR (IN through) 
+        (NP 
+          (NP (NNP Tokyo) (POS 's) )
+          (JJ bureaucratic) (NN maze) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>It eventually secured Ministry of Health import approval for two Candela laser products -- one that breaks up kidney stones and another that treats skin lesions.</Text><Parse>( (S 
+    (NP-SBJ (PRP It) )
+    (ADVP-TMP (RB eventually) )
+    (VP (VBD secured) 
+      (NP 
+        (NP 
+          (NAC (NNP Ministry) 
+            (PP (IN of) 
+              (NP (NNP Health) )))
+          (NN import) (NN approval) )
+        (PP (IN for) 
+          (NP 
+            (NP (CD two) (NNP Candela) (NN laser) (NNS products) )
+            (: --) 
+            (NP 
+              (NP 
+                (NP (CD one) )
+                (SBAR 
+                  (WHNP-189 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-189) )
+                    (VP (VBZ breaks) 
+                      (PRT (RP up) )
+                      (NP (NN kidney) (NNS stones) )))))
+              (CC and) 
+              (NP 
+                (NP (DT another) )
+                (SBAR 
+                  (WHNP-190 (WDT that) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-190) )
+                    (VP (VBZ treats) 
+                      (NP (NN skin) (NNS lesions) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>At last count, Candela had sold $4 million of its medical devices in Japan.</Text><Parse>( (S 
+    (PP-TMP (IN At) 
+      (NP (JJ last) (NN count) ))
+    (, ,) 
+    (NP-SBJ (NNP Candela) )
+    (VP (VBD had) 
+      (VP (VBN sold) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 4) (CD million) )
+            (-NONE- *U*) )
+          (PP (IN of) 
+            (NP (PRP$ its) (JJ medical) (NNS devices) )))
+        (PP-LOC (IN in) 
+          (NP (NNP Japan) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The deal also gave Mitsui access to a high-tech medical product. "They view this as a growth area so they went about it with a systematic approach," says Richard Olsen, a Candela vice president.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN deal) )
+    (ADVP (RB also) )
+    (VP (VBD gave) 
+      (NP (NNP Mitsui) )
+      (NP 
+        (NP (NN access) )
+        (PP (TO to) 
+          (NP (DT a) (JJ high-tech) (JJ medical) (NN product) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Indeed, for many Japanese trading companies, the favorite U.S. small business is one whose research and development can be milked for future Japanese use.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (PRP They) )
+        (VP (VBP view) 
+          (NP (DT this) )
+          (PP-CLR (IN as) 
+            (NP (DT a) (NN growth) (NN area) ))))
+      (IN so) 
+      (S 
+        (NP-SBJ (PRP they) )
+        (VP (VBD went) 
+          (PP-CLR (IN about) 
+            (NP (PRP it) ))
+          (PP-MNR (IN with) 
+            (NP (DT a) (JJ systematic) (NN approach) )))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Richard) (NNP Olsen) )
+      (, ,) 
+      (NP (DT a) (NNP Candela) (NN vice) (NN president) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Japanese companies bankroll many small U.S. companies with promising products or ideas, frequently putting their money behind projects that commercial banks won't touch.</Text><Parse>( (S 
+    (ADVP (RB Indeed) )
+    (, ,) 
+    (PP (IN for) 
+      (NP (JJ many) (JJ Japanese) (NN trading) (NNS companies) ))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ favorite) (NNP U.S.) (JJ small) (NN business) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (CD one) )
+        (SBAR 
+          (WHNP-1 (WP$ whose) (NN research) 
+            (CC and)
+            (NN development) )
+          (S 
+            (NP-SBJ-117 (-NONE- *T*-1) )
+            (VP (MD can) 
+              (VP (VB be) 
+                (VP (VBN milked) 
+                  (NP (-NONE- *-117) )
+                  (PP-PRP (IN for) 
+                    (NP (JJ future) (JJ Japanese) (NN use) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Japanese companies have financed small and medium-sized U.S. firms for years, but in recent months, the pace has taken off.</Text><Parse>( (S 
+    (NP-SBJ-1 (DT The) (JJ Japanese) (NNS companies) )
+    (VP (VBP bankroll) 
+      (NP 
+        (NP (JJ many) (JJ small) (NNP U.S.) (NNS companies) )
+        (PP (IN with) 
+          (NP (JJ promising) (NNS products) (CC or) (NNS ideas) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (ADVP-TMP (RB frequently) )
+        (VP (VBG putting) 
+          (NP (PRP$ their) (NN money) )
+          (PP-PUT (IN behind) 
+            (NP 
+              (NP (NNS projects) )
+              (SBAR 
+                (WHNP-191 (IN that) )
+                (S 
+                  (NP-SBJ (JJ commercial) (NNS banks) )
+                  (VP (MD wo) (RB n't) 
+                    (VP (VB touch) 
+                      (NP (-NONE- *T*-191) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In the first half of 1989 alone, Japanese corporations invested $214 million in minority positions in U.S. companies, a 61% rise from the figure for all of 1987, reports Venture Economics Inc.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (JJ Japanese) (NNS companies) )
+      (VP (VBP have) 
+        (VP (VBN financed) 
+          (NP 
+            (ADJP (JJ small) 
+              (CC and)
+              (JJ medium-sized) )
+            (NNP U.S.) (NNS firms) )))
+      (PP-TMP (IN for) 
+        (NP (NNS years) )))
+    (, ,) (CC but) 
+    (S 
+      (PP-TMP (IN in) 
+        (NP (JJ recent) (NNS months) ))
+      (, ,) 
+      (NP-SBJ (DT the) (NN pace) )
+      (VP (VBZ has) 
+        (VP (VBN taken) 
+          (PRT (RP off) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Needham, Mass., concern tracks investments in new businesses.</Text><Parse>( (SINV 
+    (S-TPC-1 
+      (PP-TMP (IN In) 
+        (NP 
+          (NP (DT the) (JJ first) (NN half) )
+          (PP (IN of) 
+            (NP (CD 1989) ))
+          (ADVP (RB alone) )))
+      (, ,) 
+      (NP-SBJ (JJ Japanese) (NNS corporations) )
+      (VP (VBD invested) 
+        (NP 
+          (NP 
+            (QP ($ $) (CD 214) (CD million) )
+            (-NONE- *U*) )
+          (NP (-NONE- *ICH*-2) ))
+        (PP-CLR (IN in) 
+          (NP 
+            (NP (NN minority) (NNS positions) )
+            (PP-LOC (IN in) 
+              (NP (NNP U.S.) (NNS companies) ))))
+        (, ,) 
+        (NP-2 
+          (NP (DT a) 
+            (ADJP (CD 61) (NN %) )
+            (NN rise) )
+          (PP-DIR (IN from) 
+            (NP 
+              (NP (DT the) (NN figure) )
+              (PP (IN for) 
+                (NP 
+                  (NP (DT all) )
+                  (PP (IN of) 
+                    (NP (CD 1987) )))))))))
+    (, ,) 
+    (VP (VBZ reports) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (NP-SBJ (NNP Venture) (NNP Economics) (NNP Inc) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In addition, of course, some of the Japanese investments involved outright purchase of small U.S. firms.</Text><Parse>( (S 
+    (NP-SBJ (DT The) 
+      (NAC-LOC (NNP Needham) 
+        (, ,)
+        (NNP Mass.) 
+        (, ,)
+        )
+      (NN concern) )
+    (VP (VBZ tracks) 
+      (NP 
+        (NP (NNS investments) )
+        (PP (IN in) 
+          (NP (JJ new) (NNS businesses) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Heightened Japanese interest in American small business parallels an acceleration of investments giving Japanese companies control of large, highly visible U.S. corporations, such as Columbia Pictures Entertainment Inc. Only this week, it was announced that Mitsubishi Estate Co. had acquired a 51% stake in Rockefeller Group, which owns New York's prestigious Rockefeller Center.</Text><Parse>( (S 
+    (PP (IN In) 
+      (NP (NN addition) ))
+    (, ,) 
+    (ADVP (IN of) (NN course) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (DT some) )
+      (PP (IN of) 
+        (NP (DT the) (JJ Japanese) (NNS investments) )))
+    (VP (VBD involved) 
+      (NP 
+        (NP (JJ outright) (NN purchase) )
+        (PP (IN of) 
+          (NP (JJ small) (NNP U.S.) (NNS firms) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>While the small deals are far less conspicuous, they add to Japanese penetration of the U.S. market.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (JJ Heightened) (JJ Japanese) (NN interest) )
+      (PP (IN in) 
+        (NP (JJ American) (JJ small) (NN business) )))
+    (VP (VBZ parallels) 
+      (NP 
+        (NP (DT an) (NN acceleration) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS investments) )
+            (VP (VBG giving) 
+              (NP (JJ Japanese) (NNS companies) )
+              (NP 
+                (NP (NN control) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (JJ large) 
+                      (, ,)
+                      (ADJP (RB highly) (JJ visible) )
+                      (NNP U.S.) (NNS corporations) )
+                    (, ,) 
+                    (PP (JJ such) (IN as) 
+                      (NP (NNP Columbia) (NNP Pictures) (NNP Entertainment) (NNP Inc) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>As the deals also improve Japanese access to American technology and market knowledge, they feed American anxieties in this area, too.</Text><Parse>( (S 
+    (NP-TMP (RB Only) (DT this) (NN week) )
+    (, ,) 
+    (NP-SBJ-118 
+      (NP (PRP it) )
+      (SBAR (-NONE- *EXP*-1) ))
+    (VP (VBD was) 
+      (VP (VBN announced) 
+        (NP (-NONE- *-118) )
+        (SBAR-1 (IN that) 
+          (S 
+            (NP-SBJ (NNP Mitsubishi) (NNP Estate) (NNP Co.) )
+            (VP (VBD had) 
+              (VP (VBN acquired) 
+                (NP 
+                  (NP (DT a) 
+                    (ADJP (CD 51) (NN %) )
+                    (NN stake) )
+                  (PP-LOC (IN in) 
+                    (NP 
+                      (NP (NNP Rockefeller) (NNP Group) )
+                      (, ,) 
+                      (SBAR 
+                        (WHNP-192 (WDT which) )
+                        (S 
+                          (NP-SBJ (-NONE- *T*-192) )
+                          (VP (VBZ owns) 
+                            (NP 
+                              (NP (NNP New) (NNP York) (POS 's) )
+                              (JJ prestigious) (NNP Rockefeller) (NNP Center) )))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Even a low-tech product like plate glass can catch a trading company's fancy if there's a strategic fit.</Text><Parse>( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (DT the) (JJ small) (NNS deals) )
+        (VP (VBP are) 
+          (ADJP-PRD (RB far) (RBR less) (JJ conspicuous) ))))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBP add) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (JJ Japanese) (NN penetration) )
+          (PP (IN of) 
+            (NP (DT the) (NNP U.S.) (NN market) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Free State Glass Industries of Warrenton, Va., a small fabricator of architectural glass, was foundering under its original management.</Text><Parse>( (S 
+    (SBAR-PRP (IN As) 
+      (S 
+        (NP-SBJ (DT the) (NNS deals) )
+        (ADVP (RB also) )
+        (VP (VBP improve) 
+          (NP 
+            (NP (JJ Japanese) (NN access) )
+            (PP (TO to) 
+              (NP (JJ American) 
+                (NX 
+                  (NX (NN technology) )
+                  (CC and) 
+                  (NX (NN market) (NN knowledge) ))))))))
+    (, ,) 
+    (NP-SBJ (PRP they) )
+    (VP (VBP feed) 
+      (NP 
+        (NP (JJ American) (NNS anxieties) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT this) (NN area) ))))
+      (, ,) 
+      (ADVP (RB too) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Last year, Mitsubishi International Corp., the New York-based arm of Mitsubishi Corp., bought controlling interest in the glass company in a joint venture with Ronald Bodner, a glass industry executive and Mitsubishi consultant.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (RB Even) (DT a) (JJ low-tech) (NN product) )
+      (PP (IN like) 
+        (NP (NN plate) (NN glass) )))
+    (VP (MD can) 
+      (VP (VB catch) 
+        (NP 
+          (NP (DT a) (NN trading) (NN company) (POS 's) )
+          (NN fancy) )
+        (SBAR-ADV (IN if) 
+          (S 
+            (NP-SBJ (EX there) )
+            (VP (VBZ 's) 
+              (NP-PRD (DT a) (JJ strategic) (NN fit) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The deal is chiefly designed to give Mitsubishi a window on the U.S. glass industry, says Ichiro Wakui, an executive in Mitsubishi's general merchandise department in New York. "It's not just a simple investment in a small company," Mr. Wakui says. "We want to see the glass market from the inside, not the outside."</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Free) (NNP State) (NNP Glass) (NNP Industries) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Warrenton) )
+            (, ,) 
+            (NP-LOC (NNP Va.) ))))
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ small) (NN fabricator) )
+        (PP (IN of) 
+          (NP (JJ architectural) (NN glass) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBG foundering) 
+        (PP-LOC (IN under) 
+          (NP (PRP$ its) (JJ original) (NN management) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mitsubishi's investment in Free State is "very small . . . less than $4 million," Mr. Wakui says.</Text><Parse>( (S 
+    (NP-TMP (JJ Last) (NN year) )
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Mitsubishi) (NNP International) (NNP Corp.) )
+      (, ,) 
+      (NP 
+        (NP (DT the) 
+          (ADJP (NNP New) (NNP York-based) )
+          (NN arm) )
+        (PP (IN of) 
+          (NP (NNP Mitsubishi) (NNP Corp.) )))
+      (, ,) )
+    (VP (VBD bought) 
+      (NP 
+        (NP (VBG controlling) (NN interest) )
+        (PP-LOC (IN in) 
+          (NP (DT the) (NN glass) (NN company) )))
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT a) (JJ joint) (NN venture) )
+          (PP (IN with) 
+            (NP 
+              (NP (NNP Ronald) (NNP Bodner) )
+              (, ,) 
+              (NP (DT a) 
+                (NX 
+                  (NX (NN glass) (NN industry) (NN executive) )
+                  (CC and) 
+                  (NX (NNP Mitsubishi) (NN consultant) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Bodner declines to comment on the arrangement.</Text><Parse>( (SINV 
+    (S-TPC-2 
+      (NP-SBJ-1 (DT The) (NN deal) )
+      (VP (VBZ is) 
+        (ADVP (RB chiefly) )
+        (VP (VBN designed) 
+          (NP-3 (-NONE- *-1) )
+          (S-CLR 
+            (NP-SBJ (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB give) 
+                (NP (NNP Mitsubishi) )
+                (NP 
+                  (NP (DT a) (NN window) )
+                  (PP-LOC (IN on) 
+                    (NP (DT the) (NNP U.S.) (NN glass) (NN industry) ))))))))
+      (, ,) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP Ichiro) (NNP Wakui) )
+      (, ,) 
+      (NP 
+        (NP (DT an) (NN executive) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP 
+              (NP (NNP Mitsubishi) (POS 's) )
+              (JJ general) (NN merchandise) (NN department) )
+            (PP-LOC (IN in) 
+              (NP (NNP New) (NNP York) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Trading companies such as Mitsubishi, Mitsui, C. Itoh &amp; Co. and Nissho-Iwai Corp., which make many of the Japanese investments in small U.S. concerns, have no U.S. counterpart.</Text><Parse>( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) (RB not) 
+        (NP-PRD 
+          (NP (RB just) (DT a) (JJ simple) (NN investment) )
+          (PP (IN in) 
+            (NP (DT a) (JJ small) (NN company) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Wakui) )
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>These vertically integrated combines, some of which got their start in Japan's feudal period, deal globally in commodities, construction and manufacturing.</Text><Parse>( (S (`` ``) 
+    (NP-SBJ-1 (PRP We) )
+    (VP (VBP want) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB see) 
+            (NP (DT the) (NN glass) (NN market) )
+            (PP-LOC (IN from) 
+              (NP 
+                (NP (DT the) (NN inside) )
+                (, ,) (RB not) 
+                (NP (DT the) (NN outside) )))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>They operate ships and banks.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP 
+          (NP (NNS Mitsubishi) (POS 's) )
+          (NN investment) )
+        (PP (IN in) 
+          (NP (NNP Free) (NNP State) )))
+      (VP (VBZ is) (`` ``) 
+        (UCP-PRD 
+          (ADJP-PRD (RB very) (JJ small) )
+          (: ...) 
+          (NP-PRD 
+            (QP (JJR less) (IN than) ($ $) (CD 4) (CD million) )
+            (-NONE- *U*) ))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Wakui) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"All the "sogo-shosha" are looking for new business," says Arthur Klauser, adviser to the president of Mitsui, U.S.A., using the Japanese term for the largest of the global trading houses.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNP Mr.) (NNP Bodner) )
+    (VP (VBZ declines) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB comment) 
+            (PP-CLR (IN on) 
+              (NP (DT the) (NN arrangement) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Adds Takeshi Kondo, senior vice president of C. Itoh America Inc.: "We have a great interest in making investments, particularly in new ventures."</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NN Trading) (NNS companies) )
+      (PP (JJ such) (IN as) 
+        (NP 
+          (NP (NNP Mitsubishi) )
+          (, ,) 
+          (NP (NNP Mitsui) )
+          (, ,) 
+          (NP (NNP C.) (NNP Itoh) (CC &amp;) (NNP Co.) )
+          (CC and) 
+          (NP (NNP Nissho-Iwai) (NNP Corp.) )))
+      (, ,) 
+      (SBAR 
+        (WHNP-193 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-193) )
+          (VP (VBP make) 
+            (NP 
+              (NP (JJ many) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (JJ Japanese) (NNS investments) )
+                  (PP (IN in) 
+                    (NP (JJ small) (NNP U.S.) (NNS concerns) ))))))))
+      (, ,) )
+    (VP (VBP have) 
+      (NP (DT no) (NNP U.S.) (NN counterpart) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A host of electronics firms in California's Silicon Valley were financed with trading-company venture capital.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT These) 
+        (ADJP (RB vertically) (VBN integrated) )
+        (NNS combines) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 
+          (NP (DT some) )
+          (WHPP (IN of) 
+            (WHNP (WDT which) )))
+        (S 
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBD got) 
+            (NP (PRP$ their) (NN start) )
+            (PP-TMP (IN in) 
+              (NP 
+                (NP (NNP Japan) (POS 's) )
+                (JJ feudal) (NN period) )))))
+      (, ,) )
+    (VP (VBP deal) 
+      (ADVP-LOC (RB globally) )
+      (PP-CLR (IN in) 
+        (NP (NNS commodities) 
+          (, ,)
+          (NN construction) 
+          (CC and)
+          (VBG manufacturing) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Profit, at least in the short term, is usually a secondary goal. "Strategic objectives, not financial return, drive many of the deals," says a Venture Economics spokesman.</Text><Parse>( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP operate) 
+      (NP (NNS ships) 
+        (CC and)
+        (NNS banks) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In investing on the basis of future transactions, a role often performed by merchant banks, trading companies can cut through the logjam that small-company owners often face with their local commercial banks. "It's the classic problem of the small businessman," says Malcolm Davies, managing director of Trading Alliance Corp. of New York. "People are queuing at the door to take his product but he doesn't have the working capital to make the thing and commercial banks are very unsympathetic.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT All) (DT the) (`` ``) (NN sogo-shosha) ('' '') )
+      (VP (VBP are) 
+        (VP (VBG looking) 
+          (PP-CLR (IN for) 
+            (NP (JJ new) (NN business) )))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ-2 
+      (NP (NNP Arthur) (NNP Klauser) )
+      (, ,) 
+      (NP 
+        (NP (NN adviser) )
+        (PP (TO to) 
+          (NP 
+            (NP (DT the) (NN president) )
+            (PP (IN of) 
+              (NP (NNP Mitsui) 
+                (, ,)
+                (NNP U.S.A.) )))))
+      (, ,) )
+    (S 
+      (NP-SBJ (-NONE- *-2) )
+      (VP (VBG using) 
+        (NP 
+          (NP (DT the) (NNP Japanese) (NN term) )
+          (PP (IN for) 
+            (NP 
+              (NP (DT the) (JJS largest) )
+              (PP (IN of) 
+                (NP (DT the) (JJ global) (VBG trading) (NNS houses) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>They want assets, they want a balance sheet, which has no relation to the business a company can generate."</Text><Parse>( (SINV 
+    (VP (VBZ Adds) 
+      (S (-NONE- *ICH*-1) ))
+    (NP-SBJ 
+      (NP (NNP Takeshi) (NNP Kondo) )
+      (, ,) 
+      (NP 
+        (NP (JJ senior) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (NNP C.) (NNP Itoh) (NNP America) (NNP Inc.) ))))
+    (: :) (`` ``) 
+    (S-1 
+      (NP-SBJ (PRP We) )
+      (VP (VBP have) 
+        (NP 
+          (NP (DT a) (JJ great) (NN interest) )
+          (PP (IN in) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG making) 
+                (NP 
+                  (NP (NNS investments) )
+                  (, ,) 
+                  (PP 
+                    (ADVP (RB particularly) )
+                    (IN in) 
+                    (NP (JJ new) (NNS ventures) )))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Adds Mitsui's Mr. Klauser: "Unlike corporations in this country, trading companies aren't so much interested in a high return on investment as they are on increasing trade flows.</Text><Parse>( (S 
+    (NP-SBJ-119 
+      (NP (DT A) (NN host) )
+      (PP (IN of) 
+        (NP 
+          (NP (NNS electronics) (NNS firms) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NNP California) (POS 's) )
+              (NNP Silicon) (NNP Valley) )))))
+    (VP (VBD were) 
+      (VP (VBN financed) 
+        (NP (-NONE- *-119) )
+        (PP-MNR (IN with) 
+          (NP (NN trading-company) (NN venture) (NN capital) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>To the extent they can do this, they're quite content to get a return on investment of 1% to 2%."</Text><Parse>( (S 
+    (NP-SBJ (NN Profit) )
+    (PRN 
+      (, ,)
+      (PP-TMP 
+        (ADVP (IN at) (JJS least) )
+        (IN in) 
+        (NP (DT the) (JJ short) (NN term) ))
+      (, ,) )
+    (VP (VBZ is) 
+      (ADVP-TMP (RB usually) )
+      (NP-PRD (DT a) (JJ secondary) (NN goal) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Klauser says Mitsui has 75 U.S. subsidiaries in which it holds 35% interest or more and the trading company hopes to double the number of its U.S. affiliates in 1990.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (JJ Strategic) (NNS objectives) )
+        (, ,) (RB not) 
+        (NP (JJ financial) (NN return) )
+        (, ,) )
+      (VP (VBP drive) 
+        (NP 
+          (NP (JJ many) )
+          (PP (IN of) 
+            (NP (DT the) (NNS deals) )))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (DT a) (NNP Venture) (NNP Economics) (NN spokesman) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Sales by these subsidiaries in the fiscal year ending last March were more than $17 billion.</Text><Parse>( (S 
+    (PP (IN In) 
+      (NP 
+        (S-NOM 
+          (NP-SBJ (-NONE- *) )
+          (VP (VBG investing) 
+            (PP (IN on) 
+              (NP 
+                (NP (DT the) (NN basis) )
+                (PP (IN of) 
+                  (NP (JJ future) (NNS transactions) ))))))
+        (, ,) 
+        (NP 
+          (NP (DT a) (NN role) )
+          (VP 
+            (ADVP-TMP (RB often) )
+            (VBN performed) 
+            (NP (-NONE- *) )
+            (PP-LGS (IN by) 
+              (NP (NN merchant) (NNS banks) )))))
+      (, ,) )
+    (NP-SBJ (NN trading) (NNS companies) )
+    (VP (MD can) 
+      (VP (VB cut) 
+        (PP-CLR (IN through) 
+          (NP 
+            (NP (DT the) (NN logjam) )
+            (SBAR 
+              (WHNP-1 (IN that) )
+              (S 
+                (NP-SBJ (NN small-company) (NNS owners) )
+                (ADVP-TMP (RB often) )
+                (VP (VBP face) 
+                  (NP (-NONE- *T*-1) ))))
+            (PP (IN with) 
+              (NP (PRP$ their) (JJ local) (JJ commercial) (NNS banks) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A 1% to 2% return on $17 billion "ain't hay," Mr. Klauser says.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP It) )
+      (VP (VBZ 's) 
+        (NP-PRD 
+          (NP (DT the) (JJ classic) (NN problem) )
+          (PP (IN of) 
+            (NP (DT the) (JJ small) (NN businessman) )))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Malcolm) (NNP Davies) )
+      (, ,) 
+      (NP 
+        (NP (VBG managing) (NN director) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Trading) (NNP Alliance) (NNP Corp.) )
+            (PP (IN of) 
+              (NP (NNP New) (NNP York) ))))))
+    (. .) ))</Parse></Sentence></Sentences>

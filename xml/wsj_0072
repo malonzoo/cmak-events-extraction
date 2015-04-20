@@ -1,0 +1,349 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Signs of a slowing economy are increasing pressure on the Federal Reserve to cut short-term interest rates, but it isn't clear whether the central bank will do so.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ 
+        (NP (NNS Signs) )
+        (PP (IN of) 
+          (NP (DT a) (VBG slowing) (NN economy) )))
+      (VP (VBP are) 
+        (VP (VBG increasing) 
+          (NP 
+            (NP (NN pressure) 
+              (S (-NONE- *ICH*-2) ))
+            (PP (IN on) 
+              (NP (DT the) (NNP Federal) (NNP Reserve) ))
+            (S-2 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB cut) 
+                  (NP (JJ short-term) (NN interest) (NNS rates) ))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ 
+        (NP (PRP it) )
+        (SBAR (-NONE- *EXP*-1) ))
+      (VP (VBZ is) (RB n't) 
+        (ADJP-PRD (JJ clear) )
+        (SBAR-1 (IN whether) 
+          (S 
+            (NP-SBJ (DT the) (JJ central) (NN bank) )
+            (VP (MD will) 
+              (VP (VB do) 
+                (ADVP-PRD (RB so) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A survey by the Fed's 12 district banks shows economic growth has been sluggish in recent weeks, while upward pressures on prices have moderated. "The economy is clearly slowing," says Robert Black, president of the Richmond Federal Reserve Bank.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN survey) )
+      (PP (IN by) 
+        (NP 
+          (NP (DT the) (NNP Fed) (POS 's) )
+          (CD 12) (NN district) (NNS banks) )))
+    (VP (VBZ shows) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (JJ economic) (NN growth) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (ADJP-PRD (JJ sluggish) )
+              (PP-TMP (IN in) 
+                (NP (JJ recent) (NNS weeks) ))
+              (, ,) 
+              (SBAR-TMP (IN while) 
+                (S 
+                  (NP-SBJ 
+                    (NP (JJ upward) (NNS pressures) )
+                    (PP (IN on) 
+                      (NP (NNS prices) )))
+                  (VP (VBP have) 
+                    (VP (VBN moderated) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"If you look at the third quarter as posting roughly 2.5% growth, I do see some slowing in the fourth quarter," agrees Kansas City Fed President Roger Guffey.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN economy) )
+      (VP (VBZ is) 
+        (ADVP (RB clearly) )
+        (VP (VBG slowing) )))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Robert) (NNP Black) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP (DT the) (NNP Richmond) (NNP Federal) (NNP Reserve) (NNP Bank) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Nevertheless, both Mr. Guffey and Mr. Black say the slowdown so far is no cause for concern. "We're coming closer to achieving the stated objective of slowing the economy to a point where hopefully some downward trend in prices will occur," said Mr. Guffey.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (SBAR-ADV (IN If) 
+        (S 
+          (NP-SBJ (PRP you) )
+          (VP (VBP look) 
+            (PP-CLR (IN at) 
+              (NP (DT the) (JJ third) (NN quarter) ))
+            (PP-CLR (IN as) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG posting) 
+                  (NP 
+                    (ADJP 
+                      (QP (RB roughly) (CD 2.5) )
+                      (NN %) )
+                    (NN growth) )))))))
+      (, ,) 
+      (NP-SBJ (PRP I) )
+      (VP (VBP do) 
+        (VP (VB see) 
+          (NP 
+            (NP (DT some) (NN slowing) )
+            (PP-TMP (IN in) 
+              (NP (DT the) (JJ fourth) (NN quarter) ))))))
+    (, ,) ('' '') 
+    (VP (VBZ agrees) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (NNP Kansas) (NNP City) (NNP Fed) (NNP President) (NNP Roger) (NNP Guffey) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Bush administration officials are looking to the Fed to bring down rates, and financial markets seem to be expecting easier credit as well. "I think the market had been expecting the Fed to ease sooner and a little more than it has to date," said Robert Johnson, vice president of global markets for Bankers Trust Co.</Text><Parse>( (S 
+    (ADVP (RB Nevertheless) )
+    (, ,) 
+    (NP-SBJ (DT both) 
+      (NP (NNP Mr.) (NNP Guffey) )
+      (CC and) 
+      (NP (NNP Mr.) (NNP Black) ))
+    (VP (VBP say) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN slowdown) )
+          (ADVP (RB so) (RB far) )
+          (VP (VBZ is) 
+            (NP-PRD 
+              (NP (DT no) (NN cause) )
+              (PP (IN for) 
+                (NP (NN concern) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Fed cut the key federal funds interest rate by about 0.25 percentage point to 8.75% after the Oct. 13 stock market plunge, but has shown no sign of movement since.</Text><Parse>( (SINV (`` ``) 
+    (S 
+      (NP-SBJ (PRP We) )
+      (VP (VBP 're) 
+        (VP (VBG coming) 
+          (ADVP-DIR (RBR closer) 
+            (PP (TO to) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG achieving) 
+                  (NP 
+                    (NP (DT the) (VBN stated) (NN objective) )
+                    (PP (IN of) 
+                      (S-NOM 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG slowing) 
+                          (NP (DT the) (NN economy) )
+                          (PP-CLR (TO to) 
+                            (NP 
+                              (NP (DT a) (NN point) )
+                              (SBAR-LOC 
+                                (WHADVP-1 (WRB where) )
+                                (S 
+                                  (ADVP (RB hopefully) )
+                                  (NP-SBJ 
+                                    (NP (DT some) (JJ downward) (NN trend) )
+                                    (PP-LOC (IN in) 
+                                      (NP (NNS prices) )))
+                                  (VP (MD will) 
+                                    (VP (VB occur) 
+                                      (ADVP-LOC (-NONE- *T*-1) ))))))))))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) )
+    (NP-SBJ (NNP Mr.) (NNP Guffey) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The report from the Fed found that manufacturing, in particular, has been weak in recent weeks.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (NNP Bush) (NN administration) (NNS officials) )
+      (VP (VBP are) 
+        (VP (VBG looking) 
+          (PP-CLR (TO to) 
+            (NP-1 (DT the) (NNP Fed) ))
+          (S-CLR 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB bring) 
+                (PRT (RP down) )
+                (NP (NNS rates) )))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ-2 (JJ financial) (NNS markets) )
+      (VP (VBP seem) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBG expecting) 
+                (NP (JJR easier) (NN credit) )
+                (ADVP (RB as) (RB well) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Philadelphia Fed, for instance, reported that manufacturing activity "continues to decline" for the fourth month in a row.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP I) )
+      (VP (VBP think) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN market) )
+            (VP (VBD had) 
+              (VP (VBN been) 
+                (VP (VBG expecting) 
+                  (S 
+                    (NP-SBJ (DT the) (NNP Fed) )
+                    (VP (TO to) 
+                      (VP (VB ease) 
+                        (ADVP 
+                          (ADVP-TMP (RBR sooner) )
+                          (CC and) 
+                          (ADVP 
+                            (ADVP 
+                              (NP (DT a) (RB little) )
+                              (RBR more) )
+                            (SBAR (IN than) 
+                              (S 
+                                (NP-SBJ (PRP it) )
+                                (VP (VBZ has) 
+                                  (VP (-NONE- *?*) 
+                                    (PP-TMP (TO to) 
+                                      (NP (NN date) ))))))))))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Robert) (NNP Johnson) )
+      (, ,) 
+      (NP 
+        (NP (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (JJ global) (NNS markets) ))
+        (PP (IN for) 
+          (NP (NNP Bankers) (NNP Trust) (NNP Co) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>And in the Chicago district, the report said, "a manufacturer of capital goods noted slower orders for some types, including defense equipment, petroleum equipment, food packaging machinery and material handling equipment." Retail sales also were reported slow in most districts, particularly "for discretionary, big-ticket items such as furniture, home appliances and consumer electronics." And construction also was described as slow in most areas.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Fed) )
+    (VP 
+      (VP (VBD cut) 
+        (NP (DT the) (JJ key) (JJ federal) (NNS funds) (NN interest) (NN rate) )
+        (PP-EXT (IN by) 
+          (NP 
+            (QP (RB about) (CD 0.25) )
+            (NN percentage) (NN point) ))
+        (PP-DIR (TO to) 
+          (NP (CD 8.75) (NN %) ))
+        (PP-TMP (IN after) 
+          (NP (DT the) (NNP Oct.) (CD 13) (NN stock) (NN market) (NN plunge) )))
+      (, ,) (CC but) 
+      (VP (VBZ has) 
+        (VP (VBN shown) 
+          (NP 
+            (NP (DT no) (NN sign) )
+            (PP (IN of) 
+              (NP (NN movement) )))
+          (ADVP-TMP (IN since) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Despite the economic slowdown, there are few clear signs that growth is coming to a halt.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN report) )
+      (PP (IN from) 
+        (NP (DT the) (NNP Fed) )))
+    (VP (VBD found) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (NN manufacturing) )
+          (PRN 
+            (, ,)
+            (PP (IN in) 
+              (ADJP (JJ particular) ))
+            (, ,) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (ADJP-PRD (JJ weak) )
+              (PP-TMP (IN in) 
+                (NP (JJ recent) (NNS weeks) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>As a result, Fed officials may be divided over whether to ease credit.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Philadelphia) (NNP Fed) )
+    (PRN 
+      (, ,)
+      (PP (IN for) 
+        (NP (NN instance) ))
+      (, ,) )
+    (VP (VBD reported) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 (NN manufacturing) (NN activity) )
+          (`` ``) 
+          (VP (VBZ continues) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB decline) )))
+            ('' '') 
+            (PP-TMP (IN for) 
+              (NP 
+                (NP (DT the) (JJ fourth) (NN month) )
+                (PP (IN in) 
+                  (NP (DT a) (NN row) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Several Fed governors in Washington have been pushing for easier credit; but many of the regional Fed presidents have been resisting such a move.</Text><Parse>( (S-1 (CC And) 
+    (PP-LOC (IN in) 
+      (NP (DT the) (NNP Chicago) (NN district) ))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (DT the) (NN report) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (`` ``) 
+    (NP-SBJ 
+      (NP (DT a) (NN manufacturer) )
+      (PP (IN of) 
+        (NP (NN capital) (NNS goods) )))
+    (VP (VBD noted) 
+      (NP 
+        (NP (JJR slower) (NNS orders) )
+        (PP (IN for) 
+          (NP 
+            (NP (DT some) (NNS types) )
+            (, ,) 
+            (PP (VBG including) 
+              (NP 
+                (NP (NN defense) (NN equipment) )
+                (, ,) 
+                (NP (NN petroleum) (NN equipment) )
+                (, ,) 
+                (NP (NN food) (NN packaging) (NN machinery) )
+                (CC and) 
+                (NP (NN material) (NN handling) (NN equipment) )))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Black said he is "pleased" with the economy's recent performance, and doesn't see "a lot of excesses out there that would tilt us into recession."</Text><Parse>( (S 
+    (NP-SBJ-1 (JJ Retail) (NNS sales) )
+    (ADVP (RB also) )
+    (VP (VBD were) 
+      (VP (VBN reported) 
+        (NP-2 (-NONE- *-1) )
+        (S-ADV 
+          (NP-SBJ (-NONE- *-2) )
+          (ADJP-PRD (RB slow) ))
+        (PP-LOC (IN in) 
+          (NP (JJS most) (NNS districts) ))
+        (, ,) 
+        (PP 
+          (ADVP (RB particularly) )
+          (`` ``) (IN for) 
+          (NP 
+            (NP (JJ discretionary) 
+              (, ,)
+              (JJ big-ticket) (NNS items) )
+            (PP (JJ such) (IN as) 
+              (NP 
+                (NP (NN furniture) )
+                (, ,) 
+                (NP (NN home) (NNS appliances) )
+                (CC and) 
+                (NP (NN consumer) (NNS electronics) )))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"There is always a chance of recession," added Mr. Guffey, "but if you ask me to put a percentage on it, I would think it's well below a 50% chance."</Text><Parse>( (S (CC And) 
+    (NP-SBJ-101 (NN construction) )
+    (ADVP (RB also) )
+    (VP (VBD was) 
+      (VP (VBN described) 
+        (NP (-NONE- *-101) )
+        (PP-CLR (IN as) 
+          (ADJP (JJ slow) ))
+        (PP-LOC (IN in) 
+          (NP (JJS most) (NNS areas) ))))
+    (. .) ))</Parse></Sentence></Sentences>

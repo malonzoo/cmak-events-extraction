@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>President</word>
+            <lemma>President</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>9</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>Obama</word>
+            <lemma>Obama</lemma>
+            <CharacterOffsetBegin>10</CharacterOffsetBegin>
+            <CharacterOffsetEnd>15</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="3">
+            <word>said</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>16</CharacterOffsetBegin>
+            <CharacterOffsetEnd>20</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>President</word>
+            <lemma>President</lemma>
+            <CharacterOffsetBegin>21</CharacterOffsetBegin>
+            <CharacterOffsetEnd>30</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>Netanyahu</word>
+            <lemma>Netanyahu</lemma>
+            <CharacterOffsetBegin>31</CharacterOffsetBegin>
+            <CharacterOffsetEnd>40</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="6">
+            <word>can</word>
+            <lemma>can</lemma>
+            <CharacterOffsetBegin>41</CharacterOffsetBegin>
+            <CharacterOffsetEnd>44</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>not</word>
+            <lemma>not</lemma>
+            <CharacterOffsetBegin>44</CharacterOffsetBegin>
+            <CharacterOffsetEnd>47</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>say</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>51</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>no</word>
+            <lemma>no</lemma>
+            <CharacterOffsetBegin>52</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>55</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP President) (NNP Obama)) (VP (VBD said) (SBAR (S (NP (NNP President) (NNP Netanyahu)) (VP (MD can) (RB not) (VP (VB say) (NP (DT no))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">said</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">Obama</governor>
+            <dependent idx="1">President</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">said</governor>
+            <dependent idx="2">Obama</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">Netanyahu</governor>
+            <dependent idx="4">President</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">say</governor>
+            <dependent idx="5">Netanyahu</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">say</governor>
+            <dependent idx="6">can</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="8">say</governor>
+            <dependent idx="7">not</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">said</governor>
+            <dependent idx="8">say</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">say</governor>
+            <dependent idx="9">no</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">said</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">Obama</governor>
+            <dependent idx="1">President</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">said</governor>
+            <dependent idx="2">Obama</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">Netanyahu</governor>
+            <dependent idx="4">President</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">say</governor>
+            <dependent idx="5">Netanyahu</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">say</governor>
+            <dependent idx="6">can</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="8">say</governor>
+            <dependent idx="7">not</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">said</governor>
+            <dependent idx="8">say</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">say</governor>
+            <dependent idx="9">no</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">said</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">Obama</governor>
+            <dependent idx="1">President</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">said</governor>
+            <dependent idx="2">Obama</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">Netanyahu</governor>
+            <dependent idx="4">President</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="8">say</governor>
+            <dependent idx="5">Netanyahu</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">say</governor>
+            <dependent idx="6">can</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="8">say</governor>
+            <dependent idx="7">not</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">said</governor>
+            <dependent idx="8">say</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">say</governor>
+            <dependent idx="9">no</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

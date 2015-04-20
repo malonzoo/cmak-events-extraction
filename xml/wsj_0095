@@ -1,0 +1,215 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In reference to your Oct. 9 page-one article "Barbara Bush Earns Even Higher Ratings Than the President," it is regrettable that you must continually define blacks by our negatives: "Among liberals, 60% have positive views of her, while 50% approve of the president's job performance.</Text><Parse>( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NN reference) )
+        (PP (TO to) 
+          (NP 
+            (NP (PRP$ your) (NNP Oct.) (CD 9) (NN page-one) (NN article) )
+            (`` ``) 
+            (S-TTL 
+              (NP-SBJ (NNP Barbara) (NNP Bush) )
+              (VP (VBZ Earns) 
+                (NP 
+                  (NP 
+                    (ADJP (RB Even) (JJR Higher) )
+                    (NNS Ratings) )
+                  (PP (IN Than) 
+                    (NP (DT the) (NNP President) )))))))))
+    (, ,) ('' '') 
+    (NP-SBJ 
+      (NP (PRP it) )
+      (SBAR (-NONE- *EXP*-1) ))
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ regrettable) )
+      (SBAR-1 (IN that) 
+        (S 
+          (NP-SBJ (PRP you) )
+          (VP (MD must) 
+            (ADVP-TMP (RB continually) )
+            (VP (VB define) 
+              (NP (NNS blacks) )
+              (PP-MNR (IN by) 
+                (NP (PRP$ our) (NNS negatives) ))))
+          (: :) (`` ``) 
+          (S 
+            (PP-LOC (IN Among) 
+              (NP (NNS liberals) ))
+            (, ,) 
+            (NP-SBJ (CD 60) (NN %) )
+            (VP (VBP have) 
+              (NP 
+                (NP (JJ positive) (NNS views) )
+                (PP (IN of) 
+                  (NP (PRP her) )))
+              (, ,) 
+              (SBAR-ADV (IN while) 
+                (S 
+                  (NP-SBJ (CD 50) (NN %) )
+                  (VP (VBP approve) 
+                    (PP-CLR (IN of) 
+                      (NP 
+                        (NP (DT the) (NN president) (POS 's) )
+                        (NN job) (NN performance) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In part, this may reflect the fact that `she speaks a more progressive language' than her husband, as Columbia's Prof. {Ethel} Klein puts it.</Text><Parse>( (S 
+    (PP (IN In) 
+      (NP (NN part) ))
+    (, ,) 
+    (NP-SBJ (DT this) )
+    (VP (MD may) 
+      (VP (VB reflect) 
+        (NP (DT the) (NN fact) 
+          (SBAR (IN that) 
+            (S (`` `) 
+              (NP-SBJ (PRP she) )
+              (VP (VBZ speaks) 
+                (NP 
+                  (NP (DT a) 
+                    (ADJP (JJR more) (JJ progressive) )
+                    (NN language) )
+                  ('' ') 
+                  (SBAR (IN than) 
+                    (S 
+                      (NP-SBJ (PRP$ her) (NN husband) )
+                      (VP (-NONE- *?*) ))))
+                (, ,) 
+                (SBAR-ADV (IN as) 
+                  (S 
+                    (NP-SBJ 
+                      (NP (NNP Columbia) (POS 's) )
+                      (NNP Prof) (. .) 
+                      (-LRB- -LCB-)
+                      (NNP Ethel) 
+                      (-RRB- -RCB-)
+                      (NNP Klein) )
+                    (VP (VBZ puts) 
+                      (NP (PRP it) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Among professionals, 76% have a favorable opinion of her, compared to 62% who approve of her husband's performance.</Text><Parse>( (S 
+    (PP-LOC (IN Among) 
+      (NP (NNS professionals) ))
+    (, ,) 
+    (NP-SBJ (CD 76) (NN %) )
+    (VP (VBP have) 
+      (NP 
+        (NP (DT a) (JJ favorable) (NN opinion) )
+        (PP (IN of) 
+          (NP (PRP$ her) )))
+      (, ,) 
+      (PP (VBN compared) 
+        (PP (TO to) 
+          (NP 
+            (NP (CD 62) (NN %) )
+            (SBAR 
+              (WHNP-248 (WP who) )
+              (S 
+                (NP-SBJ (-NONE- *T*-248) )
+                (VP (VBP approve) 
+                  (PP-CLR (IN of) 
+                    (NP 
+                      (NP (PRP$ her) (NN husband) (POS 's) )
+                      (NN performance) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>While a quarter of black voters disapprove of Mr. Bush's handling of his job, only 15% have a negative view of his spouse."</Text><Parse>( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ 
+          (NP (DT a) (NN quarter) )
+          (PP (IN of) 
+            (NP (JJ black) (NNS voters) )))
+        (VP (VBP disapprove) 
+          (PP-CLR (IN of) 
+            (NP 
+              (NP 
+                (NP (NNP Mr.) (NNP Bush) (POS 's) )
+                (NN handling) )
+              (PP (IN of) 
+                (NP (PRP$ his) (NN job) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (QP (RB only) (CD 15) )
+      (NN %) )
+    (VP (VBP have) 
+      (NP 
+        (NP (DT a) (JJ negative) (NN view) )
+        (PP (IN of) 
+          (NP (PRP$ his) (NN spouse) ))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The statistics imply that three-quarters of blacks approve of Mr. Bush's job performance and 85% of blacks approve of Mrs. Bush.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNS statistics) )
+    (VP (VBP imply) 
+      (SBAR (IN that) 
+        (S 
+          (S 
+            (NP-SBJ 
+              (NP (NNS three-quarters) )
+              (PP (IN of) 
+                (NP (NNS blacks) )))
+            (VP (VBP approve) 
+              (PP-CLR (IN of) 
+                (NP 
+                  (NP (NNP Mr.) (NNP Bush) (POS 's) )
+                  (NN job) (NN performance) ))))
+          (CC and) 
+          (S 
+            (NP-SBJ 
+              (NP (CD 85) (NN %) )
+              (PP (IN of) 
+                (NP (NNS blacks) )))
+            (VP (VBP approve) 
+              (PP-CLR (IN of) 
+                (NP (NNP Mrs.) (NNP Bush) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>If the assumption is that it is surprising that so few blacks find Mr. and Mrs. Bush distasteful, the positive view is even more newsworthy.</Text><Parse>( (S 
+    (SBAR-ADV (IN If) 
+      (S 
+        (NP-SBJ (DT the) (NN assumption) )
+        (VP (VBZ is) 
+          (SBAR-PRD (IN that) 
+            (S 
+              (NP-SBJ 
+                (NP (PRP it) )
+                (SBAR (-NONE- *EXP*-1) ))
+              (VP (VBZ is) 
+                (ADJP-PRD (JJ surprising) )
+                (SBAR-1 (IN that) 
+                  (S 
+                    (NP-SBJ 
+                      (ADJP (RB so) (JJ few) )
+                      (NNS blacks) )
+                    (VP (VBP find) 
+                      (S 
+                        (NP-SBJ (NNP Mr.) 
+                          (CC and)
+                          (NNP Mrs.) (NNP Bush) )
+                        (ADJP-PRD (JJ distasteful) )))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (JJ positive) (NN view) )
+    (VP (VBZ is) 
+      (ADJP-PRD 
+        (ADVP (RB even) (RBR more) )
+        (JJ newsworthy) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Such an editorial point of view perpetuates an insidious, stereotyped perspective.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (PDT Such) (DT an) (NN editorial) (NN point) )
+      (PP (IN of) 
+        (NP (NN view) )))
+    (VP (VBZ perpetuates) 
+      (NP (DT an) (JJ insidious) 
+        (, ,)
+        (JJ stereotyped) (NN perspective) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Why are we blacks continually defined by our minority and the lowest common denominator.</Text><Parse>( (SBARQ 
+    (WHADVP (WRB Why) )
+    (SQ (VBP are) 
+      (NP-SBJ-1 
+        (NP (PRP we) )
+        (NP (NNS blacks) ))
+      (ADVP-TMP (RB continually) )
+      (VP (VBN defined) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (PRP$ our) (NN minority) )
+            (CC and) 
+            (NP (DT the) (JJS lowest) (JJ common) (NN denominator) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Preston G. Foster Birmingham, Ala.</Text><Parse>( (NP 
+    (NP (NNP Preston) (NNP G.) (NNP Foster) )
+    (NP-LOC 
+      (NP (NNP Birmingham) )
+      (, ,) 
+      (NP (NNP Ala) ))</Parse></Sentence></Sentences>

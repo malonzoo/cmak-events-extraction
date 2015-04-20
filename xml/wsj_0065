@@ -1,0 +1,63 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Consolidated Rail Corp. said it would spend more than $30 million on 1,000 enclosed railcars for transporting autos.</Text><Parse>( (S 
+    (NP-SBJ (NNP Consolidated) (NNP Rail) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD would) 
+            (VP (VB spend) 
+              (NP 
+                (QP (RBR more) (IN than) ($ $) (CD 30) (CD million) )
+                (-NONE- *U*) )
+              (PP-CLR (IN on) 
+                (NP 
+                  (NP (CD 1,000) (VBN enclosed) (NNS railcars) )
+                  (PP (IN for) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (VBG transporting) 
+                        (NP (NNS autos) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The multilevel railcars, scheduled for delivery in 1990, will be made by Thrall Manufacturing Co., a Chicago Heights, Ill., division of closely held Duchossois Industries Inc., Elmhurst, Ill.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (JJ multilevel) (NNS railcars) )
+      (, ,) 
+      (VP (VBN scheduled) 
+        (NP (-NONE- *) )
+        (PP-CLR (IN for) 
+          (NP 
+            (NP (NN delivery) )
+            (PP-TMP (IN in) 
+              (NP (CD 1990) )))))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB be) 
+        (VP (VBN made) 
+          (NP (-NONE- *-1) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP Thrall) (NNP Manufacturing) (NNP Co.) )
+              (, ,) 
+              (NP 
+                (NP (DT a) 
+                  (NAC-LOC (NNP Chicago) (NNP Heights) 
+                    (, ,)
+                    (NNP Ill.) 
+                    (, ,)
+                    )
+                  (NN division) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (ADJP (RB closely) (VBN held) )
+                      (NNP Duchossois) (NNPS Industries) (NNP Inc.) )
+                    (, ,) 
+                    (NP-LOC 
+                      (NP (NNP Elmhurst) )
+                      (, ,) 
+                      (NP (NNP Ill) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>This year, the railroad holding company acquired 850 such railcars.</Text><Parse>( (S 
+    (NP-TMP (DT This) (NN year) )
+    (, ,) 
+    (NP-SBJ (DT the) (NN railroad) (VBG holding) (NN company) )
+    (VP (VBN acquired) 
+      (NP (CD 850) (JJ such) (NNS railcars) ))</Parse></Sentence></Sentences>

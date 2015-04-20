@@ -1,0 +1,357 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"The Cosby Show" may have single-handedly turned around ratings at NBC since its debut in 1984, and the Huxtable family still keeps millions of viewers laughing Thursday night on the network.</Text><Parse>( (S 
+    (S (`` ``) 
+      (NP-TTL-SBJ (DT The) (NNP Cosby) (NNP Show) )
+      ('' '') 
+      (VP (MD may) 
+        (VP (VB have) 
+          (ADVP-MNR (RB single-handedly) )
+          (VP (VBN turned) 
+            (PRT (RP around) )
+            (NP 
+              (NP (NNS ratings) )
+              (PP-LOC (IN at) 
+                (NP (NNP NBC) )))
+            (PP-TMP (IN since) 
+              (NP 
+                (NP (PRP$ its) (NN debut) )
+                (PP-TMP (IN in) 
+                  (NP (CD 1984) ))))))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (DT the) (NNP Huxtable) (NN family) )
+      (ADVP-TMP (RB still) )
+      (VP (VBZ keeps) 
+        (S 
+          (NP-SBJ 
+            (NP (NNS millions) )
+            (PP (IN of) 
+              (NP (NNS viewers) )))
+          (VP (VBG laughing) 
+            (NP-TMP (NNP Thursday) (NN night) )
+            (PP-LOC (IN on) 
+              (NP (DT the) (NN network) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But some of the TV stations that bought "Cosby" reruns for record prices two years ago aren't laughing much these days.</Text><Parse>( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT some) )
+      (PP (IN of) 
+        (NP 
+          (NP (DT the) (NN TV) (NNS stations) )
+          (SBAR 
+            (WHNP-149 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-149) )
+              (VP (VBD bought) 
+                (NP (`` ``) (NNP Cosby) ('' '') (NNS reruns) )
+                (PP-CLR (IN for) 
+                  (NP (NN record) (NNS prices) ))
+                (ADVP-TMP 
+                  (NP (CD two) (NNS years) )
+                  (RB ago) )))))))
+    (VP (VBP are) (RB n't) 
+      (VP (VBG laughing) 
+        (ADVP (RB much) )
+        (NP-TMP (DT these) (NNS days) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The reruns have helped ratings at many of the 187 network affiliates and independent TV stations that air the shows.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNS reruns) )
+    (VP (VBP have) 
+      (VP (VBN helped) 
+        (NP 
+          (NP (NNS ratings) )
+          (PP-LOC (IN at) 
+            (NP 
+              (NP (JJ many) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT the) (CD 187) 
+                    (NX 
+                      (NX (NN network) (NNS affiliates) )
+                      (CC and) 
+                      (NX (JJ independent) (NN TV) (NNS stations) )))
+                  (SBAR 
+                    (WHNP-150 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-150) )
+                      (VP (VBP air) 
+                        (NP (DT the) (NNS shows) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But the ratings are considerably below expectations, and some stations say they may not buy new episodes when their current contracts expire.</Text><Parse>( (S (CC But) 
+    (S 
+      (NP-SBJ (DT the) (NNS ratings) )
+      (VP (VBP are) 
+        (PP-PRD-LOC 
+          (ADVP (RB considerably) )
+          (IN below) 
+          (NP (NNS expectations) ))))
+    (, ,) 
+    (CC and)
+    (S 
+      (NP-SBJ (DT some) (NNS stations) )
+      (VP (VBP say) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (MD may) (RB not) 
+              (VP (VB buy) 
+                (NP (JJ new) (NNS episodes) )
+                (SBAR-TMP 
+                  (WHADVP-1 (WRB when) )
+                  (S 
+                    (NP-SBJ (PRP$ their) (JJ current) (NNS contracts) )
+                    (VP (VBP expire) 
+                      (ADVP-TMP (-NONE- *T*-1) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Meanwhile, stations are fuming because, many of them say, the show's distributor, Viacom Inc., is giving an ultimatum: Either sign new long-term commitments to buy future episodes or risk losing "Cosby" to a competitor.</Text><Parse>( (S 
+    (ADVP-TMP (RB Meanwhile) )
+    (, ,) 
+    (NP-SBJ (NNS stations) )
+    (VP (VBP are) 
+      (VP (VBG fuming) 
+        (SBAR-PRP (RB because) 
+          (S-1 
+            (PRN 
+              (, ,)
+              (S 
+                (NP-SBJ 
+                  (NP (JJ many) )
+                  (PP (IN of) 
+                    (NP (PRP them) )))
+                (VP (VBP say) 
+                  (SBAR (-NONE- 0) 
+                    (S (-NONE- *T*-1) ))))
+              (, ,) )
+            (NP-SBJ 
+              (NP 
+                (NP (DT the) (NN show) (POS 's) )
+                (NN distributor) )
+              (, ,) 
+              (NP (NNP Viacom) (NNP Inc.) )
+              (, ,) )
+            (VP (VBZ is) 
+              (VP (VBG giving) 
+                (NP 
+                  (NP (DT an) (NN ultimatum) )
+                  (: :) 
+                  (S 
+                    (NP-SBJ-2 (-NONE- *) )
+                    (VP (CC Either) 
+                      (VP (VB sign) 
+                        (NP (JJ new) (JJ long-term) (NNS commitments) 
+                          (S 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB buy) 
+                                (NP (JJ future) (NNS episodes) ))))))
+                      (CC or) 
+                      (VP (VB risk) 
+                        (S 
+                          (NP-SBJ (-NONE- *-2) )
+                          (VP (VBG losing) (`` ``) 
+                            (NP-TTL (NNP Cosby) )
+                            ('' '') 
+                            (PP-CLR (TO to) 
+                              (NP (DT a) (NN competitor) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>At the same time, Viacom is trying to persuade stations to make commitments to "A Different World," a spin-off of "Cosby" whose reruns will become available in 1991.</Text><Parse>( (S 
+    (PP-TMP (IN At) 
+      (NP (DT the) (JJ same) (NN time) ))
+    (, ,) 
+    (NP-SBJ-1 (NNP Viacom) )
+    (VP (VBZ is) 
+      (VP (VBG trying) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB persuade) 
+              (NP-2 (NNS stations) )
+              (S 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB make) 
+                    (NP 
+                      (NP (NNS commitments) )
+                      (PP (TO to) 
+                        (NP (`` ``) 
+                          (NP-TTL (DT A) (NNP Different) (NNP World) )
+                          (, ,) ('' '') 
+                          (NP 
+                            (NP (DT a) (NN spin-off) )
+                            (PP (IN of) (`` ``) 
+                              (NP-TTL (NNP Cosby) )
+                              ('' '') ))
+                          (SBAR 
+                            (WHNP-151 (WP$ whose) (NNS reruns) )
+                            (S 
+                              (NP-SBJ (-NONE- *T*-151) )
+                              (VP (MD will) 
+                                (VP (VB become) 
+                                  (ADJP-PRD (JJ available) )
+                                  (PP-TMP (IN in) 
+                                    (NP (CD 1991) )))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Viacom denies it's using pressure tactics. "We're willing to negotiate," says Dennis Gillespie, executive vice president of marketing. "We're offering this plan now because we feel it's the right time."</Text><Parse>( (S 
+    (NP-SBJ (NNP Viacom) )
+    (VP (VBZ denies) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ 's) 
+            (VP (VBG using) 
+              (NP (NN pressure) (NNS tactics) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But, says the general manager of a network affiliate in the Midwest, "I think if I tell them I need more time, they'll take `Cosby' across the street,"</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ-2 (PRP We) )
+      (VP (VBP 're) 
+        (ADJP-PRD (JJ willing) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB negotiate) ))))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Dennis) (NNP Gillespie) )
+      (, ,) 
+      (NP 
+        (NP (JJ executive) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (VBG marketing) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Viacom's move comes as the syndication market is being flooded with situation comedies that are still running on the networks.</Text><Parse>( (S (`` ``) 
+    (NP-SBJ (PRP We) )
+    (VP (VBP 're) 
+      (VP (VBG offering) 
+        (NP (DT this) (NN plan) )
+        (ADVP-TMP (RB now) )
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (PRP we) )
+            (VP (VBP feel) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBZ 's) 
+                    (NP-PRD (DT the) (JJ right) (NN time) )))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>One station manager says he believes Viacom's move is a "pre-emptive strike" because the company is worried that "Cosby" ratings will continue to drop in syndication over the next few years. "Cosby" is down a full ratings point in the week of Oct. 2-8 over the same week a year ago, according to A.C. Nielsen Co.</Text><Parse>( (S-1 (CC But) 
+    (PRN 
+      (, ,)
+      (SINV 
+        (VP (VBZ says) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) )))
+        (NP-SBJ 
+          (NP (DT the) (JJ general) (NN manager) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (NN network) (NN affiliate) )
+              (PP-LOC (IN in) 
+                (NP (DT the) (NN Midwest) ))))))
+      (, ,) )
+    (`` ``) 
+    (NP-SBJ (PRP I) )
+    (VP (VBP think) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (SBAR-ADV (IN if) 
+            (S 
+              (NP-SBJ (PRP I) )
+              (VP (VBP tell) 
+                (NP (PRP them) )
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ (PRP I) )
+                    (VP (VBP need) 
+                      (NP (JJR more) (NN time) )))))))
+          (, ,) 
+          (NP-SBJ (PRP they) )
+          (VP (MD 'll) 
+            (VP (VB take) (`` `) 
+              (NP-TTL (NNP Cosby) )
+              ('' ') 
+              (PP-DIR (IN across) 
+                (NP (DT the) (NN street) )))))))
+    (, ,) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Gillespie at Viacom says the ratings are rising.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Viacom) (POS 's) )
+      (NN move) )
+    (VP (VBZ comes) 
+      (SBAR-TMP (IN as) 
+        (S 
+          (NP-SBJ-76 (DT the) (NN syndication) (NN market) )
+          (VP (VBZ is) 
+            (VP (VBG being) 
+              (VP (VBN flooded) 
+                (NP (-NONE- *-76) )
+                (PP-CLR (IN with) 
+                  (NP 
+                    (NP (NN situation) (NNS comedies) )
+                    (SBAR 
+                      (WHNP-152 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-152) )
+                        (VP (VBP are) 
+                          (ADVP-TMP (RB still) )
+                          (VP (VBG running) 
+                            (PP-TMP (IN on) 
+                              (NP (DT the) (NNS networks) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>And executives at stations in such major markets as Washington; Providence, R.I.; Cleveland; Raleigh, N.C.; Minneapolis, and Louisville, Ky., say they may very well not renew "Cosby." Dick Lobo, the general manager of WTVJ, the NBC-owned station in Miami, for example, says the show has "been a major disappointment to us." "At the prices we were charged, there should have been some return for the dollar.</Text><Parse>( (S 
+    (NP-SBJ (CD One) (NN station) (NN manager) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ believes) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ 
+                  (NP (NNP Viacom) (POS 's) )
+                  (NN move) )
+                (VP (VBZ is) 
+                  (NP-PRD (DT a) (`` ``) (JJ pre-emptive) (NN strike) ('' '') ))))
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ (DT the) (NN company) )
+                (VP (VBZ is) 
+                  (ADJP-PRD (VBN worried) 
+                    (SBAR (IN that) 
+                      (S 
+                        (NP-SBJ-1 (`` ``) (NNP Cosby) ('' '') (NNS ratings) )
+                        (VP (MD will) 
+                          (VP (VB continue) 
+                            (S 
+                              (NP-SBJ (-NONE- *-1) )
+                              (VP (TO to) 
+                                (VP (VB drop) 
+                                  (PP-LOC (IN in) 
+                                    (NP (NN syndication) ))
+                                  (PP-TMP (IN over) 
+                                    (NP (DT the) (JJ next) (JJ few) (NNS years) )))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>There wasn't."</Text><Parse>( (S (`` ``) 
+    (NP-TTL-SBJ (NNP Cosby) )
+    ('' '') 
+    (VP (VBZ is) 
+      (ADVP-PRD (RB down) 
+        (NP (DT a) (JJ full) (NNS ratings) (NN point) ))
+      (PP-TMP (IN in) 
+        (NP 
+          (NP (DT the) (NN week) )
+          (PP (IN of) 
+            (NP (NNP Oct.) (CD 2-8) ))))
+      (PP (IN over) 
+        (NP 
+          (NP (DT the) (JJ same) (NN week) )
+          (ADVP-TMP 
+            (NP (DT a) (NN year) )
+            (RB ago) )))
+      (, ,) 
+      (PP (VBG according) 
+        (PP (TO to) 
+          (NP (NNP A.C.) (NNP Nielsen) (NNP Co) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Neil Kuvin, the general manager of WHAS, the CBS affiliate in Louisville, says "Cosby" gets the station's highest ratings and he's "pleased." But he adds, "I feel pressured, disappointed, uncomfortable and, frankly, quite angry with Viacom."</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Mr.) (NNP Gillespie) )
+      (PP-LOC (IN at) 
+        (NP (NNP Viacom) )))
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNS ratings) )
+          (VP (VBP are) 
+            (VP (VBG rising) )))))
+    (. .) ))</Parse></Sentence></Sentences>

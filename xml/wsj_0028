@@ -1,0 +1,17 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Lord Chilver, 63-year-old chairman of English China Clays PLC, was named a nonexecutive director of this British chemical company.</Text><Parse>( (S 
+    (NP-SBJ-39 
+      (NP (NNP Lord) (NNP Chilver) )
+      (, ,) 
+      (NP 
+        (NP (JJ 63-year-old) (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP English) (NNP China) (NNP Clays) (NNP PLC) )))
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-39) )
+          (NP-PRD 
+            (NP (DT a) (JJ nonexecutive) (NN director) )
+            (PP (IN of) 
+              (NP (DT this) (JJ British) (NN chemical) (NN company) ))))))</Parse></Sentence></Sentences>

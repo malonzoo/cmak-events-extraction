@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>USA</word>
+            <lemma>USA</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="2">
+            <word>will</word>
+            <lemma>will</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>8</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>go</word>
+            <lemma>go</lemma>
+            <CharacterOffsetBegin>9</CharacterOffsetBegin>
+            <CharacterOffsetEnd>11</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>ahead</word>
+            <lemma>ahead</lemma>
+            <CharacterOffsetBegin>12</CharacterOffsetBegin>
+            <CharacterOffsetEnd>17</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>18</CharacterOffsetBegin>
+            <CharacterOffsetEnd>22</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>23</CharacterOffsetBegin>
+            <CharacterOffsetEnd>26</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>plan</word>
+            <lemma>plan</lemma>
+            <CharacterOffsetBegin>27</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>bomb</word>
+            <lemma>bomb</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>Hiroshima</word>
+            <lemma>Hiroshima</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="11">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP USA)) (VP (MD will) (VP (VB go) (ADVP (RB ahead) (PP (IN with) (NP (DT the) (NN plan)))) (PP (TO to) (NP (NN bomb) (NNP Hiroshima))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">go</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">go</governor>
+            <dependent idx="1">USA</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">go</governor>
+            <dependent idx="2">will</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="3">go</governor>
+            <dependent idx="4">ahead</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="4">ahead</governor>
+            <dependent idx="5">with</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">plan</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="5">with</governor>
+            <dependent idx="7">plan</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="3">go</governor>
+            <dependent idx="8">to</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="10">Hiroshima</governor>
+            <dependent idx="9">bomb</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">to</governor>
+            <dependent idx="10">Hiroshima</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">go</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">go</governor>
+            <dependent idx="1">USA</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">go</governor>
+            <dependent idx="2">will</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="3">go</governor>
+            <dependent idx="4">ahead</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">plan</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="4">ahead</governor>
+            <dependent idx="7">plan</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="10">Hiroshima</governor>
+            <dependent idx="9">bomb</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="3">go</governor>
+            <dependent idx="10">Hiroshima</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">go</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">go</governor>
+            <dependent idx="1">USA</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">go</governor>
+            <dependent idx="2">will</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="3">go</governor>
+            <dependent idx="4">ahead</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">plan</governor>
+            <dependent idx="6">the</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="4">ahead</governor>
+            <dependent idx="7">plan</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="10">Hiroshima</governor>
+            <dependent idx="9">bomb</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="3">go</governor>
+            <dependent idx="10">Hiroshima</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

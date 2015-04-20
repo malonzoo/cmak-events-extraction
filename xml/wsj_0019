@@ -1,0 +1,111 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>John R. Stevens, 49 years old, was named senior executive vice president and chief operating officer, both new positions.</Text><Parse>( (S 
+    (NP-SBJ-27 
+      (NP (NNP John) (NNP R.) (NNP Stevens) )
+      (, ,) 
+      (ADJP 
+        (NP (CD 49) (NNS years) )
+        (JJ old) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-27) )
+          (NP-PRD 
+            (NP 
+              (NP (JJ senior) (NN executive) (NN vice) (NN president) )
+              (CC and) 
+              (NP (NN chief) (VBG operating) (NN officer) ))
+            (, ,) 
+            (NP (DT both) (JJ new) (NNS positions) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He will continue to report to Donald Pardus, president and chief executive officer.</Text><Parse>( (S 
+    (NP-SBJ-1 (PRP He) )
+    (VP (MD will) 
+      (VP (VB continue) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB report) 
+              (PP-CLR (TO to) 
+                (NP 
+                  (NP (NNP Donald) (NNP Pardus) )
+                  (, ,) 
+                  (NP 
+                    (NP (NN president) )
+                    (CC and) 
+                    (NP (NN chief) (NN executive) (NN officer) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Stevens was executive vice president of this electric-utility holding company.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Stevens) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (NN executive) (NN vice) (NN president) )
+        (PP (IN of) 
+          (NP (DT this) (NN electric-utility) (NN holding) (NN company) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Arthur A. Hatch, 59, was named executive vice president of the company.</Text><Parse>( (S 
+    (NP-SBJ-28 
+      (NP (NNP Arthur) (NNP A.) (NNP Hatch) )
+      (, ,) 
+      (NP (CD 59) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-28) )
+          (NP-PRD 
+            (NP (NN executive) (NN vice) (NN president) )
+            (PP (IN of) 
+              (NP (DT the) (NN company) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He was previously president of the company's Eastern Edison Co. unit.</Text><Parse>( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD was) 
+      (ADVP-TMP (RB previously) )
+      (NP-PRD 
+        (NP (NN president) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NN company) (POS 's) )
+            (NNP Eastern) (NNP Edison) (NNP Co.) (NN unit) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>John D. Carney, 45, was named to succeed Mr. Hatch as president of Eastern Edison.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (NNP John) (NNP D.) (NNP Carney) )
+      (, ,) 
+      (NP (CD 45) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB succeed) 
+              (NP (NNP Mr.) (NNP Hatch) )
+              (PP-CLR (IN as) 
+                (NP 
+                  (NP (NN president) )
+                  (PP (IN of) 
+                    (NP (NNP Eastern) (NNP Edison) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Previously he was vice president of Eastern Edison.</Text><Parse>( (S 
+    (ADVP-TMP (RB Previously) )
+    (NP-SBJ (PRP he) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (RB vice) (NN president) )
+        (PP (IN of) 
+          (NP (NNP Eastern) (NNP Edison) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Robert P. Tassinari, 63, was named senior vice president of Eastern Utilities.</Text><Parse>( (S 
+    (NP-SBJ-29 
+      (NP (NNP Robert) (NNP P.) (NNP Tassinari) )
+      (, ,) 
+      (NP (CD 63) )
+      (, ,) )
+    (VP (VBD was) 
+      (VP (VBN named) 
+        (S 
+          (NP-SBJ (-NONE- *-29) )
+          (NP-PRD 
+            (NP (JJ senior) (NN vice) (NN president) )
+            (PP (IN of) 
+              (NP (NNP Eastern) (NNPS Utilities) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He was previously vice president.</Text><Parse>( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD was) 
+      (ADVP-TMP (RB previously) )
+      (NP-PRD (NN vice) (NN president) ))</Parse></Sentence></Sentences>

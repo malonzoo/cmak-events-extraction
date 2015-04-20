@@ -1,0 +1,325 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Five things you can do for $15,000 or less:</Text><Parse>( (NP-HLN 
+    (NP (CD Five) (NNS things) )
+    (SBAR 
+      (WHNP-1 (-NONE- 0) )
+      (S 
+        (NP-SBJ (PRP you) )
+        (VP (MD can) 
+          (VP (VB do) 
+            (NP (-NONE- *T*-1) )
+            (PP-CLR (IN for) 
+              (NP ($ $) (CD 15,000) (-NONE- *U*) 
+                (QP (CC or) (JJR less) )))))))
+    (: :) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>1. Buy a new Chevrolet.</Text><Parse>( (S 
+    (LST (LS 1) (. .) )
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Buy) 
+      (NP (DT a) (JJ new) (NNP Chevrolet) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>2. Take a Hawaiian vacation.</Text><Parse>( (S 
+    (LST (LS 2) (. .) )
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Take) 
+      (NP (DT a) (JJ Hawaiian) (NN vacation) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>3. Send your child to a university.</Text><Parse>( (S 
+    (LST (LS 3) (. .) )
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Send) 
+      (NP (PRP$ your) (NN child) )
+      (PP-DIR (TO to) 
+        (NP (DT a) (NN university) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>4. Buy a diamond necklace.</Text><Parse>( (S 
+    (LST (LS 4) (. .) )
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Buy) 
+      (NP (DT a) (NN diamond) (NN necklace) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>5. Make a lasting difference in the regulatory life of an American savings-and-loan association through the Foster Corporate Parents Plan.</Text><Parse>( (S 
+    (LST (LS 5) (. .) )
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Make) 
+      (NP 
+        (NP (DT a) (JJ lasting) (NN difference) )
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT the) (JJ regulatory) (NN life) )
+            (PP (IN of) 
+              (NP (DT an) (JJ American) (JJ savings-and-loan) (NN association) )))))
+      (PP (IN through) 
+        (NP (DT the) (NNP Foster) (NNP Corporate) (NNP Parents) (NNP Plan) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Americans today spend $15,000 like pocket change -- they don't think much about it.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (NNS Americans) )
+      (NP-TMP (NN today) )
+      (VP (VBP spend) 
+        (NP ($ $) (CD 15,000) (-NONE- *U*) )
+        (PP-MNR (IN like) 
+          (NP (NN pocket) (NN change) ))))
+    (: --) 
+    (S 
+      (NP-SBJ (PRP they) )
+      (VP (VBP do) (RB n't) 
+        (VP (VB think) 
+          (NP (JJ much) )
+          (PP-CLR (IN about) 
+            (NP (PRP it) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But for an ailing savings-and-loan association -- teetering on insolvency -- it can lead to safety from imminent demise and to a future full of promise.</Text><Parse>( (S (CC But) 
+    (PP (IN for) 
+      (NP 
+        (NP (DT an) (VBG ailing) (JJ savings-and-loan) (NN association) )
+        (PRN (: --) 
+          (VP (VBG teetering) 
+            (PP-LOC (IN on) 
+              (NP (NN insolvency) )))
+          (: --) )))
+    (NP-SBJ (PRP it) )
+    (VP (MD can) 
+      (VP (VB lead) 
+        (PP-DIR 
+          (PP (TO to) 
+            (NP 
+              (NP (NN safety) )
+              (PP (IN from) 
+                (NP (JJ imminent) (NN demise) ))))
+          (CC and) 
+          (PP (TO to) 
+            (NP 
+              (NP (DT a) (NN future) )
+              (ADJP (JJ full) 
+                (PP (IN of) 
+                  (NP (NN promise) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Your $15,000 will help keep a needy savings and loan solvent -- and out of the federal budget deficit.</Text><Parse>( (S 
+    (NP-SBJ-1 (PRP$ Your) ($ $) (CD 15,000) (-NONE- *U*) )
+    (VP (MD will) 
+      (VP (VB help) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VB keep) 
+            (S 
+              (NP-SBJ (DT a) (JJ needy) (NNS savings) 
+                (CC and)
+                (NN loan) )
+              (UCP-PRD 
+                (ADJP (JJ solvent) )
+                (: --) 
+                (CC and)
+                (PP (IN out) 
+                  (PP (IN of) 
+                    (NP (DT the) (JJ federal) (NN budget) (NN deficit) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>As a Foster Corporate Parent, you'll be helping a neighborhood S&amp;L in areas crucial to its survival.</Text><Parse>( (S 
+    (PP (IN As) 
+      (NP (DT a) (NNP Foster) (NNP Corporate) (NNP Parent) ))
+    (, ,) 
+    (NP-SBJ (PRP you) )
+    (VP (MD 'll) 
+      (VP (VB be) 
+        (VP (VBG helping) 
+          (NP (DT a) (NN neighborhood) (NN S&amp;L) )
+          (PP-LOC (IN in) 
+            (NP 
+              (NP (NNS areas) )
+              (ADJP (JJ crucial) 
+                (PP (TO to) 
+                  (NP (PRP$ its) (NN survival) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Like healthy regulatory capital.</Text><Parse>( (PP (IN Like) 
+    (NP (JJ healthy) (JJ regulatory) (NN capital) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A steady deposit base.</Text><Parse>( (NP (DT A) (JJ steady) (NN deposit) (NN base) (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Performing loans.</Text><Parse>( (NP (VBG Performing) (NNS loans) (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>At the same time, you'll give your Foster Savings Institution the gift of hope and freedom from the federal regulators who want to close its doors -- for good.</Text><Parse>( (S 
+    (PP-TMP (IN At) 
+      (NP (DT the) (JJ same) (NN time) ))
+    (, ,) 
+    (NP-SBJ (PRP you) )
+    (VP (MD 'll) 
+      (VP (VB give) 
+        (NP (PRP$ your) (NNP Foster) (NNP Savings) (NNP Institution) )
+        (NP 
+          (NP 
+            (NP (DT the) (NN gift) )
+            (PP (IN of) 
+              (NP (NN hope) )))
+          (CC and) 
+          (NP 
+            (NP (NN freedom) )
+            (PP (IN from) 
+              (NP 
+                (NP (DT the) (JJ federal) (NNS regulators) )
+                (SBAR 
+                  (WHNP-206 (WP who) )
+                  (S 
+                    (NP-SBJ-1 (-NONE- *T*-206) )
+                    (VP (VBP want) 
+                      (S 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (TO to) 
+                          (VP (VB close) 
+                            (NP (PRP$ its) (NNS doors) )
+                            (: --) 
+                            (PP-TMP (IN for) 
+                              (NP (NN good) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>As a Foster Corporate Parent, you will experience the same joy felt by Robert Bass, Lewis Ranieri, William Simon and others, who find ways to help troubled savings institutions and their employees help themselves.</Text><Parse>( (S 
+    (PP (IN As) 
+      (NP (DT a) (NNP Foster) (NNP Corporate) (NNP Parent) ))
+    (, ,) 
+    (NP-SBJ (PRP you) )
+    (VP (MD will) 
+      (VP (VB experience) 
+        (NP 
+          (NP (DT the) (JJ same) (NN joy) )
+          (VP (VBD felt) 
+            (NP-PRD (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS 
+                (NP 
+                  (NP (NNP Robert) (NNP Bass) )
+                  (, ,) 
+                  (NP (NNP Lewis) (NNP Ranieri) )
+                  (, ,) 
+                  (NP (NNP William) (NNP Simon) )
+                  (CC and) 
+                  (NP (NNS others) ))
+                (, ,) 
+                (SBAR 
+                  (WHNP-207 (WP who) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-207) )
+                    (VP (VBP find) 
+                      (NP 
+                        (NP (NNS ways) )
+                        (SBAR 
+                          (WHADVP-1 (-NONE- 0) )
+                          (S 
+                            (NP-SBJ (-NONE- *) )
+                            (VP (TO to) 
+                              (VP (VB help) 
+                                (S 
+                                  (NP-SBJ 
+                                    (NP (VBN troubled) (NNS savings) (NNS institutions) )
+                                    (CC and) 
+                                    (NP (PRP$ their) (NNS employees) ))
+                                  (VP (VB help) 
+                                    (NP (PRP themselves) )))
+                                (ADVP-MNR (-NONE- *T*-1) )))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That builds confidence, self sufficiency, not to mention critical regulatory net worth.</Text><Parse>( (S 
+    (NP-SBJ (DT That) )
+    (VP (VBZ builds) 
+      (NP 
+        (NP (NN confidence) )
+        (, ,) 
+        (NP (NN self) (NN sufficiency) )
+        (, ,) 
+        (CONJP (RB not) (TO to) (VB mention) )
+        (NP (JJ critical) (JJ regulatory) (NN net) (NN worth) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Don't wait -- a savings institution needs your help now!</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (-NONE- *) )
+      (VP (VBP Do) (RB n't) 
+        (VP (VB wait) )))
+    (: --) 
+    (S 
+      (NP-SBJ (DT a) (NNS savings) (NN institution) )
+      (VP (VBZ needs) 
+        (NP (PRP$ your) (NN help) )
+        (ADVP-TMP (RB now) )))
+    (. !) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Every day you delay, a savings institution's health -- and the federal budget deficit -- grows worse.</Text><Parse>( (S 
+    (NP-TMP 
+      (NP (DT Every) (NN day) )
+      (SBAR 
+        (WHADVP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (PRP you) )
+          (VP (VBP delay) 
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (DT a) (NN savings) (NN institution) (POS 's) )
+        (NN health) )
+      (PRN (: --) 
+        (CC and)
+        (NP (DT the) (JJ federal) (NN budget) (NN deficit) )
+        (: --) ))
+    (VP (VBZ grows) 
+      (ADJP-PRD (JJR worse) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Think about the good you can do for just $15,000 a month, about the cost of a mid-size Chevrolet or two semesters at a state university.</Text><Parse>( (S 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Think) 
+      (PP-CLR (IN about) 
+        (NP 
+          (NP (DT the) (NN good) )
+          (SBAR 
+            (WHNP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (PRP you) )
+              (VP (MD can) 
+                (VP (VB do) 
+                  (NP (-NONE- *T*-1) )
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP 
+                        (NP 
+                          (QP (RB just) ($ $) (CD 15,000) )
+                          (-NONE- *U*) )
+                        (NP-ADV (DT a) (NN month) ))
+                      (, ,) 
+                      (NP 
+                        (NP (RB about) (DT the) (NN cost) )
+                        (PP (IN of) 
+                          (NP 
+                            (NP (DT a) (JJ mid-size) (NNP Chevrolet) )
+                            (CC or) 
+                            (NP 
+                              (NP (CD two) (NNS semesters) )
+                              (PP-LOC (IN at) 
+                                (NP (DT a) (NN state) (NN university) )))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Then send your support to a savings institution that has taken a bad rap in the press and on its bottom line.</Text><Parse>( (S (RB Then) 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB send) 
+      (NP (PRP$ your) (NN support) )
+      (PP-DIR (TO to) 
+        (NP 
+          (NP (DT a) (NN savings) (NN institution) )
+          (SBAR 
+            (WHNP-208 (WDT that) )
+            (S 
+              (NP-SBJ (-NONE- *T*-208) )
+              (VP (VBZ has) 
+                (VP (VBN taken) 
+                  (NP (DT a) (JJ bad) (NN rap) )
+                  (PP-LOC 
+                    (PP (IN in) 
+                      (NP (DT the) (NN press) ))
+                    (CC and) 
+                    (PP (IN on) 
+                      (NP (PRP$ its) (JJ bottom) (NN line) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Every $15,000 you send will go a long way to boost sagging net worth and employee morale -- and keep your Foster Savings Institution off the federal budget deficit!</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT Every) ($ $) (CD 15,000) (-NONE- *U*) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (PRP you) )
+          (VP (VBP send) 
+            (NP (-NONE- *T*-1) )))))
+    (VP (MD will) 
+      (VP (VB go) 
+        (NP (DT a) (JJ long) (NN way) )
+        (S-CLR 
+          (NP-SBJ (-NONE- *) )
+          (VP (TO to) 
+            (VP 
+              (VP (VB boost) 
+                (NP (VBG sagging) 
+                  (NX 
+                    (NX (JJ net) (NN worth) )
+                    (CC and) 
+                    (NX (NN employee) (NN morale) ))))
+              (: --) 
+              (CC and)
+              (VP (VB keep) 
+                (NP-SBJ (PRP$ your) (NNP Foster) (NNP Savings) (NNP Institution) )
+                (PP-LOC-CLR (IN off) 
+                  (NP (DT the) (JJ federal) (NN budget) (NN deficit) ))))))))
+    (. !) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Baris is a lawyer in New York.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Baris) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT a) (NN lawyer) )
+        (PP-LOC (IN in) 
+          (NP (NNP New) (NNP York) ))))</Parse></Sentence></Sentences>

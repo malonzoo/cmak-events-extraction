@@ -1,0 +1,462 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Labor Department cited USX Corp. for numerous health and safety violations at two Pennsylvania plants, and proposed $7.3 million in fines, the largest penalty ever proposed for alleged workplace violations by an employer.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Labor) (NNP Department) )
+    (VP 
+      (VP (VBD cited) 
+        (NP (NNP USX) (NNP Corp.) )
+        (PP (IN for) 
+          (NP 
+            (NP (JJ numerous) (NN health) 
+              (CC and)
+              (NN safety) (NNS violations) )
+            (PP-LOC (IN at) 
+              (NP (CD two) (NNP Pennsylvania) (NNS plants) )))))
+      (, ,) 
+      (CC and)
+      (VP (VBD proposed) 
+        (NP 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 7.3) (CD million) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP (NNS fines) )))
+          (, ,) 
+          (NP 
+            (NP (DT the) (JJS largest) (NN penalty) )
+            (VP 
+              (ADVP (RB ever) )
+              (VBN proposed) 
+              (NP (-NONE- *) ))
+            (PP (IN for) 
+              (NP 
+                (NP (VBN alleged) (NN workplace) (NNS violations) )
+                (PP (IN by) 
+                  (NP (DT an) (NN employer) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The department's Occupational Safety and Health Administration proposed fines of $6.1 million for alleged violations at the company's Fairless Hills, Pa., steel mill; that was a record for proposed penalties at any single facility.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT The) (NN department) (POS 's) )
+        (NNP Occupational) (NNP Safety) 
+        (CC and)
+        (NNP Health) (NNP Administration) )
+      (VP (VBD proposed) 
+        (NP 
+          (NP (NNS fines) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 6.1) (CD million) )
+              (-NONE- *U*) ))
+          (PP (IN for) 
+            (NP 
+              (NP (VBN alleged) (NNS violations) )
+              (PP-LOC (IN at) 
+                (NP 
+                  (NP (DT the) (NN company) (POS 's) )
+                  (NAC-LOC (NNP Fairless) (NNP Hills) 
+                    (, ,)
+                    (NNP Pa.) 
+                    (, ,)
+                    )
+                  (NN steel) (NN mill) )))))))
+    (: ;) 
+    (S 
+      (NP-SBJ (DT that) )
+      (VP (VBD was) 
+        (NP-PRD 
+          (NP (DT a) (NN record) )
+          (PP (IN for) 
+            (NP 
+              (NP (VBN proposed) (NNS penalties) )
+              (PP-LOC (IN at) 
+                (NP (DT any) (JJ single) (NN facility) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>OSHA cited nearly 1,500 alleged violations of federal electrical, crane-safety, record-keeping and other requirements.</Text><Parse>( (S 
+    (NP-SBJ (NNP OSHA) )
+    (VP (VBD cited) 
+      (NP 
+        (NP 
+          (QP (RB nearly) (CD 1,500) )
+          (VBN alleged) (NNS violations) )
+        (PP (IN of) 
+          (NP (JJ federal) 
+            (UCP (JJ electrical) 
+              (, ,)
+              (NN crane-safety) 
+              (, ,)
+              (NN record-keeping) 
+              (CC and)
+              (JJ other) )
+            (NNS requirements) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A second citation covering the company's Clairton, Pa., coke works involved more than 200 alleged violations of electrical-safety and other requirements, for which OSHA proposed $1.2 million in fines.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT A) (JJ second) (NN citation) )
+      (VP (VBG covering) 
+        (NP 
+          (NP (DT the) (NN company) (POS 's) )
+          (NAC-LOC (NNP Clairton) 
+            (, ,)
+            (NNP Pa.) 
+            (, ,)
+            )
+          (NN coke) (NNS works) )))
+    (VP (VBD involved) 
+      (NP 
+        (NP 
+          (QP (JJR more) (IN than) (CD 200) )
+          (VBN alleged) (NNS violations) )
+        (PP (IN of) 
+          (NP (JJ electrical-safety) 
+            (CC and)
+            (JJ other) (NNS requirements) ))
+        (, ,) 
+        (SBAR 
+          (WHPP-1 (IN for) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ (NNP OSHA) )
+            (VP (VBD proposed) 
+              (NP 
+                (NP 
+                  (QP ($ $) (CD 1.2) (CD million) )
+                  (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (NNS fines) )))
+              (PP (-NONE- *T*-1) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Labor Secretary Elizabeth Dole said, "The magnitude of these penalties and citations is matched only by the magnitude of the hazards to workers which resulted from corporate indifference to worker safety and health, and severe cutbacks in the maintenance and repair programs needed to remove those hazards."</Text><Parse>( (S 
+    (NP-SBJ (NNP Labor) (NNP Secretary) (NNP Elizabeth) (NNP Dole) )
+    (VP (VBD said) 
+      (, ,)
+      (`` ``) 
+      (S 
+        (NP-SBJ-1 
+          (NP (DT The) (NN magnitude) )
+          (PP (IN of) 
+            (NP (DT these) (NNS penalties) 
+              (CC and)
+              (NNS citations) )))
+        (VP (VBZ is) 
+          (VP (VBN matched) 
+            (NP (-NONE- *-1) )
+            (PP 
+              (ADVP (RB only) )
+              (IN by) 
+              (NP-LGS 
+                (NP (DT the) (NN magnitude) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (NNS hazards) )
+                    (PP (TO to) 
+                      (NP (NNS workers) ))))
+                (SBAR 
+                  (WHNP-14 (WDT which) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-14) )
+                    (VP (VBD resulted) 
+                      (PP (IN from) 
+                        (NP 
+                          (NP 
+                            (NP (JJ corporate) (NN indifference) )
+                            (PP (TO to) 
+                              (NP (NN worker) (NN safety) 
+                                (CC and)
+                                (NN health) )))
+                          (, ,) 
+                          (CC and)
+                          (NP 
+                            (NP (JJ severe) (NNS cutbacks) )
+                            (PP (IN in) 
+                              (NP 
+                                (NP (DT the) (NN maintenance) 
+                                  (CC and)
+                                  (NN repair) (NNS programs) )
+                                (VP (VBN needed) 
+                                  (S 
+                                    (NP-SBJ (-NONE- *) )
+                                    (VP (TO to) 
+                                      (VP (VB remove) 
+                                        (NP (DT those) (NNS hazards) )))))))))))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>OSHA said there have been three worker fatalities at the two plants in the past two years and 17 deaths since 1972.</Text><Parse>( (S 
+    (NP-SBJ (NNP OSHA) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (EX there) )
+          (VP (VBP have) 
+            (VP (VBN been) 
+              (NP-PRD 
+                (NP 
+                  (NP (CD three) (NN worker) (NNS fatalities) )
+                  (PP-LOC (IN at) 
+                    (NP (DT the) (CD two) (NNS plants) ))
+                  (PP-TMP (IN in) 
+                    (NP (DT the) (JJ past) (CD two) (NNS years) )))
+                (CC and) 
+                (NP 
+                  (NP (CD 17) (NNS deaths) )
+                  (PP-TMP (IN since) 
+                    (NP (CD 1972) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Gerard Scannell, the head of OSHA, said USX managers have known about many of the safety and health deficiencies at the plants for years, "yet have failed to take necessary action to counteract the hazards."</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Gerard) (NNP Scannell) )
+      (, ,) 
+      (NP 
+        (NP (DT the) (NN head) )
+        (PP (IN of) 
+          (NP (NNP OSHA) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNP USX) (NNS managers) )
+          (VP 
+            (VP (VBP have) 
+              (VP (VBN known) 
+                (PP-CLR (IN about) 
+                  (NP 
+                    (NP (JJ many) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP (DT the) (NN safety) 
+                          (CC and)
+                          (NN health) (NNS deficiencies) )
+                        (PP-LOC (IN at) 
+                          (NP (DT the) (NNS plants) ))))))
+                (PP-TMP (IN for) 
+                  (NP (NNS years) ))))
+            (, ,) (`` ``) 
+            (ADVP (RB yet) )
+            (VP (VBP have) 
+              (VP (VBN failed) 
+                (S 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (TO to) 
+                    (VP (VB take) 
+                      (NP (JJ necessary) (NN action) )
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB counteract) 
+                            (NP (DT the) (NNS hazards) )))))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"Particularly flagrant," Mrs. Dole said, "are the company's numerous failures to properly record injuries at its Fairless works, in spite of the firm promise it had made in an earlier corporate-wide settlement agreement to correct such discrepancies." That settlement was in April 1987.</Text><Parse>( (SINV-2 (`` ``) 
+    (ADJP-TPC-1 (RB Particularly) (JJ flagrant) )
+    (PRN 
+      (, ,)
+      ('' '') 
+      (S 
+        (NP-SBJ (NNP Mrs.) (NNP Dole) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (SINV (-NONE- *T*-2) ))))
+      (, ,) (`` ``) )
+    (VP (VBP are) 
+      (ADJP-PRD (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (DT the) (NN company) (POS 's) )
+      (JJ numerous) (NNS failures) 
+      (S 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP 
+            (ADVP-MNR (RB properly) )
+            (VB record) 
+            (NP 
+              (NP (NNS injuries) )
+              (PP-LOC (IN at) 
+                (NP (PRP$ its) (NNP Fairless) (NNS works) )))
+            (, ,) 
+            (PP (IN in) 
+              (NP 
+                (NP (NN spite) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ firm) (NN promise) )
+                    (SBAR 
+                      (WHNP-3 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (PRP it) )
+                        (VP (VBD had) 
+                          (VP (VBN made) 
+                            (NP (-NONE- *T*-3) )
+                            (PP-LOC (IN in) 
+                              (NP (DT an) (JJR earlier) (JJ corporate-wide) (NN settlement) (NN agreement) 
+                                (S 
+                                  (NP-SBJ (-NONE- *) )
+                                  (VP (TO to) 
+                                    (VP (VB correct) 
+                                      (NP (JJ such) (NNS discrepancies) ))))))))))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A USX spokesman said the company hadn't yet received any documents from OSHA regarding the penalty or fine. "Once we do, they will receive very serious evaluation," the spokesman said. "No consideration is more important than the health and safety of our employees."</Text><Parse>( (S 
+    (NP-SBJ (DT That) (NN settlement) )
+    (VP (VBD was) 
+      (PP-TMP-PRD (IN in) 
+        (NP (NNP April) (CD 1987) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>USX said it has been cooperating with OSHA since the agency began investigating the Clairton and Fairless works.</Text><Parse>( (S 
+    (NP-SBJ (DT A) (NNP USX) (NN spokesman) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN company) )
+          (VP (VBD had) (RB n't) 
+            (ADVP (RB yet) )
+            (VP (VBN received) 
+              (NP 
+                (NP (DT any) (NNS documents) )
+                (VP (-NONE- *ICH*-1) ))
+              (PP-CLR (IN from) 
+                (NP (NNP OSHA) ))
+              (VP-1 (VBG regarding) 
+                (NP (DT the) (NN penalty) (CC or) (NN fine) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He said that, if and when safety problems were identified, they were corrected.</Text><Parse>((S 
+    (S-TPC-1 (`` ``) 
+      (SBAR-TMP (IN Once) 
+        (S 
+          (NP-SBJ (PRP we) )
+          (VP (VBP do) )))
+      (, ,) 
+      (NP-SBJ (PRP they) )
+      (VP (MD will) 
+        (VP (VB receive) 
+          (NP (RB very) (JJ serious) (NN evaluation) )))
+      (, ,) ('' '') )
+    (NP-SBJ (DT the) (NN spokesman) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The USX citations represented the first sizable enforcement action taken by OSHA under Mr. Scannell.</Text><Parse>( (S (`` ``) 
+    (NP-SBJ (DT No) (NN consideration) )
+    (VP (VBZ is) 
+      (ADJP-PRD 
+        (ADJP (RBR more) (JJ important) )
+        (PP (IN than) 
+          (NP 
+            (NP (DT the) (NN health) 
+              (CC and)
+              (NN safety) )
+            (PP (IN of) 
+              (NP (PRP$ our) (NNS employees) ))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He has promised stiffer fines, though the size of penalties sought by OSHA have been rising in recent years even before he took office this year.</Text><Parse>( (S 
+    (NP-SBJ (NNP USX) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN been) 
+              (VP (VBG cooperating) 
+                (PP-CLR (IN with) 
+                  (NP (NNP OSHA) ))
+                (SBAR-TMP (IN since) 
+                  (S 
+                    (NP-SBJ-1 (DT the) (NN agency) )
+                    (VP (VBD began) 
+                      (S 
+                        (NP-SBJ (-NONE- *-1) )
+                        (VP (VBG investigating) 
+                          (NP (DT the) (NNP Clairton) 
+                            (CC and)
+                            (NNP Fairless) (NNS works) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"The big problem is that USX management has proved unwilling to devote the necessary resources and manpower to removing hazards and to safeguarding safety and health in the plants," said Linda Anku, OSHA regional administrator in Philadelphia.</Text><Parse>( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (, ,)
+        (S 
+          (SBAR-ADV (IN if) 
+            (CC and)
+            (WHADVP-1 (WRB when) )
+            (S 
+              (NP-SBJ-15 (NN safety) (NNS problems) )
+              (VP (VBD were) 
+                (VP (VBN identified) 
+                  (NP (-NONE- *-15) )
+                  (ADVP-TMP (-NONE- *T*-1) )))))
+          (, ,) 
+          (NP-SBJ-16 (PRP they) )
+          (VP (VBD were) 
+            (VP (VBN corrected) 
+              (NP (-NONE- *-16) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>USX has 15 working days to contest the citations and proposed penalties, before the independent Occupational Safety and Health Review Commission.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP USX) (NNS citations) )
+    (VP (VBD represented) 
+      (NP 
+        (NP (DT the) (JJ first) (JJ sizable) (NN enforcement) (NN action) )
+        (VP (VBN taken) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS (NNP OSHA) ))
+          (PP-LOC (IN under) 
+            (NP (NNP Mr.) (NNP Scannell) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Before the USX case, OSHA's largest proposed fine for one employer was $4.3 million for alleged safety violations at John Morrell &amp; Co., a meatpacking subsidiary of United Brands Co., Cincinnati.</Text><Parse>( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBZ has) 
+      (VP (VBN promised) 
+        (NP (JJR stiffer) (NNS fines) )
+        (, ,) 
+        (SBAR-ADV (IN though) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN size) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS penalties) )
+                  (VP (VBN sought) 
+                    (NP (-NONE- *) )
+                    (PP (IN by) 
+                      (NP-LGS (NNP OSHA) ))))))
+            (VP (VBP have) 
+              (VP (VBN been) 
+                (VP (VBG rising) 
+                  (PP-TMP (IN in) 
+                    (NP (JJ recent) (NNS years) ))
+                  (SBAR-TMP 
+                    (ADVP (RB even) )
+                    (IN before) 
+                    (S 
+                      (NP-SBJ (PRP he) )
+                      (VP (VBD took) 
+                        (NP (NN office) )
+                        (NP-TMP (DT this) (NN year) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The company is contesting the fine.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-3 
+      (NP-SBJ (DT The) (JJ big) (NN problem) )
+      (VP (VBZ is) 
+        (SBAR-PRD (IN that) 
+          (S 
+            (NP-SBJ-1 (NNP USX) (NN management) )
+            (VP (VBZ has) 
+              (VP (VBN proved) 
+                (S 
+                  (NP-SBJ-2 (-NONE- *-1) )
+                  (ADJP-PRD (JJ unwilling) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) 
+                        (VP (VB devote) 
+                          (NP (DT the) (JJ necessary) (NNS resources) 
+                            (CC and)
+                            (NN manpower) )
+                          (PP-CLR 
+                            (PP (TO to) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (VBG removing) 
+                                  (NP (NNS hazards) ))))
+                            (CC and) 
+                            (PP (TO to) 
+                              (S-NOM 
+                                (NP-SBJ (-NONE- *) )
+                                (VP (VBG safeguarding) 
+                                  (NP 
+                                    (NP (NN safety) 
+                                      (CC and)
+                                      (NN health) )
+                                    (PP-LOC (IN in) 
+                                      (NP (DT the) (NNS plants) ))))))))))))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-3) ))
+    (NP-SBJ 
+      (NP (NNP Linda) (NNP Anku) )
+      (, ,) 
+      (NP 
+        (NP (NNP OSHA) (JJ regional) (NN administrator) )
+        (PP-LOC (IN in) 
+          (NP (NNP Philadelphia) ))))
+    (. .) ))</Parse></Sentence></Sentences>

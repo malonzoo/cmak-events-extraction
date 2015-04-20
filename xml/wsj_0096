@@ -1,0 +1,1343 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The National Association of Securities Dealers, the self-regulatory organization for the over-the-counter securities markets, disciplined a number of firms and individuals for alleged violations of industry rules.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT The) (NNP National) (NNP Association) )
+        (PP (IN of) 
+          (NP (NNPS Securities) (NNPS Dealers) )))
+      (, ,) 
+      (NP 
+        (NP (DT the) (JJ self-regulatory) (NN organization) )
+        (PP (IN for) 
+          (NP (DT the) (JJ over-the-counter) (NNS securities) (NNS markets) )))
+      (, ,) )
+    (VP (VBD disciplined) 
+      (NP 
+        (NP (DT a) (NN number) )
+        (PP (IN of) 
+          (NP (NNS firms) 
+            (CC and)
+            (NNS individuals) )))
+      (PP-CLR (IN for) 
+        (NP 
+          (NP (JJ alleged) (NNS violations) )
+          (PP (IN of) 
+            (NP (NN industry) (NNS rules) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Two firms were expelled from the NASD, three were suspended or barred and nine were fined.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ-150 (CD Two) (NNS firms) )
+      (VP (VBD were) 
+        (VP (VBN expelled) 
+          (NP (-NONE- *-150) )
+          (PP-CLR (IN from) 
+            (NP (DT the) (NNP NASD) )))))
+    (, ,) 
+    (S 
+      (NP-SBJ-1 (CD three) )
+      (VP (VBD were) 
+        (VP (VBN suspended) (CC or) (VBN barred) 
+          (NP (-NONE- *-1) ))))
+    (CC and) 
+    (S 
+      (NP-SBJ-151 (CD nine) )
+      (VP (VBD were) 
+        (VP (VBN fined) 
+          (NP (-NONE- *-151) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>First Securities Group of California and a principal of the firm, Louis Fernando Vargas of Marina del Rey, Calif., were jointly fined $15,000 and expelled for alleged violations of reporting requirements on securities sales.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP First) (NNPS Securities) (NNP Group) )
+        (PP (IN of) 
+          (NP (NNP California) )))
+      (CC and) 
+      (NP 
+        (NP (DT a) (NN principal) )
+        (PP (IN of) 
+          (NP (DT the) (NN firm) ))
+        (, ,) 
+        (NP 
+          (NP (NNP Louis) (NNP Fernando) (NNP Vargas) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Marina) (DT del) (NNP Rey) )
+              (, ,) 
+              (NP-LOC (NNP Calif.) ))))
+        (, ,) ))
+    (VP (VBD were) 
+      (VP 
+        (ADVP-MNR (RB jointly) )
+        (VP (VBN fined) 
+          (NP (-NONE- *-1) )
+          (NP ($ $) (CD 15,000) (-NONE- *U*) ))
+        (CC and) 
+        (VP (VBD expelled) 
+          (NP (-NONE- *-1) ))
+        (PP (IN for) 
+          (NP 
+            (NP (VBN alleged) (NNS violations) )
+            (PP (IN of) 
+              (NP 
+                (NP (VBG reporting) (NNS requirements) )
+                (PP (IN on) 
+                  (NP (NNS securities) (NNS sales) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Also, Mr. Vargas was barred from association with any NASD member.</Text><Parse>( (S 
+    (ADVP (RB Also) )
+    (, ,) 
+    (NP-SBJ-152 (NNP Mr.) (NNP Vargas) )
+    (VP (VBD was) 
+      (VP (VBN barred) 
+        (NP (-NONE- *-152) )
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (NN association) )
+            (PP (IN with) 
+              (NP (DT any) (NNP NASD) (NN member) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Neither First Securities, of Beverly Hills, nor Mr. Vargas could be reached for comment.</Text><Parse>( (S 
+    (NP-SBJ-153 (DT Neither) 
+      (NP 
+        (NP (NNP First) (NNP Securities) )
+        (, ,) 
+        (PP (IN of) 
+          (NP (NNP Beverly) (NNP Hills) ))
+        (, ,) )
+      (CC nor) 
+      (NP (NNP Mr.) (NNP Vargas) ))
+    (VP (MD could) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-153) )
+          (PP-CLR (IN for) 
+            (NP (NN comment) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A telephone-information operator had no listing for either party.</Text><Parse>( (S 
+    (NP-SBJ (DT A) (NN telephone-information) (NN operator) )
+    (VP (VBD had) 
+      (NP 
+        (NP (DT no) (NN listing) )
+        (PP (IN for) 
+          (NP (DT either) (NN party) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>J.L. Henry &amp; Co., Miami, and a principal of the firm, Henry I. Otero of Miami, were jointly fined $30,000 and expelled, for alleged improper use of a customer's funds, among other things.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP J.L.) (NNP Henry) (CC &amp;) (NNP Co.) )
+        (, ,) 
+        (NP-LOC (NNP Miami) )
+        (, ,) )
+      (CC and) 
+      (NP 
+        (NP (DT a) (NN principal) )
+        (PP (IN of) 
+          (NP (DT the) (NN firm) ))
+        (, ,) 
+        (NP 
+          (NP (NNP Henry) (NNP I.) (NNP Otero) )
+          (PP (IN of) 
+            (NP (NNP Miami) )))
+        (, ,) ))
+    (VP (VBD were) 
+      (VP 
+        (ADVP-MNR (RB jointly) )
+        (VP (VBN fined) 
+          (NP (-NONE- *-1) )
+          (NP ($ $) (CD 30,000) (-NONE- *U*) ))
+        (CC and) 
+        (VP (VBN expelled) 
+          (NP (-NONE- *-1) ))
+        (, ,) 
+        (PP (IN for) 
+          (NP 
+            (NP (JJ alleged) (JJ improper) (NN use) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT a) (NN customer) (POS 's) )
+                (NNS funds) ))
+            (, ,) 
+            (PP-LOC (IN among) 
+              (NP (JJ other) (NNS things) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Also, Mr. Otero was barred from association with any NASD member.</Text><Parse>( (S 
+    (ADVP (RB Also) )
+    (, ,) 
+    (NP-SBJ-154 (NNP Mr.) (NNP Otero) )
+    (VP (VBD was) 
+      (VP (VBN barred) 
+        (NP (-NONE- *-154) )
+        (PP-CLR (IN from) 
+          (NP 
+            (NP (NN association) )
+            (PP (IN with) 
+              (NP (DT any) (NNP NASD) (NN member) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>J.L. Henry hasn't any Miami telephone listing, an operator said.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP J.L.) (NNP Henry) )
+      (VP (VBZ has) (RB n't) 
+        (NP (DT any) (NNP Miami) (NN telephone) (NN listing) )))
+    (, ,) 
+    (NP-SBJ (DT an) (NN operator) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Otero, who apparently has an unpublished number, also couldn't be reached.</Text><Parse>( (S 
+    (NP-SBJ-155 
+      (NP (NNP Mr.) (NNP Otero) )
+      (, ,) 
+      (SBAR 
+        (WHNP-249 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-249) )
+          (ADVP (RB apparently) )
+          (VP (VBZ has) 
+            (NP (DT an) (JJ unpublished) (NN number) ))))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-155) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Biscayne Securities Corp., of Lauderhill, Fla., and a principal of the firm, Alvin Rosenblum of Plantation, Fla., were jointly fined $20,000 and given 10-day suspensions for allegedly selling securities at unfair prices.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP Biscayne) (NNP Securities) (NNP Corp.) )
+        (, ,) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Lauderhill) )
+            (, ,) 
+            (NP-LOC (NNP Fla.) )
+            (, ,) )))
+      (CC and) 
+      (NP 
+        (NP (DT a) (NN principal) )
+        (PP (IN of) 
+          (NP (DT the) (NN firm) ))
+        (, ,) 
+        (NP 
+          (NP (NNP Alvin) (NNP Rosenblum) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Plantation) )
+              (, ,) 
+              (NP-LOC (NNP Fla.) )
+              (, ,) )))))
+    (VP (VBD were) 
+      (VP 
+        (ADVP-MNR (RB jointly) )
+        (VP (VBN fined) 
+          (NP (-NONE- *-1) )
+          (NP ($ $) (CD 20,000) (-NONE- *U*) ))
+        (CC and) 
+        (VP (VBN given) 
+          (NP (-NONE- *-1) )
+          (NP (JJ 10-day) (NNS suspensions) ))
+        (PP (IN for) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *) )
+            (ADVP (RB allegedly) )
+            (VP (VBG selling) 
+              (NP (NNS securities) )
+              (PP-CLR (IN at) 
+                (NP (JJ unfair) (NNS prices) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Biscayne hasn't any telephone listing, an operator said.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Biscayne) )
+      (VP (VBZ has) (RB n't) 
+        (NP (DT any) (NN telephone) (NN listing) )))
+    (, ,) 
+    (NP-SBJ (DT an) (NN operator) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Rosenblum, who apparently has an unpublished phone number, also couldn't be reached.</Text><Parse>( (S 
+    (NP-SBJ-156 
+      (NP (NNP Mr.) (NNP Rosenblum) )
+      (, ,) 
+      (SBAR 
+        (WHNP-250 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-250) )
+          (ADVP (RB apparently) )
+          (VP (VBZ has) 
+            (NP (DT an) (JJ unpublished) (NN phone) (NN number) ))))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-156) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Triton Securities, of Danville, Calif., and a principal of the firm, Delwin George Chase, also of Danville, were jointly fined $10,000 and given 30-day suspensions as part of a settlement.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP Triton) (NNP Securities) )
+        (, ,) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Danville) )
+            (, ,) 
+            (NP-LOC (NNP Calif.) )
+            (, ,) )))
+      (CC and) 
+      (NP 
+        (NP (DT a) (NN principal) )
+        (PP (IN of) 
+          (NP (DT the) (NN firm) ))
+        (, ,) 
+        (NP 
+          (NP (NNP Delwin) (NNP George) (NNP Chase) )
+          (, ,) 
+          (PP 
+            (ADVP (RB also) )
+            (IN of) 
+            (NP (NNP Danville) ))
+          (, ,) )))
+    (VP (VBD were) 
+      (VP 
+        (ADVP-MNR (RB jointly) )
+        (VP (VBN fined) 
+          (NP (-NONE- *-1) )
+          (NP ($ $) (CD 10,000) (-NONE- *U*) ))
+        (CC and) 
+        (VP (VBN given) 
+          (NP (-NONE- *-1) )
+          (NP (JJ 30-day) (NNS suspensions) ))
+        (PP (IN as) 
+          (NP 
+            (NP (NN part) )
+            (PP (IN of) 
+              (NP (DT a) (NN settlement) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>While neither admitting nor denying wrongdoing, Triton and Mr. Chase consented to findings of violations in connection with limited-partnership sales.</Text><Parse>( (S 
+    (SBAR-ADV (IN While) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (DT neither) (VBG admitting) (CC nor) (VBG denying) 
+          (NP (NN wrongdoing) ))))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (NNP Triton) )
+      (CC and) 
+      (NP (NNP Mr.) (NNP Chase) ))
+    (VP (VBD consented) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (NNS findings) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS violations) )
+              (PP (IN in) 
+                (NP 
+                  (NP (NN connection) )
+                  (PP (IN with) 
+                    (NP (NN limited-partnership) (NNS sales) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Officials of Triton couldn't be reached for comment.</Text><Parse>( (S 
+    (NP-SBJ-157 
+      (NP (NNS Officials) )
+      (PP (IN of) 
+        (NP (NNP Triton) )))
+    (VP (MD could) (RB n't) 
+      (VP (VB be) 
+        (VP (VBN reached) 
+          (NP (-NONE- *-157) )
+          (PP-CLR (IN for) 
+            (NP (NN comment) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Chase didn't return a telephone call to his office.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Chase) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB return) 
+        (NP 
+          (NP (DT a) (NN telephone) (NN call) )
+          (PP (TO to) 
+            (NP (PRP$ his) (NN office) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Crane &amp; Co. Securities Inc., of Mount Clemens, Mich., and its president, Glenn R. Crane, of Sterling Heights, Mich., consented to a joint fine of $10,000.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Crane) (CC &amp;) (NNP Co.) (NNP Securities) (NNP Inc.) )
+        (, ,) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Mount) (NNP Clemens) )
+            (, ,) 
+            (NP-LOC (NNP Mich.) )
+            (, ,) )))
+      (CC and) 
+      (NP 
+        (NP (PRP$ its) (NN president) )
+        (, ,) 
+        (NP 
+          (NP (NNP Glenn) (NNP R.) (NNP Crane) )
+          (, ,) 
+          (PP (IN of) 
+            (NP 
+              (NP (NNP Sterling) (NNP Heights) )
+              (, ,) 
+              (NP-LOC (NNP Mich.) )
+              (, ,) )))))
+    (VP (VBD consented) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT a) (JJ joint) (NN fine) )
+          (PP (IN of) 
+            (NP ($ $) (CD 10,000) (-NONE- *U*) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Without admitting or denying wrongdoing, they consented to findings of violations of escrow and record-keeping rules.</Text><Parse>( (S 
+    (PP (IN Without) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG admitting) (CC or) (VBG denying) 
+          (NP (NN wrongdoing) ))))
+    (, ,) 
+    (NP-SBJ-1 (PRP they) )
+    (VP (VBD consented) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (NNS findings) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS violations) )
+              (PP (IN of) 
+                (NP (NN escrow) 
+                  (CC and)
+                  (JJ record-keeping) (NNS rules) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Crane didn't return a call seeking comment.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Crane) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB return) 
+        (NP 
+          (NP (DT a) (NN call) )
+          (VP (VBG seeking) 
+            (NP (NN comment) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>First Commonwealth Securities Corp., of New Orleans, and its president, Kenneth J. Canepa, also of New Orleans, consented to a $10,000 fine.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP First) (NNP Commonwealth) (NNP Securities) (NNP Corp.) 
+        (, ,)
+        (PP (IN of) 
+          (NP (NNP New) (NNP Orleans) ))
+        (, ,) )
+      (CC and) 
+      (NP 
+        (NP (PRP$ its) (NN president) )
+        (, ,) 
+        (NP 
+          (NP (NNP Kenneth) (NNP J.) (NNP Canepa) )
+          (, ,) 
+          (PP 
+            (ADVP (RB also) )
+            (IN of) 
+            (NP (NNP New) (NNP Orleans) )))
+        (, ,) ))
+    (VP (VBD consented) 
+      (PP-CLR (TO to) 
+        (NP (DT a) 
+          (ADJP ($ $) (CD 10,000) (-NONE- *U*) )
+          (NN fine) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Also, Mr. Canepa received a two-week suspension "in a principal capacity." Without admitting or denying wrongdoing, they consented to findings that they had inaccurately represented the firm's net capital, maintained inaccurate books and records, and made other violations.</Text><Parse>( (S 
+    (ADVP (RB Also) )
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Canepa) )
+    (VP (VBD received) 
+      (NP (DT a) (JJ two-week) (NN suspension) )
+      (`` ``) 
+      (PP (IN in) 
+        (NP (DT a) (JJ principal) (NN capacity) )))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Canepa confirmed he had consented to the sanctions but declined to comment further.</Text><Parse>( (S 
+    (PP (IN Without) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG admitting) (CC or) (VBG denying) 
+          (NP (NN wrongdoing) ))))
+    (, ,) 
+    (NP-SBJ-1 (PRP they) )
+    (VP (VBD consented) 
+      (PP-CLR (TO to) 
+        (NP (NNS findings) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ (PRP they) )
+              (VP (VBD had) 
+                (VP 
+                  (VP 
+                    (ADVP-MNR (RB inaccurately) )
+                    (VBN represented) 
+                    (NP 
+                      (NP (DT the) (NN firm) (POS 's) )
+                      (NN net) (NN capital) ))
+                  (, ,) 
+                  (VP (VBD maintained) 
+                    (NP (JJ inaccurate) (NNS books) 
+                      (CC and)
+                      (NNS records) ))
+                  (, ,) 
+                  (CC and)
+                  (VP (VBD made) 
+                    (NP (JJ other) (NNS violations) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Weatherly Securities Corp., New York, and three of its principals -- Dell Eugene Keehn and William Northy Prater Jr., both of Mercer Island, Wash., and Thomas Albert McFall, of Red Bank, N.J. -- consented to a fine of $20,000.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNP Mr.) (NNP Canepa) )
+    (VP 
+      (VP (VBD confirmed) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBD had) 
+              (VP (VBN consented) 
+                (PP-CLR (TO to) 
+                  (NP (DT the) (NNS sanctions) )))))))
+      (CC but) 
+      (VP (VBD declined) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB comment) 
+              (ADVP (RB further) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Without admitting or denying wrongdoing, they consented to findings that they failed to return funds owed to customers in connection with a limited-partnership offering.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Weatherly) (NNP Securities) (NNP Corp.) )
+        (, ,) 
+        (NP-LOC (NNP New) (NNP York) )
+        (, ,) )
+      (CC and) 
+      (NP 
+        (NP 
+          (NP (CD three) )
+          (PP (IN of) 
+            (NP (PRP$ its) (NNS principals) )))
+        (PRN (: --) 
+          (NP 
+            (NP 
+              (NP 
+                (NP (NNP Dell) (NNP Eugene) (NNP Keehn) )
+                (CC and) 
+                (NP (NNP William) (NNP Northy) (NNP Prater) (NNP Jr.) ))
+              (, ,) 
+              (NP 
+                (NP (DT both) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NNP Mercer) (NNP Island) )
+                    (, ,) 
+                    (NP-LOC (NNP Wash.) )))))
+            (, ,) 
+            (CC and)
+            (NP 
+              (NP (NNP Thomas) (NNP Albert) (NNP McFall) )
+              (, ,) 
+              (PP (IN of) 
+                (NP 
+                  (NP (NNP Red) (NNP Bank) )
+                  (, ,) 
+                  (NP-LOC (NNP N.J) (. .) ))))))
+        (: --) ))
+    (VP (VBD consented) 
+      (PP-CLR (TO to) 
+        (NP 
+          (NP (DT a) (NN fine) )
+          (PP (IN of) 
+            (NP ($ $) (CD 20,000) (-NONE- *U*) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Reached at his office, Mr. McFall, currently chairman, said, "An implication that we failed to return investor funds is inappropriate and inaccurate." He described the situation as "an escrow problem, a timing issue," which he said was rapidly rectified, with no losses to customers.</Text><Parse>( (S 
+    (PP (IN Without) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG admitting) (CC or) (VBG denying) 
+          (NP (NN wrongdoing) ))))
+    (, ,) 
+    (NP-SBJ-1 (PRP they) )
+    (VP (VBD consented) 
+      (PP-CLR (TO to) 
+        (NP (NNS findings) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-2 (PRP they) )
+              (VP (VBD failed) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB return) 
+                      (NP 
+                        (NP (NNS funds) )
+                        (VP (VBN owed) 
+                          (NP (-NONE- *) )
+                          (PP-CLR (TO to) 
+                            (NP (NNS customers) ))
+                          (PP (IN in) 
+                            (NP 
+                              (NP (NN connection) )
+                              (PP (IN with) 
+                                (NP (DT a) (NN limited-partnership) (NN offering) )))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>W.N. Whelen &amp; Co., of Georgetown, Del., and its president, William N. Whelen Jr., also of Georgetown, were barred from transacting principal trades for 90 days and were jointly fined $15,000.</Text><Parse>( (S 
+    (S-ADV 
+      (NP-SBJ-1 (-NONE- *-2) )
+      (VP (VBN Reached) 
+        (NP (-NONE- *-1) )
+        (PP-LOC-CLR (IN at) 
+          (NP (PRP$ his) (NN office) ))))
+    (, ,) 
+    (NP-SBJ-2 
+      (NP (NNP Mr.) (NNP McFall) )
+      (, ,) 
+      (NP 
+        (ADVP-TMP (RB currently) )
+        (NN chairman) )
+      (, ,) )
+    (VP (VBD said) 
+      (, ,)
+      (`` ``) 
+      (S 
+        (NP-SBJ (DT An) (NN implication) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-3 (PRP we) )
+              (VP (VBD failed) 
+                (S 
+                  (NP-SBJ (-NONE- *-3) )
+                  (VP (TO to) 
+                    (VP (VB return) 
+                      (NP (NN investor) (NNS funds) ))))))))
+        (VP (VBZ is) 
+          (ADJP-PRD (JJ inappropriate) 
+            (CC and)
+            (JJ inaccurate) ))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The firm and Mr. Whelen allegedly sold securities to the public at unfair prices, among other alleged violations.</Text><Parse>( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD described) 
+      (NP (DT the) (NN situation) )
+      (PP-CLR (IN as) 
+        (NP (`` ``) 
+          (NP 
+            (NP (DT an) (NN escrow) (NN problem) )
+            (, ,) 
+            (NP (DT a) (NN timing) (NN issue) ))
+          (, ,) ('' '') 
+          (SBAR 
+            (WHNP-1 (WDT which) )
+            (S 
+              (NP-SBJ (PRP he) )
+              (VP (VBD said) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ-2 (-NONE- *T*-1) )
+                    (VP (VBD was) 
+                      (ADVP-TMP (RB rapidly) )
+                      (VP (VBN rectified) 
+                        (NP (-NONE- *-2) )
+                        (, ,) 
+                        (PP (IN with) 
+                          (NP 
+                            (NP (DT no) (NNS losses) )
+                            (PP (TO to) 
+                              (NP (NNS customers) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Whelen denied the firm had sold securities at unfair prices and suggested that the examination practices of the NASD need improvement.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NP (NNP W.N.) (NNP Whelen) (CC &amp;) (NNP Co.) )
+        (, ,) 
+        (PP (IN of) 
+          (NP 
+            (NP (NNP Georgetown) )
+            (, ,) 
+            (NP-LOC (NNP Del.) ))))
+      (, ,) 
+      (CC and)
+      (NP 
+        (NP (PRP$ its) (NN president) )
+        (, ,) 
+        (NP 
+          (NP (NNP William) (NNP N.) (NNP Whelen) (NNP Jr.) )
+          (, ,) 
+          (PP 
+            (ADVP (RB also) )
+            (IN of) 
+            (NP (NNP Georgetown) )))
+        (, ,) ))
+    (VP 
+      (VP (VBD were) 
+        (VP (VBN barred) 
+          (NP-2 (-NONE- *-1) )
+          (PP-CLR (IN from) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (VBG transacting) 
+                (NP (JJ principal) (NNS trades) ))))
+          (PP-TMP (IN for) 
+            (NP (CD 90) (NNS days) ))))
+      (CC and) 
+      (VP (VBD were) 
+        (VP 
+          (ADVP-MNR (RB jointly) )
+          (VBN fined) 
+          (NP (-NONE- *-1) )
+          (NP ($ $) (CD 15,000) (-NONE- *U*) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The firm and the NASD differ over the meaning of markup and markdown, he added.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN firm) )
+      (CC and) 
+      (NP (NNP Mr.) (NNP Whelen) ))
+    (ADVP (RB allegedly) )
+    (VP (VBD sold) 
+      (NP (NNS securities) )
+      (PP-CLR (TO to) 
+        (NP (DT the) (NN public) ))
+      (PP-CLR (IN at) 
+        (NP (JJ unfair) (NNS prices) ))
+      (, ,) 
+      (PP (IN among) 
+        (NP (JJ other) (JJ alleged) (NNS violations) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Shearson Lehman Hutton Inc., New York, which is 62%-owned by American Express Co., consented to a $10,000 fine.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Whelen) )
+    (VP 
+      (VP (VBD denied) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (DT the) (NN firm) )
+            (VP (VBD had) 
+              (VP (VBN sold) 
+                (NP (NNS securities) )
+                (PP-CLR (IN at) 
+                  (NP (JJ unfair) (NNS prices) )))))))
+      (CC and) 
+      (VP (VBD suggested) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (NN examination) (NNS practices) )
+              (PP (IN of) 
+                (NP (DT the) (NNP NASD) )))
+            (VP (VBP need) 
+              (NP (NN improvement) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Without admitting or denying wrongdoing, the firm consented to findings that it failed to respond "in a timely manner" to the NASD's requests for information in connection with a customer complaint.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ 
+        (NP (DT The) (NN firm) )
+        (CC and) 
+        (NP (DT the) (NNP NASD) ))
+      (VP (VBP differ) 
+        (PP (IN over) 
+          (NP 
+            (NP (DT the) (NN meaning) )
+            (PP (IN of) 
+              (NP (NN markup) 
+                (CC and)
+                (NN markdown) ))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A Shearson spokesman had no comment.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (NNP Inc.) )
+      (, ,) 
+      (NP-LOC (NNP New) (NNP York) )
+      (, ,) 
+      (SBAR 
+        (WHNP-251 (WDT which) )
+        (S 
+          (NP-SBJ-1 (-NONE- *T*-251) )
+          (VP (VBZ is) 
+            (VP (JJ 62%-owned) 
+              (NP (-NONE- *-1) )
+              (PP (IN by) 
+                (NP-LGS (NNP American) (NNP Express) (NNP Co.) ))))))
+      (, ,) )
+    (VP (VBD consented) 
+      (PP-CLR (TO to) 
+        (NP (DT a) 
+          (ADJP ($ $) (CD 10,000) (-NONE- *U*) )
+          (NN fine) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The following individuals were fined as indicated and barred from association with NASD members, or, where noted, suspended.</Text><Parse>( (S 
+    (PP (IN Without) 
+      (S-NOM 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG admitting) (CC or) (VBG denying) 
+          (NP (NN wrongdoing) ))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (NN firm) )
+    (VP (VBD consented) 
+      (PP-CLR (TO to) 
+        (NP (NNS findings) 
+          (SBAR (IN that) 
+            (S 
+              (NP-SBJ-2 (PRP it) )
+              (VP (VBD failed) 
+                (S 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB respond) (`` ``) 
+                      (PP-MNR (IN in) 
+                        (NP (DT a) (JJ timely) (NN manner) ))
+                      ('' '') 
+                      (PP-CLR (TO to) 
+                        (NP 
+                          (NP 
+                            (NP (DT the) (NNP NASD) (POS 's) )
+                            (NNS requests) )
+                          (PP (IN for) 
+                            (NP 
+                              (NP (NN information) )
+                              (PP (IN in) 
+                                (NP 
+                                  (NP (NN connection) )
+                                  (PP (IN with) 
+                                    (NP (DT a) (NN customer) (NN complaint) )))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Except where noted, none of these people could be reached for comment or had any comment.</Text><Parse>( (S 
+    (NP-SBJ (DT A) (NNP Shearson) (NN spokesman) )
+    (VP (VBD had) 
+      (NP (DT no) (NN comment) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Andrew Derel Adams, Killeen, Texas, fined $15,000; John Francis Angier Jr., Reddington Shores, Fla., $15,000; Mark Anthony, Arlington Heights, Ill., $10,000 and 30-day suspension; William Stirlen, Arlington Heights, Ill., $7,500 and 30-day suspension; Fred W. Bonnell, Boulder, Colo., $2,500 and six-month suspension; Michael J. Boorse, Horsham, Pa.; David Chiodo, Dallas, $5,000, barred as a principal; Camille Chafic Cotran, London, $25,000; John William Curry, fined $5,000, ordered to disgorge $30,000, one-year suspension.</Text><Parse>( (S 
+    (NP-SBJ-2 (DT The) (VBG following) (NNS individuals) )
+    (VP (VBD were) 
+      (VP 
+        (VP (VBN fined) 
+          (NP (-NONE- *-2) )
+          (SBAR-MNR (IN as) 
+            (S 
+              (NP-SBJ-1 (-NONE- *) )
+              (VP (VBN indicated) 
+                (NP (-NONE- *-1) )))))
+        (CC and) 
+        (VP (VBN barred) 
+          (NP (-NONE- *-2) )
+          (PP-CLR (IN from) 
+            (NP 
+              (NP (NN association) )
+              (PP (IN with) 
+                (NP (NNP NASD) (NNS members) )))))
+        (, ,) (CC or) 
+        (VP 
+          (PRN 
+            (, ,)
+            (SBAR-LOC 
+              (WHADVP-4 (WRB where) )
+              (S 
+                (NP-SBJ-3 (-NONE- *) )
+                (VP (VBN noted) 
+                  (NP (-NONE- *-3) )
+                  (ADVP-LOC (-NONE- *T*-4) ))))
+            (, ,) )
+          (VBN suspended) 
+          (NP (-NONE- *-2) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>John William Davis, Colonsville, Miss., fined $200,000; Jeffrey Gerard Dompierre, Valrico, Fla., $5,000 and 10-day suspension; Eugene Michael Felten, La Canada, Calif., fined $25,000, ordered to disgorge $16,072 and suspended one year; Marion Stewart Spitler, La Canada, fined $15,000, ordered to disgorge $18,444 and suspended six months.</Text><Parse>( (S 
+    (PP (IN Except) 
+      (SBAR-LOC 
+        (WHADVP-1 (WRB where) )
+        (S 
+          (NP-SBJ-3 (-NONE- *) )
+          (VP (VBN noted) 
+            (NP (-NONE- *-3) )
+            (ADVP-LOC (-NONE- *T*-1) )))))
+    (, ,) 
+    (NP-SBJ-2 
+      (NP (NN none) )
+      (PP (IN of) 
+        (NP (DT these) (NNS people) )))
+    (VP 
+      (VP (MD could) 
+        (VP (VB be) 
+          (VP (VBN reached) 
+            (NP (-NONE- *-2) )
+            (PP-CLR (IN for) 
+              (NP (NN comment) )))))
+      (CC or) 
+      (VP (VBD had) 
+        (NP (DT any) (NN comment) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Felten said, "We got what amounted to a parking ticket, and by complaining about it, we ended up with a sizable fine and suspension." The matter "didn't involve anybody's securities transactions," he added.</Text><Parse>( (FRAG 
+    (FRAG 
+      (NP-SBJ-1 
+        (NP (NNP Andrew) (NNP Derel) (NNP Adams) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Killeen) )
+          (, ,) 
+          (NP (NNP Texas) )))
+      (, ,) 
+      (VP (VBN fined) 
+        (NP (-NONE- *-1) )
+        (NP ($ $) (CD 15,000) (-NONE- *U*) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP John) (NNP Francis) (NNP Angier) (NNP Jr.) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Reddington) (NNP Shores) )
+          (, ,) 
+          (NP (NNP Fla.) )
+          (, ,) ))
+      (NP ($ $) (CD 15,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Mark) (NNP Anthony) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Arlington) (NNP Heights) )
+          (, ,) 
+          (NP (NNP Ill.) )
+          (, ,) ))
+      (NP 
+        (NP ($ $) (CD 10,000) (-NONE- *U*) )
+        (CC and) 
+        (NP (JJ 30-day) (NN suspension) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP William) (NNP Stirlen) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Arlington) (NNP Heights) )
+          (, ,) 
+          (NP (NNP Ill.) )
+          (, ,) ))
+      (NP 
+        (NP ($ $) (CD 7,500) (-NONE- *U*) )
+        (CC and) 
+        (NP (JJ 30-day) (NN suspension) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Fred) (NNP W.) (NNP Bonnell) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Boulder) )
+          (, ,) 
+          (NP (NNP Colo.) )
+          (, ,) ))
+      (NP 
+        (NP ($ $) (CD 2,500) (-NONE- *U*) )
+        (CC and) 
+        (NP (JJ six-month) (NN suspension) )))
+    (: ;) 
+    (NP 
+      (NP (NNP Michael) (NNP J.) (NNP Boorse) )
+      (, ,) 
+      (NP-LOC 
+        (NP (NNP Horsham) )
+        (, ,) 
+        (NP (NNP Pa.) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ-3 
+        (NP (NNP David) (NNP Chiodo) )
+        (, ,) 
+        (NP-LOC (NNP Dallas) )
+        (, ,) )
+      (NP ($ $) (CD 5,000) (-NONE- *U*) )
+      (, ,) 
+      (VP (VBD barred) 
+        (NP (-NONE- *-3) )
+        (PP-CLR (IN as) 
+          (NP (DT a) (NN principal) ))))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Camille) (NNP Chafic) (NNP Cotran) )
+        (, ,) 
+        (NP-LOC (NNP London) )
+        (, ,) )
+      (NP ($ $) (CD 25,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ-4 (NNP John) (NNP William) (NNP Curry) )
+      (, ,) 
+      (VP 
+        (VP (VBN fined) 
+          (NP (-NONE- *-4) )
+          (NP ($ $) (CD 5,000) (-NONE- *U*) ))
+        (, ,) 
+        (VP (VBN ordered) 
+          (NP-2 (-NONE- *-4) )
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB disgorge) 
+                (NP ($ $) (CD 30,000) (-NONE- *U*) ))))))
+      (, ,) 
+      (NP (JJ one-year) (NN suspension) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Victor Stanley Fishman, Longwood, Fla., fined $25,000; William Harold Floyd, Houston, $100,000; Michael Anthony Houston, Bronx, N.Y., $15,000; Amin Jalaalwalikraam, Glenham, N.Y., $60,000; Richard F. Knapp, London, $10,000 and 30-day suspension; Deborah Renee Martin, St. Louis, $15,000; Joseph Francis Muscolina Jr., Palisades Park, N.J., $15,000; Robert C. Najarian, Brooklyn Park, Minn., $15,000; Edward Robert Norwick, Nesconset, N.Y., $30,000.</Text><Parse>( (FRAG 
+    (FRAG 
+      (NP-SBJ-4 
+        (NP (NNP John) (NNP William) (NNP Davis) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Colonsville) )
+          (, ,) 
+          (NP (NNP Miss.) )))
+      (, ,) 
+      (VP (VBN fined) 
+        (NP (-NONE- *-4) )
+        (NP ($ $) (CD 200,000) (-NONE- *U*) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Jeffrey) (NNP Gerard) (NNP Dompierre) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Valrico) )
+          (, ,) 
+          (NP (NNP Fla.) )))
+      (, ,) 
+      (NP 
+        (NP ($ $) (CD 5,000) (-NONE- *U*) )
+        (CC and) 
+        (NP (JJ 10-day) (NN suspension) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ-3 
+        (NP (NNP Eugene) (NNP Michael) (NNP Felten) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP La) (NNP Canada) )
+          (, ,) 
+          (NP (NNP Calif.) )))
+      (, ,) 
+      (VP 
+        (VP (VBN fined) 
+          (NP (-NONE- *-3) )
+          (NP ($ $) (CD 25,000) (-NONE- *U*) ))
+        (, ,) 
+        (VP (VBN ordered) 
+          (NP-2 (-NONE- *-3) )
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (VP (TO to) 
+              (VP (VB disgorge) 
+                (NP ($ $) (CD 16,072) (-NONE- *U*) )))))
+        (CC and) 
+        (VP 
+          (VP (VBN suspended) 
+            (NP (-NONE- *-3) )
+            (NP-TMP (CD one) (NN year) )))))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ-5 
+        (NP (NNP Marion) (NNP Stewart) (NNP Spitler) )
+        (, ,) 
+        (NP-LOC (NNP La) (NNP Canada) )
+        (, ,) )
+      (VP 
+        (VP (VBN fined) 
+          (NP (-NONE- *-5) )
+          (NP ($ $) (CD 15,000) (-NONE- *U*) ))
+        (, ,) 
+        (VP (VBN ordered) 
+          (NP-1 (-NONE- *-5) )
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB disgorge) 
+                (NP ($ $) (CD 18,444) (-NONE- *U*) )))))
+        (CC and) 
+        (VP 
+          (VP (VBN suspended) 
+            (NP (-NONE- *-5) )
+            (NP-TMP (CD six) (NNS months) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Charles D. Phipps Sr., Hermitage, Pa., fined $10,000; David Scott Rankin, Lake St. Louis, Mo., $15,000; Leigh A. Sanderoff, Gaithersburg, Md., fined $45,000, ordered to disgorge $12,252; Sandra Ann Smith, Ridgefield, N.J., $15,000; James G. Spence, Aloha, Ore., $5,000 and six-month suspension; Mona Sun, Jamaica Estates, N.Y., $60,000; William Swearingen, Minneapolis, $15,000 and six-month suspension; John Bew Wong, San Francisco, $25,000; Rabia M. Zayed, San Francisco, $50,000.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Felten) )
+    (VP (VBD said) 
+      (, ,)
+      (`` ``) 
+      (S 
+        (S 
+          (NP-SBJ (PRP We) )
+          (VP (VBD got) 
+            (SBAR-NOM 
+              (WHNP-252 (WP what) )
+              (S 
+                (NP-SBJ (-NONE- *T*-252) )
+                (VP (VBD amounted) 
+                  (PP-CLR (TO to) 
+                    (NP (DT a) (NN parking) (NN ticket) )))))))
+        (, ,) 
+        (CC and)
+        (S 
+          (PP-MNR (IN by) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG complaining) 
+                (PP-CLR (IN about) 
+                  (NP (PRP it) )))))
+          (, ,) 
+          (NP-SBJ-1 (PRP we) )
+          (VP (VBD ended) 
+            (PRT (RP up) )
+            (PP-CLR (IN with) 
+              (NP (DT a) (JJ sizable) (NN fine) 
+                (CC and)
+                (NN suspension) ))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The following were neither barred nor suspended: Stephanie Veselich Enright, Rolling Hills, Calif., fined $2,500 and ordered to disgorge $11,762; Stuart Lane Russel, Glendale, Calif., fined $2,500 and ordered to disgorge $14,821; Devon Nilson Dahl, Fountain Valley, Calif., fined $82,389.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ (DT The) (NN matter) )
+      (`` ``) 
+      (VP (VBD did) (RB n't) 
+        (VP (VB involve) 
+          (NP 
+            (NP (NN anybody) (POS 's) )
+            (NNS securities) (NNS transactions) ))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD added) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Dahl, a registered representative in the insurance business, said he "screwed up" because he didn't realize he was breaking securities laws. "Insurance agents have been forced by their companies into becoming registered reps," he said, "but they are not providing compliance and security-type training so that we can avoid stupid mistakes."</Text><Parse>( (FRAG 
+    (FRAG 
+      (NP-SBJ-1 
+        (NP (NNP Victor) (NNP Stanley) (NNP Fishman) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Longwood) )
+          (, ,) 
+          (NP (NNP Fla.) )))
+      (, ,) 
+      (VP (VBN fined) 
+        (NP (-NONE- *-1) )
+        (NP ($ $) (CD 25,000) (-NONE- *U*) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP William) (NNP Harold) (NNP Floyd) )
+        (, ,) 
+        (NP-LOC (NNP Houston) )
+        (, ,) )
+      (NP ($ $) (CD 100,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Michael) (NNP Anthony) (NNP Houston) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Bronx) )
+          (, ,) 
+          (NP (NNP N.Y.) ))
+        (, ,) )
+      (NP ($ $) (CD 15,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Amin) (NNP Jalaalwalikraam) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Glenham) )
+          (, ,) 
+          (NP (NNP N.Y.) ))
+        (, ,) )
+      (NP ($ $) (CD 60,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Richard) (NNP F.) (NNP Knapp) )
+        (, ,) 
+        (NP-LOC (NNP London) )
+        (, ,) )
+      (NP 
+        (NP ($ $) (CD 10,000) (-NONE- *U*) )
+        (CC and) 
+        (NP (JJ 30-day) (NN suspension) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Deborah) (NNP Renee) (NNP Martin) )
+        (, ,) 
+        (NP-LOC (NNP St.) (NNP Louis) )
+        (, ,) )
+      (NP ($ $) (CD 15,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Joseph) (NNP Francis) (NNP Muscolina) (NNP Jr.) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Palisades) (NNP Park) )
+          (, ,) 
+          (NP (NNP N.J.) )))
+      (, ,) 
+      (NP ($ $) (CD 15,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Robert) (NNP C.) (NNP Najarian) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Brooklyn) (NNP Park) )
+          (, ,) 
+          (NP (NNP Minn.) ))
+        (, ,) )
+      (NP ($ $) (CD 15,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Edward) (NNP Robert) (NNP Norwick) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Nesconset) )
+          (, ,) 
+          (NP (NNP N.Y.) ))
+        (, ,) )
+      (NP ($ $) (CD 30,000) (-NONE- *U*) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The following were barred or, where noted, suspended and consented to findings without admitting or denying wrongdoing: Edward L. Cole, Jackson, Miss., $10,000 fine; Rita Rae Cross, Denver, $2,500 fine and 30-day suspension; Thomas Richard Meinders, Colorado Springs, Colo., $2,000 fine, five-day suspension and eight-month suspension as a principal; Ronald A. Cutrer, Baton Rouge, La., $15,000 fine and one-month suspension; Karl Grant Hale, Midvale, Utah, $15,000 fine; Clinton P. Hayne, New Orleans, $7,500 fine and one-week suspension; Richard M. Kane, Coconut Creek, Fla., $250,000 fine; John B. Merrick, Aurora, Colo., $1,000 fine and 10-day suspension; John P. Miller, Baton Rouge, $2,000 fine and two-week suspension; Randolph K. Pace, New York, $10,000 fine and 90-day suspension; Brian D. Pitcher, New Providence, N.J., $30,000 fine; Wayne A. Russo, Bridgeville, Pa., $4,000 fine and 15-day suspension; Orville Leroy Sandberg, Aurora, Colo., $3,500 fine and 10-day suspension; Richard T. Marchese, Las Vegas, Nev., $5,000 and one-year suspension; Eric G. Monchecourt, Las Vegas, $5,000 and one-year suspension; and Robert Gerhard Smith, Carson City, Nev., two-year suspension. "I wasn't ever actively engaged in any securities activities," said Mr. Cutrer. "I never had any clients at all.</Text><Parse>( (FRAG 
+    (FRAG 
+      (NP-SBJ-1 
+        (NP (NNP Charles) (NNP D.) (NNP Phipps) (NNP Sr.) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Hermitage) )
+          (, ,) 
+          (NP (NNP Pa.) ))
+        (, ,) )
+      (VP (VBN fined) 
+        (NP (-NONE- *-1) )
+        (NP ($ $) (CD 10,000) (-NONE- *U*) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP David) (NNP Scott) (NNP Rankin) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Lake) (NNP St.) (NNP Louis) )
+          (, ,) 
+          (NP (NNP Mo.) ))
+        (, ,) )
+      (NP ($ $) (CD 15,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ-2 
+        (NP (NNP Leigh) (NNP A.) (NNP Sanderoff) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Gaithersburg) )
+          (, ,) 
+          (NP (NNP Md.) ))
+        (, ,) )
+      (VP 
+        (VP (VBN fined) 
+          (NP (-NONE- *-2) )
+          (NP ($ $) (CD 45,000) (-NONE- *U*) ))
+        (, ,) 
+        (VP (VBN ordered) 
+          (NP-3 (-NONE- *-2) )
+          (S 
+            (NP-SBJ (-NONE- *-3) )
+            (VP (TO to) 
+              (VP (VB disgorge) 
+                (NP ($ $) (CD 12,252) (-NONE- *U*) )))))))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Sandra) (NNP Ann) (NNP Smith) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Ridgefield) )
+          (, ,) 
+          (NP (NNP N.J.) ))
+        (, ,) )
+      (NP ($ $) (CD 15,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP James) (NNP G.) (NNP Spence) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Aloha) )
+          (, ,) 
+          (NP (NNP Ore.) ))
+        (, ,) )
+      (NP 
+        (NP ($ $) (CD 5,000) (-NONE- *U*) )
+        (CC and) 
+        (NP (JJ six-month) (NN suspension) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Mona) (NNP Sun) )
+        (, ,) 
+        (NP-LOC 
+          (NP (NNP Jamaica) (NNP Estates) )
+          (, ,) 
+          (NP (NNP N.Y.) ))
+        (, ,) )
+      (NP ($ $) (CD 60,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP William) (NNP Swearingen) )
+        (, ,) 
+        (NP-LOC (NNP Minneapolis) ))
+      (, ,) 
+      (NP 
+        (NP ($ $) (CD 15,000) (-NONE- *U*) )
+        (CC and) 
+        (NP (JJ six-month) (NN suspension) )))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP John) (NNP Bew) (NNP Wong) )
+        (, ,) 
+        (NP-LOC (NNP San) (NNP Francisco) )
+        (, ,) )
+      (NP ($ $) (CD 25,000) (-NONE- *U*) ))
+    (: ;) 
+    (FRAG 
+      (NP-SBJ 
+        (NP (NNP Rabia) (NNP M.) (NNP Zayed) )
+        (, ,) 
+        (NP-LOC (NNP San) (NNP Francisco) )
+        (, ,) )
+      (NP ($ $) (CD 50,000) (-NONE- *U*) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>It was just a stupid mistake to get the license," he said, adding, "I'd just as soon not get into" details of the settlement.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (VBG following) )
+      (FRAG (-NONE- *ICH*-2) ))
+    (VP (VBD were) 
+      (VP (DT neither) (VBN barred) (CC nor) (VBN suspended) 
+        (NP (-NONE- *-1) )))
+    (: :) 
+    (FRAG-2 
+      (FRAG 
+        (NP-SBJ-3 
+          (NP (NNP Stephanie) (NNP Veselich) (NNP Enright) )
+          (, ,) 
+          (NP-LOC 
+            (NP (NNP Rolling) (NNP Hills) )
+            (, ,) 
+            (NP (NNP Calif.) ))
+          (, ,) )
+        (VP 
+          (VP (VBN fined) 
+            (NP (-NONE- *-3) )
+            (NP ($ $) (CD 2,500) (-NONE- *U*) ))
+          (CC and) 
+          (VP (VBN ordered) 
+            (NP-4 (-NONE- *-3) )
+            (S 
+              (NP-SBJ (-NONE- *-4) )
+              (VP (TO to) 
+                (VP (VB disgorge) 
+                  (NP ($ $) (CD 11,762) (-NONE- *U*) )))))))
+      (: ;) 
+      (FRAG 
+        (NP-SBJ-5 
+          (NP (NNP Stuart) (NNP Lane) (NNP Russel) )
+          (, ,) 
+          (NP-LOC 
+            (NP (NNP Glendale) )
+            (, ,) 
+            (NP (NNP Calif.) ))
+          (, ,) )
+        (VP 
+          (VP (VBN fined) 
+            (NP (-NONE- *-5) )
+            (NP ($ $) (CD 2,500) (-NONE- *U*) ))
+          (CC and) 
+          (VP (VBN ordered) 
+            (NP-6 (-NONE- *-5) )
+            (S 
+              (NP-SBJ (-NONE- *-6) )
+              (VP (TO to) 
+                (VP (VB disgorge) 
+                  (NP ($ $) (CD 14,821) (-NONE- *U*) )))))))
+      (: ;) 
+      (FRAG 
+        (NP-SBJ-7 
+          (NP (NNP Devon) (NNP Nilson) (NNP Dahl) )
+          (, ,) 
+          (NP-LOC 
+            (NP (NNP Fountain) (NNP Valley) )
+            (, ,) 
+            (NP (NNP Calif.) ))
+          (, ,) )
+        (VP (VBN fined) 
+          (NP (-NONE- *-7) )
+          (NP ($ $) (CD 82,389) (-NONE- *U*) ))))
+    (. .) ))</Parse></Sentence></Sentences>

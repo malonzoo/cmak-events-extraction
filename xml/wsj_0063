@@ -1,0 +1,456 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Sea Containers Ltd. said it might increase the price of its $70-a-share buy-back plan if pressed by Temple Holdings Ltd., which made an earlier tender offer for Sea Containers.</Text><Parse>( (S 
+    (NP-SBJ (NNP Sea) (NNPS Containers) (NNP Ltd.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (MD might) 
+            (VP (VB increase) 
+              (NP 
+                (NP (DT the) (NN price) )
+                (PP (IN of) 
+                  (NP (PRP$ its) 
+                    (ADJP ($ $) (JJ 70-a-share) (-NONE- *U*) )
+                    (JJ buy-back) (NN plan) )))
+              (SBAR-ADV (IN if) 
+                (S 
+                  (NP-SBJ-1 (-NONE- *-2) )
+                  (VP (VBN pressed) 
+                    (NP (-NONE- *-1) )
+                    (PP (IN by) 
+                      (NP-LGS 
+                        (NP (NNP Temple) (NNP Holdings) (NNP Ltd.) )
+                        (, ,) 
+                        (SBAR 
+                          (WHNP-156 (WDT which) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-156) )
+                            (VP (VBD made) 
+                              (NP 
+                                (NP (DT an) (JJR earlier) (JJ tender) (NN offer) )
+                                (PP (IN for) 
+                                  (NP (NNP Sea) (NNPS Containers) ))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Sea Containers, a Hamilton, Bermuda-based shipping concern, said Tuesday that it would sell $1.1 billion of assets and use some of the proceeds to buy about 50% of its common shares for $70 apiece.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Sea) (NNPS Containers) )
+      (, ,) 
+      (NP (DT a) 
+        (ADJP (NNP Hamilton) 
+          (, ,)
+          (JJ Bermuda-based) )
+        (NN shipping) (NN concern) )
+      (, ,) )
+    (VP (VBD said) 
+      (NP-TMP (NNP Tuesday) )
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 (PRP it) )
+          (VP (MD would) 
+            (VP 
+              (VP (VB sell) 
+                (NP 
+                  (NP 
+                    (QP ($ $) (CD 1.1) (CD billion) )
+                    (-NONE- *U*) )
+                  (PP (IN of) 
+                    (NP (NNS assets) ))))
+              (CC and) 
+              (VP (VB use) 
+                (NP 
+                  (NP (DT some) )
+                  (PP (IN of) 
+                    (NP (DT the) (NNS proceeds) )))
+                (S-PRP 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP (VB buy) 
+                      (NP 
+                        (NP 
+                          (QP (IN about) (CD 50) )
+                          (NN %) )
+                        (PP (IN of) 
+                          (NP (PRP$ its) (JJ common) (NNS shares) )))
+                      (PP-CLR (IN for) 
+                        (NP 
+                          (NP ($ $) (CD 70) (-NONE- *U*) )
+                          (ADVP (RB apiece) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The move is designed to ward off a hostile takeover attempt by two European shipping concerns, Stena Holding AG and Tiphook PLC.</Text><Parse>( (S 
+    (NP-SBJ-1 (DT The) (NN move) )
+    (VP (VBZ is) 
+      (VP (VBN designed) 
+        (NP-2 (-NONE- *-1) )
+        (S-CLR 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB ward) 
+              (PRT (RP off) )
+              (NP 
+                (NP (DT a) (JJ hostile) (NN takeover) (NN attempt) )
+                (PP (IN by) 
+                  (NP 
+                    (NP (CD two) (JJ European) (NN shipping) (NNS concerns) )
+                    (, ,) 
+                    (NP 
+                      (NP (NNP Stena) (NNP Holding) (NNP AG) )
+                      (CC and) 
+                      (NP (NNP Tiphook) (NNP PLC) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In May, the two companies, through their jointly owned holding company, Temple, offered $50 a share, or $777 million, for Sea Containers.</Text><Parse>( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP May) ))
+    (, ,) 
+    (NP-SBJ (DT the) (CD two) (NNS companies) )
+    (PRN 
+      (, ,)
+      (PP-MNR (IN through) 
+        (NP 
+          (NP (PRP$ their) (RB jointly) (VBN owned) (VBG holding) (NN company) )
+          (, ,) 
+          (NP (NNP Temple) )))
+      (, ,) )
+    (VP (VBD offered) 
+      (NP 
+        (NP 
+          (NP ($ $) (CD 50) (-NONE- *U*) )
+          (NP-ADV (DT a) (NN share) ))
+        (, ,) (CC or) 
+        (NP ($ $) 
+          (QP (CD 777) (CD million) )
+          (-NONE- *U*) )
+        (, ,) )
+      (PP-CLR (IN for) 
+        (NP (NNP Sea) (NNPS Containers) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In August, Temple sweetened the offer to $63 a share, or $963 million.</Text><Parse>( (S 
+    (PP-TMP (IN In) 
+      (NP (NNP August) ))
+    (, ,) 
+    (NP-SBJ (NNP Temple) )
+    (VP (VBD sweetened) 
+      (NP (DT the) (NN offer) )
+      (PP-CLR (TO to) 
+        (NP 
+          (NP 
+            (NP ($ $) (CD 63) (-NONE- *U*) )
+            (NP-ADV (DT a) (NN share) ))
+          (, ,) (CC or) 
+          (NP 
+            (QP ($ $) (CD 963) (CD million) )
+            (-NONE- *U*) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Yesterday, Sea Containers' chief executive officer, James Sherwood, said in an interview that, under the asset-sale plan, Sea Containers would end up with a cash surplus of approximately $620 million.</Text><Parse>( (S 
+    (NP-TMP (NN Yesterday) )
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Sea) (NNPS Containers) (POS ') )
+        (JJ chief) (NN executive) (NN officer) )
+      (, ,) 
+      (NP (NNP James) (NNP Sherwood) )
+      (, ,) )
+    (VP (VBD said) 
+      (PP-LOC (IN in) 
+        (NP (DT an) (NN interview) ))
+      (SBAR (IN that) 
+        (, ,)
+        (S 
+          (PP-LOC (IN under) 
+            (NP (DT the) (JJ asset-sale) (NN plan) ))
+          (, ,) 
+          (NP-SBJ (NNP Sea) (NNPS Containers) )
+          (VP (MD would) 
+            (VP (VB end) 
+              (PRT (RP up) )
+              (PP-CLR (IN with) 
+                (NP 
+                  (NP (DT a) (NN cash) (NN surplus) )
+                  (PP (IN of) 
+                    (NP 
+                      (QP (RB approximately) ($ $) (CD 620) (CD million) )
+                      (-NONE- *U*) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>About $490 million of that would be allocated to the buy-back, leaving about $130 million, he said.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ-87 
+        (NP 
+          (QP (IN About) ($ $) (CD 490) (CD million) )
+          (-NONE- *U*) )
+        (PP (IN of) 
+          (NP (WDT that) )))
+      (VP (MD would) 
+        (VP (VB be) 
+          (VP (VBN allocated) 
+            (NP (-NONE- *-87) )
+            (PP-CLR (TO to) 
+              (NP (DT the) (NN buy-back) ))
+            (, ,) 
+            (S-ADV 
+              (NP-SBJ (-NONE- *) )
+              (VP (VBG leaving) 
+                (NP 
+                  (QP (IN about) ($ $) (CD 130) (CD million) )
+                  (-NONE- *U*) )))))))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That $130 million, Mr. Sherwood said, "gives us some flexibility in case Temple raises its bid.</Text><Parse>( (S-1 
+    (NP-SBJ (DT That) 
+      (QP ($ $) (CD 130) (CD million) )
+      (-NONE- *U*) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP Mr.) (NNP Sherwood) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (`` ``) 
+    (VP (VBZ gives) 
+      (NP (PRP us) )
+      (NP (DT some) (NN flexibility) )
+      (SBAR-PRP (IN in) (NN case) 
+        (S 
+          (NP-SBJ (NNP Temple) )
+          (VP (VBZ raises) 
+            (NP (PRP$ its) (NN bid) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>We are able to increase our price above the $70 level if necessary." He declined to say, however, how much Sea Containers might raise its price.</Text><Parse>( (S 
+    (NP-SBJ-2 (PRP We) )
+    (VP (VBP are) 
+      (ADJP-PRD (JJ able) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB increase) 
+              (NP (PRP$ our) (NN price) )
+              (PP-DIR (IN above) 
+                (NP (DT the) 
+                  (ADJP ($ $) (CD 70) (-NONE- *U*) )
+                  (NN level) ))))))
+      (SBAR-ADV (IN if) 
+        (FRAG 
+          (ADJP-PRD (JJ necessary) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Sherwood speculated that the leeway that Sea Containers has means that Temple would have to "substantially increase their bid if they're going to top us."</Text><Parse>( (S ('' '') 
+    (NP-SBJ-2 (PRP He) )
+    (VP (VBD declined) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (TO to) 
+          (VP (VB say) 
+            (PRN 
+              (, ,)
+              (ADVP (RB however) )
+              (, ,) )
+            (SBAR 
+              (WHADVP-1 (WRB how) (JJ much) )
+              (S 
+                (NP-SBJ (NNP Sea) (NNPS Containers) )
+                (VP (MD might) 
+                  (VP (VB raise) 
+                    (NP (PRP$ its) (NN price) )
+                    (ADVP (-NONE- *T*-1) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Temple, however, harshly criticized Sea Containers' plan yesterday, characterizing it as a "highly conditional device designed to entrench management, confuse shareholders and prevent them from accepting our superior cash offer."</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Sherwood) )
+    (VP (VBD speculated) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN leeway) )
+            (SBAR 
+              (WHNP-1 (IN that) )
+              (S 
+                (NP-SBJ (NNP Sea) (NNPS Containers) )
+                (VP (VBZ has) 
+                  (NP (-NONE- *T*-1) )))))
+          (VP (VBZ means) 
+            (SBAR (DT that) 
+              (S 
+                (NP-SBJ-2 (NNP Temple) )
+                (VP (MD would) 
+                  (VP (VB have) 
+                    (S 
+                      (NP-SBJ (-NONE- *-2) )
+                      (VP (TO to) (`` ``) 
+                        (VP 
+                          (ADVP-MNR (RB substantially) )
+                          (VB increase) 
+                          (NP (PRP$ their) (NN bid) )
+                          (SBAR-ADV (IN if) 
+                            (S 
+                              (NP-SBJ-3 (PRP they) )
+                              (VP (VBP 're) 
+                                (VP (VBG going) 
+                                  (S 
+                                    (NP-SBJ (-NONE- *-3) )
+                                    (VP (TO to) 
+                                      (VP (VB top) 
+                                        (NP (PRP us) )))))))))))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A spokesman for Temple estimated that Sea Containers' plan -- if all the asset sales materialize -- would result in shareholders receiving only $36 to $45 a share in cash.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNP Temple) )
+    (PRN 
+      (, ,)
+      (ADVP (RB however) )
+      (, ,) )
+    (VP 
+      (ADVP-MNR (RB harshly) )
+      (VBD criticized) 
+      (NP 
+        (NP (NNP Sea) (NNPS Containers) (POS ') )
+        (NN plan) )
+      (NP-TMP (NN yesterday) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG characterizing) 
+          (NP (PRP it) )
+          (PP-CLR (IN as) 
+            (NP 
+              (NP (DT a) (`` ``) 
+                (ADJP (RB highly) (JJ conditional) )
+                (NN device) )
+              (VP (VBN designed) 
+                (NP-2 (-NONE- *) )
+                (S-CLR 
+                  (NP-SBJ (-NONE- *-2) )
+                  (VP (TO to) 
+                    (VP 
+                      (VP (VB entrench) 
+                        (NP (NN management) ))
+                      (, ,) 
+                      (VP (VB confuse) 
+                        (NP (NNS shareholders) ))
+                      (CC and) 
+                      (VP (VB prevent) 
+                        (NP-3 (PRP them) )
+                        (PP-CLR (IN from) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *-3) )
+                            (VP (VBG accepting) 
+                              (NP (PRP$ our) (JJ superior) (NN cash) (NN offer) ))))))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The lower figures, the spokesman said, would stem from preferred shares being converted to common stock and the possibility that Sea Containers' subsidiaries might be required to place their shares in the open market.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN spokesman) )
+      (PP (IN for) 
+        (NP (NNP Temple) )))
+    (VP (VBD estimated) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ 
+            (NP (NNP Sea) (NNPS Containers) (POS ') )
+            (NN plan) )
+          (PRN (: --) 
+            (SBAR-SBJ (IN if) 
+              (S 
+                (NP-SBJ (PDT all) (DT the) (NN asset) (NNS sales) )
+                (VP (VBP materialize) )))
+            (: --) )
+          (VP (MD would) 
+            (VP (VB result) 
+              (PP-CLR (IN in) 
+                (S-NOM 
+                  (NP-SBJ (NNS shareholders) )
+                  (VP (VBG receiving) 
+                    (NP 
+                      (NP 
+                        (NP 
+                          (QP (RB only) ($ $) (CD 36) (TO to) ($ $) (CD 45) )
+                          (-NONE- *U*) )
+                        (NP-ADV (DT a) (NN share) ))
+                      (PP (IN in) 
+                        (NP (NN cash) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Temple added that Sea Containers is still mired in legal problems in Bermuda, where the Supreme Court has temporarily barred Sea Containers from buying back its own stock in a case brought by Stena and Tiphook. {The court has indicated it will rule on the case by the end of the month.}</Text><Parse>( (S-1 
+    (NP-SBJ (DT The) (JJR lower) (NNS figures) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (DT the) (NN spokesman) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (VP (MD would) 
+      (VP (VB stem) 
+        (PP-CLR (IN from) 
+          (NP 
+            (S-NOM 
+              (NP-SBJ-88 (VBN preferred) (NNS shares) )
+              (VP (VBG being) 
+                (VP (VBN converted) 
+                  (NP (-NONE- *-88) )
+                  (PP-CLR (TO to) 
+                    (NP (JJ common) (NN stock) )))))
+            (CC and) 
+            (NP (DT the) (NN possibility) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ-2 
+                    (NP (NNP Sea) (NNPS Containers) (POS ') )
+                    (NNS subsidiaries) )
+                  (VP (MD might) 
+                    (VP (VB be) 
+                      (VP (VBN required) 
+                        (S 
+                          (NP-SBJ (-NONE- *-2) )
+                          (VP (TO to) 
+                            (VP (VB place) 
+                              (NP (PRP$ their) (NNS shares) )
+                              (PP-DIR (IN in) 
+                                (NP (DT the) (JJ open) (NN market) )))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Temple also said Sea Containers' plan raises "numerous legal, regulatory, financial and fairness issues," but didn't elaborate.</Text><Parse>( (S 
+    (NP-SBJ (NNP Temple) )
+    (VP (VBD added) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-2 (NNP Sea) (NNPS Containers) )
+          (VP (VBZ is) 
+            (ADVP-TMP (RB still) )
+            (VP (VBN mired) 
+              (NP (-NONE- *-2) )
+              (PP-LOC-CLR (IN in) 
+                (NP (JJ legal) (NNS problems) ))
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (NNP Bermuda) )
+                  (, ,) 
+                  (SBAR-LOC 
+                    (WHADVP-1 (WRB where) )
+                    (S 
+                      (NP-SBJ (DT the) (NNP Supreme) (NNP Court) )
+                      (VP (VBZ has) 
+                        (ADVP-TMP (RB temporarily) )
+                        (VP (VBN barred) 
+                          (NP-3 (NNP Sea) (NNPS Containers) )
+                          (PP-CLR (IN from) 
+                            (S-NOM 
+                              (NP-SBJ (-NONE- *-3) )
+                              (VP (VBG buying) 
+                                (PRT (RP back) )
+                                (NP (PRP$ its) (JJ own) (NN stock) ))))
+                          (PP-LOC (IN in) 
+                            (NP 
+                              (NP (DT a) (NN case) )
+                              (VP (VBN brought) 
+                                (NP (-NONE- *) )
+                                (PP (IN by) 
+                                  (NP-LGS (NNP Stena) 
+                                    (CC and)
+                                    (NNP Tiphook) )))))
+                          (ADVP-LOC (-NONE- *T*-1) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Sherwood said reaction to Sea Containers' proposal has been "very positive." In New York Stock Exchange composite trading yesterday, Sea Containers closed at $62.625, up 62.5 cents.</Text><Parse>( (S 
+    (-LRB- -LCB-)
+    (NP-SBJ (DT The) (NN court) )
+    (VP (VBZ has) 
+      (VP (VBN indicated) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP it) )
+            (VP (MD will) 
+              (VP (VB rule) 
+                (PP-CLR (IN on) 
+                  (NP (DT the) (NN case) ))
+                (PP-TMP (IN by) 
+                  (NP 
+                    (NP (DT the) (NN end) )
+                    (PP (IN of) 
+                      (NP (DT the) (NN month) ))))))))))
+    (. .) 
+    (-RRB- -RCB-)
+    ))</Parse></Sentence></Sentences>

@@ -1,0 +1,912 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Rekindled hope that two New England states will allow broader interstate banking boosted Nasdaq's bank stocks, but the over-the-counter market was up only slightly in lackluster trading.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (VBN Rekindled) (NN hope) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (CD two) (NNP New) (NNP England) (NNS states) )
+            (VP (MD will) 
+              (VP (VB allow) 
+                (NP (JJR broader) (JJ interstate) (NN banking) ))))))
+      (VP (VBD boosted) 
+        (NP 
+          (NP (NNP Nasdaq) (POS 's) )
+          (NN bank) (NNS stocks) )))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT the) (JJ over-the-counter) (NN market) )
+      (VP (VBD was) 
+        (ADVP-PRD (RB up) )
+        (ADVP (RB only) (RB slightly) )
+        (PP-LOC (IN in) 
+          (NP (JJ lackluster) (NN trading) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Nasdaq composite index added 1.01 to 456.64 on paltry volume of 118.6 million shares.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Nasdaq) (JJ composite) (NN index) )
+    (VP (VBD added) 
+      (NP (CD 1.01) )
+      (PP-DIR (TO to) 
+        (NP (CD 456.64) ))
+      (PP-LOC (IN on) 
+        (NP 
+          (NP (JJ paltry) (NN volume) )
+          (PP (IN of) 
+            (NP 
+              (QP (CD 118.6) (CD million) )
+              (NNS shares) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In terms of volume, it was an inauspicious beginning for November.</Text><Parse>( (S 
+    (PP (IN In) 
+      (NP 
+        (NP (NNS terms) )
+        (PP (IN of) 
+          (NP (NN volume) ))))
+    (, ,) 
+    (NP-SBJ (PRP it) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (DT an) (JJ inauspicious) (NN beginning) )
+        (PP (IN for) 
+          (NP (NNP November) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Yesterday's share turnover was well below the year's daily average of 133.8 million.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NN Yesterday) (POS 's) )
+      (NN share) (NN turnover) )
+    (VP (VBD was) 
+      (PP-LOC-PRD 
+        (ADVP (RB well) )
+        (IN below) 
+        (NP 
+          (NP 
+            (NP (DT the) (NN year) (POS 's) )
+            (JJ daily) (NN average) )
+          (PP (IN of) 
+            (NP (CD 133.8) (CD million) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In October, the busiest month of the year so far, daily volume averaged roughly 145 million shares.</Text><Parse>( (S 
+    (PP-TMP (IN In) 
+      (NP 
+        (NP (NNP October) )
+        (, ,) 
+        (NP 
+          (NP (DT the) (JJS busiest) (NN month) )
+          (PP (IN of) 
+            (NP (DT the) (NN year) ))
+          (ADVP (RB so) (JJ far) ))
+        (, ,) ))
+    (NP-SBJ (JJ daily) (NN volume) )
+    (VP (VBD averaged) 
+      (NP 
+        (QP (RB roughly) (CD 145) (CD million) )
+        (NNS shares) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Nasdaq 100 index of the biggest nonfinancial stocks gained 1.39 to 446.62.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNP Nasdaq) (CD 100) (NN index) )
+      (PP (IN of) 
+        (NP (DT the) (JJS biggest) (JJ nonfinancial) (NNS stocks) )))
+    (VP (VBD gained) 
+      (NP (CD 1.39) )
+      (PP-DIR (TO to) 
+        (NP (CD 446.62) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The index of the 100 largest Nasdaq financial stocks rose modestly as well, gaining 1.28 to 449.04.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN index) )
+      (PP (IN of) 
+        (NP (DT the) (CD 100) (JJS largest) (NNP Nasdaq) (JJ financial) (NNS stocks) )))
+    (VP (VBD rose) 
+      (ADVP-MNR (RB modestly) )
+      (ADVP (IN as) (RB well) )
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (VBG gaining) 
+          (NP (CD 1.28) )
+          (PP-DIR (TO to) 
+            (NP (CD 449.04) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But the broader Nasdaq bank index, which tracks thrift issues, jumped 3.23 to 436.01.</Text><Parse>( (S (CC But) 
+    (NP-SBJ 
+      (NP (DT the) (JJR broader) (NNP Nasdaq) (NN bank) (NN index) )
+      (, ,) 
+      (SBAR 
+        (WHNP-116 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-116) )
+          (VP (VBZ tracks) 
+            (NP (NN thrift) (NNS issues) ))))
+      (, ,) )
+    (VP (VBD jumped) 
+      (NP-EXT (CD 3.23) )
+      (PP-DIR (TO to) 
+        (NP (CD 436.01) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The bank stocks got a boost when Connecticut Bank &amp; Trust and Bank of New England said they no longer oppose pending legislation that would permit banks from other regions to merge with Connecticut and Massachusetts banks.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN bank) (NNS stocks) )
+    (VP (VBD got) 
+      (NP (DT a) (NN boost) )
+      (SBAR-TMP 
+        (WHADVP-2 (WRB when) )
+        (S 
+          (NP-SBJ 
+            (NP (NNP Connecticut) (NNP Bank) (CC &amp;) (NNP Trust) )
+            (CC and) 
+            (NP 
+              (NP (NNP Bank) )
+              (PP (IN of) 
+                (NP (NNP New) (NNP England) ))))
+          (VP (VBD said) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP they) )
+                (ADVP-TMP (RB no) (RB longer) )
+                (VP (VBP oppose) 
+                  (NP 
+                    (NP (VBG pending) (NN legislation) )
+                    (SBAR 
+                      (WHNP-1 (WDT that) )
+                      (S 
+                        (NP-SBJ (-NONE- *T*-1) )
+                        (VP (MD would) 
+                          (VP (VB permit) 
+                            (S 
+                              (NP-SBJ 
+                                (NP (NNS banks) )
+                                (PP-DIR (IN from) 
+                                  (NP (JJ other) (NNS regions) )))
+                              (VP (TO to) 
+                                (VP (VB merge) 
+                                  (PP-CLR (IN with) 
+                                    (NP (NNP Connecticut) 
+                                      (CC and)
+                                      (NNP Massachusetts) (NNS banks) )))))))))))))
+            (ADVP-TMP (-NONE- *T*-2) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The two banks merged in 1985.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (CD two) (NNS banks) )
+    (VP (VBD merged) 
+      (PP-TMP (IN in) 
+        (NP (CD 1985) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Bank of New England's shares are traded on the New York Stock Exchange.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP 
+        (NAC (NNP Bank) 
+          (PP (IN of) 
+            (NP (NNP New) (NNP England) )))
+        (POS 's) )
+      (NNS shares) )
+    (VP (VBP are) 
+      (VP (VBN traded) 
+        (NP (-NONE- *-1) )
+        (PP-LOC (IN on) 
+          (NP (DT the) (NNP New) (NNP York) (NNP Stock) (NNP Exchange) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The stocks of banking concerns based in Massachusetts weren't helped much by the announcement, traders said, because many of those concerns have financial problems tied to their real-estate loan portfolios, making them unattractive takeover targets.</Text><Parse>( (S-2 
+    (NP-SBJ-1 
+      (NP (DT The) (NNS stocks) )
+      (PP (IN of) 
+        (NP 
+          (NP (VBG banking) (NNS concerns) )
+          (VP (VBN based) 
+            (NP (-NONE- *) )
+            (PP-LOC-CLR (IN in) 
+              (NP (NNP Massachusetts) ))))))
+    (VP (VBD were) (RB n't) 
+      (VP (VBN helped) 
+        (NP (-NONE- *-1) )
+        (ADVP (RB much) )
+        (PP (IN by) 
+          (NP-LGS (DT the) (NN announcement) ))
+        (PRN 
+          (, ,)
+          (S 
+            (NP-SBJ (NNS traders) )
+            (VP (VBD said) 
+              (SBAR (-NONE- 0) 
+                (S (-NONE- *T*-2) ))))
+          (, ,) )
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ 
+              (NP (JJ many) )
+              (PP (IN of) 
+                (NP (DT those) (NNS concerns) )))
+            (VP (VBP have) 
+              (NP 
+                (NP (JJ financial) (NNS problems) )
+                (VP (VBN tied) 
+                  (NP (-NONE- *) )
+                  (PP-CLR (TO to) 
+                    (NP (PRP$ their) (NN real-estate) (NN loan) (NNS portfolios) ))))
+              (, ,) 
+              (S-ADV 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG making) 
+                  (S 
+                    (NP-SBJ (PRP them) )
+                    (NP-PRD (JJ unattractive) (NN takeover) (NNS targets) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But speculators, anticipating that Connecticut will approve a law permitting such interstate banking soon, immediately bid up shares of Connecticut banks on the news. "A lot of the stocks that have been under water finally saw a reason to uptick," said George Jennison, head trader of banking issues in Shearson Lehman Hutton's OTC department.</Text><Parse>( (S (CC But) 
+    (NP-SBJ-1 (NNS speculators) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG anticipating) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (NNP Connecticut) )
+            (VP (MD will) 
+              (VP (VB approve) 
+                (NP 
+                  (NP (DT a) (NN law) )
+                  (VP (VBG permitting) 
+                    (NP (JJ such) (JJ interstate) (NN banking) )))
+                (ADVP-TMP (RB soon) )))))))
+    (, ,) 
+    (ADVP-TMP (RB immediately) )
+    (VP (VBD bid) 
+      (PRT (RP up) )
+      (NP 
+        (NP (NNS shares) )
+        (PP (IN of) 
+          (NP (NNP Connecticut) (NNS banks) )))
+      (PP (IN on) 
+        (NP (DT the) (NN news) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The biggest beneficiary was Northeast Bancorp, which surged 7 3/4 to 69.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (DT A) (NN lot) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (NNS stocks) )
+            (SBAR 
+              (WHNP-117 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-117) )
+                (VP (VBP have) 
+                  (VP (VBN been) 
+                    (PP-LOC-PRD (IN under) 
+                      (NP (NN water) )))))))))
+      (ADVP-TMP (RB finally) )
+      (VP (VBD saw) 
+        (NP 
+          (NP (DT a) (NN reason) )
+          (SBAR-PRP 
+            (WHADVP-1 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB uptick) 
+                  (ADVP-PRP (-NONE- *T*-1) ))))))))
+    (, ,) ('' '') 
+    (VP (VBD said) 
+      (S (-NONE- *T*-2) ))
+    (NP-SBJ 
+      (NP (NNP George) (NNP Jennison) )
+      (, ,) 
+      (NP 
+        (NP (JJ head) (NN trader) )
+        (PP (IN of) 
+          (NP (NN banking) (NNS issues) ))
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (NNP Shearson) (NNP Lehman) (NNP Hutton) (POS 's) )
+            (NNP OTC) (NN department) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Stamford, Conn., concern has agreed to a buy-out by Bank of New York in a transaction with an indicated value of about $100 a share that expires next August.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (JJS biggest) (NN beneficiary) )
+    (VP (VBD was) 
+      (NP-PRD 
+        (NP (NNP Northeast) (NNP Bancorp) )
+        (, ,) 
+        (SBAR 
+          (WHNP-118 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-118) )
+            (VP (VBD surged) 
+              (NP-EXT 
+                (QP (CD 7) (CD 3\/4) ))
+              (PP-DIR (TO to) 
+                (NP (CD 69) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Ed Macheski, a Wilton, Conn., money manager who follows bank stocks, said the announcement effectively gives the deal "the green light."</Text><Parse>( (S 
+    (NP-SBJ (DT The) 
+      (NAC-LOC (NNP Stamford) 
+        (, ,)
+        (NNP Conn.) 
+        (, ,)
+        )
+      (NN concern) )
+    (VP (VBZ has) 
+      (VP (VBN agreed) 
+        (PP-CLR (TO to) 
+          (NP 
+            (NP (DT a) (NN buy-out) )
+            (PP (IN by) 
+              (NP 
+                (NP (NNP Bank) )
+                (PP (IN of) 
+                  (NP (NNP New) (NNP York) ))))))
+        (PP-LOC (IN in) 
+          (NP 
+            (NP (DT a) (NN transaction) )
+            (PP (IN with) 
+              (NP 
+                (NP (DT an) (VBN indicated) (NN value) )
+                (PP (IN of) 
+                  (NP 
+                    (NP 
+                      (QP (IN about) ($ $) (CD 100) )
+                      (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) )))))
+            (SBAR 
+              (WHNP-119 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-119) )
+                (VP (VBZ expires) 
+                  (NP-TMP (JJ next) (NNP August) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Jennison said Northeast Bancorp also fared well because takeover stocks have returned to favor among investors.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Ed) (NNP Macheski) )
+      (, ,) 
+      (NP (DT a) 
+        (NAC-LOC (NNP Wilton) 
+          (, ,)
+          (NNP Conn.) 
+          (, ,)
+          )
+        (NN money) (NN manager) )
+      (SBAR 
+        (WHNP-120 (WP who) )
+        (S 
+          (NP-SBJ (-NONE- *T*-120) )
+          (VP (VBZ follows) 
+            (NP (NN bank) (NNS stocks) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NN announcement) )
+          (ADVP (RB effectively) )
+          (VP (VBZ gives) 
+            (NP (DT the) (NN deal) )
+            (`` ``) 
+            (NP (DT the) (JJ green) (NN light) )))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Another OTC bank stock involved in a buy-out deal, First Constitution Financial, was higher.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Jennison) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Northeast) (NNP Bancorp) )
+          (ADVP (RB also) )
+          (VP (VBD fared) 
+            (ADVP-MNR (RB well) )
+            (SBAR-PRP (IN because) 
+              (S 
+                (NP-SBJ (NN takeover) (NNS stocks) )
+                (VP (VBP have) 
+                  (VP (VBN returned) 
+                    (PP-CLR (TO to) 
+                      (NP (VB favor) ))
+                    (PP-LOC (IN among) 
+                      (NP (NNS investors) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>It rose 7/8 to 18 1/4.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (DT Another) (NNP OTC) (NN bank) (NN stock) )
+        (VP (VBN involved) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN in) 
+            (NP (DT a) (NN buy-out) (NN deal) ))))
+      (, ,) 
+      (NP (NNP First) (NNP Constitution) (NNP Financial) )
+      (, ,) )
+    (VP (VBD was) 
+      (ADJP-PRD (JJR higher) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>First Constitution has signed a merger agreement with WFRR L.P. and GHKM Corp., under which all of its common shares will be acquired for $25 each, or $273.5 million.</Text><Parse>( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 7\/8) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 18) (CD 1\/4) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Among other Connecticut banks whose shares trade in the OTC market, Society for Savings Bancorp, based in Hartford, saw its stock rise 1 3/4 to 18 1/4.</Text><Parse>( (S 
+    (NP-SBJ (NNP First) (NNP Constitution) )
+    (VP (VBZ has) 
+      (VP (VBN signed) 
+        (NP 
+          (NP (DT a) (NN merger) (NN agreement) )
+          (SBAR-LOC (-NONE- *ICH*-1) ))
+        (PP-CLR (IN with) 
+          (NP 
+            (NP (NNP WFRR) (NNP L.P.) )
+            (CC and) 
+            (NP (NNP GHKM) (NNP Corp.) )))
+        (, ,) 
+        (SBAR-1 
+          (WHPP-2 (IN under) 
+            (WHNP (WDT which) ))
+          (S 
+            (NP-SBJ-3 
+              (NP (DT all) )
+              (PP (IN of) 
+                (NP (PRP$ its) (JJ common) (NNS shares) )))
+            (VP (MD will) 
+              (VP (VB be) 
+                (VP (VBN acquired) 
+                  (NP (-NONE- *-3) )
+                  (PP-CLR (IN for) 
+                    (NP 
+                      (NP 
+                        (NP ($ $) (CD 25) (-NONE- *U*) )
+                        (NP-ADV (DT each) ))
+                      (, ,) (CC or) 
+                      (NP 
+                        (QP ($ $) (CD 273.5) (CD million) )
+                        (-NONE- *U*) )))
+                  (PP-LOC (-NONE- *T*-2) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Centerbank added 5/8 to 8 3/4; shares of NESB, a New London-based bank holding company, rose 5/8 to 5 7/8.</Text><Parse>( (S 
+    (PP-LOC (IN Among) 
+      (NP 
+        (NP (JJ other) (NNP Connecticut) (NNS banks) )
+        (SBAR 
+          (WHNP-121 (WP$ whose) (NNS shares) )
+          (S 
+            (NP-SBJ (-NONE- *T*-121) )
+            (VP (VBP trade) 
+              (PP-LOC (IN in) 
+                (NP (DT the) (NNP OTC) (NN market) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Society) )
+        (PP (IN for) 
+          (NP (NNPS Savings) (NNP Bancorp) )))
+      (, ,) 
+      (VP (VBN based) 
+        (NP (-NONE- *) )
+        (PP-LOC-CLR (IN in) 
+          (NP (NNP Hartford) )))
+      (, ,) )
+    (VP (VBD saw) 
+      (S 
+        (NP-SBJ (PRP$ its) (NN stock) )
+        (VP (VB rise) 
+          (NP-EXT 
+            (QP (CD 1) (CD 3\/4) ))
+          (PP-DIR (TO to) 
+            (NP 
+              (QP (CD 18) (CD 1\/4) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Among other banking issues, Pennview Savings Association leapt more than 44% with a gain of 6 5/8 to 21 5/8.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (NNP Centerbank) )
+      (VP (VBD added) 
+        (NP (CD 5\/8) )
+        (PP-DIR (TO to) 
+          (NP 
+            (QP (CD 8) (CD 3\/4) )))))
+    (: ;) 
+    (S 
+      (NP-SBJ 
+        (NP (NNS shares) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNP NESB) )
+            (, ,) 
+            (NP (DT a) 
+              (ADJP (NNP New) (JJ London-based) )
+              (NN bank) (VBG holding) (NN company) )
+            (, ,) )))
+      (VP (VBD rose) 
+        (NP-EXT (CD 5\/8) )
+        (PP-DIR (TO to) 
+          (NP 
+            (QP (CD 5) (CD 7\/8) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Pennsylvania bank agreed to be acquired in a merger with Univest Corp. of Pennsylvania for $25.50 a share.</Text><Parse>( (S 
+    (PP-LOC (IN Among) 
+      (NP (JJ other) (NN banking) (NNS issues) ))
+    (, ,) 
+    (NP-SBJ (NNP Pennview) (NNPS Savings) (NNP Association) )
+    (VP (VBD leapt) 
+      (NP-EXT 
+        (QP (JJR more) (IN than) (CD 44) )
+        (NN %) )
+      (PP (IN with) 
+        (NP 
+          (NP (DT a) (NN gain) )
+          (PP (IN of) 
+            (NP 
+              (QP (CD 6) (CD 5\/8) )))
+          (PP-DIR (TO to) 
+            (NP 
+              (QP (CD 21) (CD 5\/8) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Valley Federal Savings &amp; Loan, a California thrift issue, gained 1 to 4 1/4 after reporting a third-quarter loss of $70.7 million after an $89.9 million pretax charge mostly related to its mobile home financing unit.</Text><Parse>( (S 
+    (NP-SBJ-1 (DT The) (NNP Pennsylvania) (NN bank) )
+    (VP (VBD agreed) 
+      (S 
+        (NP-SBJ-2 (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB be) 
+            (VP (VBN acquired) 
+              (NP (-NONE- *-2) )
+              (PP-LOC (IN in) 
+                (NP 
+                  (NP (DT a) (NN merger) )
+                  (PP (IN with) 
+                    (NP 
+                      (NP (NNP Univest) (NNP Corp.) )
+                      (PP (IN of) 
+                        (NP (NNP Pennsylvania) ))))))
+              (PP-CLR (IN for) 
+                (NP 
+                  (NP ($ $) (CD 25.50) (-NONE- *U*) )
+                  (NP-ADV (DT a) (NN share) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Dan E. Nelms, Valley Federal's president and chief executive officer, said the one-time charge substantially eliminates future losses associated with the unit.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (NNP Valley) (NNP Federal) (NNPS Savings) (CC &amp;) (NNP Loan) )
+      (, ,) 
+      (NP (DT a) (NNP California) (NN thrift) (NN issue) )
+      (, ,) )
+    (VP (VBD gained) 
+      (NP-EXT (CD 1) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 4) (CD 1\/4) )))
+      (PP (IN after) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG reporting) 
+            (NP 
+              (NP (DT a) (JJ third-quarter) (NN loss) )
+              (PP (IN of) 
+                (NP 
+                  (QP ($ $) (CD 70.7) (CD million) )
+                  (-NONE- *U*) )))
+            (PP-TMP (IN after) 
+              (NP 
+                (NP (DT an) 
+                  (ADJP 
+                    (QP ($ $) (CD 89.9) (CD million) )
+                    (-NONE- *U*) )
+                  (JJ pretax) (NN charge) )
+                (ADJP (RB mostly) (JJ related) 
+                  (PP (TO to) 
+                    (NP (PRP$ its) (JJ mobile) (NN home) (VBG financing) (NN unit) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He said the company's core business remains strong.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Dan) (NNP E.) (NNP Nelms) )
+      (, ,) 
+      (NP 
+        (NP (NNP Valley) (NNP Federal) (POS 's) )
+        (NX 
+          (NX (NN president) )
+          (CC and) 
+          (NX (JJ chief) (NN executive) (NN officer) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (JJ one-time) (NN charge) )
+          (VP 
+            (ADVP-MNR (RB substantially) )
+            (VBZ eliminates) 
+            (NP 
+              (NP (JJ future) (NNS losses) )
+              (VP (VBN associated) 
+                (NP (-NONE- *) )
+                (PP-CLR (IN with) 
+                  (NP (DT the) (NN unit) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He also said that after the charges, and "assuming no dramatic fluctuation in interest rates, the company expects to achieve near-record earnings in 1990."</Text><Parse>( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN company) (POS 's) )
+            (NN core) (NN business) )
+          (VP (VBZ remains) 
+            (ADJP-PRD (JJ strong) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Weisfield's surged 6 3/4 to 55 1/2 and Ratners Group's American depositary receipts, or ADRs, gained 5/8 to 12 1/4.</Text><Parse>( (S 
+    (NP-SBJ (PRP He) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (UCP 
+            (PP-TMP (IN after) 
+              (NP (DT the) (NNS charges) ))
+            (, ,) 
+            (CC and)
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (`` ``) 
+              (VP (VBG assuming) 
+                (NP 
+                  (NP (DT no) (JJ dramatic) (NN fluctuation) )
+                  (PP-LOC (IN in) 
+                    (NP (NN interest) (NNS rates) ))))))
+          (, ,) 
+          (NP-SBJ-1 (DT the) (NN company) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB achieve) 
+                  (NP (JJ near-record) (NNS earnings) )
+                  (PP-TMP (IN in) 
+                    (NP (CD 1990) )))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The two concerns said they entered into a definitive merger agreement under which Ratners will begin a tender offer for all of Weisfield's common shares for $57.50 each.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (NNP Weisfield) (POS 's) )
+      (VP (VBD surged) 
+        (NP-EXT 
+          (QP (CD 6) (CD 3\/4) ))
+        (PP-DIR (TO to) 
+          (NP 
+            (QP (CD 55) (CD 1\/2) )))))
+    (CC and) 
+    (S 
+      (NP-SBJ 
+        (NP 
+          (NP (NNP Ratners) (NNP Group) (POS 's) )
+          (JJ American) (NN depositary) (NNS receipts) )
+        (, ,) (CC or) 
+        (NP (NNS ADRs) ))
+      (, ,) 
+      (VP (VBD gained) 
+        (NP (CD 5\/8) )
+        (PP-DIR (TO to) 
+          (NP 
+            (QP (CD 12) (CD 1\/4) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Also on the takeover front, Jaguar's ADRs rose 1/4 to 13 7/8 on turnover of 4.4 million.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (CD two) (NNS concerns) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP they) )
+          (VP (VBD entered) 
+            (PP-CLR (IN into) 
+              (NP 
+                (NP (DT a) (JJ definitive) (NN merger) (NN agreement) )
+                (SBAR-LOC 
+                  (WHPP-1 (IN under) 
+                    (WHNP (WDT which) ))
+                  (S 
+                    (NP-SBJ (NNP Ratners) )
+                    (VP (MD will) 
+                      (VP (VB begin) 
+                        (NP 
+                          (NP (DT a) (NN tender) (NN offer) )
+                          (PP (IN for) 
+                            (NP 
+                              (NP (DT all) )
+                              (PP (IN of) 
+                                (NP 
+                                  (NP (NNP Weisfield) (POS 's) )
+                                  (JJ common) (NNS shares) ))))
+                          (PP (IN for) 
+                            (NP 
+                              (NP ($ $) (CD 57.50) (-NONE- *U*) )
+                              (NP-ADV (DT each) ))))
+                        (PP-LOC (-NONE- *T*-1) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Since the British auto maker became a takeover target last month, its ADRs have jumped about 78%.</Text><Parse>( (S 
+    (ADVP (RB Also) )
+    (PP-LOC (IN on) 
+      (NP (DT the) (NN takeover) (NN front) ))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP Jaguar) (POS 's) )
+      (NNPS ADRs) )
+    (VP (VBD rose) 
+      (NP-EXT (CD 1\/4) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 13) (CD 7\/8) )))
+      (PP-LOC (IN on) 
+        (NP 
+          (NP (NN turnover) )
+          (PP (IN of) 
+            (NP 
+              (QP (CD 4.4) (CD million) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>After troubled Heritage Media proposed acquiring POP Radio in a stock swap, POP Radio's shares tumbled 4 to 14 3/4.</Text><Parse>( (S 
+    (SBAR-TMP (IN Since) 
+      (S 
+        (NP-SBJ (DT the) (JJ British) (NN auto) (NN maker) )
+        (VP (VBD became) 
+          (NP-PRD (DT a) (NN takeover) (NN target) )
+          (NP-TMP (JJ last) (NN month) ))))
+    (, ,) 
+    (NP-SBJ (PRP$ its) (NNS ADRs) )
+    (VP (VBP have) 
+      (VP (VBN jumped) 
+        (NP-EXT 
+          (QP (IN about) (CD 78) )
+          (NN %) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Heritage Media, which already owns about 51% of POP Radio, proposed paying POP Radio shareholders with shares of a new class of Heritage Media preferred stock that would be convertible into four shares of Heritage Media's common.</Text><Parse>( (S 
+    (SBAR-TMP (IN After) 
+      (S 
+        (NP-SBJ-1 (JJ troubled) (NNP Heritage) (NNP Media) )
+        (VP (VBD proposed) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (VBG acquiring) 
+              (NP (NNP POP) (NNP Radio) )
+              (PP-LOC (IN in) 
+                (NP (DT a) (NN stock) (NN swap) )))))))
+    (, ,) 
+    (NP-SBJ 
+      (NP (NNP POP) (NNP Radio) (POS 's) )
+      (NNS shares) )
+    (VP (VBD tumbled) 
+      (NP-EXT (CD 4) )
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 14) (CD 3\/4) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Rally's lost 1 3/4 to 21 3/4.</Text><Parse>( (S 
+    (NP-SBJ-2 
+      (NP (NNP Heritage) (NNP Media) )
+      (, ,) 
+      (SBAR 
+        (WHNP-1 (WDT which) )
+        (S 
+          (ADVP-TMP (RB already) )
+          (NP-SBJ (-NONE- *T*-1) )
+          (VP (VBZ owns) 
+            (NP 
+              (NP 
+                (QP (IN about) (CD 51) )
+                (NN %) )
+              (PP (IN of) 
+                (NP (NNP POP) (NNP Radio) ))))))
+      (, ,) )
+    (VP (VBD proposed) 
+      (S 
+        (NP-SBJ (-NONE- *-2) )
+        (VP (VBG paying) 
+          (NP (NNP POP) (NNP Radio) (NNS shareholders) )
+          (PP-MNR (IN with) 
+            (NP 
+              (NP (NNS shares) )
+              (PP (IN of) 
+                (NP 
+                  (NP (DT a) (JJ new) (NN class) )
+                  (PP (IN of) 
+                    (NP (NNP Heritage) (NNP Media) (JJ preferred) (NN stock) ))))
+              (SBAR 
+                (WHNP-122 (WDT that) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-122) )
+                  (VP (MD would) 
+                    (VP (VB be) 
+                      (ADJP-PRD (JJ convertible) 
+                        (PP-DIR (IN into) 
+                          (NP 
+                            (NP (CD four) (NNS shares) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (NNP Heritage) (NNP Media) (POS 's) )
+                                (NN common) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The restaurant operator said it has redeemed its rights issued Monday under its shareholder rights plan.</Text><Parse>( (S 
+    (NP-SBJ (NNP Rally) (POS 's) )
+    (VP (VBN lost) 
+      (NP 
+        (QP (CD 1) (CD 3\/4) ))
+      (PP-DIR (TO to) 
+        (NP 
+          (QP (CD 21) (CD 3\/4) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The fast-food company said its decision was based on discussions with a shareholder group, Giant Group Ltd., "in an effort to resolve certain disputes with the company."</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN restaurant) (NN operator) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN redeemed) 
+              (NP 
+                (NP (PRP$ its) (NNS rights) )
+                (VP (VBN issued) 
+                  (NP (-NONE- *) )
+                  (NP-TMP (NNP Monday) )
+                  (PP-LOC (IN under) 
+                    (NP (PRP$ its) (NN shareholder) (NNS rights) (NN plan) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Giant Group is led by three Rally's directors, Burt Sugarman, James M. Trotter III and William E. Trotter II, who earlier this month indicated they had a 42.5% stake in Rally's and planned to seek a majority of seats on Rally's nine-member board.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN fast-food) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP$ its) (NN decision) )
+          (VP (VBD was) 
+            (VP (VBN based) 
+              (NP (-NONE- *-1) )
+              (PP-CLR (IN on) 
+                (NP 
+                  (NP (NNS discussions) )
+                  (PP (IN with) 
+                    (NP 
+                      (NP (DT a) (NN shareholder) (NN group) )
+                      (, ,) 
+                      (NP (NNP Giant) (NNP Group) (NNP Ltd.) )))
+                  (, ,) (`` ``) 
+                  (PP-LOC (IN in) 
+                    (NP (DT an) (NN effort) 
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB resolve) 
+                            (NP 
+                              (NP (JJ certain) (NNS disputes) )
+                              (PP (IN with) 
+                                (NP (DT the) (NN company) )))))))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>SCI Systems slipped 7/8 to 10 on volume of 858,000 shares.</Text><Parse>( (S 
+    (NP-SBJ-1 (NNP Giant) (NNP Group) )
+    (VP (VBZ is) 
+      (VP (VBN led) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (CD three) 
+              (NP (NNP Rally) (POS 's) )
+              (NNS directors) )
+            (, ,) 
+            (NP 
+              (NP (NNP Burt) (NNP Sugarman) )
+              (, ,) 
+              (NP (NNP James) (NNP M.) (NNP Trotter) (NNP III) )
+              (CC and) 
+              (NP (NNP William) (NNP E.) (NNP Trotter) (NNP II) )
+              (, ,) )
+            (SBAR 
+              (WHNP-2 (WP who) )
+              (S 
+                (NP-TMP (RB earlier) (DT this) (NN month) )
+                (NP-SBJ-3 (-NONE- *T*-2) )
+                (VP 
+                  (VP (VBD indicated) 
+                    (SBAR (-NONE- 0) 
+                      (S 
+                        (NP-SBJ (PRP they) )
+                        (VP (VBD had) 
+                          (NP 
+                            (NP (DT a) 
+                              (ADJP (CD 42.5) (NN %) )
+                              (NN stake) )
+                            (PP-LOC (IN in) 
+                              (NP (NNP Rally) (POS 's) )))))))
+                  (CC and) 
+                  (VP (VBD planned) 
+                    (S 
+                      (NP-SBJ (-NONE- *-3) )
+                      (VP (TO to) 
+                        (VP (VB seek) 
+                          (NP 
+                            (NP (DT a) (NN majority) )
+                            (PP (IN of) 
+                              (NP (NNS seats) ))
+                            (PP-LOC (IN on) 
+                              (NP 
+                                (NP (NNP Rally) (POS 's) )
+                                (JJ nine-member) (NN board) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Huntsville, Ala., electronic products maker said it expects to post a "significant" loss for its fiscal first quarter ended Sept. 30.</Text><Parse>( (S 
+    (NP-SBJ (NNP SCI) (NNP Systems) )
+    (VP (VBD slipped) 
+      (NP-EXT (CD 7\/8) )
+      (PP-DIR (TO to) 
+        (NP (CD 10) ))
+      (PP-LOC (IN on) 
+        (NP 
+          (NP (NN volume) )
+          (PP (IN of) 
+            (NP (CD 858,000) (NNS shares) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In the year-earlier period, SCI had net income of $4.8 million, or 23 cents a share, on revenue of $225.6 million.</Text><Parse>( (S 
+    (NP-SBJ (DT The) 
+      (NAC-LOC (NNP Huntsville) 
+        (, ,)
+        (NNP Ala.) 
+        (, ,)
+        )
+      (JJ electronic) (NNS products) (NN maker) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB post) 
+                  (NP 
+                    (NP (DT a) (`` ``) (JJ significant) ('' '') (NN loss) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP (PRP$ its) (JJ fiscal) (JJ first) (NN quarter) )
+                        (VP (VBN ended) 
+                          (NP-TMP (NNP Sept.) (CD 30) ))))))))))))
+    (. .) ))</Parse></Sentence></Sentences>

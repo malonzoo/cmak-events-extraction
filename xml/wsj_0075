@@ -1,0 +1,491 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Treasury said it plans to sell $30 billion in notes and bonds next week, but said the auctions will be postponed unless Congress acts quickly to lift the federal debt ceiling.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Treasury) )
+    (VP 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-1 (PRP it) )
+            (VP (VBZ plans) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB sell) 
+                    (NP 
+                      (NP 
+                        (QP ($ $) (CD 30) (CD billion) )
+                        (-NONE- *U*) )
+                      (PP (IN in) 
+                        (NP (NNS notes) 
+                          (CC and)
+                          (NNS bonds) )))
+                    (NP-TMP (IN next) (NN week) ))))))))
+      (, ,) (CC but) 
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-105 (DT the) (NNS auctions) )
+            (VP (MD will) 
+              (VP (VB be) 
+                (VP (VBN postponed) 
+                  (NP (-NONE- *-105) )
+                  (SBAR-ADV (IN unless) 
+                    (S 
+                      (NP-SBJ-2 (NNP Congress) )
+                      (VP (VBZ acts) 
+                        (ADVP-MNR (RB quickly) )
+                        (S-CLR 
+                          (NP-SBJ (-NONE- *-2) )
+                          (VP (TO to) 
+                            (VP (VB lift) 
+                              (NP (DT the) (JJ federal) (NN debt) (NN ceiling) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Michael Basham, deputy assistant secretary for federal finance, said the Treasury may wait until late Monday or even early Tuesday to announce whether the autions are to be rescheduled.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Michael) (NNP Basham) )
+      (, ,) 
+      (NP 
+        (NP (NN deputy) (NN assistant) (NN secretary) )
+        (PP (IN for) 
+          (NP (JJ federal) (NN finance) )))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-2 (DT the) (NNP Treasury) )
+          (VP (MD may) 
+            (VP (VB wait) 
+              (PP-TMP (IN until) 
+                (NP 
+                  (NP (JJ late) (NNP Monday) )
+                  (CC or) 
+                  (ADVP (RB even) )
+                  (NP (JJ early) (NNP Tuesday) )))
+              (S-CLR 
+                (NP-SBJ (-NONE- *-2) )
+                (VP (TO to) 
+                  (VP (VB announce) 
+                    (SBAR (IN whether) 
+                      (S 
+                        (NP-SBJ-1 (DT the) (NNS autions) )
+                        (VP (VBP are) 
+                          (S 
+                            (NP-SBJ-106 (-NONE- *-1) )
+                            (VP (TO to) 
+                              (VP (VB be) 
+                                (VP (VBN rescheduled) 
+                                  (NP (-NONE- *-106) ))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Unless it can raise money in financial markets, Mr. Basham said, the federal government won't have the cash to pay off $13.8 billion in Treasury bills that mature on Thursday.</Text><Parse>( (S-1 
+    (SBAR-ADV (IN Unless) 
+      (S 
+        (NP-SBJ (PRP it) )
+        (VP (MD can) 
+          (VP (VB raise) 
+            (NP (NN money) )
+            (PP-LOC (IN in) 
+              (NP (JJ financial) (NNS markets) ))))))
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (NNP Mr.) (NNP Basham) )
+        (VP (VBD said) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (NP-SBJ (DT the) (JJ federal) (NN government) )
+    (VP (MD wo) (RB n't) 
+      (VP (VB have) 
+        (NP 
+          (NP (DT the) (NN cash) )
+          (SBAR 
+            (WHADVP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB pay) 
+                  (PRT (RP off) )
+                  (NP 
+                    (NP 
+                      (QP ($ $) (CD 13.8) (CD billion) )
+                      (-NONE- *U*) )
+                    (PP (IN in) 
+                      (NP 
+                        (NP (NNP Treasury) (NNS bills) )
+                        (SBAR 
+                          (WHNP-176 (WDT that) )
+                          (S 
+                            (NP-SBJ (-NONE- *T*-176) )
+                            (VP (VBP mature) 
+                              (PP-TMP (IN on) 
+                                (NP (NNP Thursday) ))))))))
+                  (ADVP (-NONE- *T*-2) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Without congressional action, the Treasury can't sell any new securities -- even savings bonds.</Text><Parse>( (S 
+    (PP (IN Without) 
+      (NP (JJ congressional) (NN action) ))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Treasury) )
+    (VP (MD ca) (RB n't) 
+      (VP (VB sell) 
+        (NP 
+          (NP (DT any) (JJ new) (NNS securities) )
+          (PRN (: --) 
+            (ADVP (JJ even) )
+            (NP (NNS savings) (NNS bonds) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But despite partisan bickering over the debt ceiling, which has become entangled in the fight over cutting capital-gains taxes, Congress is almost certain to act in time to avoid default.</Text><Parse>( (S (CC But) 
+    (PP (IN despite) 
+      (NP 
+        (NP (JJ partisan) (NN bickering) )
+        (PP (IN over) 
+          (NP 
+            (NP (DT the) (NN debt) (NN ceiling) )
+            (, ,) 
+            (SBAR 
+              (WHNP-177 (WDT which) )
+              (S 
+                (NP-SBJ (-NONE- *T*-177) )
+                (VP (VBZ has) 
+                  (VP (VBN become) 
+                    (ADJP-PRD (JJ entangled) 
+                      (PP (IN in) 
+                        (NP 
+                          (NP (DT the) (NN fight) )
+                          (PP (IN over) 
+                            (S-NOM 
+                              (NP-SBJ (-NONE- *) )
+                              (VP (VBG cutting) 
+                                (NP (NNS capital-gains) (NNS taxes) )))))))))))))))
+    (, ,) 
+    (NP-SBJ-1 (NNP Congress) )
+    (VP (VBZ is) 
+      (ADJP-PRD (RB almost) (JJ certain) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB act) 
+              (PP-TMP (IN in) 
+                (NP 
+                  (NP (NN time) )
+                  (SBAR 
+                    (WHADVP-3 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB avoid) 
+                          (NP (NN default) )
+                          (ADVP-TMP (-NONE- *T*-3) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"Each day that Congress fails to act . . . will cause additional disruption in our borrowing schedule, possibly resulting in higher interest costs to the taxpayer," Treasury Secretary Nicholas Brady said in a speech prepared for delivery last night to a group of bankers. "To avoid these costs, and a possible default, immediate action is imperative."</Text><Parse>( (S (`` ``) 
+    (S-TPC-3 
+      (NP-SBJ 
+        (NP (DT Each) (NN day) )
+        (SBAR 
+          (WHADVP-2 (IN that) )
+          (S 
+            (NP-SBJ-1 (NNP Congress) )
+            (VP (VBZ fails) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB act) )))
+              (ADVP (-NONE- *T*-2) ))
+            (: ...) )))
+      (VP (MD will) 
+        (VP (VB cause) 
+          (NP 
+            (NP (JJ additional) (NN disruption) )
+            (PP-LOC (IN in) 
+              (NP (PRP$ our) (NN borrowing) (NN schedule) )))
+          (, ,) 
+          (S-ADV 
+            (NP-SBJ (-NONE- *) )
+            (ADVP (RB possibly) )
+            (VP (VBG resulting) 
+              (PP-CLR (IN in) 
+                (NP 
+                  (NP (JJR higher) (NN interest) (NNS costs) )
+                  (PP (TO to) 
+                    (NP (DT the) (NN taxpayer) )))))))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Treasury) (NNP Secretary) (NNP Nicholas) (NNP Brady) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-3) )
+      (PP-LOC (IN in) 
+        (NP 
+          (NP (DT a) (NN speech) )
+          (VP (VBN prepared) 
+            (NP (-NONE- *) )
+            (PP-PRP (IN for) 
+              (NP 
+                (NP (NN delivery) )
+                (NP-TMP (JJ last) (NN night) )
+                (PP (TO to) 
+                  (NP 
+                    (NP (DT a) (NN group) )
+                    (PP (IN of) 
+                      (NP (NNS bankers) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The securities to be sold next week will raise about $10 billion in cash and redeem $20 billion in maturing notes.</Text><Parse>( (S (`` ``) 
+    (S-PRP 
+      (NP-SBJ (-NONE- *) )
+      (VP (TO To) 
+        (VP (VB avoid) 
+          (NP 
+            (NP (DT these) (NNS costs) )
+            (, ,) 
+            (CC and)
+            (NP (DT a) (JJ possible) (NN default) )))))
+    (, ,) 
+    (NP-SBJ (JJ immediate) (NN action) )
+    (VP (VBZ is) 
+      (ADJP-PRD (JJ imperative) ))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The new securities, part of the federal government's regular quarterly refunding, will consist of:</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (NNS securities) )
+      (SBAR 
+        (WHNP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ-107 (-NONE- *T*-1) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN sold) 
+                (NP (-NONE- *-107) )
+                (NP-TMP (JJ next) (NN week) )))))))
+    (VP (MD will) 
+      (VP 
+        (VP (VB raise) 
+          (NP 
+            (NP 
+              (QP (RB about) ($ $) (CD 10) (CD billion) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP (NN cash) ))))
+        (CC and) 
+        (VP (VB redeem) 
+          (NP 
+            (NP 
+              (QP ($ $) (CD 20) (CD billion) )
+              (-NONE- *U*) )
+            (PP (IN in) 
+              (NP (VBG maturing) (NNS notes) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>-- $10 billion of three-year notes, to be auctioned Tuesday and to mature Nov. 15, 1992.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (JJ new) (NNS securities) )
+      (, ,) 
+      (NP 
+        (NP (NN part) )
+        (PP (IN of) 
+          (NP 
+            (NP (DT the) (JJ federal) (NN government) (POS 's) )
+            (JJ regular) (JJ quarterly) (VBG refunding) )))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB consist) 
+        (PP-CLR (IN of) )))
+    (: :) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>-- $10 billion of 10-year notes, to be auctioned Wednesday and to mature Nov. 15, 1999.</Text><Parse>( (NP (: --) 
+    (NP 
+      (QP ($ $) (CD 10) (CD billion) )
+      (-NONE- *U*) )
+    (PP (IN of) 
+      (NP (JJ three-year) (NNS notes) ))
+    (, ,) 
+    (SBAR 
+      (WHNP-1 (-NONE- 0) )
+      (S 
+        (NP-SBJ-108 (-NONE- *T*-1) )
+        (VP 
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN auctioned) 
+                (NP (-NONE- *-108) )
+                (NP-TMP (NNP Tuesday) ))))
+          (CC and) 
+          (VP (TO to) 
+            (VP (VB mature) 
+              (NP-TMP 
+                (NP (NNP Nov.) (CD 15) )
+                (, ,) 
+                (NP (CD 1992) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>-- $10 billion of 30-year bonds, to be auctioned Thursday and to mature Aug. 15, 2019.</Text><Parse>( (NP (: --) 
+    (NP 
+      (QP ($ $) (CD 10) (CD billion) )
+      (-NONE- *U*) )
+    (PP (IN of) 
+      (NP (JJ 10-year) (NNS notes) ))
+    (, ,) 
+    (SBAR 
+      (WHNP-1 (-NONE- 0) )
+      (S 
+        (NP-SBJ-109 (-NONE- *T*-1) )
+        (VP 
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN auctioned) 
+                (NP (-NONE- *-109) )
+                (NP-TMP (NNP Wednesday) ))))
+          (CC and) 
+          (VP 
+            (VP (TO to) 
+              (VP (VB mature) 
+                (NP-TMP 
+                  (NP (NNP Nov.) (CD 15) )
+                  (, ,) 
+                  (NP (CD 1999) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Treasury also said it plans to sell $10 billion in 36-day cash management bills on Thursday.</Text><Parse>( (NP (: --) 
+    (NP 
+      (QP ($ $) (CD 10) (CD billion) )
+      (-NONE- *U*) )
+    (PP (IN of) 
+      (NP (JJ 30-year) (NNS bonds) ))
+    (, ,) 
+    (SBAR 
+      (WHNP-1 (-NONE- 0) )
+      (S 
+        (NP-SBJ-110 (-NONE- *T*-1) )
+        (VP 
+          (VP (TO to) 
+            (VP (VB be) 
+              (VP (VBN auctioned) 
+                (NP (-NONE- *-110) )
+                (NP-TMP (NNP Thursday) ))))
+          (CC and) 
+          (VP (TO to) 
+            (VP (VB mature) 
+              (NP-TMP (NNP Aug.) (CD 15) 
+                (, ,)
+                (CD 2019) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>They will mature Dec. 21.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Treasury) )
+    (ADVP (RB also) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ plans) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB sell) 
+                  (NP 
+                    (NP 
+                      (QP ($ $) (CD 10) (CD billion) )
+                      (-NONE- *U*) )
+                    (PP (IN in) 
+                      (NP (JJ 36-day) (NN cash) (NN management) (NNS bills) )))
+                  (PP-TMP (IN on) 
+                    (NP (NNP Thursday) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>None of the securities will be eligible for when-issued trading until Congress approves an increase in the debt ceiling, clearing the way for a formal offering, Mr. Basham said.</Text><Parse>( (S 
+    (NP-SBJ (PRP They) )
+    (VP (MD will) 
+      (VP (VB mature) 
+        (NP-TMP (NNP Dec.) (CD 21) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Treasury said it needs to raise $47.5 billion in the current quarter in order to end December with a $20 billion cash balance.</Text><Parse>( (S 
+    (S-TPC-2 
+      (NP-SBJ 
+        (NP (NN None) )
+        (PP (IN of) 
+          (NP (DT the) (NNS securities) )))
+      (VP (MD will) 
+        (VP (VB be) 
+          (ADJP-PRD (JJ eligible) 
+            (PP (IN for) 
+              (NP (JJ when-issued) (VBG trading) )))
+          (SBAR-TMP (IN until) 
+            (S 
+              (NP-SBJ-1 (NNP Congress) )
+              (VP (VBZ approves) 
+                (NP 
+                  (NP (DT an) (NN increase) )
+                  (PP-LOC (IN in) 
+                    (NP (DT the) (NN debt) (NN ceiling) )))
+                (, ,) 
+                (S-ADV 
+                  (NP-SBJ (-NONE- *-1) )
+                  (VP (VBG clearing) 
+                    (NP 
+                      (NP (DT the) (NN way) )
+                      (PP (IN for) 
+                        (NP (DT a) (JJ formal) (NN offering) )))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Mr.) (NNP Basham) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-2) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Auctions held in October and those scheduled for next week will raise a total of $25.6 billion.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNP Treasury) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ needs) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB raise) 
+                  (NP 
+                    (QP ($ $) (CD 47.5) (CD billion) )
+                    (-NONE- *U*) )
+                  (PP-TMP (IN in) 
+                    (NP (DT the) (JJ current) (NN quarter) ))
+                  (SBAR-PRP (IN in) (NN order) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (TO to) 
+                        (VP (VB end) 
+                          (NP (NNP December) )
+                          (PP-MNR (IN with) 
+                            (NP (DT a) 
+                              (ADJP 
+                                (QP ($ $) (CD 20) (CD billion) )
+                                (-NONE- *U*) )
+                              (NN cash) (NN balance) )))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The remaining $21.9 billion could be raised through the sale of short-term Treasury bills, two-year notes in November and five-year notes in early December, the Treasury said.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNS Auctions) )
+        (VP (VBD held) 
+          (NP (-NONE- *) )
+          (PP-TMP (IN in) 
+            (NP (NNP October) ))))
+      (CC and) 
+      (NP 
+        (NP (DT those) )
+        (VP (VBN scheduled) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN for) 
+            (NP (JJ next) (NN week) )))))
+    (VP (MD will) 
+      (VP (VB raise) 
+        (NP 
+          (NP (DT a) (NN total) )
+          (PP (IN of) 
+            (NP 
+              (QP ($ $) (CD 25.6) (CD billion) )
+              (-NONE- *U*) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In the first three months of 1990, the Treasury estimates that it will have to raise between $45 billion and $50 billion, assuming that it decides to aim for a $10 billion cash balance at the end of March.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ-111 (DT The) (VBG remaining) 
+        (QP ($ $) (CD 21.9) (CD billion) )
+        (-NONE- *U*) )
+      (VP (MD could) 
+        (VP (VB be) 
+          (VP (VBN raised) 
+            (NP (-NONE- *-111) )
+            (PP-MNR (IN through) 
+              (NP 
+                (NP 
+                  (NP (DT the) (NN sale) )
+                  (PP (IN of) 
+                    (NP (JJ short-term) (NNP Treasury) (NNS bills) )))
+                (, ,) 
+                (NP 
+                  (NP 
+                    (NP (JJ two-year) (NNS notes) )
+                    (PP-TMP (IN in) 
+                      (NP (NNP November) )))
+                  (CC and) 
+                  (NP 
+                    (NP (JJ five-year) (NNS notes) )
+                    (PP-TMP (IN in) 
+                      (NP (JJ early) (NNP December) ))))))))))
+    (, ,) 
+    (NP-SBJ (DT the) (NNP Treasury) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence></Sentences>

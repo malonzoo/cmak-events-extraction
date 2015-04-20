@@ -1,0 +1,36 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Sir Peter Walters, 58-year-old chairman of British Petroleum Co. until next March, joins the board of this cement products company on Dec. 1.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Sir) (NNP Peter) (NNP Walters) )
+      (, ,) 
+      (NP 
+        (NP (JJ 58-year-old) (NN chairman) )
+        (PP (IN of) 
+          (NP (NNP British) (NNP Petroleum) (NNP Co.) ))
+        (PP-TMP (IN until) 
+          (NP (JJ next) (NNP March) )))
+      (, ,) )
+    (VP (VBZ joins) 
+      (NP 
+        (NP (DT the) (NN board) )
+        (PP (IN of) 
+          (NP (DT this) (NN cement) (NNS products) (NN company) )))
+      (PP-TMP (IN on) 
+        (NP (NNP Dec.) (CD 1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Sir Peter will succeed Sir John Milne, 65, who retires as Blue Circle nonexecutive chairman on June 1.</Text><Parse>( (S 
+    (NP-SBJ (NNP Sir) (NNP Peter) )
+    (VP (MD will) 
+      (VP (VB succeed) 
+        (NP 
+          (NP (NNP Sir) (NNP John) (NNP Milne) )
+          (, ,) 
+          (NP (CD 65) )
+          (, ,) 
+          (SBAR 
+            (WHNP-158 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-158) )
+              (VP (VBZ retires) 
+                (PP-CLR (IN as) 
+                  (NP (NNP Blue) (NNP Circle) (JJ nonexecutive) (NN chairman) ))
+                (PP-TMP (IN on) 
+                  (NP (NNP June) (CD 1) ))))))))</Parse></Sentence></Sentences>

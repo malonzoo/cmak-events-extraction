@@ -1,0 +1,41 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Pacific First Financial Corp. said shareholders approved its acquisition by Royal Trustco Ltd. of Toronto for $27 a share, or $212 million.</Text><Parse>( (S 
+    (NP-SBJ (NNP Pacific) (NNP First) (NNP Financial) (NNP Corp.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNS shareholders) )
+          (VP (VBD approved) 
+            (NP 
+              (NP (PRP$ its) (NN acquisition) )
+              (PP (IN by) 
+                (NP 
+                  (NP (NNP Royal) (NNP Trustco) (NNP Ltd.) )
+                  (PP (IN of) 
+                    (NP (NNP Toronto) ))))
+              (PP (IN for) 
+                (NP 
+                  (NP 
+                    (NP ($ $) (CD 27) (-NONE- *U*) )
+                    (NP-ADV (DT a) (NN share) ))
+                  (, ,) (CC or) 
+                  (NP 
+                    (QP ($ $) (CD 212) (CD million) )
+                    (-NONE- *U*) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The thrift holding company said it expects to obtain regulatory approval and complete the transaction by year-end.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN thrift) (VBG holding) (NN company) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP (VBZ expects) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP 
+                  (VP (VB obtain) 
+                    (NP (JJ regulatory) (NN approval) ))
+                  (CC and) 
+                  (VP (VB complete) 
+                    (NP (DT the) (NN transaction) ))
+                  (PP-TMP (IN by) 
+                    (NP (NN year-end) )))))))))</Parse></Sentence></Sentences>

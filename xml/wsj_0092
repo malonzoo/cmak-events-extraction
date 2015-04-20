@@ -1,0 +1,273 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Troubled NBI Inc. said it fired more than half its work force and is discontinuing its hardware business to focus on its software and service operations.</Text><Parse>( (S 
+    (NP-SBJ (NNP Troubled) (NNP NBI) (NNP Inc.) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (PRP it) )
+          (VP 
+            (VP (VBD fired) 
+              (NP 
+                (QP (JJR more) (IN than) (PDT half) )
+                (PRP$ its) (NN work) (NN force) ))
+            (CC and) 
+            (VP (VBZ is) 
+              (VP (VBG discontinuing) 
+                (NP (PRP$ its) (NN hardware) (NN business) )))
+            (S-PRP 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB focus) 
+                  (PP-CLR (IN on) 
+                    (NP (PRP$ its) (NN software) 
+                      (CC and)
+                      (NN service) (NNS operations) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The ailing company, which has reported net losses for 16 consecutive quarters, said it won't manufacture network computer systems any more and will greatly reduce its costly direct sales force.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (VBG ailing) (NN company) )
+      (, ,) 
+      (SBAR 
+        (WHNP-236 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-236) )
+          (VP (VBZ has) 
+            (VP (VBN reported) 
+              (NP (JJ net) (NNS losses) )
+              (PP-TMP (IN for) 
+                (NP (CD 16) (JJ consecutive) (NNS quarters) ))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP 
+            (VP (MD wo) (RB n't) 
+              (VP (VB manufacture) 
+                (NP (NN network) (NN computer) (NNS systems) )
+                (ADVP-TMP (RB any) (JJR more) )))
+            (CC and) 
+            (VP (MD will) 
+              (ADVP-MNR (RB greatly) )
+              (VB reduce) 
+              (NP (PRP$ its) (JJ costly) (JJ direct) (NNS sales) (NN force) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Altogether, NBI said it will eliminate 266 jobs at its Boulder headquarters, 176 field sales jobs and 50 jobs at its Canadian and United Kingdom headquarters.</Text><Parse>( (S 
+    (ADVP (RB Altogether) )
+    (, ,) 
+    (NP-SBJ (NNP NBI) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (MD will) 
+            (VP (VB eliminate) 
+              (NP 
+                (NP 
+                  (NP (CD 266) (NNS jobs) )
+                  (PP-LOC (IN at) 
+                    (NP (PRP$ its) (NNP Boulder) (NN headquarters) )))
+                (, ,) 
+                (NP (CD 176) (NN field) (NNS sales) (NNS jobs) )
+                (CC and) 
+                (NP 
+                  (NP (CD 50) (NNS jobs) )
+                  (PP-LOC (IN at) 
+                    (NP (PRP$ its) 
+                      (UCP (JJ Canadian) 
+                        (CC and)
+                        (NNP United) (NNP Kingdom) )
+                      (NN headquarters) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The company's work force will fall to about 400 people.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN company) (POS 's) )
+      (NN work) (NN force) )
+    (VP (MD will) 
+      (VP (VB fall) 
+        (PP-DIR (TO to) 
+          (NP 
+            (QP (IN about) (CD 400) )
+            (NNS people) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Stephen G. Jerritts, president and chief executive officer, said customers weren't willing to commit to an expensive NBI hardware systems because of the company's financial troubles.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Stephen) (NNP G.) (NNP Jerritts) )
+      (, ,) 
+      (NP 
+        (NP (NN president) )
+        (CC and) 
+        (NP (NN chief) (NN executive) (NN officer) ))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ-1 (NNS customers) )
+          (VP (VBD were) (RB n't) 
+            (ADJP-PRD (JJ willing) 
+              (S 
+                (NP-SBJ (-NONE- *-1) )
+                (VP (TO to) 
+                  (VP (VB commit) 
+                    (PP-CLR (TO to) 
+                      (NP (DT an) (JJ expensive) (NNP NBI) (NN hardware) (NNS systems) ))))))
+            (PP-PRP (IN because) (IN of) 
+              (NP 
+                (NP (DT the) (NN company) (POS 's) )
+                (JJ financial) (NNS troubles) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Further, he said, the company doesn't have the capital needed to build the business over the next year or two.</Text><Parse>( (S-1 
+    (ADVP (RB Further) )
+    (PRN 
+      (, ,)
+      (NP-SBJ (PRP he) )
+      (VP (VBD said) 
+        (SBAR (-NONE- 0) 
+          (S (-NONE- *T*-1) )))
+      (, ,) )
+    (NP-SBJ (DT the) (NN company) )
+    (VP (VBZ does) (RB n't) 
+      (VP (VB have) 
+        (NP 
+          (NP (DT the) (NN capital) )
+          (VP (VBN needed) 
+            (NP (-NONE- *) )
+            (S 
+              (NP-SBJ (-NONE- *) )
+              (VP (TO to) 
+                (VP (VB build) 
+                  (NP (DT the) (NN business) )
+                  (PP-TMP (IN over) 
+                    (NP (DT the) (JJ next) (NN year) 
+                      (QP (CC or) (CD two) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"We flat ran out of financing resources," Mr. Jerritts said. "We had to do something structurally and radically different."</Text><Parse>( (S (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (PRP We) )
+      (VP 
+        (ADVP (RB flat) )
+        (VBD ran) 
+        (ADVP-CLR (IN out) 
+          (PP (IN of) 
+            (NP (NN financing) (NNS resources) )))))
+    (, ,) ('' '') 
+    (NP-SBJ (NNP Mr.) (NNP Jerritts) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>As a result, he said NBI will focus on servicing its installed base of systems, trying to provide maintenance for other manufacturers and expanding its software business, using some of the applications it developed for its hardware.</Text><Parse>( (S (`` ``) 
+    (NP-SBJ-1 (PRP We) )
+    (VP (VBD had) 
+      (S 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB do) 
+            (NP 
+              (NP (NN something) )
+              (ADJP 
+                (ADVP (RB structurally) 
+                  (CC and)
+                  (RB radically) )
+                (JJ different) ))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The company currently offers a word-processing package for personal computers called Legend.</Text><Parse>( (S 
+    (PP-PRP (IN As) 
+      (NP (DT a) (NN result) ))
+    (, ,) 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP NBI) )
+          (VP (MD will) 
+            (VP (VB focus) 
+              (PP-CLR (IN on) 
+                (S-NOM 
+                  (NP-SBJ-4 (-NONE- *) )
+                  (VP 
+                    (VP (VBG servicing) 
+                      (NP 
+                        (NP (PRP$ its) (VBN installed) (NN base) )
+                        (PP (IN of) 
+                          (NP (NNS systems) ))))
+                    (, ,) 
+                    (VP (VBG trying) 
+                      (S 
+                        (NP-SBJ (-NONE- *-4) )
+                        (VP (TO to) 
+                          (VP (VB provide) 
+                            (NP (NN maintenance) )
+                            (PP-CLR (IN for) 
+                              (NP (JJ other) (NNS manufacturers) ))))))
+                    (CC and) 
+                    (VP (VBG expanding) 
+                      (NP (PRP$ its) (NN software) (NN business) )
+                      (, ,) 
+                      (S-ADV 
+                        (NP-SBJ (-NONE- *-4) )
+                        (VP (VBG using) 
+                          (NP 
+                            (NP (DT some) )
+                            (PP (IN of) 
+                              (NP 
+                                (NP (DT the) (NNS applications) )
+                                (SBAR 
+                                  (WHNP-3 (-NONE- 0) )
+                                  (S 
+                                    (NP-SBJ (PRP it) )
+                                    (VP (VBD developed) 
+                                      (NP (-NONE- *T*-3) )
+                                      (PP (IN for) 
+                                        (NP (PRP$ its) (NN hardware) )))))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The company, which recently said it lacked the profits and capital to pay dividends on its Series A convertible preferred stock, said it has hired an investment banker to help it raise additional cash.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN company) )
+    (ADVP-TMP (RB currently) )
+    (VP (VBZ offers) 
+      (NP 
+        (NP (DT a) (NN word-processing) (NN package) )
+        (PP (IN for) 
+          (NP (JJ personal) (NNS computers) ))
+        (VP (VBN called) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (NP-PRD (NNP Legend) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In New York Stock Exchange composite trading yesterday, NBI common closed at 93 cents a share, up 31 cents.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT The) (NN company) )
+      (, ,) 
+      (SBAR 
+        (WHNP-237 (WDT which) )
+        (S 
+          (NP-SBJ (-NONE- *T*-237) )
+          (ADVP-TMP (RB recently) )
+          (VP (VBD said) 
+            (SBAR (-NONE- 0) 
+              (S 
+                (NP-SBJ (PRP it) )
+                (VP (VBD lacked) 
+                  (NP 
+                    (NP (DT the) (NNS profits) 
+                      (CC and)
+                      (NN capital) )
+                    (SBAR 
+                      (WHADVP-1 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (TO to) 
+                          (VP (VB pay) 
+                            (NP 
+                              (NP (NNS dividends) )
+                              (PP (IN on) 
+                                (NP (PRP$ its) (NNP Series) (NNP A) (JJ convertible) (VBN preferred) (NN stock) )))
+                            (ADVP-CLR (-NONE- *T*-1) ))))))))))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP it) )
+          (VP (VBZ has) 
+            (VP (VBN hired) 
+              (NP 
+                (NP (DT an) (NN investment) (NN banker) )
+                (SBAR 
+                  (WHNP-2 (-NONE- 0) )
+                  (S 
+                    (NP-SBJ (-NONE- *T*-2) )
+                    (VP (TO to) 
+                      (VP (VB help) 
+                        (S 
+                          (NP-SBJ (PRP it) )
+                          (VP (VB raise) 
+                            (NP (JJ additional) (NN cash) )))))))))))))
+    (. .) ))</Parse></Sentence></Sentences>

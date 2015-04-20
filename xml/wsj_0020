@@ -1,0 +1,544 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The U.S., claiming some success in its trade diplomacy, removed South Korea, Taiwan and Saudi Arabia from a list of countries it is closely watching for allegedly failing to honor U.S. patents, copyrights and other intellectual-property rights.</Text><Parse>( (S 
+    (NP-SBJ-1 (DT The) (NNP U.S.) )
+    (, ,) 
+    (S-ADV 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (VBG claiming) 
+        (NP 
+          (NP (DT some) (NN success) )
+          (PP-LOC (IN in) 
+            (NP (PRP$ its) (NN trade) (NN diplomacy) )))))
+    (, ,) 
+    (VP (VBD removed) 
+      (NP 
+        (NP (NNP South) (NNP Korea) )
+        (, ,) 
+        (NP (NNP Taiwan) )
+        (CC and) 
+        (NP (NNP Saudi) (NNP Arabia) ))
+      (PP-CLR (IN from) 
+        (NP 
+          (NP (DT a) (NN list) )
+          (PP (IN of) 
+            (NP 
+              (NP (NNS countries) )
+              (SBAR 
+                (WHNP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP it) )
+                  (VP (VBZ is) 
+                    (VP 
+                      (ADVP-MNR (RB closely) )
+                      (VBG watching) 
+                      (NP (-NONE- *T*-2) )
+                      (PP-CLR (IN for) 
+                        (S-NOM 
+                          (NP-SBJ-3 (-NONE- *) )
+                          (VP 
+                            (ADVP (RB allegedly) )
+                            (VBG failing) 
+                            (S 
+                              (NP-SBJ (-NONE- *-3) )
+                              (VP (TO to) 
+                                (VP (VB honor) 
+                                  (NP (NNP U.S.) 
+                                    (NX 
+                                      (NX (NNS patents) )
+                                      (, ,) 
+                                      (NX (NNS copyrights) )
+                                      (CC and) 
+                                      (NX (JJ other) (JJ intellectual-property) (NNS rights) ))))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>However, five other countries -- China, Thailand, India, Brazil and Mexico -- will remain on that so-called priority watch list as a result of an interim review, U.S. Trade Representative Carla Hills announced.</Text><Parse>( (S 
+    (S-TPC-1 
+      (ADVP (RB However) )
+      (, ,) 
+      (NP-SBJ 
+        (NP (CD five) (JJ other) (NNS countries) )
+        (: --) 
+        (NP (NNP China) 
+          (, ,)
+          (NNP Thailand) 
+          (, ,)
+          (NNP India) 
+          (, ,)
+          (NNP Brazil) 
+          (CC and)
+          (NNP Mexico) )
+        (: --) )
+      (VP (MD will) 
+        (VP (VB remain) 
+          (PP-LOC-PRD (IN on) 
+            (NP (DT that) (JJ so-called) (NN priority) (NN watch) (NN list) ))
+          (PP-PRP (IN as) 
+            (NP 
+              (NP (DT a) (NN result) )
+              (PP (IN of) 
+                (NP (DT an) (JJ interim) (NN review) )))))))
+    (, ,) 
+    (NP-SBJ (NNP U.S.) (NNP Trade) (NNP Representative) (NNP Carla) (NNP Hills) )
+    (VP (VBD announced) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Under the new U.S. trade law, those countries could face accelerated unfair-trade investigations and stiff trade sanctions if they don't improve their protection of intellectual property by next spring.</Text><Parse>( (S 
+    (PP-LOC (IN Under) 
+      (NP (DT the) (JJ new) (NNP U.S.) (NN trade) (NN law) ))
+    (, ,) 
+    (NP-SBJ (DT those) (NNS countries) )
+    (VP (MD could) 
+      (VP (VB face) 
+        (NP 
+          (NP (JJ accelerated) (JJ unfair-trade) (NNS investigations) )
+          (CC and) 
+          (NP (JJ stiff) (NN trade) (NNS sanctions) ))
+        (SBAR-ADV (IN if) 
+          (S 
+            (NP-SBJ (PRP they) )
+            (VP (VBP do) (RB n't) 
+              (VP (VB improve) 
+                (NP 
+                  (NP (PRP$ their) (NN protection) )
+                  (PP (IN of) 
+                    (NP (JJ intellectual) (NN property) )))
+                (PP-TMP (IN by) 
+                  (NP (JJ next) (NN spring) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mrs. Hills said many of the 25 countries that she placed under varying degrees of scrutiny have made "genuine progress" on this touchy issue.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mrs.) (NNP Hills) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (JJ many) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT the) (CD 25) (NNS countries) )
+                (SBAR 
+                  (WHNP-1 (IN that) )
+                  (S 
+                    (NP-SBJ (PRP she) )
+                    (VP (VBD placed) 
+                      (NP (-NONE- *T*-1) )
+                      (PP-DIR-CLR (IN under) 
+                        (NP 
+                          (NP (VBG varying) (NNS degrees) )
+                          (PP (IN of) 
+                            (NP (NN scrutiny) ))))))))))
+          (VP (VBP have) 
+            (VP (VBN made) (`` ``) 
+              (NP 
+                (NP (JJ genuine) (NN progress) )
+                ('' '') 
+                (PP-LOC (IN on) 
+                  (NP (DT this) (JJ touchy) (NN issue) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>She said there is "growing realization" around the world that denial of intellectual-property rights harms all trading nations, and particularly the "creativity and inventiveness of an {offending} country's own citizens."</Text><Parse>( (S 
+    (NP-SBJ (PRP She) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (EX there) )
+          (VP (VBZ is) (`` ``) 
+            (NP-PRD (VBG growing) (NN realization) 
+              (SBAR (-NONE- *ICH*-1) ))
+            ('' '') 
+            (PP-LOC (IN around) 
+              (NP (DT the) (NN world) ))
+            (SBAR-1 (DT that) 
+              (S 
+                (NP-SBJ 
+                  (NP (NN denial) )
+                  (PP (IN of) 
+                    (NP (JJ intellectual-property) (NNS rights) )))
+                (VP (VBZ harms) 
+                  (NP 
+                    (NP (DT all) (VBG trading) (NNS nations) )
+                    (, ,) 
+                    (CC and)
+                    (ADVP (RB particularly) )
+                    (NP 
+                      (NP (DT the) (`` ``) (NN creativity) 
+                        (CC and)
+                        (NN inventiveness) )
+                      (PP (IN of) 
+                        (NP 
+                          (NP (DT an) 
+                            (-LRB- -LCB-)
+                            (VBG offending) 
+                            (-RRB- -RCB-)
+                            (NN country) (POS 's) )
+                          (JJ own) (NNS citizens) )))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>U.S. trade negotiators argue that countries with inadequate protections for intellectual-property rights could be hurting themselves by discouraging their own scientists and authors and by deterring U.S. high-technology firms from investing or marketing their best products there.</Text><Parse>( (S 
+    (NP-SBJ (NNP U.S.) (NN trade) (NNS negotiators) )
+    (VP (VBP argue) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ-1 
+            (NP (NNS countries) )
+            (PP (IN with) 
+              (NP 
+                (NP (JJ inadequate) (NNS protections) )
+                (PP (IN for) 
+                  (NP (JJ intellectual-property) (NNS rights) )))))
+          (VP (MD could) 
+            (VP (VB be) 
+              (VP (VBG hurting) 
+                (NP (PRP themselves) )
+                (PP 
+                  (PP (IN by) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (VBG discouraging) 
+                        (NP (PRP$ their) (JJ own) (NNS scientists) 
+                          (CC and)
+                          (NNS authors) ))))
+                  (CC and) 
+                  (PP (IN by) 
+                    (S-NOM 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (VBG deterring) 
+                        (NP-2 (NNP U.S.) (NN high-technology) (NNS firms) )
+                        (PP-CLR (IN from) 
+                          (S-NOM 
+                            (NP-SBJ (-NONE- *-2) )
+                            (VP 
+                              (VP (VBG investing) )
+                              (CC or) 
+                              (VP (VBG marketing) 
+                                (NP (PRP$ their) (JJS best) (NNS products) ))
+                              (ADVP-LOC (RB there) ))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mrs. Hills lauded South Korea for creating an intellectual-property task force and special enforcement teams of police officers and prosecutors trained to pursue movie and book pirates.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mrs.) (NNP Hills) )
+    (VP (VBD lauded) 
+      (NP-1 (NNP South) (NNP Korea) )
+      (PP-CLR (IN for) 
+        (S-NOM 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG creating) 
+            (NP 
+              (NP (DT an) (JJ intellectual-property) (NN task) (NN force) )
+              (CC and) 
+              (NP 
+                (NP (JJ special) (NN enforcement) (NNS teams) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (NN police) (NNS officers) )
+                    (CC and) 
+                    (NP (NNS prosecutors) )))
+                (VP (VBN trained) 
+                  (S 
+                    (NP-SBJ (-NONE- *) )
+                    (VP (TO to) 
+                      (VP (VB pursue) 
+                        (NP (NN movie) 
+                          (CC and)
+                          (NN book) (NNS pirates) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Seoul also has instituted effective search-and-seizure procedures to aid these teams, she said.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ (NNP Seoul) )
+      (ADVP (RB also) )
+      (VP (VBZ has) 
+        (VP (VBN instituted) 
+          (NP 
+            (NP (JJ effective) (JJ search-and-seizure) (NNS procedures) )
+            (SBAR 
+              (WHADVP-2 (-NONE- 0) )
+              (S 
+                (NP-SBJ (-NONE- *) )
+                (VP (TO to) 
+                  (VP (VB aid) 
+                    (NP (DT these) (NNS teams) )
+                    (ADVP-MNR (-NONE- *T*-2) )))))))))
+    (, ,) 
+    (NP-SBJ (PRP she) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Taiwan has improved its standing with the U.S. by initialing a bilateral copyright agreement, amending its trademark law and introducing legislation to protect foreign movie producers from unauthorized showings of their films.</Text><Parse>( (S 
+    (NP-SBJ-2 (NNP Taiwan) )
+    (VP (VBZ has) 
+      (VP (VBN improved) 
+        (NP 
+          (NP (PRP$ its) (NN standing) )
+          (PP (IN with) 
+            (NP (DT the) (NNP U.S.) )))
+        (PP-MNR (IN by) 
+          (S-NOM 
+            (NP-SBJ (-NONE- *-2) )
+            (VP 
+              (VP (VBG initialing) 
+                (NP (DT a) (JJ bilateral) (NN copyright) (NN agreement) ))
+              (, ,) 
+              (VP (VBG amending) 
+                (NP (PRP$ its) (NN trademark) (NN law) ))
+              (CC and) 
+              (VP (VBG introducing) 
+                (NP 
+                  (NP (NN legislation) )
+                  (SBAR 
+                    (WHADVP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB protect) 
+                          (NP (JJ foreign) (NN movie) (NNS producers) )
+                          (PP-CLR (IN from) 
+                            (NP 
+                              (NP (JJ unauthorized) (NNS showings) )
+                              (PP (IN of) 
+                                (NP (PRP$ their) (NNS films) ))))
+                          (ADVP-MNR (-NONE- *T*-1) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That measure could compel Taipei's growing number of small video-viewing parlors to pay movie producers for showing their films.</Text><Parse>( (S 
+    (NP-SBJ (DT That) (NN measure) )
+    (VP (MD could) 
+      (VP (VB compel) 
+        (S 
+          (NP-SBJ 
+            (NP 
+              (NP (NNP Taipei) (POS 's) )
+              (VBG growing) (NN number) )
+            (PP (IN of) 
+              (NP (JJ small) (JJ video-viewing) (NNS parlors) )))
+          (VP (TO to) 
+            (VP (VB pay) 
+              (NP (NN movie) (NNS producers) )
+              (PP-PRP (IN for) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG showing) 
+                    (NP (PRP$ their) (NNS films) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Saudi Arabia, for its part, has vowed to enact a copyright law compatible with international standards and to apply the law to computer software as well as to literary works, Mrs. Hills said.</Text><Parse>( (S 
+    (S-TPC-1 
+      (NP-SBJ-2 (NNP Saudi) (NNP Arabia) )
+      (PRN 
+        (, ,)
+        (PP (IN for) 
+          (NP (PRP$ its) (NN part) ))
+        (, ,) )
+      (VP (VBZ has) 
+        (VP (VBN vowed) 
+          (S 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB enact) 
+                  (NP 
+                    (NP (DT a) (NN copyright) (NN law) )
+                    (ADJP (JJ compatible) 
+                      (PP (IN with) 
+                        (NP (JJ international) (NNS standards) )))))))
+            (CC and) 
+            (S 
+              (NP-SBJ (-NONE- *-2) )
+              (VP (TO to) 
+                (VP (VB apply) 
+                  (NP (DT the) (NN law) )
+                  (PP-CLR 
+                    (PP (TO to) 
+                      (NP (NN computer) (NN software) ))
+                    (CONJP (RB as) (RB well) (IN as) )
+                    (PP (TO to) 
+                      (NP (JJ literary) (NNS works) ))))))))))
+    (, ,) 
+    (NP-SBJ (NNP Mrs.) (NNP Hills) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S (-NONE- *T*-1) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>These three countries aren't completely off the hook, though.</Text><Parse>( (S 
+    (NP-SBJ (DT These) (CD three) (NNS countries) )
+    (VP (VBP are) (RB n't) 
+      (PP-PRD 
+        (ADVP (RB completely) )
+        (IN off) 
+        (NP (DT the) (NN hook) ))
+      (, ,) 
+      (ADVP (RB though) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>They will remain on a lower-priority list that includes 17 other countries.</Text><Parse>( (S 
+    (NP-SBJ (PRP They) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (PP-LOC-PRD (IN on) 
+          (NP 
+            (NP (DT a) (JJ lower-priority) (NN list) )
+            (SBAR 
+              (WHNP-27 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-27) )
+                (VP (VBZ includes) 
+                  (NP (CD 17) (JJ other) (NNS countries) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Those countries -- including Japan, Italy, Canada, Greece and Spain -- are still of some concern to the U.S. but are deemed to pose less-serious problems for American patent and copyright owners than those on the "priority" list.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (DT Those) (NNS countries) )
+      (PRN (: --) 
+        (PP (IN including) 
+          (NP (NNP Japan) 
+            (, ,)
+            (NNP Italy) 
+            (, ,)
+            (NNP Canada) 
+            (, ,)
+            (NNP Greece) 
+            (CC and)
+            (NNP Spain) ))
+        (: --) ))
+    (VP 
+      (VP (VBP are) 
+        (ADVP-TMP (RB still) )
+        (PP-PRD (IN of) 
+          (NP (DT some) (NN concern) ))
+        (PP (TO to) 
+          (NP (DT the) (NNP U.S.) )))
+      (CC but) 
+      (VP (VBP are) 
+        (VP (VBN deemed) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB pose) 
+                (NP 
+                  (NP (JJ less-serious) (NNS problems) )
+                  (PP (IN for) 
+                    (NP (JJ American) (NN patent) 
+                      (CC and)
+                      (NN copyright) (NNS owners) ))
+                  (PP (IN than) 
+                    (NP 
+                      (NP (DT those) )
+                      (PP-LOC (IN on) 
+                        (NP (DT the) (`` ``) (NN priority) ('' '') (NN list) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Gary Hoffman, a Washington lawyer specializing in intellectual-property cases, said the threat of U.S. retaliation, combined with a growing recognition that protecting intellectual property is in a country's own interest, prompted the improvements made by South Korea, Taiwan and Saudi Arabia. "What this tells us is that U.S. trade law is working," he said.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (NNP Gary) (NNP Hoffman) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (NNP Washington) (NN lawyer) )
+        (VP (VBG specializing) 
+          (PP-CLR (IN in) 
+            (NP (JJ intellectual-property) (NNS cases) ))))
+      (, ,) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ 
+            (NP (DT the) (NN threat) )
+            (PP (IN of) 
+              (NP (NNP U.S.) (NN retaliation) ))
+            (, ,) 
+            (VP (VBN combined) 
+              (NP (-NONE- *) )
+              (PP-CLR (IN with) 
+                (NP (DT a) (VBG growing) (NN recognition) 
+                  (SBAR (IN that) 
+                    (S 
+                      (S-NOM-SBJ 
+                        (NP-SBJ (-NONE- *) )
+                        (VP (VBG protecting) 
+                          (NP (JJ intellectual) (NN property) )))
+                      (VP (VBZ is) 
+                        (PP-PRD (IN in) 
+                          (NP 
+                            (NP (DT a) (NN country) (POS 's) )
+                            (JJ own) (NN interest) ))))))))
+            (, ,) )
+          (VP (VBD prompted) 
+            (NP 
+              (NP (DT the) (NNS improvements) )
+              (VP (VBN made) 
+                (NP (-NONE- *) )
+                (PP (IN by) 
+                  (NP-LGS 
+                    (NP (NNP South) (NNP Korea) )
+                    (, ,) 
+                    (NP (NNP Taiwan) )
+                    (CC and) 
+                    (NP (NNP Saudi) (NNP Arabia) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He said Mexico could be one of the next countries to be removed from the priority list because of its efforts to craft a new patent law.</Text><Parse>( (S (`` ``) 
+    (S-TPC-1 
+      (SBAR-NOM-SBJ 
+        (WHNP-28 (WP What) )
+        (S 
+          (NP-SBJ (DT this) )
+          (VP (VBZ tells) 
+            (NP (PRP us) )
+            (NP (-NONE- *T*-28) ))))
+      (VP (VBZ is) 
+        (SBAR-PRD (DT that) 
+          (S 
+            (NP-SBJ (NNP U.S.) (NN trade) (NN law) )
+            (VP (VBZ is) 
+              (VP (VBG working) ))))))
+    (, ,) ('' '') 
+    (NP-SBJ (PRP he) )
+    (VP (VBD said) 
+      (S (-NONE- *T*-1) ))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mrs. Hills said that the U.S. is still concerned about "disturbing developments in Turkey and continuing slow progress in Malaysia." She didn't elaborate, although earlier U.S. trade reports have complained of videocassette piracy in Malaysia and disregard for U.S. pharmaceutical patents in Turkey.</Text><Parse>( (S 
+    (NP-SBJ (PRP He) )
+    (VP (VBD said) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Mexico) )
+          (VP (MD could) 
+            (VP (VB be) 
+              (NP-PRD 
+                (NP (CD one) )
+                (PP (IN of) 
+                  (NP 
+                    (NP (DT the) (JJ next) (NNS countries) )
+                    (SBAR 
+                      (WHNP-1 (-NONE- 0) )
+                      (S 
+                        (NP-SBJ-2 (-NONE- *T*-1) )
+                        (VP (TO to) 
+                          (VP (VB be) 
+                            (VP (VBN removed) 
+                              (NP (-NONE- *-2) )
+                              (PP-CLR (IN from) 
+                                (NP (DT the) (NN priority) (NN list) ))
+                              (PP-PRP (IN because) (IN of) 
+                                (NP (PRP$ its) (NNS efforts) 
+                                  (S 
+                                    (NP-SBJ (-NONE- *) )
+                                    (VP (TO to) 
+                                      (VP (VB craft) 
+                                        (NP (DT a) (JJ new) (NN patent) (NN law) )))))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The 1988 trade act requires Mrs. Hills to issue another review of the performance of these countries by April 30.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mrs.) (NNP Hills) )
+    (VP (VBD said) 
+      (SBAR (IN that) 
+        (S 
+          (NP-SBJ (DT the) (NNP U.S.) )
+          (VP (VBZ is) 
+            (ADVP-TMP (RB still) )
+            (ADJP-PRD (VBN concerned) 
+              (PP (IN about) (`` ``) 
+                (NP 
+                  (NP 
+                    (NP (JJ disturbing) (NNS developments) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP Turkey) )))
+                  (CC and) 
+                  (NP 
+                    (NP (VBG continuing) (JJ slow) (NN progress) )
+                    (PP-LOC (IN in) 
+                      (NP (NNP Malaysia) ))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>So far, Mrs. Hills hasn't deemed any cases bad enough to merit an accelerated investigation under the so-called special 301 provision of the act.</Text><Parse>( (S 
+    (NP-SBJ (PRP She) )
+    (VP (VBD did) (RB n't) 
+      (VP (JJ elaborate) 
+        (, ,)
+        (SBAR-ADV (IN although) 
+          (S 
+            (NP-SBJ (JJR earlier) (NNP U.S.) (NN trade) (NNS reports) )
+            (VP (VBP have) 
+              (VP (VBN complained) 
+                (PP-CLR (IN of) 
+                  (NP 
+                    (NP 
+                      (NP (NN videocassette) (NN piracy) )
+                      (PP-LOC (IN in) 
+                        (NP (NNP Malaysia) )))
+                    (CC and) 
+                    (NP 
+                      (NP (NN disregard) )
+                      (PP (IN for) 
+                        (NP (NNP U.S.) (JJ pharmaceutical) (NNS patents) ))
+                      (PP-LOC (IN in) 
+                        (NP (NNP Turkey) )))))))))))
+    (. .) ))</Parse></Sentence></Sentences>

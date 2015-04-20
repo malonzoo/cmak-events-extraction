@@ -1,0 +1,1312 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>This is the year the negative ad, for years a secondary presence in most political campaigns, became the main event.</Text><Parse>( (S 
+    (NP-SBJ (DT This) )
+    (VP (VBZ is) 
+      (NP-PRD 
+        (NP (DT the) (NN year) )
+        (SBAR 
+          (WHADVP-1 (-NONE- 0) )
+          (S 
+            (NP-SBJ 
+              (NP (DT the) (JJ negative) (NN ad) )
+              (, ,) 
+              (RRC 
+                (PP-TMP (IN for) 
+                  (NP (NNS years) ))
+                (NP 
+                  (NP (DT a) (JJ secondary) (NN presence) )
+                  (PP-LOC (IN in) 
+                    (NP (JJS most) (JJ political) (NNS campaigns) ))))
+              (, ,) )
+            (VP (VBD became) 
+              (NP-PRD (DT the) (JJ main) (NN event) )
+              (ADVP-TMP (-NONE- *T*-1) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The irony is that the attack commercial, after getting a boost in last year's presidential campaign, has come of age in an off-off election year with only a few contests scattered across the country.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN irony) )
+    (VP (VBZ is) 
+      (SBAR-PRD (IN that) 
+        (S 
+          (NP-SBJ-1 (DT the) (NN attack) (NN commercial) )
+          (, ,) 
+          (PP-TMP (IN after) 
+            (S-NOM 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VBG getting) 
+                (NP (DT a) (NN boost) )
+                (PP-LOC (IN in) 
+                  (NP 
+                    (NP (JJ last) (NN year) (POS 's) )
+                    (JJ presidential) (NN campaign) )))))
+          (, ,) 
+          (VP (VBZ has) 
+            (VP (VBN come) 
+              (PP-CLR (IN of) 
+                (NP (NN age) ))
+              (PP-TMP (IN in) 
+                (NP 
+                  (NP (DT an) (JJ off-off) (NN election) (NN year) )
+                  (PP (IN with) 
+                    (NP 
+                      (NP (RB only) (DT a) (JJ few) (NNS contests) )
+                      (VP (VBN scattered) 
+                        (NP (-NONE- *) )
+                        (PP-LOC (IN across) 
+                          (NP (DT the) (NN country) ))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But in the three leading political contests of 1989, the negative ads have reached new levels of hostility, raising fears that this kind of mudslinging, empty of significant issues, is ushering in a new era of campaigns without content.</Text><Parse>( (S (IN But) 
+    (PP-LOC (IN in) 
+      (NP 
+        (NP (DT the) (CD three) (VBG leading) (JJ political) (NNS contests) )
+        (PP (IN of) 
+          (NP (CD 1989) ))))
+    (, ,) 
+    (NP-SBJ-1 (DT the) (JJ negative) (NNS ads) )
+    (VP (VBP have) 
+      (VP (VBN reached) 
+        (NP 
+          (NP (JJ new) (NNS levels) )
+          (PP (IN of) 
+            (NP (NN hostility) )))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG raising) 
+            (NP (NNS fears) 
+              (SBAR (IN that) 
+                (S 
+                  (NP-SBJ 
+                    (NP (DT this) (NN kind) )
+                    (PP (IN of) 
+                      (NP (NN mudslinging) ))
+                    (, ,) 
+                    (ADJP (JJ empty) 
+                      (PP (IN of) 
+                        (NP (JJ significant) (NNS issues) )))
+                    (, ,) )
+                  (VP (VBZ is) 
+                    (VP (VBG ushering) 
+                      (PP-CLR (IN in) 
+                        (NP 
+                          (NP (DT a) (JJ new) (NN era) )
+                          (PP (IN of) 
+                            (NP 
+                              (NP (NNS campaigns) )
+                              (PP (IN without) 
+                                (NP (NN content) )))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"Now," says Joseph Napolitan, a pioneer in political television, "the idea is to attack first, last and always."</Text><Parse>( (S-1 (`` ``) 
+    (ADVP-TMP (RB Now) )
+    (, ,) ('' '') 
+    (PRN 
+      (SINV 
+        (VP (VBZ says) 
+          (S (-NONE- *T*-1) ))
+        (NP-SBJ 
+          (NP (NNP Joseph) (NNP Napolitan) )
+          (, ,) 
+          (NP 
+            (NP (DT a) (NN pioneer) )
+            (PP-LOC (IN in) 
+              (NP (JJ political) (NN television) )))))
+      (, ,) )
+    (`` ``) 
+    (NP-SBJ (DT the) (NN idea) )
+    (VP (VBZ is) 
+      (S-PRD 
+        (NP-SBJ (-NONE- *) )
+        (VP (TO to) 
+          (VP (VB attack) 
+            (ADVP-TMP (RB first) 
+              (, ,)
+              (RB last) 
+              (CC and)
+              (RB always) )))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A trend that started with the first stirrings of politics, accelerated with the dawn of the television age and became a sometimes-tawdry art form in 1988, has reached an entirely new stage.</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP (DT A) (NN trend) )
+      (SBAR 
+        (WHNP-72 (WDT that) )
+        (S 
+          (NP-SBJ (-NONE- *T*-72) )
+          (VP 
+            (VP (VBD started) 
+              (PP-CLR (IN with) 
+                (NP 
+                  (NP (DT the) (JJ first) (NNS stirrings) )
+                  (PP (IN of) 
+                    (NP (NNS politics) )))))
+            (, ,) 
+            (VP (VBD accelerated) 
+              (PP-CLR (IN with) 
+                (NP 
+                  (NP (DT the) (NN dawn) )
+                  (PP (IN of) 
+                    (NP (DT the) (NN television) (NN age) )))))
+            (CC and) 
+            (VP (VBD became) 
+              (NP-PRD (DT a) (JJ sometimes-tawdry) (NN art) (NN form) )
+              (PP-TMP (IN in) 
+                (NP (CD 1988) )))
+            (, ,) ))))
+    (VP (VBZ has) 
+      (VP (VBN reached) 
+        (NP (DT an) 
+          (ADJP (RB entirely) (JJ new) )
+          (NN stage) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"To get people's attention these days," says Douglas Bailey, a political consultant, "your TV ad needs to be bold and entertaining, and, more often than not, that means confrontational.</Text><Parse>( (S-2 (`` ``) 
+    (S-PRP 
+      (NP-SBJ (-NONE- *-1) )
+      (VP (TO To) 
+        (VP (VB get) 
+          (NP 
+            (NP (NNS people) (POS 's) )
+            (NN attention) )
+          (NP-TMP (DT these) (NNS days) ))))
+    (, ,) ('' '') 
+    (PRN 
+      (SINV 
+        (VP (VBZ says) 
+          (S (-NONE- *T*-2) ))
+        (NP-SBJ 
+          (NP (NNP Douglas) (NNP Bailey) )
+          (, ,) 
+          (NP (DT a) (JJ political) (NN consultant) )))
+      (, ,) )
+    (S (`` ``) 
+      (NP-SBJ-1 (PRP$ your) (NN TV) (NN ad) )
+      (VP (VBZ needs) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB be) 
+              (ADJP-PRD (JJ bold) 
+                (CC and)
+                (JJ entertaining) ))))))
+    (, ,) 
+    (CC and)
+    
+    (, ,)
+    (S 
+      (ADVP-TMP 
+        (ADVP (RBR more) (RB often) )
+        (PP (IN than) 
+          (ADVP (RB not) )))
+      (, ,) 
+      (NP-SBJ (WDT that) )
+      (VP (VBZ means) 
+        (ADJP (JJ confrontational) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>And, unlike a few years ago, you don't even have to worry whether the ad is truthful."</Text><Parse>( (S (CC And) 
+    (, ,)
+    (PP (IN unlike) 
+      (ADVP-TMP 
+        (NP (DT a) (JJ few) (NNS years) )
+        (RB ago) ))
+    (, ,) 
+    (NP-SBJ-1 (PRP you) )
+    (VP (VBP do) (RB n't) 
+      (ADVP (RB even) )
+      (VP (VB have) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB worry) 
+              (SBAR (IN whether) 
+                (S 
+                  (NP-SBJ (DT the) (NN ad) )
+                  (VP (VBZ is) 
+                    (ADJP-PRD (JJ truthful) )))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In 1989, as often as not, the principal fights in the major campaigns are prompted by the ads themselves.</Text><Parse>( (S 
+    (PP-TMP (IN In) 
+      (NP (CD 1989) ))
+    (, ,) 
+    (ADVP-TMP (RB as) (RB often) 
+      (PP (IN as) 
+        (ADVP (RB not) )))
+    (, ,) 
+    (NP-SBJ-1 
+      (NP (DT the) (JJ principal) (NNS fights) )
+      (PP-LOC (IN in) 
+        (NP (DT the) (JJ major) (NNS campaigns) )))
+    (VP (VBP are) 
+      (VP (VBN prompted) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS 
+            (NP (DT the) (NNS ads) )
+            (NP (PRP themselves) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Take a look, then, at the main attack commercials that set the tone for Tuesday's elections in New York City, New Jersey and Virginia:</Text><Parse>( (S 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Take) 
+      (NP 
+        (NP (DT a) (NN look) )
+        (PRN 
+          (, ,)
+          (ADVP (RB then) )
+          (, ,) )
+        (PP (IN at) 
+          (NP 
+            (NP (DT the) (JJ main) (NN attack) (NNS commercials) )
+            (SBAR 
+              (WHNP-73 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-73) )
+                (VP (VBD set) 
+                  (NP 
+                    (NP (DT the) (NN tone) )
+                    (PP (IN for) 
+                      (NP 
+                        (NP 
+                          (NP (NNP Tuesday) (POS 's) )
+                          (NNS elections) )
+                        (PP-LOC (IN in) 
+                          (NP 
+                            (NP (NNP New) (NNP York) (NNP City) )
+                            (, ,) 
+                            (NP (NNP New) (NNP Jersey) )
+                            (CC and) 
+                            (NP (NNP Virginia) )))))))))))))
+    (: :) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>New York City: The screen fills with a small, tight facial shot of David Dinkins, Democratic candidate for mayor of New York City. "David Dinkins failed to file his income taxes for four straight years," says a disembodied male voice.</Text><Parse>( (NP (NNP New) (NNP York) (NNP City) (: :) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>And then this television commercial, paid for by Republican Rudolph Giuliani's campaign and produced by Roger Ailes, the master of negative TV ads, really gets down to business.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN screen) )
+    (VP (VBZ fills) 
+      (PP-CLR (IN with) 
+        (NP (DT a) 
+          (NP 
+            (NP (JJ small) 
+              (, ,)
+              (JJ tight) (JJ facial) (NN shot) )
+            (PP (IN of) 
+              (NP 
+                (NP (NNP David) (NNP Dinkins) )
+                (, ,) 
+                (NP 
+                  (NP (JJ Democratic) (NN candidate) )
+                  (PP (IN for) 
+                    (NP 
+                      (NP (NN mayor) )
+                      (PP (IN of) 
+                        (NP (NNP New) (NNP York) (NNP City) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Dinkins, the ad charges, also failed to report his campaign contributions accurately, hid his links to a failing insurance company and paid a convicted kidnapper "through a phony organization with no members, no receipts and no office."</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ-2 (NNP David) (NNP Dinkins) )
+      (VP (VBD failed) 
+        (S 
+          (NP-SBJ (-NONE- *-2) )
+          (VP (TO to) 
+            (VP (VB file) 
+              (NP (PRP$ his) (NN income) (NNS taxes) ))))
+        (PP-TMP (IN for) 
+          (NP (CD four) (JJ straight) (NNS years) ))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (DT a) (JJ disembodied) (NN male) (NN voice) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"David Dinkins," says the kicker, "Why does he always wait until he's caught?"</Text><Parse>( (S (CC And) 
+    (ADVP-TMP (RB then) )
+    (NP-SBJ 
+      (NP (DT this) (NN television) (NN commercial) )
+      (, ,) 
+      (VP 
+        (VP (VBN paid) 
+          (PP-CLR (RB for) 
+            (NP (-NONE- *) ))
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP Republican) (NNP Rudolph) (NNP Giuliani) (POS 's) )
+              (NN campaign) )))
+        (CC and) 
+        (VP (VBN produced) 
+          (NP (-NONE- *) )
+          (PP (IN by) 
+            (NP-LGS 
+              (NP (NNP Roger) (NNP Ailes) )
+              (, ,) 
+              (NP 
+                (NP (DT the) (NN master) )
+                (PP (IN of) 
+                  (NP (JJ negative) (NN TV) (NNS ads) )))))))
+      (, ,) )
+    (ADVP (RB really) )
+    (VP (VBZ gets) 
+      (ADVP-CLR (RB down) 
+        (PP (TO to) 
+          (NP (NN business) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"Nasty innuendoes," says John Siegal, Mr. Dinkins's issues director, "designed to prosecute a case of political corruption that simply doesn't exist."</Text><Parse>( (S-2 
+    (NP-SBJ-1 (NNP Mr.) (NNP Dinkins) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (DT the) (NN ad) )
+        (VP (VBZ charges) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-2) ))))
+      (, ,) )
+    (ADVP (RB also) )
+    (VP 
+      (VP (VBD failed) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB report) 
+              (NP (PRP$ his) (NN campaign) (NNS contributions) )
+              (ADVP-MNR (RB accurately) )))))
+      (, ,) 
+      (VP (VBD hid) 
+        (NP 
+          (NP (PRP$ his) (NNS links) )
+          (PP (TO to) 
+            (NP (DT a) (VBG failing) (NN insurance) (NN company) ))))
+      (CC and) 
+      (VP (VBD paid) 
+        (NP (DT a) (VBN convicted) (NN kidnapper) )
+        (`` ``) 
+        (PP-MNR (IN through) 
+          (NP 
+            (NP (DT a) (JJ phony) (NN organization) )
+            (PP (IN with) 
+              (NP 
+                (NP (DT no) (NNS members) )
+                (, ,) 
+                (NP (DT no) (NNS receipts) )
+                (CC and) 
+                (NP (DT no) (NN office) )))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Stung by the Giuliani ads, Mr. Dinkins's TV consultants, Robert Shrum and David Doak, finally unleashed a negative ad of their own.</Text><Parse>( (SBARQ-2 (`` ``) 
+    (NP-TPC (NNP David) (NNP Dinkins) )
+    (PRN 
+      (, ,)
+      ('' '') 
+      (SINV 
+        (VP (VBZ says) 
+          (SBARQ (-NONE- *T*-2) ))
+        (NP-SBJ (DT the) (NN kicker) ))
+      (, ,) )
+    (`` ``) 
+    (WHADVP (WRB Why) )
+    (SQ (VBZ does) 
+      (NP-SBJ (PRP he) )
+      (ADVP-TMP (RB always) )
+      (VP (VB wait) 
+        (SBAR-TMP (IN until) 
+          (S 
+            (NP-SBJ-1 (PRP he) )
+            (VP (VBZ 's) 
+              (VP (VBN caught) 
+                (NP (-NONE- *-1) )))))))
+    (. ?) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The screen shows two distorted, unrecognizable photos, presumably of two politicians. "Compare two candidates for mayor," says the announcer. "One says he's for banning cop-killer bullets.</Text><Parse>( (NP-2 
+    (NP (`` ``) (JJ Nasty) (NNS innuendoes) 
+      (, ,)
+      ('' '') )
+    (PRN 
+      (SINV 
+        (VP (VBZ says) 
+          (NP (-NONE- *-2) ))
+        (NP-SBJ 
+          (NP (NNP John) (NNP Siegal) )
+          (, ,) 
+          (NP 
+            (NP (NNP Mr.) (NNP Dinkins) (POS 's) )
+            (NNS issues) (NN director) )
+          (, ,) )))
+    (`` ``) 
+    (VP (VBN designed) 
+      (NP-1 (-NONE- *) )
+      (S-CLR 
+        (NP-SBJ (-NONE- *-1) )
+        (VP (TO to) 
+          (VP (VB prosecute) 
+            (NP 
+              (NP (DT a) (NN case) )
+              (PP (IN of) 
+                (NP 
+                  (NP (JJ political) (NN corruption) )
+                  (SBAR 
+                    (WHNP-74 (WDT that) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-74) )
+                      (ADVP (RB simply) )
+                      (VP (VBZ does) (RB n't) 
+                        (VP (VB exist) )))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The other has opposed a ban on cop-killer bullets.</Text><Parse>( (S 
+    (S-SBJ 
+      (NP-SBJ-1 (-NONE- *-2) )
+      (VP (VBN Stung) 
+        (NP (-NONE- *-1) )
+        (PP (IN by) 
+          (NP-LGS (DT the) (NNP Giuliani) (NNS ads) ))))
+    (, ,) 
+    (NP-SBJ-2 
+      (NP 
+        (NP (NNP Mr.) (NNP Dinkins) (POS 's) )
+        (NN TV) (NNS consultants) )
+      (, ,) 
+      (NP 
+        (NP (NNP Robert) (NNP Shrum) )
+        (CC and) 
+        (NP (NNP David) (NNP Doak) ))
+      (, ,) )
+    (ADVP-TMP (RB finally) )
+    (VP (VBD unleashed) 
+      (NP 
+        (NP (DT a) (JJ negative) (NN ad) )
+        (PP (IN of) 
+          (NP (PRP$ their) (JJ own) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>One claims he's pro-choice.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN screen) )
+    (VP (VBZ shows) 
+      (NP 
+        (NP (CD two) (JJ distorted) 
+          (, ,)
+          (JJ unrecognizable) (NNS photos) )
+        (, ,) 
+        (PP 
+          (ADVP (RB presumably) )
+          (IN of) 
+          (NP (CD two) (NNS politicians) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The other has opposed a woman's right to choose."</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (-NONE- *) )
+      (VP (VB Compare) 
+        (NP 
+          (NP (CD two) (NNS candidates) )
+          (PP (IN for) 
+            (NP (NN mayor) )))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (DT the) (NN announcer) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"Funny thing," says the kicker, "both these candidates are named Rudolph Giuliani."</Text><Parse>( (S (`` ``) 
+    (NP-SBJ (NN One) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ 's) 
+            (PP-PRD (IN for) 
+              (S-NOM 
+                (NP-SBJ (-NONE- *) )
+                (VP (VBG banning) 
+                  (NP (JJ cop-killer) (NNS bullets) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Who's telling the truth?</Text><Parse>( (S 
+    (NP-SBJ (DT The) (JJ other) )
+    (VP (VBZ has) 
+      (VP (VBN opposed) 
+        (NP 
+          (NP (DT a) (NN ban) )
+          (PP (IN on) 
+            (NP (JJ cop-killer) (NNS bullets) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Everybody -- and nobody.</Text><Parse>( (S 
+    (NP-SBJ (NN One) )
+    (VP (VBZ claims) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (PRP he) )
+          (VP (VBZ 's) 
+            (ADJP-PRD (JJ pro-choice) )))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>It's a classic situation of ads that are true but not always fully accurate.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (JJ other) )
+    (VP (VBZ has) 
+      (VP (VBN opposed) 
+        (NP 
+          (NP (DT a) (NN woman) (POS 's) )
+          (NN right) 
+          (S 
+            (NP-SBJ (-NONE- *) )
+            (VP (TO to) 
+              (VP (VB choose) ))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Dinkins did fail to file his income taxes for four years, but he insists he voluntarily admitted the "oversight" when he was being considered for a city job.</Text><Parse>( (FRAG-1 (`` ``) 
+    (NP (JJ Funny) (NN thing) )
+    (PRN 
+      (, ,)
+      ('' '') 
+      (SINV 
+        (VP (VBZ says) 
+          (FRAG (-NONE- *T*-1) ))
+        (NP-SBJ (DT the) (NN kicker) ))
+      (, ,) )
+    (`` ``) 
+    (S 
+      (NP-SBJ-2 (DT both) (DT these) (NNS candidates) )
+      (VP (VBP are) 
+        (VP (VBN named) 
+          (S 
+            (NP-SBJ (-NONE- *-2) )
+            (NP-PRD (NNP Rudolph) (NNP Giuliani) )))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>He was on the board of an insurance company with financial problems, but he insists he made no secret of it.</Text><Parse>( (SBARQ 
+    (WHNP-1 (WP Who) )
+    (SQ (VBZ 's) 
+      (NP-SBJ (-NONE- *T*-1) )
+      (VP (VBG telling) 
+        (NP (DT the) (NN truth) )))
+    (. ?) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The city's Campaign Finance Board has refused to pay Mr. Dinkins $95,142 in matching funds because his campaign records are incomplete.</Text><Parse>( (NP (NN Everybody) (: --) (IN and) (NN nobody) (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The campaign has blamed these reporting problems on computer errors.</Text><Parse>( (S 
+    (NP-SBJ (PRP It) )
+    (VP (VBZ 's) 
+      (NP-PRD 
+        (NP (DT a) (JJ classic) (NN situation) )
+        (PP (IN of) 
+          (NP 
+            (NP (NNS ads) )
+            (SBAR 
+              (WHNP-75 (WDT that) )
+              (S 
+                (NP-SBJ (-NONE- *T*-75) )
+                (VP (VBP are) 
+                  (ADJP-PRD 
+                    (ADJP (JJ true) )
+                    (CC but) (RB not) 
+                    (ADVP-TMP (RB always) )
+                    (ADJP (RB fully) (JJ accurate) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>And, says Mr. Dinkins, he didn't know the man his campaign paid for a get-out-the-vote effort had been convicted of kidnapping.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ-1 (NNP Mr.) (NNP Dinkins) )
+      (VP (VBD did) 
+        (VP (VB fail) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB file) 
+                (NP (PRP$ his) (NN income) (NNS taxes) ))))
+          (PP-TMP (IN for) 
+            (NP (CD four) (NNS years) )))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBZ insists) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP 
+              (ADVP-MNR (RB voluntarily) )
+              (VBD admitted) 
+              (NP (DT the) (`` ``) (NN oversight) ('' '') )
+              (SBAR-TMP 
+                (WHADVP-3 (WRB when) )
+                (S 
+                  (NP-SBJ-2 (PRP he) )
+                  (VP (VBD was) 
+                    (VP (VBG being) 
+                      (VP (VBN considered) 
+                        (NP (-NONE- *-2) )
+                        (PP-CLR (IN for) 
+                          (NP (DT a) (NN city) (NN job) ))
+                        (ADVP-TMP (-NONE- *T*-3) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But, say Mr. Dinkins's managers, he did have an office and his organization did have members.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (PRP He) )
+      (VP (VBD was) 
+        (PP-LOC-PRD (IN on) 
+          (NP 
+            (NP (DT the) (NN board) )
+            (PP (IN of) 
+              (NP 
+                (NP (DT an) (NN insurance) (NN company) )
+                (PP (IN with) 
+                  (NP (JJ financial) (NNS problems) ))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBZ insists) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBD made) 
+              (NP 
+                (NP (DT no) (NN secret) )
+                (PP (IN of) 
+                  (NP (PRP it) ))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Giuliani's campaign chairman, Peter Powers, says the Dinkins ad is "deceptive." The other side, he argues, "knows Giuliani has always been pro-choice, even though he has personal reservations.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (DT The) (NN city) (POS 's) )
+      (NNP Campaign) (NNP Finance) (NNP Board) )
+    (VP (VBZ has) 
+      (VP (VBN refused) 
+        (S 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (TO to) 
+            (VP (VB pay) 
+              (NP (NNP Mr.) (NNP Dinkins) )
+              (NP 
+                (NP ($ $) (CD 95,142) (-NONE- *U*) )
+                (PP (IN in) 
+                  (NP (JJ matching) (NNS funds) ))))))
+        (SBAR-PRP (IN because) 
+          (S 
+            (NP-SBJ (PRP$ his) (NN campaign) (NNS records) )
+            (VP (VBP are) 
+              (ADJP-PRD (JJ incomplete) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>They know he is generally opposed to cop-killer bullets, but that he had some reservations about the language in the legislation."</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN campaign) )
+    (VP (VBZ has) 
+      (VP (VBN blamed) 
+        (NP (DT these) (NN reporting) (NNS problems) )
+        (PP-CLR (IN on) 
+          (NP (NN computer) (NNS errors) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Virginia: Democratic Lt. Gov. Douglas Wilder opened his gubernatorial battle with Republican Marshall Coleman with an abortion commercial produced by Frank Greer that analysts of every political persuasion agree was a tour de force.</Text><Parse>( (S-1 (CC And) 
+    (PRN 
+      (, ,)
+      (SINV 
+        (VP (VBZ says) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) )))
+        (NP-SBJ (NNP Mr.) (NNP Dinkins) ))
+      (, ,) )
+    (NP-SBJ (PRP he) )
+    (VP (VBD did) (RB n't) 
+      (VP (VB know) 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ-3 
+              (NP (DT the) (NN man) )
+              (SBAR 
+                (WHNP-2 (-NONE- 0) )
+                (S 
+                  (NP-SBJ (PRP$ his) (NN campaign) )
+                  (VP (VBD paid) 
+                    (NP (-NONE- *T*-2) )
+                    (PP-CLR (IN for) 
+                      (NP (DT a) (JJ get-out-the-vote) (NN effort) ))))))
+            (VP (VBD had) 
+              (VP (VBN been) 
+                (VP (VBN convicted) 
+                  (NP (-NONE- *-3) )
+                  (PP-CLR (IN of) 
+                    (NP (NN kidnapping) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Against a shot of Monticello superimposed on an American flag, an announcer talks about the "strong tradition of freedom and individual liberty" that Virginians have nurtured for generations.</Text><Parse>( (S-1 (CC But) 
+    (PRN 
+      (, ,)
+      (SINV 
+        (VP (VBP say) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) )))
+        (NP-SBJ 
+          (NP (NNP Mr.) (NNP Dinkins) (POS 's) )
+          (NNS managers) ))
+      (, ,) )
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP (VBD did) 
+        (VP (VB have) 
+          (NP (DT an) (NN office) ))))
+    (CC and) 
+    (S 
+      (NP-SBJ (PRP$ his) (NN organization) )
+      (VP (VBD did) 
+        (VP (VB have) 
+          (NP (NNS members) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Then, just as an image of the statue of Thomas Jefferson dissolves from the screen, the announcer continues: "On the issue of abortion, Marshall Coleman wants to take away your right to choose and give it to the politicians."</Text><Parse>( (S 
+    (NP-SBJ 
+      (NP 
+        (NP (NNP Mr.) (NNP Giuliani) (POS 's) )
+        (NN campaign) (NN chairman) )
+      (, ,) 
+      (NP (NNP Peter) (NNP Powers) )
+      (, ,) )
+    (VP (VBZ says) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (DT the) (NNP Dinkins) (NN ad) )
+          (VP (VBZ is) (`` ``) 
+            (ADJP-PRD (JJ deceptive) )))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>That commercial -- which said Mr. Coleman wanted to take away the right of abortion "even in cases of rape and incest," a charge Mr. Coleman denies -- changed the dynamics of the campaign, transforming it, at least in part, into a referendum on abortion.</Text><Parse>( (S-1 
+    (NP-SBJ (DT The) (JJ other) (NN side) )
+    (PRN 
+      (, ,)
+      (S 
+        (NP-SBJ (PRP he) )
+        (VP (VBZ argues) 
+          (SBAR (-NONE- 0) 
+            (S (-NONE- *T*-1) ))))
+      (, ,) )
+    (`` ``) 
+    (VP (VBZ knows) 
+      (SBAR (-NONE- 0) 
+        (S 
+          (NP-SBJ (NNP Giuliani) )
+          (VP (VBZ has) 
+            (ADVP-TMP (RB always) )
+            (VP (VBN been) 
+              (ADJP-PRD (JJ pro-choice) )
+              (, ,) 
+              (SBAR-ADV 
+                (ADVP (RB even) )
+                (IN though) 
+                (S 
+                  (NP-SBJ (PRP he) )
+                  (VP (VBZ has) 
+                    (NP (JJ personal) (NNS reservations) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The ad prompted Mr. Coleman, the former Virginia attorney general, to launch a series of advertisements created by Bob Goodman and designed to shake Mr. Wilder's support among the very women who were attracted by the abortion ad.</Text><Parse>( (S 
+    (NP-SBJ (PRP They) )
+    (VP (VBP know) 
+      (SBAR 
+        (SBAR (-NONE- 0) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBZ is) 
+              (ADVP (RB generally) )
+              (ADJP-PRD (VBN opposed) 
+                (PP (TO to) 
+                  (NP (JJ cop-killer) (NNS bullets) ))))))
+        (, ,) (CC but) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (VBD had) 
+              (NP 
+                (NP (DT some) (NNS reservations) )
+                (PP (IN about) 
+                  (NP 
+                    (NP (DT the) (NN language) )
+                    (PP-LOC (IN in) 
+                      (NP (DT the) (NN legislation) ))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The Coleman counterattack featured a close-up of a young woman in shadows and the ad suggested that she was recalling an unpleasant courtroom ordeal.</Text><Parse>( (NP (NNP Virginia) (: :) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>A voice says, "C'mon, now, don't you have boyfriends?" Then an announcer interjects: "It was Douglas Wilder who introduced a bill to force rape victims age 13 and younger to be interrogated about their private lives by lawyers for accused rapists.</Text><Parse>( (S 
+    (NP-SBJ (JJ Democratic) (NNP Lt.) (NNP Gov.) (NNP Douglas) (NNP Wilder) )
+    (VP (VBD opened) 
+      (NP 
+        (NP (PRP$ his) (JJ gubernatorial) (NN battle) )
+        (PP (IN with) 
+          (NP (JJ Republican) (NNP Marshall) (NNP Coleman) )))
+      (PP-CLR (IN with) 
+        (NP 
+          (NP (DT an) (NN abortion) (NN commercial) )
+          (VP (VBN produced) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (NNP Frank) (NNP Greer) )))
+          (SBAR 
+            (WHNP-1 (IN that) )
+            (S 
+              (NP-SBJ 
+                (NP (NNS analysts) )
+                (PP (IN of) 
+                  (NP (DT every) (JJ political) (NN persuasion) )))
+              (VP (VBP agree) 
+                (SBAR (-NONE- 0) 
+                  (S 
+                    (NP-SBJ (-NONE- *T*-1) )
+                    (VP (VBD was) 
+                      (NP-PRD (DT a) (NN tour) (FW de) (NN force) ))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>So the next time Mr. Wilder talks about the rights of women, ask him about this law he tried to pass."</Text><Parse>( (S 
+    (PP-LOC (IN Against) 
+      (NP 
+        (NP (DT a) (NN shot) )
+        (PP (IN of) 
+          (NP (NNP Monticello) ))
+        (VP (VBN superimposed) 
+          (NP (-NONE- *) )
+          (PP-CLR (IN on) 
+            (NP (DT an) (JJ American) (NN flag) )))))
+    (, ,) 
+    (NP-SBJ (DT an) (NN announcer) )
+    (VP (VBZ talks) 
+      (PP-CLR (IN about) 
+        (NP 
+          (NP (DT the) (`` ``) (JJ strong) (NN tradition) )
+          (PP (IN of) 
+            (NP 
+              (NP (NN freedom) )
+              (CC and) 
+              (NP (JJ individual) (NN liberty) )))
+          ('' '') 
+          (SBAR 
+            (WHNP-1 (IN that) )
+            (S 
+              (NP-SBJ (NNPS Virginians) )
+              (VP (VBP have) 
+                (VP (VBN nurtured) 
+                  (NP (-NONE- *T*-1) )
+                  (PP-TMP (IN for) 
+                    (NP (NNS generations) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Wilder did introduce such legislation 17 years ago, but he did so at the request of a constituent, a common legislative technique used by lawmakers.</Text><Parse>( (S 
+    (ADVP-TMP (RB Then) )
+    (, ,) 
+    (SBAR-TMP 
+      (ADVP (RB just) )
+      (IN as) 
+      (S 
+        (NP-SBJ 
+          (NP (DT an) (NN image) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT the) (NN statue) )
+              (PP (IN of) 
+                (NP (NNP Thomas) (NNP Jefferson) )))))
+        (VP (VBZ dissolves) 
+          (PP-DIR (IN from) 
+            (NP (DT the) (NN screen) )))))
+    (, ,) 
+    (NP-SBJ (DT the) (NN announcer) )
+    (VP (VBZ continues) (: :) (`` ``) 
+      (S 
+        (PP-LOC (IN On) 
+          (NP 
+            (NP (DT the) (NN issue) )
+            (PP (IN of) 
+              (NP (NN abortion) ))))
+        (, ,) 
+        (NP-SBJ-1 (NNP Marshall) (NNP Coleman) )
+        (VP (VBZ wants) 
+          (S 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB take) 
+                  (PRT (RP away) )
+                  (NP (PRP$ your) (NN right) 
+                    (S 
+                      (NP-SBJ (-NONE- *) )
+                      (VP (TO to) 
+                        (VP (VB choose) )))))))
+            (CC and) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (VB give) 
+                (NP (PRP it) )
+                (PP-DTV (TO to) 
+                  (NP (DT the) (NNS politicians) ))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The legislation itself noted that it was introduced "by request," and in 1983 Mr. Wilder introduced a bill to protect rape victims from unfounded interrogation.</Text><Parse>( (S 
+    (NP-SBJ-3 
+      (NP (DT That) (JJ commercial) )
+      (PRN (: --) 
+        (SBAR 
+          (WHNP-76 (WDT which) )
+          (S 
+            (NP-SBJ (-NONE- *T*-76) )
+            (VP (VBD said) 
+              (SBAR (-NONE- 0) 
+                (S 
+                  (NP-SBJ-1 (NNP Mr.) (NNP Coleman) )
+                  (VP (VBD wanted) 
+                    (S 
+                      (NP-SBJ (-NONE- *-1) )
+                      (VP (TO to) 
+                        (VP 
+                          (VP (VB take) 
+                            (PRT (RP away) )
+                            (NP 
+                              (NP (DT the) (NN right) )
+                              (PP (IN of) 
+                                (NP (NN abortion) )))
+                            (`` ``) 
+                            (PP-LOC 
+                              (ADVP (RB even) )
+                              (IN in) 
+                              (NP 
+                                (NP (NNS cases) )
+                                (PP (IN of) 
+                                  (NP (NN rape) 
+                                    (CC and)
+                                    (NN incest) ))))
+                            (, ,) ('' '') )
+                          (NP 
+                            (NP (DT a) (NN charge) )
+                            (SBAR 
+                              (WHNP-2 (-NONE- 0) )
+                              (S 
+                                (NP-SBJ (NNP Mr.) (NNP Coleman) )
+                                (VP (VBZ denies) 
+                                  (NP (-NONE- *T*-2) ))))))))))))))
+        (: --) ))
+    (VP (VBD changed) 
+      (NP 
+        (NP (DT the) (NNS dynamics) )
+        (PP (IN of) 
+          (NP (DT the) (NN campaign) )))
+      (, ,) 
+      (S-ADV 
+        (NP-SBJ (-NONE- *-3) )
+        (VP (VBG transforming) 
+          (NP (PRP it) )
+          (PRN 
+            (, ,)
+            (PP 
+              (ADVP (IN at) (JJS least) )
+              (IN in) 
+              (NP (NN part) ))
+            (, ,) )
+          (PP-CLR (IN into) 
+            (NP 
+              (NP (DT a) (NN referendum) )
+              (PP (IN on) 
+                (NP (NN abortion) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>"People have grown tired of these ads and Coleman has gotten the stigma of being a negative campaigner," says Mark Rozell, a political scientist at Mary Washington College. "Wilder has managed to get across the idea that Coleman will say anything to get elected governor and -- more important -- has been able to put the onus for all the negative campaigning on Coleman."</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NN ad) )
+    (VP (VBD prompted) 
+      (S 
+        (NP-SBJ 
+          (NP (NNP Mr.) (NNP Coleman) )
+          (, ,) 
+          (NP (DT the) (JJ former) (NNP Virginia) (NN attorney) (NN general) )
+          (, ,) )
+        (VP (TO to) 
+          (VP (VB launch) 
+            (NP 
+              (NP (DT a) (NN series) )
+              (PP (IN of) 
+                (NP 
+                  (NP (NNS advertisements) )
+                  (VP 
+                    (VP (VBN created) 
+                      (NP (-NONE- *) )
+                      (PP (IN by) 
+                        (NP-LGS (NNP Bob) (NNP Goodman) )))
+                    (CC and) 
+                    (VP (VBN designed) 
+                      (NP-2 (-NONE- *) )
+                      (S-CLR 
+                        (NP-SBJ (-NONE- *-2) )
+                        (VP (TO to) 
+                          (VP (VB shake) 
+                            (NP 
+                              (NP 
+                                (NP (NNP Mr.) (NNP Wilder) (POS 's) )
+                                (NN support) )
+                              (PP-LOC (IN among) 
+                                (NP 
+                                  (NP (DT the) (JJ very) (NNS women) )
+                                  (SBAR 
+                                    (WHNP-77 (WP who) )
+                                    (S 
+                                      (NP-SBJ-1 (-NONE- *T*-77) )
+                                      (VP (VBD were) 
+                                        (VP (VBN attracted) 
+                                          (NP (-NONE- *-1) )
+                                          (PP (IN by) 
+                                            (NP-LGS (DT the) (NN abortion) (NN ad) )))))))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Coleman said this week that he would devote the remainder of the political season to positive campaigning, but the truce lasted only hours.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (DT The) (NNP Coleman) (NN counterattack) )
+      (VP (VBD featured) 
+        (NP 
+          (NP (DT a) (NN close-up) )
+          (PP (IN of) 
+            (NP 
+              (NP (DT a) (JJ young) (NN woman) )
+              (PP-LOC (IN in) 
+                (NP (NNS shadows) )))))))
+    (CC and) 
+    (S 
+      (NP-SBJ (DT the) (NN ad) )
+      (VP (VBD suggested) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP she) )
+            (VP (VBD was) 
+              (VP (VBG recalling) 
+                (NP (DT an) (JJ unpleasant) (NN courtroom) (NN ordeal) )))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>By Tuesday night, television stations were carrying new ads featuring Mr. Coleman himself raising questions about Mr. Wilder's sensitivity to rape victims.</Text><Parse>( (S 
+    (NP-SBJ (DT A) (NN voice) )
+    (VP (VBZ says) 
+      (, ,)
+      (`` ``) 
+      (SQ 
+        (INTJ (VB C'mon) 
+          (, ,)
+          (RB now) )
+        (, ,) (VBP do) (RB n't) 
+        (NP-SBJ (PRP you) )
+        (VP (VB have) 
+          (NP (NNS boyfriends) ))
+        (. ?) )
+      ('' '') )))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>New Jersey: The attacks began when Democratic Rep. James Florio aired an ad featuring a drawing of Pinocchio and a photograph of Mr. Florio's rival, Republican Rep. Jim Courter. "Remember Pinocchio?" says a female voice. "Consider Jim Courter."</Text><Parse>( (S 
+    (ADVP-TMP (RB Then) )
+    (NP-SBJ (DT an) (NN announcer) )
+    (VP (VBZ interjects) (: :) (`` ``) 
+      (S-CLF 
+        (NP-SBJ (PRP It) )
+        (VP (VBD was) 
+          (NP-PRD (NNP Douglas) (NNP Wilder) )
+          (SBAR 
+            (WHNP-78 (WP who) )
+            (S 
+              (NP-SBJ (-NONE- *T*-78) )
+              (VP (VBD introduced) 
+                (NP 
+                  (NP (DT a) (NN bill) )
+                  (SBAR 
+                    (WHNP-1 (-NONE- 0) )
+                    (S 
+                      (NP-SBJ (-NONE- *T*-1) )
+                      (VP (TO to) 
+                        (VP (VB force) 
+                          (S 
+                            (NP-SBJ-2 
+                              (NP (NN rape) (NNS victims) )
+                              (UCP 
+                                (NP (NN age) (CD 13) )
+                                (CC and) 
+                                (ADJP (JJR younger) )))
+                            (VP (TO to) 
+                              (VP (VB be) 
+                                (VP (VBN interrogated) 
+                                  (NP (-NONE- *-2) )
+                                  (PP-CLR (IN about) 
+                                    (NP (PRP$ their) (JJ private) (NNS lives) ))
+                                  (PP (IN by) 
+                                    (NP-LGS 
+                                      (NP (NNS lawyers) )
+                                      (PP (IN for) 
+                                        (NP (VBN accused) (NNS rapists) )))))))))))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>And then this commercial, produced by Bob Squier, gets down to its own mean and dirty business.</Text><Parse>( (S 
+    (ADVP (RB So) )
+    (NP-TMP 
+      (NP (DT the) (JJ next) (NN time) )
+      (SBAR 
+        (WHADVP-1 (-NONE- 0) )
+        (S 
+          (NP-SBJ (NNP Mr.) (NNP Wilder) )
+          (VP (VBZ talks) 
+            (PP-CLR (IN about) 
+              (NP 
+                (NP (DT the) (NNS rights) )
+                (PP (IN of) 
+                  (NP (NNS women) ))))
+            (ADVP-TMP (-NONE- *T*-1) )))))
+    (, ,) 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB ask) 
+      (NP (PRP him) )
+      (PP-CLR (IN about) 
+        (NP 
+          (NP (DT this) (NN law) )
+          (SBAR 
+            (WHNP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ-3 (PRP he) )
+              (VP (VBD tried) 
+                (S 
+                  (NP-SBJ (-NONE- *-3) )
+                  (VP (TO to) 
+                    (VP (VB pass) 
+                      (NP (-NONE- *T*-2) ))))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Pictures of rusted oil drums swim into focus, and the female voice purrs, "That hazardous waste on his {Mr.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (NNP Mr.) (NNP Wilder) )
+      (VP (VBD did) 
+        (VP (VB introduce) 
+          (NP (JJ such) (NN legislation) )
+          (ADVP-TMP 
+            (NP (CD 17) (NNS years) )
+            (RB ago) ))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (PRP he) )
+      (VP 
+        (VP (VBD did) 
+          (ADVP-PRD (RB so) )
+          (PP (IN at) 
+            (NP 
+              (NP (DT the) (NN request) )
+              (PP (IN of) 
+                (NP (DT a) (NN constituent) )))))
+        (, ,) 
+        (NP 
+          (NP (DT a) (JJ common) (JJ legislative) (NN technique) )
+          (VP (VBN used) 
+            (NP (-NONE- *) )
+            (PP (IN by) 
+              (NP-LGS (NNS lawmakers) ))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Courter's} property -- the neighbors are suing for consumer fraud." And the nose on Mr. Courter's face grows.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ 
+        (NP (DT The) (NN legislation) )
+        (NP (PRP itself) ))
+      (VP (VBD noted) 
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ-1 (PRP it) )
+            (VP (VBD was) 
+              (VP (VBN introduced) 
+                (NP (-NONE- *-1) )
+                (`` ``) 
+                (PP-MNR (IN by) 
+                  (NP (NN request) ))))))))
+    (, ,) ('' '') 
+    (CC and)
+    (S 
+      (PP-TMP (IN in) 
+        (NP (CD 1983) ))
+      (NP-SBJ (NNP Mr.) (NNP Wilder) )
+      (VP (VBD introduced) 
+        (NP 
+          (NP (DT a) (NN bill) )
+          (SBAR 
+            (WHNP-2 (-NONE- 0) )
+            (S 
+              (NP-SBJ (-NONE- *T*-2) )
+              (VP (TO to) 
+                (VP (VB protect) 
+                  (NP (NN rape) (NNS victims) )
+                  (PP-CLR (IN from) 
+                    (NP (JJ unfounded) (NN interrogation) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>The only fraud involved, cry Mr. Courter's partisans, is the Florio commercial itself, and so the Courter campaign has responded with its own Pinocchio commercial, produced by Mr. Ailes.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (S 
+        (NP-SBJ (NNS People) )
+        (VP (VBP have) 
+          (VP (VBN grown) 
+            (ADJP-PRD (JJ tired) 
+              (PP (IN of) 
+                (NP (DT these) (NNS ads) ))))))
+      (CC and) 
+      (S 
+        (NP-SBJ (NNP Coleman) )
+        (VP (VBZ has) 
+          (VP (VBN gotten) 
+            (NP 
+              (NP (DT the) (NN stigma) )
+              (PP (IN of) 
+                (S-NOM 
+                  (NP-SBJ (-NONE- *) )
+                  (VP (VBG being) 
+                    (NP-PRD (DT a) (JJ negative) (NN campaigner) )))))))))
+    (, ,) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ 
+      (NP (NNP Mark) (NNP Rozell) )
+      (, ,) 
+      (NP 
+        (NP (DT a) (JJ political) (NN scientist) )
+        (PP-LOC (IN at) 
+          (NP (NNP Mary) (NNP Washington) (NNP College) ))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In this one, the screen fills with photographs of both candidates. "Who's really lying?" asks a female voice. "Florio's lying," the voice goes on, because "the barrel on Courter's land . . . contained heating oil, was cleaned up and caused no pollution."</Text><Parse>( (S (`` ``) 
+    (NP-SBJ-1 (NNP Wilder) )
+    (VP 
+      (VP (VBZ has) 
+        (VP (VBN managed) 
+          (S 
+            (NP-SBJ (-NONE- *-1) )
+            (VP (TO to) 
+              (VP (VB get) 
+                (PRT (RP across) )
+                (NP (DT the) (NN idea) 
+                  (SBAR (IN that) 
+                    (S 
+                      (NP-SBJ-2 (NNP Coleman) )
+                      (VP (MD will) 
+                        (VP (VB say) 
+                          (NP (NN anything) )
+                          (S-PRP 
+                            (NP-SBJ-3 (-NONE- *-2) )
+                            (VP (TO to) 
+                              (VP (VB get) 
+                                (VP (VBN elected) 
+                                  (S 
+                                    (NP-SBJ (-NONE- *-3) )
+                                    (NP-PRD (NN governor) ))))))))))))))))
+      (CC and) 
+      (VP 
+        (PRN (: --) 
+          (ADJP (RBR more) (JJ important) )
+          (: --) )
+        (VBZ has) 
+        (VP (VBN been) 
+          (ADJP-PRD (JJ able) 
+            (S 
+              (NP-SBJ (-NONE- *-1) )
+              (VP (TO to) 
+                (VP (VB put) 
+                  (NP 
+                    (NP (DT the) (NN onus) )
+                    (PP (IN for) 
+                      (NP (PDT all) (DT the) (JJ negative) (NN campaigning) )))
+                  (PP-PUT (IN on) 
+                    (NP (NNP Coleman) )))))))))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Courter's long nose shrinks while Mr. Florio's grows.</Text><Parse>( (S 
+    (S 
+      (NP-SBJ (NNP Mr.) (NNP Coleman) )
+      (VP (VBD said) 
+        (NP-TMP (DT this) (NN week) )
+        (SBAR (IN that) 
+          (S 
+            (NP-SBJ (PRP he) )
+            (VP (MD would) 
+              (VP (VB devote) 
+                (NP 
+                  (NP (DT the) (NN remainder) )
+                  (PP (IN of) 
+                    (NP (DT the) (JJ political) (NN season) )))
+                (PP-CLR (TO to) 
+                  (NP (JJ positive) (NN campaigning) ))))))))
+    (, ,) (CC but) 
+    (S 
+      (NP-SBJ (DT the) (NN truce) )
+      (VP (VBD lasted) 
+        (NP (RB only) (NNS hours) )))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Who's telling the truth?</Text><Parse>( (S 
+    (PP-TMP (IN By) 
+      (NP (NNP Tuesday) (NN night) ))
+    (, ,) 
+    (NP-SBJ (NN television) (NNS stations) )
+    (VP (VBD were) 
+      (VP (VBG carrying) 
+        (NP 
+          (NP (JJ new) (NNS ads) )
+          (VP (VBG featuring) 
+            (S 
+              (NP-SBJ 
+                (NP (NNP Mr.) (NNP Coleman) )
+                (NP (PRP himself) ))
+              (VP (VBG raising) 
+                (NP 
+                  (NP (NNS questions) )
+                  (PP (IN about) 
+                    (NP 
+                      (NP 
+                        (NP (NNP Mr.) (NNP Wilder) (POS 's) )
+                        (NN sensitivity) )
+                      (PP (TO to) 
+                        (NP (NN rape) (NNS victims) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Stephen Salmore, a political scientist at New Jersey's Eagleton Institute, says it's another example of an ad that's true but not fully accurate.</Text><Parse>( (NP-HLN (NNP New) (NNP Jersey) (: :) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Barrels were dumped on the Courter property, a complaint was made, but there is no evidence the barrels were a serious threat to the environment.</Text><Parse>( (S 
+    (NP-SBJ (DT The) (NNS attacks) )
+    (VP (VBD began) 
+      (SBAR-TMP 
+        (WHADVP (WRB when) )
+        (S 
+          (NP-SBJ (JJ Democratic) (NNP Rep.) (NNP James) (NNP Florio) )
+          (VP (VBD aired) 
+            (NP 
+              (NP (DT an) (NN ad) )
+              (VP (VBG featuring) 
+                (NP 
+                  (NP 
+                    (NP (DT a) (NN drawing) )
+                    (PP (IN of) 
+                      (NP (NNP Pinocchio) )))
+                  (CC and) 
+                  (NP 
+                    (NP (DT a) (NN photograph) )
+                    (PP (IN of) 
+                      (NP 
+                        (NP 
+                          (NP (NNP Mr.) (NNP Florio) (POS 's) )
+                          (NN rival) )
+                        (, ,) 
+                        (NP (JJ Republican) (NNP Rep.) (NNP Jim) (NNP Courter) )))))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Even so, according to Mr. Salmore, the ad was "devastating" because it raised questions about Mr. Courter's credibility.</Text><Parse>( (SINV (`` ``) 
+    (S-TPC-1 
+      (NP-SBJ (-NONE- *) )
+      (VP (VB Remember) 
+        (NP (NNP Pinocchio) )))
+    (. ?) ('' '') 
+    (VP (VBZ says) 
+      (S (-NONE- *T*-1) ))
+    (NP-SBJ (DT a) (JJ female) (NN voice) )
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>But it's building on a long tradition.</Text><Parse>( (S (`` ``) 
+    (NP-SBJ (-NONE- *) )
+    (VP (VB Consider) 
+      (NP (NNP Jim) (NNP Courter) ))
+    (. .) ('' '') ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>In 1966, on route to a re-election rout of Democrat Frank O'Connor, GOP Gov. Nelson Rockefeller of New York appeared in person saying, "If you want to keep the crime rates high, O'Connor is your man."</Text><Parse>( (S (CC And) 
+    (ADVP-TMP (RB then) )
+    (NP-SBJ 
+      (NP (DT this) (NN commercial) )
+      (, ,) 
+      (VP (VBN produced) 
+        (NP (-NONE- *) )
+        (PP (IN by) 
+          (NP-LGS (NNP Bob) (NNP Squier) )))
+      (, ,) )
+    (VP (VBZ gets) 
+      (ADVP-CLR (RB down) 
+        (PP (TO to) 
+          (NP (PRP$ its) (JJ own) 
+            (ADJP (JJ mean) 
+              (CC and)
+              (JJ dirty) )
+            (NN business) ))))
+    (. .) ))</Parse></Sentence></Sentences>

@@ -1,0 +1,39 @@
+<Sentences><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Michael Henderson, 51-year-old group chief executive of this U.K. metals and industrial materials maker, will become chairman in May, succeeding Ian Butler, 64, who is retiring.</Text><Parse>( (S 
+    (NP-SBJ-1 
+      (NP (NNP Michael) (NNP Henderson) )
+      (, ,) 
+      (NP 
+        (NP (JJ 51-year-old) (NN group) (NN chief) (NN executive) )
+        (PP (IN of) 
+          (NP (DT this) (NNP U.K.) (NNS metals) 
+            (CC and)
+            (JJ industrial) (NNS materials) (NN maker) )))
+      (, ,) )
+    (VP (MD will) 
+      (VP (VB become) 
+        (NP-PRD (NN chairman) )
+        (PP-TMP (IN in) 
+          (NP (NNP May) ))
+        (, ,) 
+        (S-ADV 
+          (NP-SBJ (-NONE- *-1) )
+          (VP (VBG succeeding) 
+            (NP 
+              (NP (NNP Ian) (NNP Butler) )
+              (, ,) 
+              (NP (CD 64) )
+              (, ,) 
+              (SBAR 
+                (WHNP-161 (WP who) )
+                (S 
+                  (NP-SBJ (-NONE- *T*-161) )
+                  (VP (VBZ is) 
+                    (VP (VBG retiring) )))))))))
+    (. .) ))</Parse></Sentence><Sentence date="20150418" id="WSJBLAH_1" sentence="True" source="WSJ"><Text>Mr. Butler will remain on the board as a nonexecutive director.</Text><Parse>( (S 
+    (NP-SBJ (NNP Mr.) (NNP Butler) )
+    (VP (MD will) 
+      (VP (VB remain) 
+        (PP-LOC-PRD (IN on) 
+          (NP (DT the) (NN board) ))
+        (PP-CLR (IN as) 
+          (NP (DT a) (JJ nonexecutive) (NN director) ))))</Parse></Sentence></Sentences>
