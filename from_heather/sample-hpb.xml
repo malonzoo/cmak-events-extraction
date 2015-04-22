@@ -1,0 +1,254 @@
+<!-- # PETRARCH GigaWord sample file
+# These are a very very tiny, as in "fair use" on the "research" clause of the copyright 
+# statutes sample of sentences from the LDC Gigaword corpus file AFP0808-02.txt that 
+# demonstrate some of the basic coding capabilities of PETRARCH. While these are actual 
+# sentences, this sample is intended as a "proof-of-concept" only and are not 
+# representative of the overall performance of the system, which is still in development 
+# mode and many pattern-matching features are not fully implemented.
+# 
+# For further information on the GigaWord corpus:  http://catalog.ldc.upenn.edu/LDC2011T07
+# Last update: 28 Feb 2014
+-->
+<Sentences>
+<Sentence date = "20151804" id ="AFP1_1" source = "AFP" sentence = "True">
+<Text>
+India invaded Pakistan. 
+</Text>
+<Parse>
+( (S 
+(NP (NNP India))  
+(VP (VBD invaded)  
+(NP (NNP Pakistan))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date = "20090101" id ="AFP2_1" source = "AFP" sentence = "True">
+<Text>
+They issued a joint statement calling for a continued expansion of the 
+International Monetary Fund's reserves and a shake-up of countries' 
+representation and voting rights on that and other Bretton Woods institutions. 
+</Text>
+<Parse>
+( (S 
+(NP (PRP They)) 
+(VP (VBD issued) 
+(NP (NP (DT a) (JJ joint) (NN statement)) 
+(VP (VBG calling) 
+(PP (IN for) 
+(NP (NP 
+(NP (DT a) (VBN continued) (NN expansion)) 
+(PP (IN of) 
+(NP (NP (DT the) (NNP International) (NNP Monetary) (NNP Fund) (POS 's)) (NNS reserves)))) (CC and) 
+(NP (NP 
+(NP (DT a) (NN shake-up)) 
+(PP (IN of) 
+(NP (NP (NNS countries) (POS ')) (NN representation)))) (CC and) 
+(NP (NP (VBG voting) (NNS rights)) 
+(PP (IN on) 
+(NP (NP (DT that)) (CC and) 
+(NP (JJ other) (NNP Bretton) (NNP Woods) (NNS institutions))))))))))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date = "20080801" id ="AFP3_1" source="AFP" sentence="True">
+<Text>
+China's coal mines are among the most dangerous in the world, with safety 
+standards often ignored in the quest for profits and the drive to meet demand 
+for coal-- the source of about 70 percent of China's energy. 
+</Text>
+<Parse>
+( (S 
+(NP (NP (NNP China) (POS 's)) (NN coal) (NNS mines)) 
+(VP (VBP are) 
+(PP (IN among) 
+(NP (NP (DT the) (ADJP (RBS most) (JJ dangerous))) 
+(PP (IN in) 
+(NP (DT the) (NN world))))) (, ,) 
+(PP (IN with) 
+(NP (NP (NN safety) (NNS standards)) 
+(VP (ADVP (RB often)) (VBN ignored) 
+(PP (IN in) 
+(NP (NP 
+(NP (DT the) (NN quest)) 
+(PP (IN for) 
+(NP (NNS profits)))) (CC and) 
+(NP (NP (DT the) (NN drive) (S 
+(VP (TO to) 
+(VP (VB meet) 
+(NP (NP (NN demand)) 
+(PP (IN for) 
+(NP (NN coal)))))))) (: --) 
+(NP (NP (DT the) (NN source)) 
+(PP (IN of) 
+(NP (NP (QP (IN about) (CD 70)) (NN percent)) 
+(PP (IN of) 
+(NP (NP (NNP China) (POS 's)) (NN energy))))))))))))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date = "20080806" id ="AFP4_1" source = "AFP" sentence = "True">
+<Text>
+Brazil and the United States are seeking to deepen a partnership in energy, 
+especially by promoting biofuels and other alternatives to oil, US Deputy 
+Secretary of Energy Jeffrey Kupfer said here Wednesday. 
+</Text>
+<Parse>
+( (S (S 
+(NP (NP (NNP Brazil)) (CC and) 
+(NP (DT the) (NNP United) (NNPS States))) 
+(VP (AUXP are) 
+(VP (VBG seeking) (S 
+(VP (TO to) 
+(VP (VB deepen) 
+(NP (NP (DT a) (NN partnership)) 
+(PP (IN in) 
+(NP (NN energy)))) (, ,) 
+(PP (ADVP (RB especially)) (IN by) (S 
+(VP (VBG promoting) 
+(NP (NP (NNS biofuels)) (CC and) 
+(NP (JJ other) (NNS alternatives))) 
+(PP (TO to) 
+(NP (NN oil)))))))))))) (, ,) 
+(NP (NNP US) (NML (NNP Deputy) (NNP Secretary) 
+(PP (IN of) 
+(NP (NNP Energy)))) (NNP Jeffrey) (NNP Kupfer)) 
+(VP (VBD said) 
+(NP (RB here) (NNP Wednesday))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date = "20080806" id ="AFP5_1" source = "AFP" sentence = "True">
+<Text>
+A court in Guyana has issued arrest warrants for two Brazilian men sought in 
+the brutal slaying of two American missionaries in southern Guyana three years 
+ago, a senior Guyanese police officer said Wednesday. 
+</Text>
+<Parse>
+( (S (S 
+(NP (NP (DT A) (NN court)) 
+(PP (IN in) 
+(NP (NNP Guyana)))) 
+(VP (AUXZ has) 
+(VP (VBN issued) 
+(NP (NP (NN arrest) (NNS warrants)) 
+(PP (IN for) 
+(NP (NP (CD two) (JJ Brazilian) (NNS men)) 
+(VP (VBN sought) 
+(PP (IN in) 
+(NP (NP (DT the) (JJ brutal) (NN slaying)) 
+(PP (IN of) 
+(NP (CD two) (JJ American) (NNS missionaries))))) 
+(PP (IN in) 
+(NP (JJ southern) (NNP Guyana))) (ADVP 
+(NP (CD three) (NNS years)) (RB ago))))))))) (, ,) 
+(NP (DT a) (JJ senior) (NNP Guyanese) (NN police) (NN officer)) 
+(VP (VBD said) 
+(NP (NNP Wednesday))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date = "20080806" id ="AFP6_1" source = "AFP" sentence = "True">
+<Text>
+Washington said such a step enjoyed support from Moscow and Beijing-- which 
+have resisted taking a harder line on the Islamic republic-- but China 
+remained mum and Russia's UN ambassador said he was unaware of such agreement. 
+</Text>
+<Parse>
+( (S (S 
+(NP (NNP Washington)) 
+(VP (VBD said) (SBAR (S 
+(NP (PDT such) (DT a) (NN step)) 
+(VP (VBD enjoyed) 
+(NP (NP (NN support)) 
+(PP (IN from) 
+(NP (NNP Moscow) (CC and) (NNP Beijing))))))))) (PRN (: --) (SBAR (WHNP (WDT which)) (S 
+(VP (AUXP have) 
+(VP (VBN resisted) (S 
+(VP (VBG taking) 
+(NP (DT a) (JJR harder) (NN line)) 
+(PP (IN on) 
+(NP (DT the) (JJ Islamic) (NN republic))))))))) (: --)) (CC but) (S (S 
+(NP (NNP China)) 
+(VP (VBD remained) (ADJP (JJ mum)))) (CC and) (S 
+(NP (NP (NNP Russia) (POS 's)) (JJ UN) (NN ambassador)) 
+(VP (VBD said) (SBAR (S 
+(NP (PRP he)) 
+(VP (VBD was) (ADJP (JJ unaware) 
+(PP (IN of) 
+(NP (JJ such) (NN agreement)))))))))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date = "20080806" id ="AFP7_1" source = "AFP" sentence = "True">
+<Text>
+The statement by the French presidency comes a day before Sarkozy heads to 
+Beijing for the Friday opening of the Olympic Games, seeking to mend ties with 
+China frayed by an initial threat to boycott the ceremony. 
+</Text>
+<Parse>
+( (S 
+(NP (NP (DT The) (NN statement)) 
+(PP (IN by) 
+(NP (DT the) (JJ French) (NN presidency)))) 
+(VP (VBZ comes) (SBAR 
+(NP (DT a) (NN day)) (IN before) (S 
+(NP (NNP Sarkozy)) 
+(VP (VBZ heads) 
+(PP (TO to) 
+(NP (NNP Beijing))) 
+(PP (IN for) 
+(NP (NP (DT the) (NNP Friday) (NN opening)) 
+(PP (IN of) 
+(NP (DT the) (NNP Olympic) (NNPS Games))))) (, ,) (S 
+(VP (VBG seeking) 
+(PP (TO to) 
+(NP (NP (JJ mend) (NNS ties)) 
+(PP (IN with) 
+(NP (NNP China))) 
+(VP (VBN frayed) 
+(PP (IN by) 
+(NP (DT an) (JJ initial) (NN threat) (S 
+(VP (TO to) 
+(VP (VB boycott) 
+(NP (DT the) (NN ceremony)))))))))))))))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date = "20080806" id ="AFP8_1" source = "AFP" sentence = "True">
+<Text>
+A Tunisian court has jailed a man for two years for helping young militants 
+join an armed Islamic group in Lebanon, his lawyer said Wednesday. 
+</Text>
+<Parse>
+( (S (S 
+(NP (DT A) (NNP Tunisian) (NN court)) 
+(VP (AUXZ has) 
+(VP (VBN jailed) 
+(NP (DT a) (NN man)) 
+(PP (IN for) 
+(NP (CD two) (NNS years))) 
+(PP (IN for) (S 
+(VP (VBG helping) (S 
+(NP (JJ young) (NNS militants)) 
+(VP (VB join) 
+(NP (NP (DT an) (JJ armed) (JJ Islamic) (NN group)) 
+(PP (IN in) 
+(NP (NNP Lebanon)))))))))))) (, ,) 
+(NP (PRP$ his) (NN lawyer)) 
+(VP (VBD said) 
+(NP (NNP Wednesday))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date = "20080806" id ="AFP9_1" source = "AFP" sentence = "True">
+<Text>
+France condemned Rwanda. 
+</Text>
+<Parse>
+( (S 
+(NP (NNP France))  
+(VP (VBD condemned)  
+(NP (NNP Rwanda))) (. .)))
+</Parse>
+</Sentence>
+</Sentences>

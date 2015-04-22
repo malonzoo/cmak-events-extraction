@@ -1,0 +1,114 @@
+<Sentences>
+
+<Sentence date="20150422" id="CMAK_0" sentence="True" source="CMAK">
+<Text>
+India invaded Pakistan.
+</Text>
+<Parse>
+( (S 
+(NP (NNP India)) 
+(VP (VBD invaded) 
+(NP (NNP Pakistan))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date="20150422" id="CMAK_1" sentence="True" source="CMAK">
+<Text>
+The United States bombed Hiroshima.
+</Text>
+<Parse>
+( (S 
+(NP (DT The) (NNP United) (NNPS States)) 
+(VP (VBD bombed) 
+(NP (NNP Hiroshima))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date="20150422" id="CMAK_2" sentence="True" source="CMAK">
+<Text>
+Iran held elections.
+</Text>
+<Parse>
+( (S 
+(NP (NNP Iran)) 
+(VP (VBD held) 
+(NP (NNS elections))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date="20150422" id="CMAK_3" sentence="True" source="CMAK">
+<Text>
+The World Bank gave African countries aid.
+</Text>
+<Parse>
+( (S 
+(NP (DT The) (NNP World) (NNP Bank)) 
+(VP (VBD gave) 
+(NP (JJ African) (NNS countries)) 
+(NP (NN aid))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date="20150422" id="CMAK_4" sentence="True" source="CMAK">
+<Text>
+Russia has announced that it intends to honor a 2010 agreement with Iran to sell advanced missile systems.
+</Text>
+<Parse>
+( (S 
+(NP (NNP Russia)) 
+(VP (VBZ has) 
+(VP (VBN announced) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ intends) (S (VP (TO to) (VP (VB honor) (NP (NP (DT a) (CD 2010) (NN agreement)) (PP (IN with) (NP (NNP Iran)))) (S (VP (TO to) (VP (VB sell) (NP (JJ advanced) (NN missile) (NNS systems))))))))))))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date="20150422" id="CMAK_5" sentence="True" source="CMAK">
+<Text>
+President Barack Obama and Cuban President Raul Castro met in Panama.
+</Text>
+<Parse>
+( (S 
+(NP (NP (NNP President) (NNP Barack) (NNP Obama)) (CC and) (NP (NNP Cuban) (NNP President) (NNP Raul) (NNP Castro))) (VP (VBD met) (PP (IN in) (NP (NNP Panama)))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date="20150422" id="CMAK_6" sentence="True" source="CMAK">
+<Text>
+Mary Lyon saw you coming.
+</Text>
+<Parse>
+( (S 
+(NP (NNP Mary) (NNP Lyon)) (VP (VBD saw) (S (NP (PRP you)) (VP (VBG coming)))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date="20150422" id="CMAK_7" sentence="True" source="CMAK">
+<Text>
+I survived the housing lottery.
+</Text>
+<Parse>
+( (S 
+(NP (PRP I)) (VP (VBD survived) (NP (DT the) (NN housing) (NN lottery))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date="20150422" id="CMAK_8" sentence="True" source="CMAK">
+<Text>
+Autocorrect corrects Moodle to Noodle.
+</Text>
+<Parse>
+( (S 
+(NP (NN Autocorrect)) (VP (VBZ corrects) (NP (NP (NNP Moodle)) (PP (TO to) (NP (NNP Noodle))))) (. .)))
+</Parse>
+</Sentence>
+
+<Sentence date="20150422" id="CMAK_9" sentence="True" source="CMAK">
+<Text>
+Just when the toilet paper here couldn’t get any thinner, it did.
+</Text>
+<Parse>
+( (S 
+(SBAR (RB Just) (WHADVP (WRB when)) (S (NP (DT the) (NN toilet) (NN paper)) (ADVP (RB here)) (VP (MD could) (RB n't) (VP (VB get) (NP (DT any) (JJR thinner)))))) (, ,) (NP (PRP it)) (VP (VBD did)) (. .)))
+</Parse>
+</Sentence>
+
+</Sentences>

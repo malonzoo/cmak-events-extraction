@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;text&apos; in &apos;Sentence&apos; to &apos;sentence&apos;&#x0A;- Original project: &apos;EventExtractor&apos;&#x0A;- Original element: &apos;Sentence.text&apos;&#x0A;- Renamed element: &apos;Sentence.sentence&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;text&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{Sentence.java[Sentence^text" name="sentence" references="true" setter="false" stamp="1429678275765" textual="false" version="1.0"/>
+</session>

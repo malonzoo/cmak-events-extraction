@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>US</word>
+            <lemma>US</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="2">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>3</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>British</word>
+            <lemma>British</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>14</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="4">
+            <word>activists</word>
+            <lemma>activist</lemma>
+            <CharacterOffsetBegin>15</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>staged</word>
+            <lemma>stage</lemma>
+            <CharacterOffsetBegin>25</CharacterOffsetBegin>
+            <CharacterOffsetEnd>31</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>32</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>dramatic</word>
+            <lemma>dramatic</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>42</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>protest</word>
+            <lemma>protest</lemma>
+            <CharacterOffsetBegin>43</CharacterOffsetBegin>
+            <CharacterOffsetEnd>50</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>51</CharacterOffsetBegin>
+            <CharacterOffsetEnd>53</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>Beijing</word>
+            <lemma>Beijing</lemma>
+            <CharacterOffsetBegin>54</CharacterOffsetBegin>
+            <CharacterOffsetEnd>61</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="11">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>62</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>Wednesday</word>
+            <lemma>Wednesday</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>74</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-WXX-3</NormalizedNER>
+            <Timex tid="t1" type="DATE">XXXX-WXX-3</Timex>
+          </token>
+          <token id="13">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>74</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>scaling</word>
+            <lemma>scale</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>86</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>pole</word>
+            <lemma>pole</lemma>
+            <CharacterOffsetBegin>87</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>unfurling</word>
+            <lemma>unfurl</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>105</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>giant</word>
+            <lemma>giant</lemma>
+            <CharacterOffsetBegin>106</CharacterOffsetBegin>
+            <CharacterOffsetEnd>111</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>``</word>
+            <lemma>``</lemma>
+            <CharacterOffsetBegin>111</CharacterOffsetBegin>
+            <CharacterOffsetEnd>113</CharacterOffsetEnd>
+            <POS>``</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>Free</word>
+            <lemma>Free</lemma>
+            <CharacterOffsetBegin>114</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>Tibet</word>
+            <lemma>Tibet</lemma>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>124</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>''</word>
+            <lemma>''</lemma>
+            <CharacterOffsetBegin>124</CharacterOffsetBegin>
+            <CharacterOffsetEnd>126</CharacterOffsetEnd>
+            <POS>''</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>banners</word>
+            <lemma>banner</lemma>
+            <CharacterOffsetBegin>127</CharacterOffsetBegin>
+            <CharacterOffsetEnd>134</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>close</word>
+            <lemma>close</lemma>
+            <CharacterOffsetBegin>135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>140</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>141</CharacterOffsetBegin>
+            <CharacterOffsetEnd>143</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>144</CharacterOffsetBegin>
+            <CharacterOffsetEnd>147</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>stadium</word>
+            <lemma>stadium</lemma>
+            <CharacterOffsetBegin>148</CharacterOffsetBegin>
+            <CharacterOffsetEnd>155</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>where</word>
+            <lemma>where</lemma>
+            <CharacterOffsetBegin>157</CharacterOffsetBegin>
+            <CharacterOffsetEnd>162</CharacterOffsetEnd>
+            <POS>WRB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>163</CharacterOffsetBegin>
+            <CharacterOffsetEnd>166</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>Olympics</word>
+            <lemma>Olympics</lemma>
+            <CharacterOffsetBegin>167</CharacterOffsetBegin>
+            <CharacterOffsetEnd>175</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="32">
+            <word>will</word>
+            <lemma>will</lemma>
+            <CharacterOffsetBegin>176</CharacterOffsetBegin>
+            <CharacterOffsetEnd>180</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>open</word>
+            <lemma>open</lemma>
+            <CharacterOffsetBegin>181</CharacterOffsetBegin>
+            <CharacterOffsetEnd>185</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>186</CharacterOffsetBegin>
+            <CharacterOffsetEnd>188</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>two</word>
+            <lemma>two</lemma>
+            <CharacterOffsetBegin>189</CharacterOffsetBegin>
+            <CharacterOffsetEnd>192</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DURATION</NER>
+            <Timex tid="t2" type="DURATION">P2D</Timex>
+          </token>
+          <token id="36">
+            <word>days</word>
+            <lemma>day</lemma>
+            <CharacterOffsetBegin>193</CharacterOffsetBegin>
+            <CharacterOffsetEnd>197</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>0.0</NormalizedNER>
+            <Timex tid="t2" type="DURATION">P2D</Timex>
+          </token>
+          <token id="37">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>197</CharacterOffsetBegin>
+            <CharacterOffsetEnd>198</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (NNP US) (CC and) (NNP British)) (NNS activists)) (VP (VBD staged) (NP (DT a) (JJ dramatic) (NN protest)) (PP (IN in) (NP (NNP Beijing))) (PP (IN on) (NP (NNP Wednesday))) (, ,) (S (S (VP (VBG scaling) (NP (DT a) (NN pole)))) (CC and) (S (VP (VBG unfurling) (NP (JJ giant)) (`` ``) (S (NP (NNP Free) (NNP Tibet) ('' '') (NNS banners)) (ADJP (RB close) (PP (TO to) (NP (DT the) (NN stadium)))) (SBAR (WHADVP (WRB where)) (S (NP (DT the) (NNPS Olympics)) (VP (MD will) (VP (VB open) (PP (IN in) (NP (CD two) (NNS days)))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">staged</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">activists</governor>
+            <dependent idx="1">US</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="1">US</governor>
+            <dependent idx="2">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="1">US</governor>
+            <dependent idx="3">British</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">staged</governor>
+            <dependent idx="4">activists</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">protest</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">protest</governor>
+            <dependent idx="7">dramatic</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">staged</governor>
+            <dependent idx="8">protest</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">staged</governor>
+            <dependent idx="9">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">in</governor>
+            <dependent idx="10">Beijing</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">staged</governor>
+            <dependent idx="11">on</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="11">on</governor>
+            <dependent idx="12">Wednesday</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="5">staged</governor>
+            <dependent idx="14">scaling</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">pole</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">scaling</governor>
+            <dependent idx="16">pole</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="14">scaling</governor>
+            <dependent idx="17">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="14">scaling</governor>
+            <dependent idx="18">unfurling</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="18">unfurling</governor>
+            <dependent idx="19">giant</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="24">banners</governor>
+            <dependent idx="21">Free</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="24">banners</governor>
+            <dependent idx="22">Tibet</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="33">open</governor>
+            <dependent idx="24">banners</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="33">open</governor>
+            <dependent idx="25">close</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="25">close</governor>
+            <dependent idx="26">to</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">stadium</governor>
+            <dependent idx="27">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="26">to</governor>
+            <dependent idx="28">stadium</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="33">open</governor>
+            <dependent idx="29">where</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="31">Olympics</governor>
+            <dependent idx="30">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="33">open</governor>
+            <dependent idx="31">Olympics</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="33">open</governor>
+            <dependent idx="32">will</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="18">unfurling</governor>
+            <dependent idx="33">open</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="33">open</governor>
+            <dependent idx="34">in</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="36">days</governor>
+            <dependent idx="35">two</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="34">in</governor>
+            <dependent idx="36">days</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">staged</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">activists</governor>
+            <dependent idx="1">US</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="1">US</governor>
+            <dependent idx="3">British</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">staged</governor>
+            <dependent idx="4">activists</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">protest</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">protest</governor>
+            <dependent idx="7">dramatic</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">staged</governor>
+            <dependent idx="8">protest</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="5">staged</governor>
+            <dependent idx="10">Beijing</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="5">staged</governor>
+            <dependent idx="12">Wednesday</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="5">staged</governor>
+            <dependent idx="14">scaling</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">pole</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">scaling</governor>
+            <dependent idx="16">pole</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="14">scaling</governor>
+            <dependent idx="18">unfurling</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="18">unfurling</governor>
+            <dependent idx="19">giant</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="24">banners</governor>
+            <dependent idx="21">Free</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="24">banners</governor>
+            <dependent idx="22">Tibet</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="33">open</governor>
+            <dependent idx="24">banners</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">stadium</governor>
+            <dependent idx="27">the</dependent>
+          </dep>
+          <dep type="prep_close_to">
+            <governor idx="33">open</governor>
+            <dependent idx="28">stadium</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="33">open</governor>
+            <dependent idx="29">where</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="31">Olympics</governor>
+            <dependent idx="30">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="33">open</governor>
+            <dependent idx="31">Olympics</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="33">open</governor>
+            <dependent idx="32">will</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="18">unfurling</governor>
+            <dependent idx="33">open</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="36">days</governor>
+            <dependent idx="35">two</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="33">open</governor>
+            <dependent idx="36">days</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="5">staged</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">activists</governor>
+            <dependent idx="1">US</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="1">US</governor>
+            <dependent idx="3">British</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="4">activists</governor>
+            <dependent idx="3">British</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">staged</governor>
+            <dependent idx="4">activists</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="8">protest</governor>
+            <dependent idx="6">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="8">protest</governor>
+            <dependent idx="7">dramatic</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">staged</governor>
+            <dependent idx="8">protest</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="5">staged</governor>
+            <dependent idx="10">Beijing</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="5">staged</governor>
+            <dependent idx="12">Wednesday</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="5">staged</governor>
+            <dependent idx="14">scaling</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="16">pole</governor>
+            <dependent idx="15">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="14">scaling</governor>
+            <dependent idx="16">pole</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="5">staged</governor>
+            <dependent idx="18">unfurling</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="14">scaling</governor>
+            <dependent idx="18">unfurling</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="18">unfurling</governor>
+            <dependent idx="19">giant</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="24">banners</governor>
+            <dependent idx="21">Free</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="24">banners</governor>
+            <dependent idx="22">Tibet</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="33">open</governor>
+            <dependent idx="24">banners</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">stadium</governor>
+            <dependent idx="27">the</dependent>
+          </dep>
+          <dep type="prep_close_to">
+            <governor idx="33">open</governor>
+            <dependent idx="28">stadium</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="33">open</governor>
+            <dependent idx="29">where</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="31">Olympics</governor>
+            <dependent idx="30">the</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="33">open</governor>
+            <dependent idx="31">Olympics</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="33">open</governor>
+            <dependent idx="32">will</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="18">unfurling</governor>
+            <dependent idx="33">open</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="36">days</governor>
+            <dependent idx="35">two</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="33">open</governor>
+            <dependent idx="36">days</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

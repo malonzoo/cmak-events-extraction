@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="9">
+        <tokens>
+          <token id="1">
+            <word>Autocorrect</word>
+            <lemma>autocorrect</lemma>
+            <CharacterOffsetBegin>359</CharacterOffsetBegin>
+            <CharacterOffsetEnd>370</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>corrects</word>
+            <lemma>correct</lemma>
+            <CharacterOffsetBegin>371</CharacterOffsetBegin>
+            <CharacterOffsetEnd>379</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Moodle</word>
+            <lemma>Moodle</lemma>
+            <CharacterOffsetBegin>380</CharacterOffsetBegin>
+            <CharacterOffsetEnd>386</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>387</CharacterOffsetBegin>
+            <CharacterOffsetEnd>389</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>Noodle</word>
+            <lemma>Noodle</lemma>
+            <CharacterOffsetBegin>390</CharacterOffsetBegin>
+            <CharacterOffsetEnd>396</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>396</CharacterOffsetBegin>
+            <CharacterOffsetEnd>397</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NN Autocorrect)) (VP (VBZ corrects) (NP (NP (NNP Moodle)) (PP (TO to) (NP (NNP Noodle))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">corrects</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">corrects</governor>
+            <dependent idx="1">Autocorrect</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">corrects</governor>
+            <dependent idx="3">Moodle</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="3">Moodle</governor>
+            <dependent idx="4">to</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">to</governor>
+            <dependent idx="5">Noodle</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">corrects</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">corrects</governor>
+            <dependent idx="1">Autocorrect</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">corrects</governor>
+            <dependent idx="3">Moodle</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="3">Moodle</governor>
+            <dependent idx="5">Noodle</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">corrects</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">corrects</governor>
+            <dependent idx="1">Autocorrect</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">corrects</governor>
+            <dependent idx="3">Moodle</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="3">Moodle</governor>
+            <dependent idx="5">Noodle</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

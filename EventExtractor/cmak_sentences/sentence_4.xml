@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+	<sentence id="5">
+        <tokens>
+          <token id="1">
+            <word>Russia</word>
+            <lemma>Russia</lemma>
+            <CharacterOffsetBegin>124</CharacterOffsetBegin>
+            <CharacterOffsetEnd>130</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="2">
+            <word>has</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>131</CharacterOffsetBegin>
+            <CharacterOffsetEnd>134</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>announced</word>
+            <lemma>announce</lemma>
+            <CharacterOffsetBegin>135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>144</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>145</CharacterOffsetBegin>
+            <CharacterOffsetEnd>149</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>150</CharacterOffsetBegin>
+            <CharacterOffsetEnd>152</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>intends</word>
+            <lemma>intend</lemma>
+            <CharacterOffsetBegin>153</CharacterOffsetBegin>
+            <CharacterOffsetEnd>160</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>161</CharacterOffsetBegin>
+            <CharacterOffsetEnd>163</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>honor</word>
+            <lemma>honor</lemma>
+            <CharacterOffsetBegin>164</CharacterOffsetBegin>
+            <CharacterOffsetEnd>169</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>170</CharacterOffsetBegin>
+            <CharacterOffsetEnd>171</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>2010</word>
+            <lemma>2010</lemma>
+            <CharacterOffsetBegin>172</CharacterOffsetBegin>
+            <CharacterOffsetEnd>176</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>2010</NormalizedNER>
+            <Timex tid="t1" type="DATE">2010</Timex>
+          </token>
+          <token id="11">
+            <word>agreement</word>
+            <lemma>agreement</lemma>
+            <CharacterOffsetBegin>177</CharacterOffsetBegin>
+            <CharacterOffsetEnd>186</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>187</CharacterOffsetBegin>
+            <CharacterOffsetEnd>191</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>Iran</word>
+            <lemma>Iran</lemma>
+            <CharacterOffsetBegin>192</CharacterOffsetBegin>
+            <CharacterOffsetEnd>196</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="14">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>197</CharacterOffsetBegin>
+            <CharacterOffsetEnd>199</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>sell</word>
+            <lemma>sell</lemma>
+            <CharacterOffsetBegin>200</CharacterOffsetBegin>
+            <CharacterOffsetEnd>204</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>advanced</word>
+            <lemma>advanced</lemma>
+            <CharacterOffsetBegin>205</CharacterOffsetBegin>
+            <CharacterOffsetEnd>213</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>missile</word>
+            <lemma>missile</lemma>
+            <CharacterOffsetBegin>214</CharacterOffsetBegin>
+            <CharacterOffsetEnd>221</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>systems</word>
+            <lemma>system</lemma>
+            <CharacterOffsetBegin>222</CharacterOffsetBegin>
+            <CharacterOffsetEnd>229</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>229</CharacterOffsetBegin>
+            <CharacterOffsetEnd>230</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Russia)) (VP (VBZ has) (VP (VBN announced) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ intends) (S (VP (TO to) (VP (VB honor) (NP (NP (DT a) (CD 2010) (NN agreement)) (PP (IN with) (NP (NNP Iran)))) (S (VP (TO to) (VP (VB sell) (NP (JJ advanced) (NN missile) (NNS systems))))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">announced</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">announced</governor>
+            <dependent idx="1">Russia</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">announced</governor>
+            <dependent idx="2">has</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">intends</governor>
+            <dependent idx="4">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">intends</governor>
+            <dependent idx="5">it</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">announced</governor>
+            <dependent idx="6">intends</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">honor</governor>
+            <dependent idx="7">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">intends</governor>
+            <dependent idx="8">honor</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">agreement</governor>
+            <dependent idx="9">a</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="11">agreement</governor>
+            <dependent idx="10">2010</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">honor</governor>
+            <dependent idx="11">agreement</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="11">agreement</governor>
+            <dependent idx="12">with</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="12">with</governor>
+            <dependent idx="13">Iran</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="15">sell</governor>
+            <dependent idx="14">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="8">honor</governor>
+            <dependent idx="15">sell</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">systems</governor>
+            <dependent idx="16">advanced</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">systems</governor>
+            <dependent idx="17">missile</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">sell</governor>
+            <dependent idx="18">systems</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">announced</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">announced</governor>
+            <dependent idx="1">Russia</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">announced</governor>
+            <dependent idx="2">has</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">intends</governor>
+            <dependent idx="4">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">intends</governor>
+            <dependent idx="5">it</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">announced</governor>
+            <dependent idx="6">intends</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">honor</governor>
+            <dependent idx="7">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">intends</governor>
+            <dependent idx="8">honor</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">agreement</governor>
+            <dependent idx="9">a</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="11">agreement</governor>
+            <dependent idx="10">2010</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">honor</governor>
+            <dependent idx="11">agreement</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="11">agreement</governor>
+            <dependent idx="13">Iran</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="15">sell</governor>
+            <dependent idx="14">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="8">honor</governor>
+            <dependent idx="15">sell</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">systems</governor>
+            <dependent idx="16">advanced</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">systems</governor>
+            <dependent idx="17">missile</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">sell</governor>
+            <dependent idx="18">systems</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">announced</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">announced</governor>
+            <dependent idx="1">Russia</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">announced</governor>
+            <dependent idx="2">has</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="6">intends</governor>
+            <dependent idx="4">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">intends</governor>
+            <dependent idx="5">it</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">announced</governor>
+            <dependent idx="6">intends</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="8">honor</governor>
+            <dependent idx="7">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="6">intends</governor>
+            <dependent idx="8">honor</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="11">agreement</governor>
+            <dependent idx="9">a</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="11">agreement</governor>
+            <dependent idx="10">2010</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">honor</governor>
+            <dependent idx="11">agreement</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="11">agreement</governor>
+            <dependent idx="13">Iran</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="15">sell</governor>
+            <dependent idx="14">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="8">honor</governor>
+            <dependent idx="15">sell</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="18">systems</governor>
+            <dependent idx="16">advanced</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">systems</governor>
+            <dependent idx="17">missile</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">sell</governor>
+            <dependent idx="18">systems</dependent>
+          </dep>
+        </dependencies>
+      </sentence>    </sentences>
+  </document>
+</root>

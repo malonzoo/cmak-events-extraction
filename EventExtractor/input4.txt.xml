@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="1">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>0</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>US</word>
+            <lemma>US</lemma>
+            <CharacterOffsetBegin>4</CharacterOffsetBegin>
+            <CharacterOffsetEnd>6</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="3">
+            <word>commander</word>
+            <lemma>commander</lemma>
+            <CharacterOffsetBegin>7</CharacterOffsetBegin>
+            <CharacterOffsetEnd>16</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>17</CharacterOffsetBegin>
+            <CharacterOffsetEnd>19</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>Iraq</word>
+            <lemma>Iraq</lemma>
+            <CharacterOffsetBegin>20</CharacterOffsetBegin>
+            <CharacterOffsetEnd>24</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>25</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>General</word>
+            <lemma>General</lemma>
+            <CharacterOffsetBegin>26</CharacterOffsetBegin>
+            <CharacterOffsetEnd>33</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>David</word>
+            <lemma>David</lemma>
+            <CharacterOffsetBegin>34</CharacterOffsetBegin>
+            <CharacterOffsetEnd>39</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="9">
+            <word>Petraeus</word>
+            <lemma>Petraeus</lemma>
+            <CharacterOffsetBegin>40</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="10">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>48</CharacterOffsetBegin>
+            <CharacterOffsetEnd>49</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>held</word>
+            <lemma>hold</lemma>
+            <CharacterOffsetBegin>50</CharacterOffsetBegin>
+            <CharacterOffsetEnd>54</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>talks</word>
+            <lemma>talk</lemma>
+            <CharacterOffsetBegin>55</CharacterOffsetBegin>
+            <CharacterOffsetEnd>60</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>61</CharacterOffsetBegin>
+            <CharacterOffsetEnd>65</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>President</word>
+            <lemma>President</lemma>
+            <CharacterOffsetBegin>66</CharacterOffsetBegin>
+            <CharacterOffsetEnd>75</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>Michel</word>
+            <lemma>Michel</lemma>
+            <CharacterOffsetBegin>77</CharacterOffsetBegin>
+            <CharacterOffsetEnd>83</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="16">
+            <word>Sleiman</word>
+            <lemma>Sleiman</lemma>
+            <CharacterOffsetBegin>84</CharacterOffsetBegin>
+            <CharacterOffsetEnd>91</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="17">
+            <word>during</word>
+            <lemma>during</lemma>
+            <CharacterOffsetBegin>92</CharacterOffsetBegin>
+            <CharacterOffsetEnd>98</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>99</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>surprise</word>
+            <lemma>surprise</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>109</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>visit</word>
+            <lemma>visit</lemma>
+            <CharacterOffsetBegin>110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>115</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>116</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>Beirut</word>
+            <lemma>Beirut</lemma>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>125</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="23">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>126</CharacterOffsetBegin>
+            <CharacterOffsetEnd>128</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>Wednesday</word>
+            <lemma>Wednesday</lemma>
+            <CharacterOffsetBegin>129</CharacterOffsetBegin>
+            <CharacterOffsetEnd>138</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-WXX-3</NormalizedNER>
+            <Timex tid="t1" type="DATE">XXXX-WXX-3</Timex>
+          </token>
+          <token id="25">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>139</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>offering</word>
+            <lemma>offer</lemma>
+            <CharacterOffsetBegin>140</CharacterOffsetBegin>
+            <CharacterOffsetEnd>148</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>further</word>
+            <lemma>further</lemma>
+            <CharacterOffsetBegin>150</CharacterOffsetBegin>
+            <CharacterOffsetEnd>157</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>military</word>
+            <lemma>military</lemma>
+            <CharacterOffsetBegin>158</CharacterOffsetBegin>
+            <CharacterOffsetEnd>166</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>support</word>
+            <lemma>support</lemma>
+            <CharacterOffsetBegin>167</CharacterOffsetBegin>
+            <CharacterOffsetEnd>174</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>175</CharacterOffsetBegin>
+            <CharacterOffsetEnd>177</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>Lebanon</word>
+            <lemma>Lebanon</lemma>
+            <CharacterOffsetBegin>178</CharacterOffsetBegin>
+            <CharacterOffsetEnd>185</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="32">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>185</CharacterOffsetBegin>
+            <CharacterOffsetEnd>186</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (NP (DT The) (NNP US) (NN commander)) (PP (IN in) (NP (NNP Iraq)))) (, ,) (NP (NNP General) (NNP David) (NNP Petraeus)) (, ,)) (VP (VBD held) (NP (NNS talks)) (PP (IN with) (NP (NP (NNP President) (NNP Michel) (NNP Sleiman)) (PP (IN during) (NP (DT a) (NN surprise) (NN visit))))) (PP (TO to) (NP (NP (NNP Beirut)) (PP (IN on) (NP (NNP Wednesday))))) (, ,) (S (VP (VBG offering) (NP (JJ further) (JJ military) (NN support)) (PP (TO to) (NP (NNP Lebanon)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="11">held</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">commander</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">commander</governor>
+            <dependent idx="2">US</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">held</governor>
+            <dependent idx="3">commander</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="3">commander</governor>
+            <dependent idx="4">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">in</governor>
+            <dependent idx="5">Iraq</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">Petraeus</governor>
+            <dependent idx="7">General</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">Petraeus</governor>
+            <dependent idx="8">David</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="3">commander</governor>
+            <dependent idx="9">Petraeus</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">held</governor>
+            <dependent idx="12">talks</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="11">held</governor>
+            <dependent idx="13">with</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Sleiman</governor>
+            <dependent idx="14">President</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Sleiman</governor>
+            <dependent idx="15">Michel</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="13">with</governor>
+            <dependent idx="16">Sleiman</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="16">Sleiman</governor>
+            <dependent idx="17">during</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">visit</governor>
+            <dependent idx="18">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="20">visit</governor>
+            <dependent idx="19">surprise</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="17">during</governor>
+            <dependent idx="20">visit</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="11">held</governor>
+            <dependent idx="21">to</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="21">to</governor>
+            <dependent idx="22">Beirut</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="22">Beirut</governor>
+            <dependent idx="23">on</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="23">on</governor>
+            <dependent idx="24">Wednesday</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="11">held</governor>
+            <dependent idx="26">offering</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="29">support</governor>
+            <dependent idx="27">further</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="29">support</governor>
+            <dependent idx="28">military</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">offering</governor>
+            <dependent idx="29">support</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="26">offering</governor>
+            <dependent idx="30">to</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="30">to</governor>
+            <dependent idx="31">Lebanon</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="11">held</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">commander</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">commander</governor>
+            <dependent idx="2">US</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">held</governor>
+            <dependent idx="3">commander</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="3">commander</governor>
+            <dependent idx="5">Iraq</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">Petraeus</governor>
+            <dependent idx="7">General</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">Petraeus</governor>
+            <dependent idx="8">David</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="3">commander</governor>
+            <dependent idx="9">Petraeus</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">held</governor>
+            <dependent idx="12">talks</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Sleiman</governor>
+            <dependent idx="14">President</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Sleiman</governor>
+            <dependent idx="15">Michel</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="11">held</governor>
+            <dependent idx="16">Sleiman</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">visit</governor>
+            <dependent idx="18">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="20">visit</governor>
+            <dependent idx="19">surprise</dependent>
+          </dep>
+          <dep type="prep_during">
+            <governor idx="16">Sleiman</governor>
+            <dependent idx="20">visit</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="11">held</governor>
+            <dependent idx="22">Beirut</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="22">Beirut</governor>
+            <dependent idx="24">Wednesday</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="11">held</governor>
+            <dependent idx="26">offering</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="29">support</governor>
+            <dependent idx="27">further</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="29">support</governor>
+            <dependent idx="28">military</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">offering</governor>
+            <dependent idx="29">support</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="26">offering</governor>
+            <dependent idx="31">Lebanon</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="11">held</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">commander</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">commander</governor>
+            <dependent idx="2">US</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="11">held</governor>
+            <dependent idx="3">commander</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="3">commander</governor>
+            <dependent idx="5">Iraq</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">Petraeus</governor>
+            <dependent idx="7">General</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">Petraeus</governor>
+            <dependent idx="8">David</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="3">commander</governor>
+            <dependent idx="9">Petraeus</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="11">held</governor>
+            <dependent idx="12">talks</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Sleiman</governor>
+            <dependent idx="14">President</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="16">Sleiman</governor>
+            <dependent idx="15">Michel</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="11">held</governor>
+            <dependent idx="16">Sleiman</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="20">visit</governor>
+            <dependent idx="18">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="20">visit</governor>
+            <dependent idx="19">surprise</dependent>
+          </dep>
+          <dep type="prep_during">
+            <governor idx="16">Sleiman</governor>
+            <dependent idx="20">visit</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="11">held</governor>
+            <dependent idx="22">Beirut</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="22">Beirut</governor>
+            <dependent idx="24">Wednesday</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="11">held</governor>
+            <dependent idx="26">offering</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="29">support</governor>
+            <dependent idx="27">further</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="29">support</governor>
+            <dependent idx="28">military</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">offering</governor>
+            <dependent idx="29">support</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="26">offering</governor>
+            <dependent idx="31">Lebanon</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

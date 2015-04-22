@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+      <sentence id="3">
+        <tokens>
+          <token id="1">
+            <word>Iran</word>
+            <lemma>Iran</lemma>
+            <CharacterOffsetBegin>60</CharacterOffsetBegin>
+            <CharacterOffsetEnd>64</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="2">
+            <word>held</word>
+            <lemma>hold</lemma>
+            <CharacterOffsetBegin>65</CharacterOffsetBegin>
+            <CharacterOffsetEnd>69</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>elections</word>
+            <lemma>election</lemma>
+            <CharacterOffsetBegin>70</CharacterOffsetBegin>
+            <CharacterOffsetEnd>79</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>79</CharacterOffsetBegin>
+            <CharacterOffsetEnd>80</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Iran)) (VP (VBD held) (NP (NNS elections))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">held</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">held</governor>
+            <dependent idx="1">Iran</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">held</governor>
+            <dependent idx="3">elections</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">held</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">held</governor>
+            <dependent idx="1">Iran</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">held</governor>
+            <dependent idx="3">elections</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">held</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">held</governor>
+            <dependent idx="1">Iran</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">held</governor>
+            <dependent idx="3">elections</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>
