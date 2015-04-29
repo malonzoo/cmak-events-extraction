@@ -21,7 +21,7 @@ public class TrainingSet {
 	
 	public void loadActors() throws FileNotFoundException {
 		
-		Scanner s1 = new Scanner(new File("Phoenix.Countries.actors.txt"));
+		Scanner s1 = new Scanner(new File("actors.txt"));
 		
 		s1.useDelimiter("\n");
 		while (s1.hasNext())
@@ -40,14 +40,38 @@ public class TrainingSet {
 				
 				if(line.indexOf("#") != -1)
 					line = line.substring(0, line.indexOf("#")); 
-				if(line.indexOf("[") != -1)
+				
+				if(line.indexOf('[') != -1)
+				{
 					line = line.substring(0, line.indexOf("["));
+					line.trim();
+				}
 			}
 			
 			line.trim();
 			
+			
 				if(!actors.contains(line))
-					actors.add(line.toLowerCase());
+				{
+					actors.add(line.toLowerCase().trim());
+				}
+				
+				// for multiple worded actors, add all subcomponents 
+				String[] subcomponents = line.split("\\s+");
+				for(String s: subcomponents)
+				{
+					s.trim(); 
+					s.replaceAll("\\s+", "");
+					
+					if(s.length() > 3) // avoid determiners like a, an, the
+					{
+						if(!actors.contains(s)) {
+							actors.add(s.toLowerCase().trim());
+						}
+					}
+					
+				}
+				
 		}	s1.close();
 	}
 	
@@ -66,46 +90,58 @@ public class TrainingSet {
 		
 		int i = line.indexOf('[');
 		String sub = ""; 
+		String subkey = "";
 		String topic = ""; 
 		
 		// figure out where subissue is and where topic is in the formal subissue [topic]
 		if(i != -1) {
 			sub = line.substring(0, i); 
-			sub = sub.trim().replaceAll("\\s+",""); 
+			subkey = sub.trim().replaceAll("\\s+",""); 
 			int j = line.indexOf(']');
 			topic = line.substring(i+1, j); 
 			topic = topic.trim(); 
 		} else {
-			sub = line.trim().replaceAll("\\s+",""); 
-			topic = null; 
+			subkey = line.trim().replaceAll("\\s+",""); 
+			topic = " "; 
 		}
 		
-		if(topic == null) // sub only, no topic
-		{
-			if(!issues.containsKey(sub)) {
-				ArrayList<String> topics = new ArrayList<String>(); 
-				issues.put(sub, topics); 
-			} 
-		} 
-		else //both sub and topic
-		{
-			if(issues.containsKey(sub))
-				issues.get(sub).add(topic); 
+		// input issue as is
+			if(issues.containsKey(subkey) && !issues.get(subkey).contains(topic))
+				issues.get(subkey).add(topic); 
 			else
 			{
 				ArrayList<String> topics = new ArrayList<String>(); 
 				topics.add(topic); 
-				issues.put(sub, topics); 
+				issues.put(subkey, topics); 
 			}
-		}
+			
+		// input issue subcomponents if more than one word
+			String[] subcomponents = sub.split("\\s+");
+			for(String s: subcomponents)
+			{
+				s.trim(); 
+				s.replaceAll("\\s+", "");
+				
+				if(s.length() > 3)
+				{
+					if(issues.containsKey(s) && !issues.get(s).contains(topic))
+						issues.get(s).add(topic); 
+					else
+					{
+						ArrayList<String> topics = new ArrayList<String>(); 
+						topics.add(topic); 
+						issues.put(s, topics); 
+					}
+				}
+				
+			}
+			
+//		}
 	}
 	
-	public static void main(String[] args) throws FileNotFoundException {
-		
+	public static void main(String[] args) throws FileNotFoundException {	
 		TrainingSet t = new TrainingSet(); 
-//		System.out.println(t.actors);
-		System.out.println(actors.contains("nepal"));
-		t.issues.containsKey("interamericandevelopmentbank");
+		System.out.println(issues.containsKey("elections"));
 	}
 	
 	

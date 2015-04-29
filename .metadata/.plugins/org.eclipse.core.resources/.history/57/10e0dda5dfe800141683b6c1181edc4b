@@ -97,7 +97,7 @@ public class EventExtractor {
 	public void parseFile()
 	{
 		try {
-			File fXmlFile = new File("sentence_0.xml");
+			File fXmlFile = new File("input1.txt.xml");
 	    	DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 	    	DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 	    	Document doc = dBuilder.parse(fXmlFile);
@@ -194,6 +194,8 @@ public class EventExtractor {
 	}
 	
 	public static void main(String[] args) {
-		EventExtractor eventExtractor = new EventExtractor();
+		for (int i = 0 ; i < 10 ; i++) {
+			new EventExtractor();
+		}
 	}
 }

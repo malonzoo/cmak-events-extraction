@@ -97,7 +97,8 @@ public class EventExtractor {
 	public void parseFile()
 	{
 		try {
-			File fXmlFile = new File("sentence_0.xml");
+			String filename = "cmak_sentences/sentence_0.xml";
+			File fXmlFile = new File(filename);
 	    	DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 	    	DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
 	    	Document doc = dBuilder.parse(fXmlFile);
@@ -194,6 +195,6 @@ public class EventExtractor {
 	}
 	
 	public static void main(String[] args) {
-		EventExtractor eventExtractor = new EventExtractor();
+		new EventExtractor(i);
 	}
 }

@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.HashMap; 
 import java.util.Iterator;
-import java.util.Set;
 
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -13,21 +12,16 @@ public class Sentence {
 	private String lemma;
 	private String ner;
 	private String pos;
-	
-	public ArrayList<String> actors;
+	public  ArrayList<String> actors;
 	public ArrayList<String> dates;
 	public ArrayList<String> verbs;
-	
-	// key = dependent
-	// value = array list of governors for that dependent
-	public HashMap<String, ArrayList<String[]>> dependencypairs;
-				
+	public HashMap<String, ArrayList<String[]>> dependencypairs; 
 	public String text = ""; 
 	
 	// EVENT EXTRACTING
-	public String action;
-	public String actor;
-	public String patient;
+		public String action;
+		public String actor;
+		public String patient;
 	
 	public Sentence(NodeList nList) 
 	{	
@@ -47,7 +41,8 @@ public class Sentence {
     		Node nNode = nList.item(temp);	// gets the current <sentence>     
      
     		// get the first thing in <sentence> which is <tokens>
-    		if (nNode.getNodeType() == Node.ELEMENT_NODE) { 
+    		if (nNode.getNodeType() == Node.ELEMENT_NODE) 
+    		{ 
     			Element eElement = (Element) nNode;
     			
     			// get a list of <token> under <tokens>
@@ -107,15 +102,25 @@ public class Sentence {
     					
     					checkDependencies(depentype, dependent, governor); 
     				}
-    			}			
+    			} 
     		}    			
     	}
+
     	
     	checkConjunction();
     	refineActor();
     	if (patient != null) {
     		refinePatient();
     	}
+    	
+    	// final check to see if identified actor and patient are in our data structure
+    	
+    	if(patient != null && !actors.contains(patient))
+    		actors.add(patient);
+    	
+    	if(patient != null && !actors.contains(actor))
+    		actors.add(actor);
+    	
     }
 	
 	/**
@@ -208,7 +213,6 @@ public class Sentence {
 		}
 		
 	}
-	
 	/**
 	 * Checks named entities for location and actors
 	 */
