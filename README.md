@@ -18,6 +18,6 @@ Always run CMAK in the command line. Our training set is quite large and because
 
 ## TODOs
 1. Implement a simplier pipeline for processes. Currently, the user must input an already processed XML in specific format CMAK takes it in (Stanford Core NLP xml format). It would be more useful if instead the user can just input a sentence without having to do the extra work of creating said XML.
-2. Implement a user interface. Command line just don't cut it.
+2. Implement a user interface. Command line just doesn't cut it.
 3. Create a solution for when sentences have political events mentioned but the main action of the political event is not the root main action.
 4. Create a solution for an actor that is not the main noun subject of the root verb. In some cases, the noun subject of the root verb is a non-proper noun that later refers to a proper noun mentioned later in the text. Resolve this discrepancy.
