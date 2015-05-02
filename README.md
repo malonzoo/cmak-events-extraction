@@ -12,9 +12,9 @@ Components of our event extraction research and model building include finding t
 
 
 ## Running CMAK
-Always run CMAK in the command line. Our training set is quite large and because of the large quanitity of memory, CMAK will run incorrectly in IDE's such as Eclipse. Simply run CMAK:
+Always run CMAK in the command line. For whatever reason, CMAK just runs incorrectly in IDE's such as Eclipse (one guess is the large quantity of memory creating and running evaluations against our training set, maybe?) In any case, simply run CMAK in the main directory after compiling (if you've changed anything. Unchanged, CMAK is already compiled):
 
-	java -cp bin CMAK __path_to_xml__
+	java -cp bin CMAK [__path_to_xml_of_sentence_to_analyze__]
 
 ## TODOs
 1. Implement a simplier pipeline for processes. Currently, the user must input an already processed XML in specific format CMAK takes it in (Stanford Core NLP xml format). It would be more useful if instead the user can just input a sentence without having to do the extra work of creating said XML.
