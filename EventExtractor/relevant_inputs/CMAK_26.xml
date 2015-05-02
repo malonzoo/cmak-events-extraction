@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="26">
+        <tokens>
+          <token id="1">
+            <word>China</word>
+            <lemma>China</lemma>
+            <CharacterOffsetBegin>3097</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3102</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="2">
+            <word>passes</word>
+            <lemma>pass</lemma>
+            <CharacterOffsetBegin>3103</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3109</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Mexico</word>
+            <lemma>Mexico</lemma>
+            <CharacterOffsetBegin>3110</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3116</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="4">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>3117</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3119</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>3120</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3123</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>top</word>
+            <lemma>top</lemma>
+            <CharacterOffsetBegin>3124</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3127</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>source</word>
+            <lemma>source</lemma>
+            <CharacterOffsetBegin>3128</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3134</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>3135</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3137</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>new</word>
+            <lemma>new</lemma>
+            <CharacterOffsetBegin>3138</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3141</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>U.S.</word>
+            <lemma>U.S.</lemma>
+            <CharacterOffsetBegin>3142</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3146</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="11">
+            <word>immigrants</word>
+            <lemma>immigrant</lemma>
+            <CharacterOffsetBegin>3147</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3157</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>3157</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3158</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP China)) (VP (VBZ passes) (NP (NP (NNP Mexico)) (PP (IN as) (NP (NP (DT the) (JJ top) (NN source)) (PP (IN of) (NP (JJ new) (NNP U.S.) (NNS immigrants))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">passes</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">passes</governor>
+            <dependent idx="1">China</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">passes</governor>
+            <dependent idx="3">Mexico</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="3">Mexico</governor>
+            <dependent idx="4">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">source</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">source</governor>
+            <dependent idx="6">top</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">as</governor>
+            <dependent idx="7">source</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">source</governor>
+            <dependent idx="8">of</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">immigrants</governor>
+            <dependent idx="9">new</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="11">immigrants</governor>
+            <dependent idx="10">U.S.</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">of</governor>
+            <dependent idx="11">immigrants</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">passes</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">passes</governor>
+            <dependent idx="1">China</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">passes</governor>
+            <dependent idx="3">Mexico</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">source</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">source</governor>
+            <dependent idx="6">top</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="3">Mexico</governor>
+            <dependent idx="7">source</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">immigrants</governor>
+            <dependent idx="9">new</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="11">immigrants</governor>
+            <dependent idx="10">U.S.</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="7">source</governor>
+            <dependent idx="11">immigrants</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">passes</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">passes</governor>
+            <dependent idx="1">China</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">passes</governor>
+            <dependent idx="3">Mexico</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="7">source</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">source</governor>
+            <dependent idx="6">top</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="3">Mexico</governor>
+            <dependent idx="7">source</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="11">immigrants</governor>
+            <dependent idx="9">new</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="11">immigrants</governor>
+            <dependent idx="10">U.S.</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="7">source</governor>
+            <dependent idx="11">immigrants</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

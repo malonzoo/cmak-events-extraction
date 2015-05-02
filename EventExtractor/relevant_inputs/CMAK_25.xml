@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="25">
+        <tokens>
+          <token id="1">
+            <word>Venezuela</word>
+            <lemma>Venezuela</lemma>
+            <CharacterOffsetBegin>3037</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3046</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="2">
+            <word>raises</word>
+            <lemma>raise</lemma>
+            <CharacterOffsetBegin>3047</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3053</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>minimum</word>
+            <lemma>minimum</lemma>
+            <CharacterOffsetBegin>3054</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3061</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>wage</word>
+            <lemma>wage</lemma>
+            <CharacterOffsetBegin>3062</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3066</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>30</word>
+            <lemma>30</lemma>
+            <CharacterOffsetBegin>3067</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3069</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>30.0</NormalizedNER>
+          </token>
+          <token id="6">
+            <word>pct</word>
+            <lemma>pct</lemma>
+            <CharacterOffsetBegin>3070</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3073</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>amid</word>
+            <lemma>amid</lemma>
+            <CharacterOffsetBegin>3074</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3078</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>raging</word>
+            <lemma>rage</lemma>
+            <CharacterOffsetBegin>3079</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3085</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>inflation</word>
+            <lemma>inflation</lemma>
+            <CharacterOffsetBegin>3086</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3095</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>3095</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3096</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Venezuela)) (VP (VBZ raises) (NP (JJ minimum) (NN wage) (NP (CD 30) (NN pct))) (PP (IN amid) (S (VP (VBG raging) (NP (NN inflation)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">raises</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">raises</governor>
+            <dependent idx="1">Venezuela</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">wage</governor>
+            <dependent idx="3">minimum</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">raises</governor>
+            <dependent idx="4">wage</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="6">pct</governor>
+            <dependent idx="5">30</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">wage</governor>
+            <dependent idx="6">pct</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">raises</governor>
+            <dependent idx="7">amid</dependent>
+          </dep>
+          <dep type="pcomp">
+            <governor idx="7">amid</governor>
+            <dependent idx="8">raging</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">raging</governor>
+            <dependent idx="9">inflation</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">raises</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">raises</governor>
+            <dependent idx="1">Venezuela</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">wage</governor>
+            <dependent idx="3">minimum</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">raises</governor>
+            <dependent idx="4">wage</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="6">pct</governor>
+            <dependent idx="5">30</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">wage</governor>
+            <dependent idx="6">pct</dependent>
+          </dep>
+          <dep type="prepc_amid">
+            <governor idx="2">raises</governor>
+            <dependent idx="8">raging</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">raging</governor>
+            <dependent idx="9">inflation</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">raises</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">raises</governor>
+            <dependent idx="1">Venezuela</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="4">wage</governor>
+            <dependent idx="3">minimum</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">raises</governor>
+            <dependent idx="4">wage</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="6">pct</governor>
+            <dependent idx="5">30</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="4">wage</governor>
+            <dependent idx="6">pct</dependent>
+          </dep>
+          <dep type="prepc_amid">
+            <governor idx="2">raises</governor>
+            <dependent idx="8">raging</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="8">raging</governor>
+            <dependent idx="9">inflation</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

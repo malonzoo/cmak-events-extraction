@@ -1,349 +1,447 @@
-INFO 2015-04-22 03:35:03,467: Running
-INFO 2015-04-22 03:35:03,467: Using default config file.
-INFO 2015-04-22 03:35:03,468: Reading CAMEO.verbpatterns.140901.txt
-INFO 2015-04-22 03:35:03,620: Reading /Users/camillemalonzo/GitHub/spring-2015/cs341/finalproject/petrarch/petrarch/data/dictionaries/Phoenix.Countries.actors.txt
-WARNING 2015-04-22 03:35:03,797: End date in interval date restriction is less than starting date; line skipped
-WARNING 2015-04-22 03:35:03,994: String in date restriction could not be interpreted; line skipped
-INFO 2015-04-22 03:35:04,275: Reading /Users/camillemalonzo/GitHub/spring-2015/cs341/finalproject/petrarch/petrarch/data/dictionaries/Phoenix.International.actors.txt
-WARNING 2015-04-22 03:35:04,275: End date in interval date restriction is less than starting date; line skipped
-INFO 2015-04-22 03:35:04,389: Reading /Users/camillemalonzo/GitHub/spring-2015/cs341/finalproject/petrarch/petrarch/data/dictionaries/Phoenix.MilNonState.actors.txt
-INFO 2015-04-22 03:35:04,433: Reading Phoenix.agents.txt
+INFO 2015-05-01 22:46:41,722: Running
+INFO 2015-05-01 22:46:41,722: Using default config file.
+INFO 2015-05-01 22:46:41,724: Reading CAMEO.verbpatterns.140901.txt
+INFO 2015-05-01 22:46:41,871: Reading /Users/camillemalonzo/GitHub/spring-2015/cs341/finalproject/petrarch/petrarch/data/dictionaries/Phoenix.Countries.actors.txt
+WARNING 2015-05-01 22:46:42,047: End date in interval date restriction is less than starting date; line skipped
+WARNING 2015-05-01 22:46:42,233: String in date restriction could not be interpreted; line skipped
+INFO 2015-05-01 22:46:42,530: Reading /Users/camillemalonzo/GitHub/spring-2015/cs341/finalproject/petrarch/petrarch/data/dictionaries/Phoenix.International.actors.txt
+WARNING 2015-05-01 22:46:42,532: End date in interval date restriction is less than starting date; line skipped
+INFO 2015-05-01 22:46:42,650: Reading /Users/camillemalonzo/GitHub/spring-2015/cs341/finalproject/petrarch/petrarch/data/dictionaries/Phoenix.MilNonState.actors.txt
+INFO 2015-05-01 22:46:42,695: Reading Phoenix.agents.txt
 
-WARNING 2015-04-22 03:35:04,441: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,441: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,442: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,443: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,444: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,445: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,446: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,447: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,448: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,449: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,450: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,451: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,452: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,453: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,454: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,455: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,456: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,457: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,458: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,459: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,459: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,459: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,460: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,460: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,460: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,460: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,460: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,461: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,461: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,461: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,461: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,461: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,461: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,461: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,462: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,462: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,462: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,462: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,462: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,462: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,462: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,463: Substitution marker !MINST! missing in .agents file; line skipped
-WARNING 2015-04-22 03:35:04,471: Codes are required for agents in .agents file ; line skipped
-INFO 2015-04-22 03:35:04,509: Reading Phoenix.discards.txt
-INFO 2015-04-22 03:35:04,511: Reading Phoenix.IssueCoding.txt
-INFO 2015-04-22 03:35:04,548: Processing CMAK
-INFO 2015-04-22 03:35:04,548: 	Processing CMAK_1
-INFO 2015-04-22 03:35:04,554: 	Processing CMAK_0
-INFO 2015-04-22 03:35:04,555: 	Processing CMAK_3
-INFO 2015-04-22 03:35:04,559: 	Processing CMAK_2
-INFO 2015-04-22 03:35:04,560: 	Processing CMAK_5
-INFO 2015-04-22 03:35:04,563: 	Processing CMAK_4
-INFO 2015-04-22 03:35:04,564: 	Sentence discard.  2010
-INFO 2015-04-22 03:35:04,564: 	Processing CMAK_7
-INFO 2015-04-22 03:35:04,565: 	Processing CMAK_6
-INFO 2015-04-22 03:35:04,566: 	Processing CMAK_9
-INFO 2015-04-22 03:35:04,568: 	Processing CMAK_8
+WARNING 2015-05-01 22:46:42,706: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,706: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,706: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,707: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,708: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,709: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,710: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,711: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,712: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,713: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,714: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,715: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,716: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,717: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,718: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,719: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,720: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,721: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,722: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,723: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,724: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,725: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,725: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,725: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,725: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,725: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,726: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,726: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,726: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,726: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,726: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,726: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,727: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,727: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,727: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,727: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,727: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,727: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,727: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,727: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,728: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,728: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,728: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,728: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,728: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,728: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,728: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,728: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,729: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,729: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,729: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,729: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,729: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,729: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,729: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,729: Substitution marker !MINST! missing in .agents file; line skipped
+WARNING 2015-05-01 22:46:42,740: Codes are required for agents in .agents file ; line skipped
+INFO 2015-05-01 22:46:42,782: Reading Phoenix.discards.txt
+INFO 2015-05-01 22:46:42,784: Reading Phoenix.IssueCoding.txt
+INFO 2015-05-01 22:46:42,822: Setting up StanfordNLP
+INFO 2015-05-01 22:46:46,047: Stanford setup complete. Starting parse of 1 stories.
+INFO 2015-05-01 22:46:46,048: StanfordNLP parsing CMAK_24...
+WARNING 2015-05-01 22:46:46,048: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:46,048: StanfordNLP parsing CMAK_25...
+WARNING 2015-05-01 22:46:46,048: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:46,048: StanfordNLP parsing CMAK_26...
+WARNING 2015-05-01 22:46:46,048: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:46,048: StanfordNLP parsing CMAK_27...
+WARNING 2015-05-01 22:46:46,048: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:46,048: StanfordNLP parsing CMAK_20...
+INFO 2015-05-01 22:46:46,805: StanfordNLP parsing CMAK_21...
+INFO 2015-05-01 22:46:47,268: StanfordNLP parsing CMAK_22...
+WARNING 2015-05-01 22:46:47,268: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:47,268: StanfordNLP parsing CMAK_23...
+WARNING 2015-05-01 22:46:47,268: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:47,269: StanfordNLP parsing CMAK_28...
+INFO 2015-05-01 22:46:47,523: StanfordNLP parsing CMAK_29...
+INFO 2015-05-01 22:46:47,785: StanfordNLP parsing CMAK_1...
+WARNING 2015-05-01 22:46:47,786: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:47,786: StanfordNLP parsing CMAK_0...
+WARNING 2015-05-01 22:46:47,786: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:47,786: StanfordNLP parsing CMAK_3...
+WARNING 2015-05-01 22:46:47,786: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:47,786: StanfordNLP parsing CMAK_2...
+WARNING 2015-05-01 22:46:47,786: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:47,786: StanfordNLP parsing CMAK_5...
+WARNING 2015-05-01 22:46:47,786: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:47,786: StanfordNLP parsing CMAK_4...
+INFO 2015-05-01 22:46:48,075: StanfordNLP parsing CMAK_7...
+WARNING 2015-05-01 22:46:48,075: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:48,075: StanfordNLP parsing CMAK_6...
+INFO 2015-05-01 22:46:48,387: StanfordNLP parsing CMAK_9...
+INFO 2015-05-01 22:46:48,674: StanfordNLP parsing CMAK_8...
+INFO 2015-05-01 22:46:49,155: StanfordNLP parsing CMAK_39...
+WARNING 2015-05-01 22:46:49,155: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:49,155: StanfordNLP parsing CMAK_38...
+WARNING 2015-05-01 22:46:49,155: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:49,155: StanfordNLP parsing CMAK_11...
+INFO 2015-05-01 22:46:49,498: StanfordNLP parsing CMAK_10...
+INFO 2015-05-01 22:46:50,056: StanfordNLP parsing CMAK_13...
+INFO 2015-05-01 22:46:50,503: StanfordNLP parsing CMAK_12...
+INFO 2015-05-01 22:46:50,985: StanfordNLP parsing CMAK_15...
+INFO 2015-05-01 22:46:51,521: StanfordNLP parsing CMAK_14...
+INFO 2015-05-01 22:46:51,955: StanfordNLP parsing CMAK_17...
+INFO 2015-05-01 22:46:52,405: StanfordNLP parsing CMAK_16...
+INFO 2015-05-01 22:46:52,740: StanfordNLP parsing CMAK_19...
+INFO 2015-05-01 22:46:53,168: StanfordNLP parsing CMAK_18...
+INFO 2015-05-01 22:46:53,592: StanfordNLP parsing CMAK_31...
+WARNING 2015-05-01 22:46:53,592: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:53,593: StanfordNLP parsing CMAK_30...
+WARNING 2015-05-01 22:46:53,593: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:53,593: StanfordNLP parsing CMAK_37...
+WARNING 2015-05-01 22:46:53,593: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:53,593: StanfordNLP parsing CMAK_36...
+WARNING 2015-05-01 22:46:53,593: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:53,593: StanfordNLP parsing CMAK_35...
+INFO 2015-05-01 22:46:53,980: StanfordNLP parsing CMAK_34...
+WARNING 2015-05-01 22:46:53,980: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:53,980: StanfordNLP parsing CMAK_33...
+INFO 2015-05-01 22:46:54,231: StanfordNLP parsing CMAK_32...
+WARNING 2015-05-01 22:46:54,232: 	Text length wrong. Either too long or too short.
+INFO 2015-05-01 22:46:54,232: Done with StanfordNLP parse.
+INFO 2015-05-01 22:46:54,745: Processing CMAK
+INFO 2015-05-01 22:46:54,745: 	Processing CMAK_24
+INFO 2015-05-01 22:46:54,746: 	Processing CMAK_25
+INFO 2015-05-01 22:46:54,747: 	Processing CMAK_26
+INFO 2015-05-01 22:46:54,747: 	Processing CMAK_27
+INFO 2015-05-01 22:46:54,748: 	Processing CMAK_20
+INFO 2015-05-01 22:46:54,759: 	Processing CMAK_21
+INFO 2015-05-01 22:46:54,761: 	Processing CMAK_22
+INFO 2015-05-01 22:46:54,761: 	Processing CMAK_23
+INFO 2015-05-01 22:46:54,762: 	Processing CMAK_28
+INFO 2015-05-01 22:46:54,763: 	Processing CMAK_29
+INFO 2015-05-01 22:46:54,771: 	Processing CMAK_1
+INFO 2015-05-01 22:46:54,771: 	Processing CMAK_0
+INFO 2015-05-01 22:46:54,772: 	Processing CMAK_3
+INFO 2015-05-01 22:46:54,772: 	Processing CMAK_2
+INFO 2015-05-01 22:46:54,772: 	Processing CMAK_5
+INFO 2015-05-01 22:46:54,773: 	Processing CMAK_4
+INFO 2015-05-01 22:46:54,773: 	Sentence discard.  2010
+INFO 2015-05-01 22:46:54,774: 	Processing CMAK_7
+INFO 2015-05-01 22:46:54,774: 	Processing CMAK_6
+INFO 2015-05-01 22:46:54,777: 	Processing CMAK_9
+INFO 2015-05-01 22:46:54,788: 	Processing CMAK_8
+INFO 2015-05-01 22:46:54,790: 	Sentence discard.  YEARS AGO
+INFO 2015-05-01 22:46:54,790: 	Processing CMAK_39
+INFO 2015-05-01 22:46:54,790: 	Processing CMAK_38
+INFO 2015-05-01 22:46:54,791: 	Processing CMAK_11
+INFO 2015-05-01 22:46:54,795: 	Processing CMAK_10
+INFO 2015-05-01 22:46:54,800: 	Processing CMAK_13
+INFO 2015-05-01 22:46:54,810: 	Processing CMAK_12
+INFO 2015-05-01 22:46:54,811: 	Sentence discard.  1994
+INFO 2015-05-01 22:46:54,811: 	Processing CMAK_15
+INFO 2015-05-01 22:46:54,813: 	Sentence discard.  MONTHS AGO
+INFO 2015-05-01 22:46:54,813: 	Processing CMAK_14
+INFO 2015-05-01 22:46:54,819: 	Processing CMAK_17
+INFO 2015-05-01 22:46:54,829: 	Processing CMAK_16
+INFO 2015-05-01 22:46:54,832: 	Processing CMAK_19
+INFO 2015-05-01 22:46:54,833: 	Sentence discard.  1994
+INFO 2015-05-01 22:46:54,833: 	Processing CMAK_18
+INFO 2015-05-01 22:46:54,834: 	Sentence discard.  1994
+INFO 2015-05-01 22:46:54,834: 	Processing CMAK_31
+INFO 2015-05-01 22:46:54,835: 	Processing CMAK_30
+INFO 2015-05-01 22:46:54,835: 	Processing CMAK_37
+INFO 2015-05-01 22:46:54,836: 	Processing CMAK_36
+INFO 2015-05-01 22:46:54,836: 	Processing CMAK_35
+INFO 2015-05-01 22:46:54,838: 	Processing CMAK_34
+INFO 2015-05-01 22:46:54,838: 	Processing CMAK_33
+INFO 2015-05-01 22:46:54,839: 	Processing CMAK_32

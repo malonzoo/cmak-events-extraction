@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="9">
+        <tokens>
+          <token id="1">
+            <word>A</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>459</CharacterOffsetBegin>
+            <CharacterOffsetEnd>460</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>court</word>
+            <lemma>court</lemma>
+            <CharacterOffsetBegin>461</CharacterOffsetBegin>
+            <CharacterOffsetEnd>466</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>467</CharacterOffsetBegin>
+            <CharacterOffsetEnd>469</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>Guyana</word>
+            <lemma>Guyana</lemma>
+            <CharacterOffsetBegin>470</CharacterOffsetBegin>
+            <CharacterOffsetEnd>476</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="5">
+            <word>has</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>477</CharacterOffsetBegin>
+            <CharacterOffsetEnd>480</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>issued</word>
+            <lemma>issue</lemma>
+            <CharacterOffsetBegin>481</CharacterOffsetBegin>
+            <CharacterOffsetEnd>487</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>arrest</word>
+            <lemma>arrest</lemma>
+            <CharacterOffsetBegin>488</CharacterOffsetBegin>
+            <CharacterOffsetEnd>494</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>warrants</word>
+            <lemma>warrant</lemma>
+            <CharacterOffsetBegin>495</CharacterOffsetBegin>
+            <CharacterOffsetEnd>503</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>504</CharacterOffsetBegin>
+            <CharacterOffsetEnd>506</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>two</word>
+            <lemma>two</lemma>
+            <CharacterOffsetBegin>507</CharacterOffsetBegin>
+            <CharacterOffsetEnd>510</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>2.0</NormalizedNER>
+          </token>
+          <token id="11">
+            <word>Brazilian</word>
+            <lemma>brazilian</lemma>
+            <CharacterOffsetBegin>511</CharacterOffsetBegin>
+            <CharacterOffsetEnd>520</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="12">
+            <word>men</word>
+            <lemma>man</lemma>
+            <CharacterOffsetBegin>521</CharacterOffsetBegin>
+            <CharacterOffsetEnd>524</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>sought</word>
+            <lemma>seek</lemma>
+            <CharacterOffsetBegin>525</CharacterOffsetBegin>
+            <CharacterOffsetEnd>531</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>532</CharacterOffsetBegin>
+            <CharacterOffsetEnd>534</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>535</CharacterOffsetBegin>
+            <CharacterOffsetEnd>538</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>brutal</word>
+            <lemma>brutal</lemma>
+            <CharacterOffsetBegin>539</CharacterOffsetBegin>
+            <CharacterOffsetEnd>545</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>slaying</word>
+            <lemma>slaying</lemma>
+            <CharacterOffsetBegin>546</CharacterOffsetBegin>
+            <CharacterOffsetEnd>553</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>554</CharacterOffsetBegin>
+            <CharacterOffsetEnd>556</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>two</word>
+            <lemma>two</lemma>
+            <CharacterOffsetBegin>557</CharacterOffsetBegin>
+            <CharacterOffsetEnd>560</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>2.0</NormalizedNER>
+          </token>
+          <token id="20">
+            <word>American</word>
+            <lemma>american</lemma>
+            <CharacterOffsetBegin>561</CharacterOffsetBegin>
+            <CharacterOffsetEnd>569</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="21">
+            <word>missionaries</word>
+            <lemma>missionary</lemma>
+            <CharacterOffsetBegin>570</CharacterOffsetBegin>
+            <CharacterOffsetEnd>582</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>583</CharacterOffsetBegin>
+            <CharacterOffsetEnd>585</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>southern</word>
+            <lemma>southern</lemma>
+            <CharacterOffsetBegin>586</CharacterOffsetBegin>
+            <CharacterOffsetEnd>594</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>Guyana</word>
+            <lemma>Guyana</lemma>
+            <CharacterOffsetBegin>595</CharacterOffsetBegin>
+            <CharacterOffsetEnd>601</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="25">
+            <word>three</word>
+            <lemma>three</lemma>
+            <CharacterOffsetBegin>602</CharacterOffsetBegin>
+            <CharacterOffsetEnd>607</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P-3Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="26">
+            <word>years</word>
+            <lemma>year</lemma>
+            <CharacterOffsetBegin>608</CharacterOffsetBegin>
+            <CharacterOffsetEnd>613</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P-3Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="27">
+            <word>ago</word>
+            <lemma>ago</lemma>
+            <CharacterOffsetBegin>614</CharacterOffsetBegin>
+            <CharacterOffsetEnd>617</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P-3Y</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="28">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>617</CharacterOffsetBegin>
+            <CharacterOffsetEnd>618</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>619</CharacterOffsetBegin>
+            <CharacterOffsetEnd>620</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>senior</word>
+            <lemma>senior</lemma>
+            <CharacterOffsetBegin>621</CharacterOffsetBegin>
+            <CharacterOffsetEnd>627</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>Guyanese</word>
+            <lemma>guyanese</lemma>
+            <CharacterOffsetBegin>628</CharacterOffsetBegin>
+            <CharacterOffsetEnd>636</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="32">
+            <word>police</word>
+            <lemma>police</lemma>
+            <CharacterOffsetBegin>637</CharacterOffsetBegin>
+            <CharacterOffsetEnd>643</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>officer</word>
+            <lemma>officer</lemma>
+            <CharacterOffsetBegin>644</CharacterOffsetBegin>
+            <CharacterOffsetEnd>651</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>said</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>652</CharacterOffsetBegin>
+            <CharacterOffsetEnd>656</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>Wednesday</word>
+            <lemma>Wednesday</lemma>
+            <CharacterOffsetBegin>657</CharacterOffsetBegin>
+            <CharacterOffsetEnd>666</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-WXX-3</NormalizedNER>
+            <Timex tid="t2" type="DATE">XXXX-WXX-3</Timex>
+          </token>
+          <token id="36">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>666</CharacterOffsetBegin>
+            <CharacterOffsetEnd>667</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (NP (NP (DT A) (NN court)) (PP (IN in) (NP (NNP Guyana)))) (VP (VBZ has) (VP (VBN issued) (NP (NN arrest) (NNS warrants)) (PP (TO to) (NP (NP (CD two) (JJ Brazilian) (NNS men)) (VP (VBN sought) (PP (IN in) (NP (NP (DT the) (JJ brutal) (NN slaying)) (PP (IN of) (NP (NP (CD two) (JJ American) (NNS missionaries)) (PP (IN in) (NP (JJ southern) (NNP Guyana))) (ADVP (NP (CD three) (NNS years)) (RB ago)))))))))))) (, ,) (NP (DT a) (JJ senior) (JJ Guyanese) (NN police) (NN officer)) (VP (VBD said) (NP-TMP (NNP Wednesday))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="34">said</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">court</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">issued</governor>
+            <dependent idx="2">court</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">court</governor>
+            <dependent idx="3">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="3">in</governor>
+            <dependent idx="4">Guyana</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">issued</governor>
+            <dependent idx="5">has</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="34">said</governor>
+            <dependent idx="6">issued</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="8">warrants</governor>
+            <dependent idx="7">arrest</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">issued</governor>
+            <dependent idx="8">warrants</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="6">issued</governor>
+            <dependent idx="9">to</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="12">men</governor>
+            <dependent idx="10">two</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">men</governor>
+            <dependent idx="11">Brazilian</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="9">to</governor>
+            <dependent idx="12">men</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="12">men</governor>
+            <dependent idx="13">sought</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="13">sought</governor>
+            <dependent idx="14">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">slaying</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">slaying</governor>
+            <dependent idx="16">brutal</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="14">in</governor>
+            <dependent idx="17">slaying</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="17">slaying</governor>
+            <dependent idx="18">of</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="19">two</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="20">American</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="18">of</governor>
+            <dependent idx="21">missionaries</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="22">in</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">Guyana</governor>
+            <dependent idx="23">southern</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="22">in</governor>
+            <dependent idx="24">Guyana</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="26">years</governor>
+            <dependent idx="25">three</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="27">ago</governor>
+            <dependent idx="26">years</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="27">ago</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="33">officer</governor>
+            <dependent idx="29">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="33">officer</governor>
+            <dependent idx="30">senior</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="33">officer</governor>
+            <dependent idx="31">Guyanese</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="33">officer</governor>
+            <dependent idx="32">police</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="34">said</governor>
+            <dependent idx="33">officer</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="34">said</governor>
+            <dependent idx="35">Wednesday</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="34">said</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">court</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">issued</governor>
+            <dependent idx="2">court</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="2">court</governor>
+            <dependent idx="4">Guyana</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">issued</governor>
+            <dependent idx="5">has</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="34">said</governor>
+            <dependent idx="6">issued</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="8">warrants</governor>
+            <dependent idx="7">arrest</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">issued</governor>
+            <dependent idx="8">warrants</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="12">men</governor>
+            <dependent idx="10">two</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">men</governor>
+            <dependent idx="11">Brazilian</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="6">issued</governor>
+            <dependent idx="12">men</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="12">men</governor>
+            <dependent idx="13">sought</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">slaying</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">slaying</governor>
+            <dependent idx="16">brutal</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="13">sought</governor>
+            <dependent idx="17">slaying</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="19">two</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="20">American</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="17">slaying</governor>
+            <dependent idx="21">missionaries</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">Guyana</governor>
+            <dependent idx="23">southern</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="24">Guyana</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="26">years</governor>
+            <dependent idx="25">three</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="27">ago</governor>
+            <dependent idx="26">years</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="27">ago</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="33">officer</governor>
+            <dependent idx="29">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="33">officer</governor>
+            <dependent idx="30">senior</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="33">officer</governor>
+            <dependent idx="31">Guyanese</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="33">officer</governor>
+            <dependent idx="32">police</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="34">said</governor>
+            <dependent idx="33">officer</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="34">said</governor>
+            <dependent idx="35">Wednesday</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="34">said</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">court</governor>
+            <dependent idx="1">A</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="6">issued</governor>
+            <dependent idx="2">court</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="2">court</governor>
+            <dependent idx="4">Guyana</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">issued</governor>
+            <dependent idx="5">has</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="34">said</governor>
+            <dependent idx="6">issued</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="8">warrants</governor>
+            <dependent idx="7">arrest</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">issued</governor>
+            <dependent idx="8">warrants</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="12">men</governor>
+            <dependent idx="10">two</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">men</governor>
+            <dependent idx="11">Brazilian</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="6">issued</governor>
+            <dependent idx="12">men</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="12">men</governor>
+            <dependent idx="13">sought</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">slaying</governor>
+            <dependent idx="15">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="17">slaying</governor>
+            <dependent idx="16">brutal</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="13">sought</governor>
+            <dependent idx="17">slaying</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="19">two</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="20">American</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="17">slaying</governor>
+            <dependent idx="21">missionaries</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="24">Guyana</governor>
+            <dependent idx="23">southern</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="24">Guyana</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="26">years</governor>
+            <dependent idx="25">three</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="27">ago</governor>
+            <dependent idx="26">years</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="21">missionaries</governor>
+            <dependent idx="27">ago</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="33">officer</governor>
+            <dependent idx="29">a</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="33">officer</governor>
+            <dependent idx="30">senior</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="33">officer</governor>
+            <dependent idx="31">Guyanese</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="33">officer</governor>
+            <dependent idx="32">police</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="34">said</governor>
+            <dependent idx="33">officer</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="34">said</governor>
+            <dependent idx="35">Wednesday</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

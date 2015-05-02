@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="11">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>778</CharacterOffsetBegin>
+            <CharacterOffsetEnd>781</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>statement</word>
+            <lemma>statement</lemma>
+            <CharacterOffsetBegin>782</CharacterOffsetBegin>
+            <CharacterOffsetEnd>791</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>by</word>
+            <lemma>by</lemma>
+            <CharacterOffsetBegin>792</CharacterOffsetBegin>
+            <CharacterOffsetEnd>794</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>795</CharacterOffsetBegin>
+            <CharacterOffsetEnd>798</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>French</word>
+            <lemma>french</lemma>
+            <CharacterOffsetBegin>799</CharacterOffsetBegin>
+            <CharacterOffsetEnd>805</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="6">
+            <word>presidency</word>
+            <lemma>presidency</lemma>
+            <CharacterOffsetBegin>806</CharacterOffsetBegin>
+            <CharacterOffsetEnd>816</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>comes</word>
+            <lemma>come</lemma>
+            <CharacterOffsetBegin>817</CharacterOffsetBegin>
+            <CharacterOffsetEnd>822</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>823</CharacterOffsetBegin>
+            <CharacterOffsetEnd>824</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>DURATION</NER>
+            <Timex tid="t1" type="DURATION">P1D</Timex>
+          </token>
+          <token id="9">
+            <word>day</word>
+            <lemma>day</lemma>
+            <CharacterOffsetBegin>825</CharacterOffsetBegin>
+            <CharacterOffsetEnd>828</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>DURATION</NER>
+            <Timex tid="t1" type="DURATION">P1D</Timex>
+          </token>
+          <token id="10">
+            <word>before</word>
+            <lemma>before</lemma>
+            <CharacterOffsetBegin>829</CharacterOffsetBegin>
+            <CharacterOffsetEnd>835</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>Sarkozy</word>
+            <lemma>Sarkozy</lemma>
+            <CharacterOffsetBegin>836</CharacterOffsetBegin>
+            <CharacterOffsetEnd>843</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="12">
+            <word>heads</word>
+            <lemma>head</lemma>
+            <CharacterOffsetBegin>844</CharacterOffsetBegin>
+            <CharacterOffsetEnd>849</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>850</CharacterOffsetBegin>
+            <CharacterOffsetEnd>852</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>Beijing</word>
+            <lemma>Beijing</lemma>
+            <CharacterOffsetBegin>853</CharacterOffsetBegin>
+            <CharacterOffsetEnd>860</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="15">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>861</CharacterOffsetBegin>
+            <CharacterOffsetEnd>864</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>865</CharacterOffsetBegin>
+            <CharacterOffsetEnd>868</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>Friday</word>
+            <lemma>Friday</lemma>
+            <CharacterOffsetBegin>869</CharacterOffsetBegin>
+            <CharacterOffsetEnd>875</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-WXX-5</NormalizedNER>
+            <Timex tid="t2" type="DATE">XXXX-WXX-5</Timex>
+          </token>
+          <token id="18">
+            <word>opening</word>
+            <lemma>opening</lemma>
+            <CharacterOffsetBegin>876</CharacterOffsetBegin>
+            <CharacterOffsetEnd>883</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>884</CharacterOffsetBegin>
+            <CharacterOffsetEnd>886</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>887</CharacterOffsetBegin>
+            <CharacterOffsetEnd>890</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>Olympic</word>
+            <lemma>Olympic</lemma>
+            <CharacterOffsetBegin>891</CharacterOffsetBegin>
+            <CharacterOffsetEnd>898</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="22">
+            <word>Games</word>
+            <lemma>Games</lemma>
+            <CharacterOffsetBegin>899</CharacterOffsetBegin>
+            <CharacterOffsetEnd>904</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="23">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>904</CharacterOffsetBegin>
+            <CharacterOffsetEnd>905</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>seeking</word>
+            <lemma>seek</lemma>
+            <CharacterOffsetBegin>906</CharacterOffsetBegin>
+            <CharacterOffsetEnd>913</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>914</CharacterOffsetBegin>
+            <CharacterOffsetEnd>916</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>mend</word>
+            <lemma>mend</lemma>
+            <CharacterOffsetBegin>917</CharacterOffsetBegin>
+            <CharacterOffsetEnd>921</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>ties</word>
+            <lemma>tie</lemma>
+            <CharacterOffsetBegin>922</CharacterOffsetBegin>
+            <CharacterOffsetEnd>926</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>927</CharacterOffsetBegin>
+            <CharacterOffsetEnd>931</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>China</word>
+            <lemma>China</lemma>
+            <CharacterOffsetBegin>932</CharacterOffsetBegin>
+            <CharacterOffsetEnd>937</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="30">
+            <word>frayed</word>
+            <lemma>fray</lemma>
+            <CharacterOffsetBegin>938</CharacterOffsetBegin>
+            <CharacterOffsetEnd>944</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>by</word>
+            <lemma>by</lemma>
+            <CharacterOffsetBegin>945</CharacterOffsetBegin>
+            <CharacterOffsetEnd>947</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>an</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>948</CharacterOffsetBegin>
+            <CharacterOffsetEnd>950</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>initial</word>
+            <lemma>initial</lemma>
+            <CharacterOffsetBegin>951</CharacterOffsetBegin>
+            <CharacterOffsetEnd>958</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>threat</word>
+            <lemma>threat</lemma>
+            <CharacterOffsetBegin>959</CharacterOffsetBegin>
+            <CharacterOffsetEnd>965</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>966</CharacterOffsetBegin>
+            <CharacterOffsetEnd>968</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="36">
+            <word>boycott</word>
+            <lemma>boycott</lemma>
+            <CharacterOffsetBegin>969</CharacterOffsetBegin>
+            <CharacterOffsetEnd>976</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="37">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>977</CharacterOffsetBegin>
+            <CharacterOffsetEnd>980</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="38">
+            <word>ceremony</word>
+            <lemma>ceremony</lemma>
+            <CharacterOffsetBegin>981</CharacterOffsetBegin>
+            <CharacterOffsetEnd>989</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="39">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>989</CharacterOffsetBegin>
+            <CharacterOffsetEnd>990</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (DT The) (NN statement)) (PP (IN by) (NP (DT the) (JJ French) (NN presidency)))) (VP (VBZ comes) (NP (DT a) (NN day)) (PP (IN before) (NP (NNP Sarkozy) (NNS heads))) (PP (TO to) (NP (NP (NNP Beijing)) (PP (IN for) (NP (NP (DT the) (NNP Friday) (NN opening)) (PP (IN of) (NP (DT the) (NNP Olympic) (NNPS Games))))))) (, ,) (S (VP (VBG seeking) (S (VP (TO to) (VP (VB mend) (NP (NNS ties)) (PP (IN with) (NP (NP (NNP China)) (VP (VBN frayed) (PP (IN by) (NP (DT an) (JJ initial) (NN threat))) (PP (TO to) (NP (NP (NN boycott)) (NP (DT the) (NN ceremony))))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">comes</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">statement</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">comes</governor>
+            <dependent idx="2">statement</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">statement</governor>
+            <dependent idx="3">by</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">presidency</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">presidency</governor>
+            <dependent idx="5">French</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="3">by</governor>
+            <dependent idx="6">presidency</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">day</governor>
+            <dependent idx="8">a</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="7">comes</governor>
+            <dependent idx="9">day</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">comes</governor>
+            <dependent idx="10">before</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">heads</governor>
+            <dependent idx="11">Sarkozy</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="10">before</governor>
+            <dependent idx="12">heads</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">comes</governor>
+            <dependent idx="13">to</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="13">to</governor>
+            <dependent idx="14">Beijing</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="14">Beijing</governor>
+            <dependent idx="15">for</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">opening</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">opening</governor>
+            <dependent idx="17">Friday</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="15">for</governor>
+            <dependent idx="18">opening</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="18">opening</governor>
+            <dependent idx="19">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">Games</governor>
+            <dependent idx="20">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="22">Games</governor>
+            <dependent idx="21">Olympic</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="19">of</governor>
+            <dependent idx="22">Games</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="7">comes</governor>
+            <dependent idx="24">seeking</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="26">mend</governor>
+            <dependent idx="25">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="24">seeking</governor>
+            <dependent idx="26">mend</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">mend</governor>
+            <dependent idx="27">ties</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="26">mend</governor>
+            <dependent idx="28">with</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="28">with</governor>
+            <dependent idx="29">China</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="29">China</governor>
+            <dependent idx="30">frayed</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="30">frayed</governor>
+            <dependent idx="31">by</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="34">threat</governor>
+            <dependent idx="32">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="34">threat</governor>
+            <dependent idx="33">initial</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="31">by</governor>
+            <dependent idx="34">threat</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="30">frayed</governor>
+            <dependent idx="35">to</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="35">to</governor>
+            <dependent idx="36">boycott</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="38">ceremony</governor>
+            <dependent idx="37">the</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="36">boycott</governor>
+            <dependent idx="38">ceremony</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">comes</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">statement</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">comes</governor>
+            <dependent idx="2">statement</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">presidency</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">presidency</governor>
+            <dependent idx="5">French</dependent>
+          </dep>
+          <dep type="prep_by">
+            <governor idx="2">statement</governor>
+            <dependent idx="6">presidency</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">day</governor>
+            <dependent idx="8">a</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="7">comes</governor>
+            <dependent idx="9">day</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">heads</governor>
+            <dependent idx="11">Sarkozy</dependent>
+          </dep>
+          <dep type="prep_before">
+            <governor idx="7">comes</governor>
+            <dependent idx="12">heads</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="7">comes</governor>
+            <dependent idx="14">Beijing</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">opening</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">opening</governor>
+            <dependent idx="17">Friday</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="14">Beijing</governor>
+            <dependent idx="18">opening</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">Games</governor>
+            <dependent idx="20">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="22">Games</governor>
+            <dependent idx="21">Olympic</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="18">opening</governor>
+            <dependent idx="22">Games</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="7">comes</governor>
+            <dependent idx="24">seeking</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="26">mend</governor>
+            <dependent idx="25">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="24">seeking</governor>
+            <dependent idx="26">mend</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">mend</governor>
+            <dependent idx="27">ties</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="26">mend</governor>
+            <dependent idx="29">China</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="29">China</governor>
+            <dependent idx="30">frayed</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="34">threat</governor>
+            <dependent idx="32">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="34">threat</governor>
+            <dependent idx="33">initial</dependent>
+          </dep>
+          <dep type="agent">
+            <governor idx="30">frayed</governor>
+            <dependent idx="34">threat</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="30">frayed</governor>
+            <dependent idx="36">boycott</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="38">ceremony</governor>
+            <dependent idx="37">the</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="36">boycott</governor>
+            <dependent idx="38">ceremony</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">comes</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">statement</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">comes</governor>
+            <dependent idx="2">statement</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">presidency</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">presidency</governor>
+            <dependent idx="5">French</dependent>
+          </dep>
+          <dep type="prep_by">
+            <governor idx="2">statement</governor>
+            <dependent idx="6">presidency</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">day</governor>
+            <dependent idx="8">a</dependent>
+          </dep>
+          <dep type="tmod">
+            <governor idx="7">comes</governor>
+            <dependent idx="9">day</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">heads</governor>
+            <dependent idx="11">Sarkozy</dependent>
+          </dep>
+          <dep type="prep_before">
+            <governor idx="7">comes</governor>
+            <dependent idx="12">heads</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="7">comes</governor>
+            <dependent idx="14">Beijing</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="18">opening</governor>
+            <dependent idx="16">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">opening</governor>
+            <dependent idx="17">Friday</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="14">Beijing</governor>
+            <dependent idx="18">opening</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">Games</governor>
+            <dependent idx="20">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="22">Games</governor>
+            <dependent idx="21">Olympic</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="18">opening</governor>
+            <dependent idx="22">Games</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="7">comes</governor>
+            <dependent idx="24">seeking</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="26">mend</governor>
+            <dependent idx="25">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="24">seeking</governor>
+            <dependent idx="26">mend</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="26">mend</governor>
+            <dependent idx="27">ties</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="26">mend</governor>
+            <dependent idx="29">China</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="29">China</governor>
+            <dependent idx="30">frayed</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="34">threat</governor>
+            <dependent idx="32">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="34">threat</governor>
+            <dependent idx="33">initial</dependent>
+          </dep>
+          <dep type="agent">
+            <governor idx="30">frayed</governor>
+            <dependent idx="34">threat</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="30">frayed</governor>
+            <dependent idx="36">boycott</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="38">ceremony</governor>
+            <dependent idx="37">the</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="36">boycott</governor>
+            <dependent idx="38">ceremony</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

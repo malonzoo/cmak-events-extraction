@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="21">
+        <tokens>
+          <token id="1">
+            <word>Gunmen</word>
+            <lemma>gunman</lemma>
+            <CharacterOffsetBegin>2692</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2698</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>opens</word>
+            <lemma>open</lemma>
+            <CharacterOffsetBegin>2699</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2704</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>fire</word>
+            <lemma>fire</lemma>
+            <CharacterOffsetBegin>2705</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2709</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>2710</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2712</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>Mexico</word>
+            <lemma>Mexico</lemma>
+            <CharacterOffsetBegin>2713</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2719</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="6">
+            <word>army</word>
+            <lemma>army</lemma>
+            <CharacterOffsetBegin>2720</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2724</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>chopper</word>
+            <lemma>chopper</lemma>
+            <CharacterOffsetBegin>2725</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2732</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>2733</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2735</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>violence</word>
+            <lemma>violence</lemma>
+            <CharacterOffsetBegin>2736</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2744</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>roils</word>
+            <lemma>roil</lemma>
+            <CharacterOffsetBegin>2745</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2750</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>major</word>
+            <lemma>major</lemma>
+            <CharacterOffsetBegin>2751</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2756</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>state</word>
+            <lemma>state</lemma>
+            <CharacterOffsetBegin>2757</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2762</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>2762</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2763</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNS Gunmen)) (VP (VBZ opens) (NP (NN fire)) (PP (IN on) (NP (NNP Mexico) (NN army) (NN chopper))) (SBAR (IN as) (S (NP (NN violence)) (VP (VBZ roils) (NP (JJ major) (NN state)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">opens</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">opens</governor>
+            <dependent idx="1">Gunmen</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">opens</governor>
+            <dependent idx="3">fire</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">opens</governor>
+            <dependent idx="4">on</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">chopper</governor>
+            <dependent idx="5">Mexico</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">chopper</governor>
+            <dependent idx="6">army</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">on</governor>
+            <dependent idx="7">chopper</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="10">roils</governor>
+            <dependent idx="8">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">roils</governor>
+            <dependent idx="9">violence</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="2">opens</governor>
+            <dependent idx="10">roils</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">state</governor>
+            <dependent idx="11">major</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">roils</governor>
+            <dependent idx="12">state</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">opens</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">opens</governor>
+            <dependent idx="1">Gunmen</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">opens</governor>
+            <dependent idx="3">fire</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">chopper</governor>
+            <dependent idx="5">Mexico</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">chopper</governor>
+            <dependent idx="6">army</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="2">opens</governor>
+            <dependent idx="7">chopper</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="10">roils</governor>
+            <dependent idx="8">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">roils</governor>
+            <dependent idx="9">violence</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="2">opens</governor>
+            <dependent idx="10">roils</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">state</governor>
+            <dependent idx="11">major</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">roils</governor>
+            <dependent idx="12">state</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">opens</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">opens</governor>
+            <dependent idx="1">Gunmen</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">opens</governor>
+            <dependent idx="3">fire</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">chopper</governor>
+            <dependent idx="5">Mexico</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">chopper</governor>
+            <dependent idx="6">army</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="2">opens</governor>
+            <dependent idx="7">chopper</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="10">roils</governor>
+            <dependent idx="8">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">roils</governor>
+            <dependent idx="9">violence</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="2">opens</governor>
+            <dependent idx="10">roils</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">state</governor>
+            <dependent idx="11">major</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="10">roils</governor>
+            <dependent idx="12">state</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

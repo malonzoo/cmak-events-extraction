@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="7">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>295</CharacterOffsetBegin>
+            <CharacterOffsetEnd>298</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>US</word>
+            <lemma>US</lemma>
+            <CharacterOffsetBegin>299</CharacterOffsetBegin>
+            <CharacterOffsetEnd>301</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="3">
+            <word>leader</word>
+            <lemma>leader</lemma>
+            <CharacterOffsetBegin>302</CharacterOffsetBegin>
+            <CharacterOffsetEnd>308</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>prepares</word>
+            <lemma>prepare</lemma>
+            <CharacterOffsetBegin>309</CharacterOffsetBegin>
+            <CharacterOffsetEnd>317</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>318</CharacterOffsetBegin>
+            <CharacterOffsetEnd>320</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>attend</word>
+            <lemma>attend</lemma>
+            <CharacterOffsetBegin>321</CharacterOffsetBegin>
+            <CharacterOffsetEnd>327</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>328</CharacterOffsetBegin>
+            <CharacterOffsetEnd>331</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>Beijing</word>
+            <lemma>Beijing</lemma>
+            <CharacterOffsetBegin>332</CharacterOffsetBegin>
+            <CharacterOffsetEnd>339</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="9">
+            <word>Olympics</word>
+            <lemma>Olympics</lemma>
+            <CharacterOffsetBegin>340</CharacterOffsetBegin>
+            <CharacterOffsetEnd>348</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="10">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>348</CharacterOffsetBegin>
+            <CharacterOffsetEnd>349</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>an</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>350</CharacterOffsetBegin>
+            <CharacterOffsetEnd>352</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>event</word>
+            <lemma>event</lemma>
+            <CharacterOffsetBegin>353</CharacterOffsetBegin>
+            <CharacterOffsetEnd>358</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>which</word>
+            <lemma>which</lemma>
+            <CharacterOffsetBegin>359</CharacterOffsetBegin>
+            <CharacterOffsetEnd>364</CharacterOffsetEnd>
+            <POS>WDT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>will</word>
+            <lemma>will</lemma>
+            <CharacterOffsetBegin>365</CharacterOffsetBegin>
+            <CharacterOffsetEnd>369</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>test</word>
+            <lemma>test</lemma>
+            <CharacterOffsetBegin>370</CharacterOffsetBegin>
+            <CharacterOffsetEnd>374</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>his</word>
+            <lemma>he</lemma>
+            <CharacterOffsetBegin>375</CharacterOffsetBegin>
+            <CharacterOffsetEnd>378</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>vow</word>
+            <lemma>vow</lemma>
+            <CharacterOffsetBegin>379</CharacterOffsetBegin>
+            <CharacterOffsetEnd>382</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>383</CharacterOffsetBegin>
+            <CharacterOffsetEnd>385</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>keep</word>
+            <lemma>keep</lemma>
+            <CharacterOffsetBegin>386</CharacterOffsetBegin>
+            <CharacterOffsetEnd>390</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>politics</word>
+            <lemma>politics</lemma>
+            <CharacterOffsetBegin>391</CharacterOffsetBegin>
+            <CharacterOffsetEnd>399</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>out</word>
+            <lemma>out</lemma>
+            <CharacterOffsetBegin>400</CharacterOffsetBegin>
+            <CharacterOffsetEnd>403</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>404</CharacterOffsetBegin>
+            <CharacterOffsetEnd>406</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>407</CharacterOffsetBegin>
+            <CharacterOffsetEnd>410</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>Games</word>
+            <lemma>Games</lemma>
+            <CharacterOffsetBegin>411</CharacterOffsetBegin>
+            <CharacterOffsetEnd>416</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>416</CharacterOffsetBegin>
+            <CharacterOffsetEnd>417</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT The) (NNP US) (NN leader)) (VP (VBZ prepares) (S (VP (TO to) (VP (VB attend) (NP (NP (DT the) (NNP Beijing) (NNPS Olympics)) (, ,) (NP (NP (DT an) (NN event)) (SBAR (WHNP (WDT which)) (S (VP (MD will) (VP (VB test) (NP (PRP$ his) (NN vow) (S (VP (TO to) (VP (VB keep) (NP (NNS politics)) (ADVP (IN out) (PP (IN of) (NP (DT the) (NNPS Games)))))))))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">prepares</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">leader</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">leader</governor>
+            <dependent idx="2">US</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">prepares</governor>
+            <dependent idx="3">leader</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">attend</governor>
+            <dependent idx="5">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="4">prepares</governor>
+            <dependent idx="6">attend</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">Olympics</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">Olympics</governor>
+            <dependent idx="8">Beijing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">attend</governor>
+            <dependent idx="9">Olympics</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">event</governor>
+            <dependent idx="11">an</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="9">Olympics</governor>
+            <dependent idx="12">event</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">test</governor>
+            <dependent idx="13">which</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="15">test</governor>
+            <dependent idx="14">will</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="12">event</governor>
+            <dependent idx="15">test</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="17">vow</governor>
+            <dependent idx="16">his</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">test</governor>
+            <dependent idx="17">vow</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="19">keep</governor>
+            <dependent idx="18">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="17">vow</governor>
+            <dependent idx="19">keep</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="19">keep</governor>
+            <dependent idx="20">politics</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="19">keep</governor>
+            <dependent idx="21">out</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="21">out</governor>
+            <dependent idx="22">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">Games</governor>
+            <dependent idx="23">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="22">of</governor>
+            <dependent idx="24">Games</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">prepares</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">leader</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">leader</governor>
+            <dependent idx="2">US</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">prepares</governor>
+            <dependent idx="3">leader</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">attend</governor>
+            <dependent idx="5">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="4">prepares</governor>
+            <dependent idx="6">attend</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">Olympics</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">Olympics</governor>
+            <dependent idx="8">Beijing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">attend</governor>
+            <dependent idx="9">Olympics</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">event</governor>
+            <dependent idx="11">an</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="9">Olympics</governor>
+            <dependent idx="12">event</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">test</governor>
+            <dependent idx="13">which</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="15">test</governor>
+            <dependent idx="14">will</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="12">event</governor>
+            <dependent idx="15">test</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="17">vow</governor>
+            <dependent idx="16">his</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">test</governor>
+            <dependent idx="17">vow</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="19">keep</governor>
+            <dependent idx="18">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="17">vow</governor>
+            <dependent idx="19">keep</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="19">keep</governor>
+            <dependent idx="20">politics</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">Games</governor>
+            <dependent idx="23">the</dependent>
+          </dep>
+          <dep type="prep_out_of">
+            <governor idx="19">keep</governor>
+            <dependent idx="24">Games</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">prepares</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">leader</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">leader</governor>
+            <dependent idx="2">US</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">prepares</governor>
+            <dependent idx="3">leader</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">attend</governor>
+            <dependent idx="5">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="4">prepares</governor>
+            <dependent idx="6">attend</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="9">Olympics</governor>
+            <dependent idx="7">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="9">Olympics</governor>
+            <dependent idx="8">Beijing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="6">attend</governor>
+            <dependent idx="9">Olympics</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">event</governor>
+            <dependent idx="11">an</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="9">Olympics</governor>
+            <dependent idx="12">event</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">test</governor>
+            <dependent idx="13">which</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="15">test</governor>
+            <dependent idx="14">will</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="12">event</governor>
+            <dependent idx="15">test</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="17">vow</governor>
+            <dependent idx="16">his</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="15">test</governor>
+            <dependent idx="17">vow</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="19">keep</governor>
+            <dependent idx="18">to</dependent>
+          </dep>
+          <dep type="infmod">
+            <governor idx="17">vow</governor>
+            <dependent idx="19">keep</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="19">keep</governor>
+            <dependent idx="20">politics</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="24">Games</governor>
+            <dependent idx="23">the</dependent>
+          </dep>
+          <dep type="prep_out_of">
+            <governor idx="19">keep</governor>
+            <dependent idx="24">Games</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="2">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>24</CharacterOffsetBegin>
+            <CharacterOffsetEnd>27</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>United</word>
+            <lemma>United</lemma>
+            <CharacterOffsetBegin>28</CharacterOffsetBegin>
+            <CharacterOffsetEnd>34</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="3">
+            <word>States</word>
+            <lemma>States</lemma>
+            <CharacterOffsetBegin>35</CharacterOffsetBegin>
+            <CharacterOffsetEnd>41</CharacterOffsetEnd>
+            <POS>NNPS</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="4">
+            <word>bombed</word>
+            <lemma>bomb</lemma>
+            <CharacterOffsetBegin>42</CharacterOffsetBegin>
+            <CharacterOffsetEnd>48</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>Hiroshima</word>
+            <lemma>Hiroshima</lemma>
+            <CharacterOffsetBegin>49</CharacterOffsetBegin>
+            <CharacterOffsetEnd>58</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="6">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>58</CharacterOffsetBegin>
+            <CharacterOffsetEnd>59</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT The) (NNP United) (NNPS States)) (VP (VBD bombed) (NP (NNP Hiroshima))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">bombed</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">States</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">States</governor>
+            <dependent idx="2">United</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">bombed</governor>
+            <dependent idx="3">States</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">bombed</governor>
+            <dependent idx="5">Hiroshima</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">bombed</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">States</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">States</governor>
+            <dependent idx="2">United</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">bombed</governor>
+            <dependent idx="3">States</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">bombed</governor>
+            <dependent idx="5">Hiroshima</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">bombed</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">States</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">States</governor>
+            <dependent idx="2">United</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">bombed</governor>
+            <dependent idx="3">States</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">bombed</governor>
+            <dependent idx="5">Hiroshima</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

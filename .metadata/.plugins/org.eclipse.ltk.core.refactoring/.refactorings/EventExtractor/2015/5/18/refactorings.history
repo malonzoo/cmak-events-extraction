@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;EventExtractor&apos; to &apos;CMAK&apos;&#x0A;- Original project: &apos;EventExtractor&apos;&#x0A;- Original element: &apos;EventExtractor&apos;&#x0A;- Renamed element: &apos;CMAK&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EventExtractor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{EventExtractor.java[EventExtractor" matchStrategy="1" name="CMAK" qualified="false" references="true" similarDeclarations="false" stamp="1430540631839" textual="false" version="1.0"/>
+</session>

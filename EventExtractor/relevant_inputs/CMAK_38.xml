@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="38">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>3792</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3793</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>wish</word>
+            <lemma>wish</lemma>
+            <CharacterOffsetBegin>3794</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3798</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>there</word>
+            <lemma>there</lemma>
+            <CharacterOffsetBegin>3799</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3804</CharacterOffsetEnd>
+            <POS>EX</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>were</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>3805</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3809</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>designated</word>
+            <lemma>designate</lemma>
+            <CharacterOffsetBegin>3810</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3820</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>nap</word>
+            <lemma>nap</lemma>
+            <CharacterOffsetBegin>3821</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3824</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>areas</word>
+            <lemma>area</lemma>
+            <CharacterOffsetBegin>3825</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3830</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>around</word>
+            <lemma>around</lemma>
+            <CharacterOffsetBegin>3831</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3837</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>campus</word>
+            <lemma>campus</lemma>
+            <CharacterOffsetBegin>3838</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3844</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>3844</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3845</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBP wish) (SBAR (S (NP (EX there)) (VP (VBD were) (VP (VBN designated) (NP (NN nap) (NNS areas)) (PP (IN around) (NP (NN campus)))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">wish</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">wish</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="expl">
+            <governor idx="5">designated</governor>
+            <dependent idx="3">there</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="5">designated</governor>
+            <dependent idx="4">were</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="2">wish</governor>
+            <dependent idx="5">designated</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">areas</governor>
+            <dependent idx="6">nap</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">designated</governor>
+            <dependent idx="7">areas</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">designated</governor>
+            <dependent idx="8">around</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">around</governor>
+            <dependent idx="9">campus</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">wish</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">wish</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="expl">
+            <governor idx="5">designated</governor>
+            <dependent idx="3">there</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="5">designated</governor>
+            <dependent idx="4">were</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="2">wish</governor>
+            <dependent idx="5">designated</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">areas</governor>
+            <dependent idx="6">nap</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">designated</governor>
+            <dependent idx="7">areas</dependent>
+          </dep>
+          <dep type="prep_around">
+            <governor idx="5">designated</governor>
+            <dependent idx="9">campus</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">wish</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">wish</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="expl">
+            <governor idx="5">designated</governor>
+            <dependent idx="3">there</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="5">designated</governor>
+            <dependent idx="4">were</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="2">wish</governor>
+            <dependent idx="5">designated</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">areas</governor>
+            <dependent idx="6">nap</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="5">designated</governor>
+            <dependent idx="7">areas</dependent>
+          </dep>
+          <dep type="prep_around">
+            <governor idx="5">designated</governor>
+            <dependent idx="9">campus</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

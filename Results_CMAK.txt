@@ -1,0 +1,1132 @@
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+Sentence text is: "India invaded Pakistan."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[India, Pakistan]
+
+This model identifies 'India' as the primary actor.
+This model identifies 'Pakistan' as the primary patient.
+
+Checking actors against training data ... 
+Of our 2 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 1 issue keyword(s) in our data, by matching it against our training data
+WORD: [invaded] under the TOPIC ID[terror]
+
+This model identifies 'invaded' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 1 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "The United States bombed Hiroshima."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[United, States, Hiroshima, United States]
+
+This model identifies 'United States' as the primary actor.
+This model identifies 'Hiroshima' as the primary patient.
+
+Checking actors against training data ... 
+Of our 4 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 1 issue keyword(s) in our data, by matching it against our training data
+WORD: [bombed] under the TOPIC ID[terror]
+
+This model identifies 'bombed' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 4 and 1 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Iran held elections."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Iran]
+
+This model identifies 'Iran' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 1 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 1 issue keyword(s) in our data, by matching it against our training data
+WORD: [elections] under the TOPIC ID[election_fraud]
+
+This model identifies 'held elections' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 1 and 1 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "The World Bank gave African countries aid."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[World, Bank]
+
+This model identifies 'World Bank' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 2 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 1 issue keyword(s) in our data, by matching it against our training data
+WORD: [aid] under the TOPIC ID[foreign_aid]
+
+This model identifies 'gave aid' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 1 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Russia has announced that it intends to honor a 2010 agreement with Iran to sell advanced missile systems."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Russia, Iran]
+
+This model identifies 'Russia' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 2 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 5 issue keyword(s) in our data, by matching it against our training data
+WORD: [honor] under the TOPIC ID[gender_violence]
+WORD: [agreement] under the TOPIC ID[int_financial_inst]
+WORD: [with] under the TOPIC ID[violent_unrest]
+WORD: [advanced] under the TOPIC ID[cyber_security]
+WORD: [missile] under the TOPIC ID[nuclear_weapons]
+
+This model identifies 'announced' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 5 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "President Barack Obama and President Raul Castro met in Panama."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Barack, Obama, Raul, Castro, Panama, President Raul Castro, President Barack Obama]
+
+This model identifies 'President Barack Obama' as the primary actor.
+This model identifies 'President Raul Castro' as the primary patient.
+
+Checking actors against training data ... 
+Of our 7 actors, 85.71428571428571% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 0 issue keyword(s) in our data, by matching it against our training data
+
+This model identifies 'met' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 6 and 0 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "The US leader prepares to attend the Beijing Olympics , an event which will test his vow to keep politics out of the Games."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[US, Beijing, Olympics]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 3 actors, 66.66666666666666% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [leader] under the TOPIC ID[labor_strike, labor_unions]
+WORD: [will] under the TOPIC ID[labor_strike]
+
+This model identifies 'prepares' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 2 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "A powerful earthquake devastates Nepal."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Nepal, null]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'Nepal' as the primary patient.
+
+Checking actors against training data ... 
+Of our 2 actors, 50.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [powerful] under the TOPIC ID[natural_disaster]
+WORD: [earthquake] under the TOPIC ID[natural_disaster]
+
+This model identifies 'devastates' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 1 and 2 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "A court in Guyana has issued arrest warrants to two Brazilian men sought in the brutal slaying of two American missionaries in southern Guyana three years ago , a senior Guyanese police officer said Wednesday."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Guyana, Guyana]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 2 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 4 issue keyword(s) in our data, by matching it against our training data
+WORD: [arrest] under the TOPIC ID[media_censorship]
+WORD: [southern] under the TOPIC ID[named_terror_group]
+WORD: [police] under the TOPIC ID[security_services]
+WORD: [officer] under the TOPIC ID[security_services]
+
+This model identifies 'said' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 4 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "China remains mum on the Islamic republic and Russia 's UN ambassador said he was unaware of such agreement."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[China, Russia, UN]
+
+This model identifies 'China' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 3 actors, 66.66666666666666% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [republic] under the TOPIC ID[named_terror_group]
+WORD: [agreement] under the TOPIC ID[int_financial_inst]
+
+This model identifies 'mum' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 2 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "The statement by the French presidency comes a day before Sarkozy heads to Beijing for the Friday opening of the Olympic Games , seeking to mend ties with China frayed by an initial threat to boycott the ceremony."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Sarkozy, Beijing, Olympic, Games, China]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 5 actors, 60.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [with] under the TOPIC ID[violent_unrest]
+WORD: [threat] under the TOPIC ID[cyber_security]
+
+This model identifies 'comes' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 3 and 2 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "A Tunisian court has jailed a man for two years for helping young militants join an armed Islamic group in Lebanon , his lawyer said Wednesday."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Lebanon]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 1 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [armed] under the TOPIC ID[named_terror_group]
+WORD: [group] under the TOPIC ID[named_terror_group]
+
+This model identifies 'said' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 1 and 2 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "France on Wednesday condemned unacceptable allegations by Rwanda that it had played an active role in the 1994 genocide , as Kigali said it hoped French officials would be indicted for war crimes."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[France, Rwanda, Kigali]
+
+This model identifies 'on France' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 3 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 1 issue keyword(s) in our data, by matching it against our training data
+WORD: [genocide] under the TOPIC ID[id_atrocity]
+
+This model identifies 'condemned allegations' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 3 and 1 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "A 500-page report released Tuesday in the Rwandan capital alleged that France was aware of preparations for the genocide , and that the French military in Rwanda helped to plan and carry out killings."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[France, Rwanda]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 2 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 5 issue keyword(s) in our data, by matching it against our training data
+WORD: [capital] under the TOPIC ID[civil_society]
+WORD: [alleged] under the TOPIC ID[organized_crime]
+WORD: [genocide] under the TOPIC ID[id_atrocity]
+WORD: [military] under the TOPIC ID[named_terror_group]
+WORD: [killings] under the TOPIC ID[drug_trade]
+
+This model identifies 'alleged' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 5 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Israel on Wednesday released the mayor of the northern West Bank city of Nablus , a member of the Islamist Hamas movement jailed over a year ago , Palestinian security officials said."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Israel, West, Bank, Nablus, Hamas]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 5 actors, 80.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 5 issue keyword(s) in our data, by matching it against our training data
+WORD: [northern] under the TOPIC ID[named_terror_group]
+WORD: [member] under the TOPIC ID[teachers, labor_unions]
+WORD: [movement] under the TOPIC ID[named_terror_group]
+WORD: [over] under the TOPIC ID[media_censorship]
+WORD: [security] under the TOPIC ID[named_terror_group]
+
+This model identifies 'said' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 4 and 5 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "The release of Adli Yaish , who had been arrested 15 months ago , came as Israel announced it would free over 150 Palestinian prisoners by the end of August as a goodwill gesture to Palestinian president Mahmud Abbas."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Adli, Yaish, Israel, Mahmud, Abbas]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 5 actors, 80.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [free] under the TOPIC ID[named_terror_group]
+WORD: [over] under the TOPIC ID[media_censorship]
+
+This model identifies 'came' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 4 and 2 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "General David Petraeus held talks with President Michel Sleiman during a surprise visit to Beirut on Wednesday , offering further military support to Lebanon."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[David, Petraeus, Michel, Sleiman, Beirut, Lebanon]
+
+This model identifies 'General David Petraeus' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 6 actors, 83.33333333333334% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 3 issue keyword(s) in our data, by matching it against our training data
+WORD: [with] under the TOPIC ID[violent_unrest]
+WORD: [military] under the TOPIC ID[named_terror_group]
+WORD: [support] under the TOPIC ID[peacekeepers, airstrike]
+
+This model identifies 'held talks' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 5 and 3 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "US and British activists staged a dramatic protest in Beijing on Wednesday , scaling a pole and unfurling giant '' Free Tibet '' banners close to the stadium where the Olympics will open in two days."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[US, British, Beijing, Olympics]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 4 actors, 75.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 5 issue keyword(s) in our data, by matching it against our training data
+WORD: [activists] under the TOPIC ID[environmental_movement]
+WORD: [protest] under the TOPIC ID[violent_unrest]
+WORD: [close] under the TOPIC ID[airstrike]
+WORD: [will] under the TOPIC ID[labor_strike]
+WORD: [open] under the TOPIC ID[named_terror_group]
+
+This model identifies 'staged protest' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 3 and 5 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Rwanda 's information minister said Wednesday she hoped a raft of French political and military officials accused of playing a role in the country 's 1994 genocide would soon be indicted for war crimes."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Rwanda]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 1 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 5 issue keyword(s) in our data, by matching it against our training data
+WORD: [information] under the TOPIC ID[named_terror_group]
+WORD: [political] under the TOPIC ID[social_movement, human_rights, political_prisoner]
+WORD: [military] under the TOPIC ID[named_terror_group]
+WORD: [country] under the TOPIC ID[named_terror_group]
+WORD: [genocide] under the TOPIC ID[id_atrocity]
+
+This model identifies 'said' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 1 and 5 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "France on Wednesday accused Rwanda of making unacceptable accusations by alleging Paris played an active role in the 1994 genocide , but said it was still determined to mend damaged ties with Kigali."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[France, Paris, Kigali]
+
+This model identifies 'on France' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 3 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [genocide] under the TOPIC ID[id_atrocity]
+WORD: [with] under the TOPIC ID[violent_unrest]
+
+This model identifies 'accused Rwanda' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 3 and 2 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Gunmen opens fire on Mexico army chopper as violence roils major state."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Mexico]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 1 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 4 issue keyword(s) in our data, by matching it against our training data
+WORD: [fire] under the TOPIC ID[natural_disaster, named_terror_group]
+WORD: [army] under the TOPIC ID[named_terror_group]
+WORD: [violence] under the TOPIC ID[gender_violence]
+WORD: [state] under the TOPIC ID[named_terror_group]
+
+This model identifies 'opens fire' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 1 and 4 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Before leaving for Beijing on Thursday , Bush was scheduled to give a speech here on US relations with Asia and meet with exiled dissidents from military-ruled Myanmar."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Beijing, Bush, US, Asia, Myanmar]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 5 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 3 issue keyword(s) in our data, by matching it against our training data
+WORD: [speech] under the TOPIC ID[human_rights]
+WORD: [with] under the TOPIC ID[violent_unrest]
+WORD: [with] under the TOPIC ID[violent_unrest]
+
+This model identifies 'scheduled' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 5 and 3 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "North Korean diplomats disrupt human rights panel."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 0 actors, NaN% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 3 issue keyword(s) in our data, by matching it against our training data
+WORD: [human] under the TOPIC ID[disease]
+WORD: [rights] under the TOPIC ID[human_rights]
+WORD: [panel] under the TOPIC ID[renewable_energy]
+
+This model identifies 'disrupt panel' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Armed groups dominate Congolese illicit Golad trade."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 0 actors, NaN% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 3 issue keyword(s) in our data, by matching it against our training data
+WORD: [groups] under the TOPIC ID[named_terror_group]
+WORD: [illicit] under the TOPIC ID[drugs]
+WORD: [trade] under the TOPIC ID[trade_dispute, labor_unions]
+
+This model identifies 'dominate trade' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Venezuela raises minimum wage 30 pct amid raging inflation."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Venezuela]
+
+This model identifies 'Venezuela' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 1 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 0 issue keyword(s) in our data, by matching it against our training data
+
+This model identifies 'raises wage' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 1 and 0 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "China passes Mexico as the top source of new U.S. immigrants."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[China, Mexico, U.S., as Mexico]
+
+This model identifies 'China' as the primary actor.
+This model identifies 'as Mexico' as the primary patient.
+
+Checking actors against training data ... 
+Of our 4 actors, 75.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 0 issue keyword(s) in our data, by matching it against our training data
+
+This model identifies 'passes' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 3 and 0 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Navy starts to accompany U.S. ships in strait of Hormuz."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Navy, U.S., Hormuz]
+
+This model identifies 'Navy' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 3 actors, 66.66666666666666% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 0 issue keyword(s) in our data, by matching it against our training data
+
+This model identifies 'starts' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 0 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Bird flu outbreak prompts state of emergency in Iowa."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Iowa]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 1 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 4 issue keyword(s) in our data, by matching it against our training data
+WORD: [flu] under the TOPIC ID[disease]
+WORD: [outbreak] under the TOPIC ID[disease]
+WORD: [state] under the TOPIC ID[named_terror_group]
+WORD: [emergency] under the TOPIC ID[food_security, water_security, humanitarian_crisis, natural_disaster]
+
+This model identifies 'prompts state' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 1 and 4 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Supreme Court upholds fundraising restriction on judicial elections."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Supreme, Court]
+
+This model identifies 'Supreme Court' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 2 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [restriction] under the TOPIC ID[internet_censorship]
+WORD: [elections] under the TOPIC ID[election_fraud]
+
+This model identifies 'upholds' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 2 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "White House says the FBI 's help on ransom is not a policy violation."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[FBI]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 1 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 1 issue keyword(s) in our data, by matching it against our training data
+WORD: [violation] under the TOPIC ID[election_fraud]
+
+This model identifies 'says' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 1 and 1 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Mary Lyon saw you coming."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Mary, Lyon]
+
+This model identifies 'Mary Lyon' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 2 actors, 100.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 0 issue keyword(s) in our data, by matching it against our training data
+
+This model identifies 'saw' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+Yes - event detected with 2 and 0 issue keywords.
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "I survived the housing lottery."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 0 actors, NaN% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 1 issue keyword(s) in our data, by matching it against our training data
+WORD: [housing] under the TOPIC ID[housing_prices]
+
+This model identifies 'survived lottery' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Autocorrect corrects Moodle to Noodle."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 0 actors, NaN% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 0 issue keyword(s) in our data, by matching it against our training data
+
+This model identifies 'corrects Moodle' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Just when the toilet paper here could n't get any thinner , it did."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 0 actors, NaN% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 0 issue keyword(s) in our data, by matching it against our training data
+
+This model identifies 'did' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Officially done with college !"
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 0 actors, NaN% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [with] under the TOPIC ID[violent_unrest]
+WORD: [college] under the TOPIC ID[postsecondary_education]
+
+This model identifies 'done' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "Just want my professor to grade this exam , have an Oprah moment and say , ` You get an A , and you get an A , everybody gets an A ! '"
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[Oprah]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 1 actors, 0.0% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 1 issue keyword(s) in our data, by matching it against our training data
+WORD: [professor] under the TOPIC ID[postsecondary_education]
+
+This model identifies 'gets A' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "My concentration level is almost as bad as my need for summer."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 0 actors, NaN% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 1 issue keyword(s) in our data, by matching it against our training data
+WORD: [level] under the TOPIC ID[water_security]
+
+This model identifies 'bad' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "I wish there were designated nap areas around campus."
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 0 actors, NaN% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 0 issue keyword(s) in our data, by matching it against our training data
+
+This model identifies 'wish' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+
+Sentence text is: "I will pay for your Chipotle order !"
+
+Actors----------------------------
+
+Our model identifies the following actors 
+[]
+
+This model identifies 'null' as the primary actor.
+This model identifies 'null' as the primary patient.
+
+Checking actors against training data ... 
+Of our 0 actors, NaN% are verified international actors
+
+Issue/Action----------------------------
+
+We have found 2 issue keyword(s) in our data, by matching it against our training data
+WORD: [will] under the TOPIC ID[labor_strike]
+WORD: [order] under the TOPIC ID[disease, named_terror_group]
+
+This model identifies 'pay' as the main event action/issue.
+
+Verdict----------------------------
+
+EVENT DETECTED? 
+ No - No event detected due to too few issue keywords or verified actors
+
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%
+=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%=%

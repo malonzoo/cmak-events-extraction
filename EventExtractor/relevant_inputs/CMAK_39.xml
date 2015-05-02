@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="39">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>3846</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3847</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>will</word>
+            <lemma>will</lemma>
+            <CharacterOffsetBegin>3848</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3852</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>pay</word>
+            <lemma>pay</lemma>
+            <CharacterOffsetBegin>3853</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3856</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>3857</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3860</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>your</word>
+            <lemma>you</lemma>
+            <CharacterOffsetBegin>3861</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3865</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>Chipotle</word>
+            <lemma>Chipotle</lemma>
+            <CharacterOffsetBegin>3866</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3874</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>order</word>
+            <lemma>order</lemma>
+            <CharacterOffsetBegin>3875</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3880</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>!</word>
+            <lemma>!</lemma>
+            <CharacterOffsetBegin>3880</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3881</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (MD will) (VP (VB pay) (PP (IN for) (NP (PRP$ your) (NNP Chipotle) (NN order))))) (. !))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">pay</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">pay</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">pay</governor>
+            <dependent idx="2">will</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="3">pay</governor>
+            <dependent idx="4">for</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="7">order</governor>
+            <dependent idx="5">your</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">order</governor>
+            <dependent idx="6">Chipotle</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="4">for</governor>
+            <dependent idx="7">order</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">pay</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">pay</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">pay</governor>
+            <dependent idx="2">will</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="7">order</governor>
+            <dependent idx="5">your</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">order</governor>
+            <dependent idx="6">Chipotle</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="3">pay</governor>
+            <dependent idx="7">order</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">pay</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">pay</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="3">pay</governor>
+            <dependent idx="2">will</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="7">order</governor>
+            <dependent idx="5">your</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">order</governor>
+            <dependent idx="6">Chipotle</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="3">pay</governor>
+            <dependent idx="7">order</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

@@ -33,8 +33,7 @@ public class Sentence {
 		init(nList); 
 	}
 	
-	public void init(NodeList nList)
-	{	
+	public void init(NodeList nList) {	
     	// runs through each <sentence> node
     	for (int temp = 0; temp < nList.getLength(); temp++) 
     	{
@@ -121,6 +120,7 @@ public class Sentence {
     	if(patient != null && !actors.contains(actor))
     		actors.add(actor);
     	
+    	text = text.substring(1);
     }
 	
 	/**

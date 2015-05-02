@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="30">
+        <tokens>
+          <token id="1">
+            <word>White</word>
+            <lemma>White</lemma>
+            <CharacterOffsetBegin>3339</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3344</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>House</word>
+            <lemma>House</lemma>
+            <CharacterOffsetBegin>3345</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3350</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>says</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>3351</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3355</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>3356</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3359</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>FBI</word>
+            <lemma>FBI</lemma>
+            <CharacterOffsetBegin>3360</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3363</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="6">
+            <word>'s</word>
+            <lemma>'s</lemma>
+            <CharacterOffsetBegin>3363</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3365</CharacterOffsetEnd>
+            <POS>POS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>help</word>
+            <lemma>help</lemma>
+            <CharacterOffsetBegin>3366</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3370</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>3371</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3373</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>ransom</word>
+            <lemma>ransom</lemma>
+            <CharacterOffsetBegin>3374</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3380</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>3381</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3383</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>not</word>
+            <lemma>not</lemma>
+            <CharacterOffsetBegin>3384</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3387</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>3388</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3389</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>policy</word>
+            <lemma>policy</lemma>
+            <CharacterOffsetBegin>3390</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3396</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>violation</word>
+            <lemma>violation</lemma>
+            <CharacterOffsetBegin>3397</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3406</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>3406</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3407</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP White) (NNP House)) (VP (VBZ says) (SBAR (S (NP (NP (NP (DT the) (NNP FBI) (POS 's)) (NN help)) (PP (IN on) (NP (NN ransom)))) (VP (VBZ is) (RB not) (NP (DT a) (NN policy) (NN violation)))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">says</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">House</governor>
+            <dependent idx="1">White</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">says</governor>
+            <dependent idx="2">House</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">FBI</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="7">help</governor>
+            <dependent idx="5">FBI</dependent>
+          </dep>
+          <dep type="possessive">
+            <governor idx="5">FBI</governor>
+            <dependent idx="6">'s</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">violation</governor>
+            <dependent idx="7">help</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">help</governor>
+            <dependent idx="8">on</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">on</governor>
+            <dependent idx="9">ransom</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="14">violation</governor>
+            <dependent idx="10">is</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="14">violation</governor>
+            <dependent idx="11">not</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">violation</governor>
+            <dependent idx="12">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="14">violation</governor>
+            <dependent idx="13">policy</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">says</governor>
+            <dependent idx="14">violation</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">says</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">House</governor>
+            <dependent idx="1">White</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">says</governor>
+            <dependent idx="2">House</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">FBI</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="7">help</governor>
+            <dependent idx="5">FBI</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">violation</governor>
+            <dependent idx="7">help</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="7">help</governor>
+            <dependent idx="9">ransom</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="14">violation</governor>
+            <dependent idx="10">is</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="14">violation</governor>
+            <dependent idx="11">not</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">violation</governor>
+            <dependent idx="12">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="14">violation</governor>
+            <dependent idx="13">policy</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">says</governor>
+            <dependent idx="14">violation</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">says</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">House</governor>
+            <dependent idx="1">White</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">says</governor>
+            <dependent idx="2">House</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">FBI</governor>
+            <dependent idx="4">the</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="7">help</governor>
+            <dependent idx="5">FBI</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="14">violation</governor>
+            <dependent idx="7">help</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="7">help</governor>
+            <dependent idx="9">ransom</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="14">violation</governor>
+            <dependent idx="10">is</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="14">violation</governor>
+            <dependent idx="11">not</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">violation</governor>
+            <dependent idx="12">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="14">violation</governor>
+            <dependent idx="13">policy</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="3">says</governor>
+            <dependent idx="14">violation</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

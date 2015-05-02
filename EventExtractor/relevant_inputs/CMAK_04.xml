@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="4">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>81</CharacterOffsetBegin>
+            <CharacterOffsetEnd>84</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="2">
+            <word>World</word>
+            <lemma>World</lemma>
+            <CharacterOffsetBegin>85</CharacterOffsetBegin>
+            <CharacterOffsetEnd>90</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="3">
+            <word>Bank</word>
+            <lemma>Bank</lemma>
+            <CharacterOffsetBegin>91</CharacterOffsetBegin>
+            <CharacterOffsetEnd>95</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="4">
+            <word>gave</word>
+            <lemma>give</lemma>
+            <CharacterOffsetBegin>96</CharacterOffsetBegin>
+            <CharacterOffsetEnd>100</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>African</word>
+            <lemma>african</lemma>
+            <CharacterOffsetBegin>101</CharacterOffsetBegin>
+            <CharacterOffsetEnd>108</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="6">
+            <word>countries</word>
+            <lemma>country</lemma>
+            <CharacterOffsetBegin>109</CharacterOffsetBegin>
+            <CharacterOffsetEnd>118</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>aid</word>
+            <lemma>aid</lemma>
+            <CharacterOffsetBegin>119</CharacterOffsetBegin>
+            <CharacterOffsetEnd>122</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>122</CharacterOffsetBegin>
+            <CharacterOffsetEnd>123</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (DT The) (NNP World) (NNP Bank)) (VP (VBD gave) (NP (JJ African) (NNS countries)) (NP (NN aid))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">gave</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">Bank</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">Bank</governor>
+            <dependent idx="2">World</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">gave</governor>
+            <dependent idx="3">Bank</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">countries</governor>
+            <dependent idx="5">African</dependent>
+          </dep>
+          <dep type="iobj">
+            <governor idx="4">gave</governor>
+            <dependent idx="6">countries</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">gave</governor>
+            <dependent idx="7">aid</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">gave</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">Bank</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">Bank</governor>
+            <dependent idx="2">World</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">gave</governor>
+            <dependent idx="3">Bank</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">countries</governor>
+            <dependent idx="5">African</dependent>
+          </dep>
+          <dep type="iobj">
+            <governor idx="4">gave</governor>
+            <dependent idx="6">countries</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">gave</governor>
+            <dependent idx="7">aid</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">gave</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="3">Bank</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">Bank</governor>
+            <dependent idx="2">World</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">gave</governor>
+            <dependent idx="3">Bank</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">countries</governor>
+            <dependent idx="5">African</dependent>
+          </dep>
+          <dep type="iobj">
+            <governor idx="4">gave</governor>
+            <dependent idx="6">countries</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">gave</governor>
+            <dependent idx="7">aid</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

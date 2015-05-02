@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="35">
+        <tokens>
+          <token id="1">
+            <word>Officially</word>
+            <lemma>officially</lemma>
+            <CharacterOffsetBegin>3571</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3581</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>done</word>
+            <lemma>do</lemma>
+            <CharacterOffsetBegin>3582</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3586</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>3587</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3591</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>college</word>
+            <lemma>college</lemma>
+            <CharacterOffsetBegin>3592</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3599</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>!</word>
+            <lemma>!</lemma>
+            <CharacterOffsetBegin>3599</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3600</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (VP (ADVP (RB Officially)) (VBN done) (PP (IN with) (NP (NN college)))) (. !))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">done</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="2">done</governor>
+            <dependent idx="1">Officially</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">done</governor>
+            <dependent idx="3">with</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="3">with</governor>
+            <dependent idx="4">college</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">done</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="2">done</governor>
+            <dependent idx="1">Officially</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="2">done</governor>
+            <dependent idx="4">college</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">done</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="2">done</governor>
+            <dependent idx="1">Officially</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="2">done</governor>
+            <dependent idx="4">college</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

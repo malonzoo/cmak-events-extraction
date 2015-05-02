@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="31">
+        <tokens>
+          <token id="1">
+            <word>Mary</word>
+            <lemma>Mary</lemma>
+            <CharacterOffsetBegin>3408</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3412</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="2">
+            <word>Lyon</word>
+            <lemma>Lyon</lemma>
+            <CharacterOffsetBegin>3413</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3417</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="3">
+            <word>saw</word>
+            <lemma>see</lemma>
+            <CharacterOffsetBegin>3418</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3421</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>you</word>
+            <lemma>you</lemma>
+            <CharacterOffsetBegin>3422</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3425</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>coming</word>
+            <lemma>come</lemma>
+            <CharacterOffsetBegin>3426</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3432</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>3432</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3433</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NNP Mary) (NNP Lyon)) (VP (VBD saw) (S (NP (PRP you)) (VP (VBG coming)))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">saw</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">Lyon</governor>
+            <dependent idx="1">Mary</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">saw</governor>
+            <dependent idx="2">Lyon</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">coming</governor>
+            <dependent idx="4">you</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">saw</governor>
+            <dependent idx="5">coming</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">saw</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">Lyon</governor>
+            <dependent idx="1">Mary</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">saw</governor>
+            <dependent idx="2">Lyon</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">coming</governor>
+            <dependent idx="4">you</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">saw</governor>
+            <dependent idx="5">coming</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="3">saw</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="2">Lyon</governor>
+            <dependent idx="1">Mary</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="3">saw</governor>
+            <dependent idx="2">Lyon</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="5">coming</governor>
+            <dependent idx="4">you</dependent>
+          </dep>
+          <dep type="dep">
+            <governor idx="3">saw</governor>
+            <dependent idx="5">coming</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

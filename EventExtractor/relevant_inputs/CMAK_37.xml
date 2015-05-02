@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="37">
+        <tokens>
+          <token id="1">
+            <word>My</word>
+            <lemma>my</lemma>
+            <CharacterOffsetBegin>3729</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3731</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>concentration</word>
+            <lemma>concentration</lemma>
+            <CharacterOffsetBegin>3732</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3745</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>level</word>
+            <lemma>level</lemma>
+            <CharacterOffsetBegin>3746</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3751</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>is</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>3752</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3754</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>almost</word>
+            <lemma>almost</lemma>
+            <CharacterOffsetBegin>3755</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3761</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>3762</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3764</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>bad</word>
+            <lemma>bad</lemma>
+            <CharacterOffsetBegin>3765</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3768</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>3769</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3771</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>my</word>
+            <lemma>my</lemma>
+            <CharacterOffsetBegin>3772</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3774</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>need</word>
+            <lemma>need</lemma>
+            <CharacterOffsetBegin>3775</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3779</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>3780</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3783</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>summer</word>
+            <lemma>summer</lemma>
+            <CharacterOffsetBegin>3784</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3790</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-SU</NormalizedNER>
+            <Timex tid="t1" type="DATE">XXXX-SU</Timex>
+          </token>
+          <token id="13">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>3790</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3791</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP$ My) (NN concentration) (NN level)) (VP (VBZ is) (ADJP (ADJP (RB almost) (RB as) (JJ bad)) (PP (IN as) (NP (NP (PRP$ my) (NN need)) (PP (IN for) (NP (NN summer))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">bad</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="3">level</governor>
+            <dependent idx="1">My</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">level</governor>
+            <dependent idx="2">concentration</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">bad</governor>
+            <dependent idx="3">level</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">bad</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">bad</governor>
+            <dependent idx="5">almost</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">bad</governor>
+            <dependent idx="6">as</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">bad</governor>
+            <dependent idx="8">as</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="10">need</governor>
+            <dependent idx="9">my</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">as</governor>
+            <dependent idx="10">need</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">need</governor>
+            <dependent idx="11">for</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="11">for</governor>
+            <dependent idx="12">summer</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">bad</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="3">level</governor>
+            <dependent idx="1">My</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">level</governor>
+            <dependent idx="2">concentration</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">bad</governor>
+            <dependent idx="3">level</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">bad</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">bad</governor>
+            <dependent idx="5">almost</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">bad</governor>
+            <dependent idx="6">as</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="10">need</governor>
+            <dependent idx="9">my</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="7">bad</governor>
+            <dependent idx="10">need</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="10">need</governor>
+            <dependent idx="12">summer</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="7">bad</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="3">level</governor>
+            <dependent idx="1">My</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">level</governor>
+            <dependent idx="2">concentration</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="7">bad</governor>
+            <dependent idx="3">level</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="7">bad</governor>
+            <dependent idx="4">is</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">bad</governor>
+            <dependent idx="5">almost</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="7">bad</governor>
+            <dependent idx="6">as</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="10">need</governor>
+            <dependent idx="9">my</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="7">bad</governor>
+            <dependent idx="10">need</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="10">need</governor>
+            <dependent idx="12">summer</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

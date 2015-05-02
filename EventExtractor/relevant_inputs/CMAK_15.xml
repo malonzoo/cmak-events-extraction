@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="15">
+        <tokens>
+          <token id="1">
+            <word>Israel</word>
+            <lemma>Israel</lemma>
+            <CharacterOffsetBegin>1533</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1539</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="2">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>1540</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1542</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Wednesday</word>
+            <lemma>Wednesday</lemma>
+            <CharacterOffsetBegin>1543</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1552</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-WXX-3</NormalizedNER>
+            <Timex tid="t1" type="DATE">XXXX-WXX-3</Timex>
+          </token>
+          <token id="4">
+            <word>released</word>
+            <lemma>release</lemma>
+            <CharacterOffsetBegin>1553</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1561</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1562</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1565</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>mayor</word>
+            <lemma>mayor</lemma>
+            <CharacterOffsetBegin>1566</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1571</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>1572</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1574</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1575</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1578</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>northern</word>
+            <lemma>northern</lemma>
+            <CharacterOffsetBegin>1579</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1587</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>West</word>
+            <lemma>West</lemma>
+            <CharacterOffsetBegin>1588</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1592</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="11">
+            <word>Bank</word>
+            <lemma>Bank</lemma>
+            <CharacterOffsetBegin>1593</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1597</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="12">
+            <word>city</word>
+            <lemma>city</lemma>
+            <CharacterOffsetBegin>1598</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1602</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>1603</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1605</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>Nablus</word>
+            <lemma>Nablus</lemma>
+            <CharacterOffsetBegin>1606</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1612</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="15">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1612</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1613</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>1614</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1615</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>member</word>
+            <lemma>member</lemma>
+            <CharacterOffsetBegin>1616</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1622</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>1623</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1625</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1626</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1629</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>Islamist</word>
+            <lemma>islamist</lemma>
+            <CharacterOffsetBegin>1630</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1638</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="21">
+            <word>Hamas</word>
+            <lemma>Hamas</lemma>
+            <CharacterOffsetBegin>1639</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1644</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>ORGANIZATION</NER>
+          </token>
+          <token id="22">
+            <word>movement</word>
+            <lemma>movement</lemma>
+            <CharacterOffsetBegin>1645</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1653</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>jailed</word>
+            <lemma>jail</lemma>
+            <CharacterOffsetBegin>1654</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1660</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>over</word>
+            <lemma>over</lemma>
+            <CharacterOffsetBegin>1661</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1665</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>1666</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1667</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P-1Y</NormalizedNER>
+            <Timex tid="t2" type="DATE"/>
+          </token>
+          <token id="26">
+            <word>year</word>
+            <lemma>year</lemma>
+            <CharacterOffsetBegin>1668</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1672</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P-1Y</NormalizedNER>
+            <Timex tid="t2" type="DATE"/>
+          </token>
+          <token id="27">
+            <word>ago</word>
+            <lemma>ago</lemma>
+            <CharacterOffsetBegin>1673</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1676</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P-1Y</NormalizedNER>
+            <Timex tid="t2" type="DATE"/>
+          </token>
+          <token id="28">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1676</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1677</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>Palestinian</word>
+            <lemma>palestinian</lemma>
+            <CharacterOffsetBegin>1678</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1689</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="30">
+            <word>security</word>
+            <lemma>security</lemma>
+            <CharacterOffsetBegin>1690</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1698</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>officials</word>
+            <lemma>official</lemma>
+            <CharacterOffsetBegin>1699</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1708</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>said</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>1709</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1713</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>1713</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1714</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (NP (NP (NNP Israel)) (PP (IN on) (NP (NNP Wednesday)))) (VP (VBD released) (NP (NP (DT the) (NN mayor)) (PP (IN of) (NP (NP (DT the) (JJ northern) (NNP West) (NNP Bank) (NN city)) (PP (IN of) (NP (NP (NNP Nablus)) (, ,) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NP (DT the) (JJ Islamist) (NNP Hamas) (NN movement)) (VP (VBN jailed) (PP (IN over) (ADVP (NP (DT a) (NN year)) (RB ago)))))))))))))) (, ,) (NP (JJ Palestinian) (NN security) (NNS officials)) (VP (VBD said)) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="32">said</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">released</governor>
+            <dependent idx="1">Israel</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="1">Israel</governor>
+            <dependent idx="2">on</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">on</governor>
+            <dependent idx="3">Wednesday</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="32">said</governor>
+            <dependent idx="4">released</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">mayor</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">released</governor>
+            <dependent idx="6">mayor</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="6">mayor</governor>
+            <dependent idx="7">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">city</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">city</governor>
+            <dependent idx="9">northern</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">city</governor>
+            <dependent idx="10">West</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">city</governor>
+            <dependent idx="11">Bank</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="7">of</governor>
+            <dependent idx="12">city</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="12">city</governor>
+            <dependent idx="13">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="13">of</governor>
+            <dependent idx="14">Nablus</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">member</governor>
+            <dependent idx="16">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="14">Nablus</governor>
+            <dependent idx="17">member</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="17">member</governor>
+            <dependent idx="18">of</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">movement</governor>
+            <dependent idx="19">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">movement</governor>
+            <dependent idx="20">Islamist</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="22">movement</governor>
+            <dependent idx="21">Hamas</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="18">of</governor>
+            <dependent idx="22">movement</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="22">movement</governor>
+            <dependent idx="23">jailed</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="23">jailed</governor>
+            <dependent idx="24">over</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="26">year</governor>
+            <dependent idx="25">a</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="27">ago</governor>
+            <dependent idx="26">year</dependent>
+          </dep>
+          <dep type="pcomp">
+            <governor idx="24">over</governor>
+            <dependent idx="27">ago</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="31">officials</governor>
+            <dependent idx="29">Palestinian</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">officials</governor>
+            <dependent idx="30">security</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="32">said</governor>
+            <dependent idx="31">officials</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="32">said</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">released</governor>
+            <dependent idx="1">Israel</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="1">Israel</governor>
+            <dependent idx="3">Wednesday</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="32">said</governor>
+            <dependent idx="4">released</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">mayor</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">released</governor>
+            <dependent idx="6">mayor</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">city</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">city</governor>
+            <dependent idx="9">northern</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">city</governor>
+            <dependent idx="10">West</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">city</governor>
+            <dependent idx="11">Bank</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="6">mayor</governor>
+            <dependent idx="12">city</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="12">city</governor>
+            <dependent idx="14">Nablus</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">member</governor>
+            <dependent idx="16">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="14">Nablus</governor>
+            <dependent idx="17">member</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">movement</governor>
+            <dependent idx="19">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">movement</governor>
+            <dependent idx="20">Islamist</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="22">movement</governor>
+            <dependent idx="21">Hamas</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="17">member</governor>
+            <dependent idx="22">movement</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="22">movement</governor>
+            <dependent idx="23">jailed</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="23">jailed</governor>
+            <dependent idx="24">over</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="26">year</governor>
+            <dependent idx="25">a</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="27">ago</governor>
+            <dependent idx="26">year</dependent>
+          </dep>
+          <dep type="pcomp">
+            <governor idx="24">over</governor>
+            <dependent idx="27">ago</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="31">officials</governor>
+            <dependent idx="29">Palestinian</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">officials</governor>
+            <dependent idx="30">security</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="32">said</governor>
+            <dependent idx="31">officials</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="32">said</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">released</governor>
+            <dependent idx="1">Israel</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="1">Israel</governor>
+            <dependent idx="3">Wednesday</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="32">said</governor>
+            <dependent idx="4">released</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="6">mayor</governor>
+            <dependent idx="5">the</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">released</governor>
+            <dependent idx="6">mayor</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="12">city</governor>
+            <dependent idx="8">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="12">city</governor>
+            <dependent idx="9">northern</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">city</governor>
+            <dependent idx="10">West</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="12">city</governor>
+            <dependent idx="11">Bank</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="6">mayor</governor>
+            <dependent idx="12">city</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="12">city</governor>
+            <dependent idx="14">Nablus</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="17">member</governor>
+            <dependent idx="16">a</dependent>
+          </dep>
+          <dep type="appos">
+            <governor idx="14">Nablus</governor>
+            <dependent idx="17">member</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="22">movement</governor>
+            <dependent idx="19">the</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="22">movement</governor>
+            <dependent idx="20">Islamist</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="22">movement</governor>
+            <dependent idx="21">Hamas</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="17">member</governor>
+            <dependent idx="22">movement</dependent>
+          </dep>
+          <dep type="partmod">
+            <governor idx="22">movement</governor>
+            <dependent idx="23">jailed</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="23">jailed</governor>
+            <dependent idx="24">over</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="26">year</governor>
+            <dependent idx="25">a</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="27">ago</governor>
+            <dependent idx="26">year</dependent>
+          </dep>
+          <dep type="pcomp">
+            <governor idx="24">over</governor>
+            <dependent idx="27">ago</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="31">officials</governor>
+            <dependent idx="29">Palestinian</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="31">officials</governor>
+            <dependent idx="30">security</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="32">said</governor>
+            <dependent idx="31">officials</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

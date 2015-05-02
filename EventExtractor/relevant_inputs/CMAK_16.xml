@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="16">
+        <tokens>
+          <token id="1">
+            <word>The</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1716</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1719</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>release</word>
+            <lemma>release</lemma>
+            <CharacterOffsetBegin>1720</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1727</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>1728</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1730</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>Adli</word>
+            <lemma>Adli</lemma>
+            <CharacterOffsetBegin>1731</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1735</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="5">
+            <word>Yaish</word>
+            <lemma>Yaish</lemma>
+            <CharacterOffsetBegin>1736</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1741</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="6">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1741</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1742</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>who</word>
+            <lemma>who</lemma>
+            <CharacterOffsetBegin>1743</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1746</CharacterOffsetEnd>
+            <POS>WP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>had</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>1747</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1750</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>been</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>1751</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1755</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>arrested</word>
+            <lemma>arrest</lemma>
+            <CharacterOffsetBegin>1756</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1764</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>15</word>
+            <lemma>15</lemma>
+            <CharacterOffsetBegin>1765</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1767</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P-15M</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="12">
+            <word>months</word>
+            <lemma>month</lemma>
+            <CharacterOffsetBegin>1768</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1774</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P-15M</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="13">
+            <word>ago</word>
+            <lemma>ago</lemma>
+            <CharacterOffsetBegin>1775</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1778</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>OFFSET P-15M</NormalizedNER>
+            <Timex tid="t1" type="DATE"/>
+          </token>
+          <token id="14">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1778</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1779</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>came</word>
+            <lemma>come</lemma>
+            <CharacterOffsetBegin>1780</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1784</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>1785</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1787</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>Israel</word>
+            <lemma>Israel</lemma>
+            <CharacterOffsetBegin>1788</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1794</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="18">
+            <word>announced</word>
+            <lemma>announce</lemma>
+            <CharacterOffsetBegin>1795</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1804</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>1805</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1807</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>would</word>
+            <lemma>would</lemma>
+            <CharacterOffsetBegin>1808</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1813</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>free</word>
+            <lemma>free</lemma>
+            <CharacterOffsetBegin>1814</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1818</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>over</word>
+            <lemma>over</lemma>
+            <CharacterOffsetBegin>1819</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1823</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>150</word>
+            <lemma>150</lemma>
+            <CharacterOffsetBegin>1824</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1827</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>NUMBER</NER>
+            <NormalizedNER>&gt;150.0</NormalizedNER>
+          </token>
+          <token id="24">
+            <word>Palestinian</word>
+            <lemma>palestinian</lemma>
+            <CharacterOffsetBegin>1828</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1839</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="25">
+            <word>prisoners</word>
+            <lemma>prisoner</lemma>
+            <CharacterOffsetBegin>1840</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1849</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>by</word>
+            <lemma>by</lemma>
+            <CharacterOffsetBegin>1850</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1852</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1853</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1856</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-08</NormalizedNER>
+            <Timex tid="t2" type="DATE">XXXX-08</Timex>
+          </token>
+          <token id="28">
+            <word>end</word>
+            <lemma>end</lemma>
+            <CharacterOffsetBegin>1857</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1860</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-08</NormalizedNER>
+            <Timex tid="t2" type="DATE">XXXX-08</Timex>
+          </token>
+          <token id="29">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>1861</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1863</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-08</NormalizedNER>
+            <Timex tid="t2" type="DATE">XXXX-08</Timex>
+          </token>
+          <token id="30">
+            <word>August</word>
+            <lemma>August</lemma>
+            <CharacterOffsetBegin>1864</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1870</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-08</NormalizedNER>
+            <Timex tid="t2" type="DATE">XXXX-08</Timex>
+          </token>
+          <token id="31">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>1871</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1873</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>1874</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1875</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>goodwill</word>
+            <lemma>goodwill</lemma>
+            <CharacterOffsetBegin>1876</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1884</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>gesture</word>
+            <lemma>gesture</lemma>
+            <CharacterOffsetBegin>1885</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1892</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="35">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>1893</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1895</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="36">
+            <word>Palestinian</word>
+            <lemma>palestinian</lemma>
+            <CharacterOffsetBegin>1896</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1907</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="37">
+            <word>president</word>
+            <lemma>president</lemma>
+            <CharacterOffsetBegin>1908</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1917</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="38">
+            <word>Mahmud</word>
+            <lemma>Mahmud</lemma>
+            <CharacterOffsetBegin>1918</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1924</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="39">
+            <word>Abbas</word>
+            <lemma>Abbas</lemma>
+            <CharacterOffsetBegin>1925</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1930</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="40">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>1930</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1931</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (DT The) (NN release)) (PP (IN of) (NP (NNP Adli) (NNP Yaish))) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBD had) (VP (VBN been) (VP (VBN arrested) (ADVP (NP (CD 15) (NNS months)) (RB ago))))))) (, ,)) (VP (VBD came) (SBAR (IN as) (S (NP (NNP Israel)) (VP (VBD announced) (SBAR (S (NP (PRP it)) (VP (MD would) (VP (VB free) (NP (QP (IN over) (CD 150)) (JJ Palestinian) (NNS prisoners)) (PP (IN by) (NP (NP (DT the) (NN end)) (PP (IN of) (NP (NNP August))))) (PP (IN as) (NP (NP (DT a) (NN goodwill) (NN gesture)) (PP (TO to) (NP (JJ Palestinian) (NN president) (NNP Mahmud) (NNP Abbas))))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="15">came</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">release</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">came</governor>
+            <dependent idx="2">release</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">release</governor>
+            <dependent idx="3">of</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">Yaish</governor>
+            <dependent idx="4">Adli</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="3">of</governor>
+            <dependent idx="5">Yaish</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="10">arrested</governor>
+            <dependent idx="7">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="10">arrested</governor>
+            <dependent idx="8">had</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="10">arrested</governor>
+            <dependent idx="9">been</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">release</governor>
+            <dependent idx="10">arrested</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="12">months</governor>
+            <dependent idx="11">15</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="13">ago</governor>
+            <dependent idx="12">months</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="10">arrested</governor>
+            <dependent idx="13">ago</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="18">announced</governor>
+            <dependent idx="16">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">announced</governor>
+            <dependent idx="17">Israel</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="15">came</governor>
+            <dependent idx="18">announced</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">free</governor>
+            <dependent idx="19">it</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">free</governor>
+            <dependent idx="20">would</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="18">announced</governor>
+            <dependent idx="21">free</dependent>
+          </dep>
+          <dep type="quantmod">
+            <governor idx="23">150</governor>
+            <dependent idx="22">over</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="25">prisoners</governor>
+            <dependent idx="23">150</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">prisoners</governor>
+            <dependent idx="24">Palestinian</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="21">free</governor>
+            <dependent idx="25">prisoners</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="21">free</governor>
+            <dependent idx="26">by</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">end</governor>
+            <dependent idx="27">the</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="26">by</governor>
+            <dependent idx="28">end</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="28">end</governor>
+            <dependent idx="29">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="29">of</governor>
+            <dependent idx="30">August</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="21">free</governor>
+            <dependent idx="31">as</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="34">gesture</governor>
+            <dependent idx="32">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="34">gesture</governor>
+            <dependent idx="33">goodwill</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="31">as</governor>
+            <dependent idx="34">gesture</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="34">gesture</governor>
+            <dependent idx="35">to</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="39">Abbas</governor>
+            <dependent idx="36">Palestinian</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="39">Abbas</governor>
+            <dependent idx="37">president</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="39">Abbas</governor>
+            <dependent idx="38">Mahmud</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="35">to</governor>
+            <dependent idx="39">Abbas</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="15">came</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">release</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">came</governor>
+            <dependent idx="2">release</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">Yaish</governor>
+            <dependent idx="4">Adli</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="2">release</governor>
+            <dependent idx="5">Yaish</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="10">arrested</governor>
+            <dependent idx="7">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="10">arrested</governor>
+            <dependent idx="8">had</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="10">arrested</governor>
+            <dependent idx="9">been</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">release</governor>
+            <dependent idx="10">arrested</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="12">months</governor>
+            <dependent idx="11">15</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="13">ago</governor>
+            <dependent idx="12">months</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="10">arrested</governor>
+            <dependent idx="13">ago</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="18">announced</governor>
+            <dependent idx="16">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">announced</governor>
+            <dependent idx="17">Israel</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="15">came</governor>
+            <dependent idx="18">announced</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">free</governor>
+            <dependent idx="19">it</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">free</governor>
+            <dependent idx="20">would</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="18">announced</governor>
+            <dependent idx="21">free</dependent>
+          </dep>
+          <dep type="quantmod">
+            <governor idx="23">150</governor>
+            <dependent idx="22">over</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="25">prisoners</governor>
+            <dependent idx="23">150</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">prisoners</governor>
+            <dependent idx="24">Palestinian</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="21">free</governor>
+            <dependent idx="25">prisoners</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">end</governor>
+            <dependent idx="27">the</dependent>
+          </dep>
+          <dep type="prep_by">
+            <governor idx="21">free</governor>
+            <dependent idx="28">end</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="28">end</governor>
+            <dependent idx="30">August</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="34">gesture</governor>
+            <dependent idx="32">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="34">gesture</governor>
+            <dependent idx="33">goodwill</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="21">free</governor>
+            <dependent idx="34">gesture</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="39">Abbas</governor>
+            <dependent idx="36">Palestinian</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="39">Abbas</governor>
+            <dependent idx="37">president</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="39">Abbas</governor>
+            <dependent idx="38">Mahmud</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="34">gesture</governor>
+            <dependent idx="39">Abbas</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="15">came</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="2">release</governor>
+            <dependent idx="1">The</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="15">came</governor>
+            <dependent idx="2">release</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">Yaish</governor>
+            <dependent idx="4">Adli</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="2">release</governor>
+            <dependent idx="5">Yaish</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="10">arrested</governor>
+            <dependent idx="7">who</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="10">arrested</governor>
+            <dependent idx="8">had</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="10">arrested</governor>
+            <dependent idx="9">been</dependent>
+          </dep>
+          <dep type="rcmod">
+            <governor idx="2">release</governor>
+            <dependent idx="10">arrested</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="12">months</governor>
+            <dependent idx="11">15</dependent>
+          </dep>
+          <dep type="npadvmod">
+            <governor idx="13">ago</governor>
+            <dependent idx="12">months</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="10">arrested</governor>
+            <dependent idx="13">ago</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="18">announced</governor>
+            <dependent idx="16">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="18">announced</governor>
+            <dependent idx="17">Israel</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="15">came</governor>
+            <dependent idx="18">announced</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="21">free</governor>
+            <dependent idx="19">it</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="21">free</governor>
+            <dependent idx="20">would</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="18">announced</governor>
+            <dependent idx="21">free</dependent>
+          </dep>
+          <dep type="quantmod">
+            <governor idx="23">150</governor>
+            <dependent idx="22">over</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="25">prisoners</governor>
+            <dependent idx="23">150</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">prisoners</governor>
+            <dependent idx="24">Palestinian</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="21">free</governor>
+            <dependent idx="25">prisoners</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="28">end</governor>
+            <dependent idx="27">the</dependent>
+          </dep>
+          <dep type="prep_by">
+            <governor idx="21">free</governor>
+            <dependent idx="28">end</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="28">end</governor>
+            <dependent idx="30">August</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="34">gesture</governor>
+            <dependent idx="32">a</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="34">gesture</governor>
+            <dependent idx="33">goodwill</dependent>
+          </dep>
+          <dep type="prep_as">
+            <governor idx="21">free</governor>
+            <dependent idx="34">gesture</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="39">Abbas</governor>
+            <dependent idx="36">Palestinian</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="39">Abbas</governor>
+            <dependent idx="37">president</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="39">Abbas</governor>
+            <dependent idx="38">Mahmud</dependent>
+          </dep>
+          <dep type="prep_to">
+            <governor idx="34">gesture</governor>
+            <dependent idx="39">Abbas</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

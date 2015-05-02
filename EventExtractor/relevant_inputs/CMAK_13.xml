@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="13">
+        <tokens>
+          <token id="1">
+            <word>France</word>
+            <lemma>France</lemma>
+            <CharacterOffsetBegin>1136</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1142</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="2">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>1143</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1145</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>Wednesday</word>
+            <lemma>Wednesday</lemma>
+            <CharacterOffsetBegin>1146</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1155</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-WXX-3</NormalizedNER>
+            <Timex tid="t1" type="DATE">XXXX-WXX-3</Timex>
+          </token>
+          <token id="4">
+            <word>condemned</word>
+            <lemma>condemn</lemma>
+            <CharacterOffsetBegin>1156</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1165</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>unacceptable</word>
+            <lemma>unacceptable</lemma>
+            <CharacterOffsetBegin>1166</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1178</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>allegations</word>
+            <lemma>allegation</lemma>
+            <CharacterOffsetBegin>1179</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1190</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>by</word>
+            <lemma>by</lemma>
+            <CharacterOffsetBegin>1191</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1193</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>Rwanda</word>
+            <lemma>Rwanda</lemma>
+            <CharacterOffsetBegin>1194</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1200</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="9">
+            <word>that</word>
+            <lemma>that</lemma>
+            <CharacterOffsetBegin>1201</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1205</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>1206</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1208</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>had</word>
+            <lemma>have</lemma>
+            <CharacterOffsetBegin>1209</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1212</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>played</word>
+            <lemma>play</lemma>
+            <CharacterOffsetBegin>1213</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1219</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>an</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>1220</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1222</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>active</word>
+            <lemma>active</lemma>
+            <CharacterOffsetBegin>1223</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1229</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>role</word>
+            <lemma>role</lemma>
+            <CharacterOffsetBegin>1230</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1234</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>1235</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1237</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>1238</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1241</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="18">
+            <word>1994</word>
+            <lemma>1994</lemma>
+            <CharacterOffsetBegin>1242</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1246</CharacterOffsetEnd>
+            <POS>CD</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>1994</NormalizedNER>
+            <Timex tid="t2" type="DATE">1994</Timex>
+          </token>
+          <token id="19">
+            <word>genocide</word>
+            <lemma>genocide</lemma>
+            <CharacterOffsetBegin>1247</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1255</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>1255</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1256</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="21">
+            <word>as</word>
+            <lemma>as</lemma>
+            <CharacterOffsetBegin>1257</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1259</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>Kigali</word>
+            <lemma>Kigali</lemma>
+            <CharacterOffsetBegin>1260</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1266</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="23">
+            <word>said</word>
+            <lemma>say</lemma>
+            <CharacterOffsetBegin>1267</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1271</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>it</word>
+            <lemma>it</lemma>
+            <CharacterOffsetBegin>1272</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1274</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>hoped</word>
+            <lemma>hope</lemma>
+            <CharacterOffsetBegin>1275</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1280</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>French</word>
+            <lemma>french</lemma>
+            <CharacterOffsetBegin>1281</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1287</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="27">
+            <word>officials</word>
+            <lemma>official</lemma>
+            <CharacterOffsetBegin>1288</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1297</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>would</word>
+            <lemma>would</lemma>
+            <CharacterOffsetBegin>1298</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1303</CharacterOffsetEnd>
+            <POS>MD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="29">
+            <word>be</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>1304</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1306</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="30">
+            <word>indicted</word>
+            <lemma>indict</lemma>
+            <CharacterOffsetBegin>1307</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1315</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="31">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>1316</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1319</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="32">
+            <word>war</word>
+            <lemma>war</lemma>
+            <CharacterOffsetBegin>1320</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1323</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="33">
+            <word>crimes</word>
+            <lemma>crime</lemma>
+            <CharacterOffsetBegin>1324</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1330</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="34">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>1330</CharacterOffsetBegin>
+            <CharacterOffsetEnd>1331</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NP (NNP France)) (PP (IN on) (NP (NNP Wednesday)))) (VP (VBD condemned) (NP (ADJP (JJ unacceptable)) (NNS allegations)) (PP (IN by) (NP (NNP Rwanda))) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD had) (VP (VBN played) (NP (NP (DT an) (JJ active) (NN role)) (PP (IN in) (NP (DT the) (CD 1994) (NN genocide)))) (, ,) (SBAR (IN as) (S (NP (NNP Kigali)) (VP (VBD said) (SBAR (S (NP (PRP it)) (VP (VBD hoped) (SBAR (S (NP (JJ French) (NNS officials)) (VP (MD would) (VP (VB be) (VP (VBN indicted) (PP (IN for) (NP (NN war) (NNS crimes))))))))))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">condemned</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">condemned</governor>
+            <dependent idx="1">France</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="1">France</governor>
+            <dependent idx="2">on</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="2">on</governor>
+            <dependent idx="3">Wednesday</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">allegations</governor>
+            <dependent idx="5">unacceptable</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">condemned</governor>
+            <dependent idx="6">allegations</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="4">condemned</governor>
+            <dependent idx="7">by</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="7">by</governor>
+            <dependent idx="8">Rwanda</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="12">played</governor>
+            <dependent idx="9">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">played</governor>
+            <dependent idx="10">it</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">played</governor>
+            <dependent idx="11">had</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="4">condemned</governor>
+            <dependent idx="12">played</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="15">role</governor>
+            <dependent idx="13">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">role</governor>
+            <dependent idx="14">active</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">played</governor>
+            <dependent idx="15">role</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="15">role</governor>
+            <dependent idx="16">in</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">genocide</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="19">genocide</governor>
+            <dependent idx="18">1994</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="16">in</governor>
+            <dependent idx="19">genocide</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="23">said</governor>
+            <dependent idx="21">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="23">said</governor>
+            <dependent idx="22">Kigali</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="12">played</governor>
+            <dependent idx="23">said</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">hoped</governor>
+            <dependent idx="24">it</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="23">said</governor>
+            <dependent idx="25">hoped</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="27">officials</governor>
+            <dependent idx="26">French</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="30">indicted</governor>
+            <dependent idx="27">officials</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="30">indicted</governor>
+            <dependent idx="28">would</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="30">indicted</governor>
+            <dependent idx="29">be</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">hoped</governor>
+            <dependent idx="30">indicted</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="30">indicted</governor>
+            <dependent idx="31">for</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="33">crimes</governor>
+            <dependent idx="32">war</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="31">for</governor>
+            <dependent idx="33">crimes</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">condemned</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">condemned</governor>
+            <dependent idx="1">France</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="1">France</governor>
+            <dependent idx="3">Wednesday</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">allegations</governor>
+            <dependent idx="5">unacceptable</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">condemned</governor>
+            <dependent idx="6">allegations</dependent>
+          </dep>
+          <dep type="prep_by">
+            <governor idx="4">condemned</governor>
+            <dependent idx="8">Rwanda</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="12">played</governor>
+            <dependent idx="9">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">played</governor>
+            <dependent idx="10">it</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">played</governor>
+            <dependent idx="11">had</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="4">condemned</governor>
+            <dependent idx="12">played</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="15">role</governor>
+            <dependent idx="13">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">role</governor>
+            <dependent idx="14">active</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">played</governor>
+            <dependent idx="15">role</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">genocide</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="19">genocide</governor>
+            <dependent idx="18">1994</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="15">role</governor>
+            <dependent idx="19">genocide</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="23">said</governor>
+            <dependent idx="21">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="23">said</governor>
+            <dependent idx="22">Kigali</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="12">played</governor>
+            <dependent idx="23">said</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">hoped</governor>
+            <dependent idx="24">it</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="23">said</governor>
+            <dependent idx="25">hoped</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="27">officials</governor>
+            <dependent idx="26">French</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="30">indicted</governor>
+            <dependent idx="27">officials</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="30">indicted</governor>
+            <dependent idx="28">would</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="30">indicted</governor>
+            <dependent idx="29">be</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">hoped</governor>
+            <dependent idx="30">indicted</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="33">crimes</governor>
+            <dependent idx="32">war</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="30">indicted</governor>
+            <dependent idx="33">crimes</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">condemned</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">condemned</governor>
+            <dependent idx="1">France</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="1">France</governor>
+            <dependent idx="3">Wednesday</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="6">allegations</governor>
+            <dependent idx="5">unacceptable</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">condemned</governor>
+            <dependent idx="6">allegations</dependent>
+          </dep>
+          <dep type="prep_by">
+            <governor idx="4">condemned</governor>
+            <dependent idx="8">Rwanda</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="12">played</governor>
+            <dependent idx="9">that</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="12">played</governor>
+            <dependent idx="10">it</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">played</governor>
+            <dependent idx="11">had</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="4">condemned</governor>
+            <dependent idx="12">played</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="15">role</governor>
+            <dependent idx="13">an</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="15">role</governor>
+            <dependent idx="14">active</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">played</governor>
+            <dependent idx="15">role</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="19">genocide</governor>
+            <dependent idx="17">the</dependent>
+          </dep>
+          <dep type="num">
+            <governor idx="19">genocide</governor>
+            <dependent idx="18">1994</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="15">role</governor>
+            <dependent idx="19">genocide</dependent>
+          </dep>
+          <dep type="mark">
+            <governor idx="23">said</governor>
+            <dependent idx="21">as</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="23">said</governor>
+            <dependent idx="22">Kigali</dependent>
+          </dep>
+          <dep type="advcl">
+            <governor idx="12">played</governor>
+            <dependent idx="23">said</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="25">hoped</governor>
+            <dependent idx="24">it</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="23">said</governor>
+            <dependent idx="25">hoped</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="27">officials</governor>
+            <dependent idx="26">French</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="30">indicted</governor>
+            <dependent idx="27">officials</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="30">indicted</governor>
+            <dependent idx="28">would</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="30">indicted</governor>
+            <dependent idx="29">be</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="25">hoped</governor>
+            <dependent idx="30">indicted</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="33">crimes</governor>
+            <dependent idx="32">war</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="30">indicted</governor>
+            <dependent idx="33">crimes</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

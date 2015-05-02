@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="23">
+        <tokens>
+          <token id="1">
+            <word>North</word>
+            <lemma>north</lemma>
+            <CharacterOffsetBegin>2933</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2938</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="2">
+            <word>Korean</word>
+            <lemma>korean</lemma>
+            <CharacterOffsetBegin>2939</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2945</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>MISC</NER>
+          </token>
+          <token id="3">
+            <word>diplomats</word>
+            <lemma>diplomat</lemma>
+            <CharacterOffsetBegin>2946</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2955</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>disrupt</word>
+            <lemma>disrupt</lemma>
+            <CharacterOffsetBegin>2956</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2963</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>human</word>
+            <lemma>human</lemma>
+            <CharacterOffsetBegin>2964</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2969</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>rights</word>
+            <lemma>rights</lemma>
+            <CharacterOffsetBegin>2970</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2976</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>panel</word>
+            <lemma>panel</lemma>
+            <CharacterOffsetBegin>2977</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2982</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>2982</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2983</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (ADJP (JJ North) (JJ Korean)) (NNS diplomats)) (VP (VBP disrupt) (NP (JJ human) (NNS rights) (NN panel))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">disrupt</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">Korean</governor>
+            <dependent idx="1">North</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">diplomats</governor>
+            <dependent idx="2">Korean</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">disrupt</governor>
+            <dependent idx="3">diplomats</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">panel</governor>
+            <dependent idx="5">human</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">panel</governor>
+            <dependent idx="6">rights</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">disrupt</governor>
+            <dependent idx="7">panel</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">disrupt</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">Korean</governor>
+            <dependent idx="1">North</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">diplomats</governor>
+            <dependent idx="2">Korean</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">disrupt</governor>
+            <dependent idx="3">diplomats</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">panel</governor>
+            <dependent idx="5">human</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">panel</governor>
+            <dependent idx="6">rights</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">disrupt</governor>
+            <dependent idx="7">panel</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">disrupt</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="2">Korean</governor>
+            <dependent idx="1">North</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="3">diplomats</governor>
+            <dependent idx="2">Korean</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">disrupt</governor>
+            <dependent idx="3">diplomats</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="7">panel</governor>
+            <dependent idx="5">human</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="7">panel</governor>
+            <dependent idx="6">rights</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">disrupt</governor>
+            <dependent idx="7">panel</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

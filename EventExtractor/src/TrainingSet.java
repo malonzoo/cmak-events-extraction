@@ -7,9 +7,13 @@ import java.util.Scanner;
 
 public class TrainingSet {
 
-	public static ArrayList<String> actors; 
-	public static HashMap<String, ArrayList<String>> issues;
+	public ArrayList<String> actors; 
+	public HashMap<String, ArrayList<String>> issues;
 	
+	/**
+	 * Constructor
+	 * @throws FileNotFoundException
+	 */
 	public TrainingSet() throws FileNotFoundException 
 	{
 		actors = new ArrayList<String>();
@@ -18,10 +22,13 @@ public class TrainingSet {
 		loadIssues(); 	
 	}
 	
-	
+	/**
+	 * Load Actors from actors.txt Phoenix testing set
+	 * @throws FileNotFoundException
+	 */
 	public void loadActors() throws FileNotFoundException {
 		
-		Scanner s1 = new Scanner(new File("actors.txt"));
+		Scanner s1 = new Scanner( new File("training_data/actors.txt") );
 		
 		s1.useDelimiter("\n");
 		while (s1.hasNext())
@@ -29,12 +36,11 @@ public class TrainingSet {
 			String line = s1.next();
 			line = line.trim();
 			String zero = null; 
-			try{
+			try {
 				 zero = ((Character)line.charAt(0)).toString();
-			} catch (StringIndexOutOfBoundsException s){};
+			} catch (StringIndexOutOfBoundsException s) {};
 			
-			if(line != null && zero != null && !zero.equals('[') )
-			{
+			if(line != null && zero != null && !zero.equals('[') ) {
 				if(line.indexOf(";") != -1)
 					line = line.substring(0, line.indexOf(";")); 
 				
@@ -49,43 +55,49 @@ public class TrainingSet {
 			}
 			
 			line.trim();
-			
-			
-				if(!actors.contains(line))
-				{
-					actors.add(line.toLowerCase().trim());
-				}
-				
-				// for multiple worded actors, add all subcomponents 
-				String[] subcomponents = line.split("\\s+");
-				for(String s: subcomponents)
-				{
-					s.trim(); 
-					s.replaceAll("\\s+", "");
 					
-					if(s.length() > 3) // avoid determiners like a, an, the
-					{
-						if(!actors.contains(s)) {
-							actors.add(s.toLowerCase().trim());
-						}
+			if(!actors.contains(line)) {
+				actors.add(line.toLowerCase().trim());
+			}
+				
+			// for multiple worded actors, add all subcomponents 
+			String[] subcomponents = line.split("\\s+");
+			for(String s: subcomponents)
+			{
+				s.trim(); 
+				s.replaceAll("\\s+", "");
+				
+				if(s.length() > 3) { // avoid determiners like a, an, the 
+					if(!actors.contains(s)) {
+						actors.add(s.toLowerCase().trim());
 					}
-					
-				}
-				
-		}	s1.close();
+				}				
+			}				
+		}	
+		s1.close();
 	}
 	
+	/**
+	 * Load Issues from issues.txt
+	 * @throws FileNotFoundException
+	 */
 	public void loadIssues() throws FileNotFoundException {
-		Scanner s2 = new Scanner(new File("issues.txt"));
+		Scanner s2 = new Scanner(new File("training_data/issues.txt"));
 		s2.useDelimiter("\n");
 		while (s2.hasNext()){
 			String line = s2.next();
+			// System.out.println(line);
 			// don't add terms beginning with an ~ since those are less imp in the orig file
-			if(line.indexOf('~') == -1)
+			if(line.indexOf('~') != 1)
 				addIssue(line.toLowerCase());
-		} s2.close();
+		} 
+		s2.close();
 	}
 
+	/**
+	 * 
+	 * @param line
+	 */
 	private void addIssue(String line) {
 		
 		int i = line.indexOf('[');
@@ -98,7 +110,10 @@ public class TrainingSet {
 			sub = line.substring(0, i); 
 			subkey = sub.trim().replaceAll("\\s+",""); 
 			int j = line.indexOf(']');
+			if (j == -1)
+				j = line.length();
 			topic = line.substring(i+1, j); 
+			// System.out.println("\t"+ line + " " + topic);
 			topic = topic.trim(); 
 		} else {
 			subkey = line.trim().replaceAll("\\s+",""); 
@@ -106,46 +121,41 @@ public class TrainingSet {
 		}
 		
 		// input issue as is
-			if(issues.containsKey(subkey) && !issues.get(subkey).contains(topic))
-				issues.get(subkey).add(topic); 
-			else
-			{
-				ArrayList<String> topics = new ArrayList<String>(); 
-				topics.add(topic); 
-				issues.put(subkey, topics); 
-			}
+		if(issues.containsKey(subkey) && !issues.get(subkey).contains(topic))
+			issues.get(subkey).add(topic); 
+		else {
+			ArrayList<String> topics = new ArrayList<String>(); 
+			topics.add(topic); 
+			issues.put(subkey, topics); 
+		}
 			
 		// input issue subcomponents if more than one word
-			String[] subcomponents = sub.split("\\s+");
-			for(String s: subcomponents)
-			{
-				s.trim(); 
-				s.replaceAll("\\s+", "");
+		String[] subcomponents = sub.split("\\s+");
+		for(String s: subcomponents) {
+			s.trim(); 
+			s.replaceAll("\\s+", "");
 				
-				if(s.length() > 3)
-				{
-					if(issues.containsKey(s) && !issues.get(s).contains(topic))
-						issues.get(s).add(topic); 
-					else
-					{
-						ArrayList<String> topics = new ArrayList<String>(); 
-						topics.add(topic); 
-						issues.put(s, topics); 
-					}
+			if(s.length() > 3) {
+				if(issues.containsKey(s) && !issues.get(s).contains(topic))
+					issues.get(s).add(topic); 
+				else {
+					ArrayList<String> topics = new ArrayList<String>(); 
+					topics.add(topic); 
+					issues.put(s, topics); 
 				}
-				
 			}
-			
-//		}
+				
+		}			
 	}
 	
-	public static void main(String[] args) throws FileNotFoundException {	
-		TrainingSet t = new TrainingSet(); 
-		System.out.println(issues.containsKey("elections"));
-	}
-	
-	
-	
-	
+//	/**
+//	 * Main 
+//	 * @param args
+//	 * @throws FileNotFoundException
+//	 */
+//	public static void main(String[] args) throws FileNotFoundException {	
+//		new TrainingSet(); 
+//		System.out.println(issues.containsKey("elections"));
+//	}
 	
 }

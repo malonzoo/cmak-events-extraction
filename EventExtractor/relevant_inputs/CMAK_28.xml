@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="28">
+        <tokens>
+          <token id="1">
+            <word>Bird</word>
+            <lemma>bird</lemma>
+            <CharacterOffsetBegin>3216</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3220</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>flu</word>
+            <lemma>flu</lemma>
+            <CharacterOffsetBegin>3221</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3224</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>outbreak</word>
+            <lemma>outbreak</lemma>
+            <CharacterOffsetBegin>3225</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3233</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>prompts</word>
+            <lemma>prompt</lemma>
+            <CharacterOffsetBegin>3234</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3241</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>state</word>
+            <lemma>state</lemma>
+            <CharacterOffsetBegin>3242</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3247</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>of</word>
+            <lemma>of</lemma>
+            <CharacterOffsetBegin>3248</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3250</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>emergency</word>
+            <lemma>emergency</lemma>
+            <CharacterOffsetBegin>3251</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3260</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>in</word>
+            <lemma>in</lemma>
+            <CharacterOffsetBegin>3261</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3263</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>Iowa</word>
+            <lemma>Iowa</lemma>
+            <CharacterOffsetBegin>3264</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3268</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="10">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>3268</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3269</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (NN Bird) (NN flu) (NN outbreak)) (VP (VBZ prompts) (NP (NP (NN state)) (PP (IN of) (NP (NP (NN emergency)) (PP (IN in) (NP (NNP Iowa))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">prompts</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">outbreak</governor>
+            <dependent idx="1">Bird</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">outbreak</governor>
+            <dependent idx="2">flu</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">prompts</governor>
+            <dependent idx="3">outbreak</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">prompts</governor>
+            <dependent idx="5">state</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="5">state</governor>
+            <dependent idx="6">of</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="6">of</governor>
+            <dependent idx="7">emergency</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="7">emergency</governor>
+            <dependent idx="8">in</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="8">in</governor>
+            <dependent idx="9">Iowa</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">prompts</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">outbreak</governor>
+            <dependent idx="1">Bird</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">outbreak</governor>
+            <dependent idx="2">flu</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">prompts</governor>
+            <dependent idx="3">outbreak</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">prompts</governor>
+            <dependent idx="5">state</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="5">state</governor>
+            <dependent idx="7">emergency</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="7">emergency</governor>
+            <dependent idx="9">Iowa</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="4">prompts</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">outbreak</governor>
+            <dependent idx="1">Bird</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="3">outbreak</governor>
+            <dependent idx="2">flu</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="4">prompts</governor>
+            <dependent idx="3">outbreak</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="4">prompts</governor>
+            <dependent idx="5">state</dependent>
+          </dep>
+          <dep type="prep_of">
+            <governor idx="5">state</governor>
+            <dependent idx="7">emergency</dependent>
+          </dep>
+          <dep type="prep_in">
+            <governor idx="7">emergency</governor>
+            <dependent idx="9">Iowa</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

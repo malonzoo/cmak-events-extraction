@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="22">
+        <tokens>
+          <token id="1">
+            <word>Before</word>
+            <lemma>before</lemma>
+            <CharacterOffsetBegin>2764</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2770</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>leaving</word>
+            <lemma>leave</lemma>
+            <CharacterOffsetBegin>2771</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2778</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>for</word>
+            <lemma>for</lemma>
+            <CharacterOffsetBegin>2779</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2782</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>Beijing</word>
+            <lemma>Beijing</lemma>
+            <CharacterOffsetBegin>2783</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2790</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="5">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>2791</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2793</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>Thursday</word>
+            <lemma>Thursday</lemma>
+            <CharacterOffsetBegin>2794</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2802</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>DATE</NER>
+            <NormalizedNER>XXXX-WXX-4</NormalizedNER>
+            <Timex tid="t1" type="DATE">XXXX-WXX-4</Timex>
+          </token>
+          <token id="7">
+            <word>,</word>
+            <lemma>,</lemma>
+            <CharacterOffsetBegin>2802</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2803</CharacterOffsetEnd>
+            <POS>,</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>Bush</word>
+            <lemma>Bush</lemma>
+            <CharacterOffsetBegin>2804</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2808</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>PERSON</NER>
+          </token>
+          <token id="9">
+            <word>was</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>2809</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2812</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>scheduled</word>
+            <lemma>schedule</lemma>
+            <CharacterOffsetBegin>2813</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2822</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>to</word>
+            <lemma>to</lemma>
+            <CharacterOffsetBegin>2823</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2825</CharacterOffsetEnd>
+            <POS>TO</POS>
+            <NER>O</NER>
+          </token>
+          <token id="12">
+            <word>give</word>
+            <lemma>give</lemma>
+            <CharacterOffsetBegin>2826</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2830</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="13">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>2831</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2832</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="14">
+            <word>speech</word>
+            <lemma>speech</lemma>
+            <CharacterOffsetBegin>2833</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2839</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="15">
+            <word>here</word>
+            <lemma>here</lemma>
+            <CharacterOffsetBegin>2840</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2844</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="16">
+            <word>on</word>
+            <lemma>on</lemma>
+            <CharacterOffsetBegin>2845</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2847</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="17">
+            <word>US</word>
+            <lemma>US</lemma>
+            <CharacterOffsetBegin>2848</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2850</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="18">
+            <word>relations</word>
+            <lemma>relation</lemma>
+            <CharacterOffsetBegin>2851</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2860</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="19">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>2861</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2865</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="20">
+            <word>Asia</word>
+            <lemma>Asia</lemma>
+            <CharacterOffsetBegin>2866</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2870</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="21">
+            <word>and</word>
+            <lemma>and</lemma>
+            <CharacterOffsetBegin>2871</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2874</CharacterOffsetEnd>
+            <POS>CC</POS>
+            <NER>O</NER>
+          </token>
+          <token id="22">
+            <word>meet</word>
+            <lemma>meet</lemma>
+            <CharacterOffsetBegin>2875</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2879</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="23">
+            <word>with</word>
+            <lemma>with</lemma>
+            <CharacterOffsetBegin>2880</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2884</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="24">
+            <word>exiled</word>
+            <lemma>exile</lemma>
+            <CharacterOffsetBegin>2885</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2891</CharacterOffsetEnd>
+            <POS>VBN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="25">
+            <word>dissidents</word>
+            <lemma>dissident</lemma>
+            <CharacterOffsetBegin>2892</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2902</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="26">
+            <word>from</word>
+            <lemma>from</lemma>
+            <CharacterOffsetBegin>2903</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2907</CharacterOffsetEnd>
+            <POS>IN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="27">
+            <word>military-ruled</word>
+            <lemma>military-ruled</lemma>
+            <CharacterOffsetBegin>2908</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2922</CharacterOffsetEnd>
+            <POS>JJ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="28">
+            <word>Myanmar</word>
+            <lemma>Myanmar</lemma>
+            <CharacterOffsetBegin>2923</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2930</CharacterOffsetEnd>
+            <POS>NNP</POS>
+            <NER>LOCATION</NER>
+          </token>
+          <token id="29">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>2930</CharacterOffsetBegin>
+            <CharacterOffsetEnd>2931</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (PP (IN Before) (S (VP (VBG leaving) (PP (IN for) (NP (NNP Beijing))) (PP (IN on) (NP (NNP Thursday)))))) (, ,) (NP (NNP Bush)) (VP (VBD was) (VP (VBN scheduled) (S (VP (TO to) (VP (VP (VB give) (NP (DT a) (NN speech)) (ADVP (RB here)) (PP (IN on) (NP (NNP US) (NNS relations))) (PP (IN with) (NP (NNP Asia)))) (CC and) (VP (VB meet) (PP (IN with) (NP (NP (VBN exiled) (NNS dissidents)) (PP (IN from) (NP (JJ military-ruled) (NNP Myanmar))))))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">scheduled</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="1">Before</dependent>
+          </dep>
+          <dep type="pcomp">
+            <governor idx="1">Before</governor>
+            <dependent idx="2">leaving</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">leaving</governor>
+            <dependent idx="3">for</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="3">for</governor>
+            <dependent idx="4">Beijing</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="2">leaving</governor>
+            <dependent idx="5">on</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="5">on</governor>
+            <dependent idx="6">Thursday</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="8">Bush</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="9">was</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">give</governor>
+            <dependent idx="11">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="12">give</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">speech</governor>
+            <dependent idx="13">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">give</governor>
+            <dependent idx="14">speech</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">give</governor>
+            <dependent idx="15">here</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="12">give</governor>
+            <dependent idx="16">on</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">relations</governor>
+            <dependent idx="17">US</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="16">on</governor>
+            <dependent idx="18">relations</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="12">give</governor>
+            <dependent idx="19">with</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="19">with</governor>
+            <dependent idx="20">Asia</dependent>
+          </dep>
+          <dep type="cc">
+            <governor idx="12">give</governor>
+            <dependent idx="21">and</dependent>
+          </dep>
+          <dep type="conj">
+            <governor idx="12">give</governor>
+            <dependent idx="22">meet</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="22">meet</governor>
+            <dependent idx="23">with</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">dissidents</governor>
+            <dependent idx="24">exiled</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="23">with</governor>
+            <dependent idx="25">dissidents</dependent>
+          </dep>
+          <dep type="prep">
+            <governor idx="25">dissidents</governor>
+            <dependent idx="26">from</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="28">Myanmar</governor>
+            <dependent idx="27">military-ruled</dependent>
+          </dep>
+          <dep type="pobj">
+            <governor idx="26">from</governor>
+            <dependent idx="28">Myanmar</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">scheduled</dependent>
+          </dep>
+          <dep type="prepc_before">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="2">leaving</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="2">leaving</governor>
+            <dependent idx="4">Beijing</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="2">leaving</governor>
+            <dependent idx="6">Thursday</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="8">Bush</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="9">was</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">give</governor>
+            <dependent idx="11">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="12">give</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">speech</governor>
+            <dependent idx="13">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">give</governor>
+            <dependent idx="14">speech</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">give</governor>
+            <dependent idx="15">here</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">relations</governor>
+            <dependent idx="17">US</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="12">give</governor>
+            <dependent idx="18">relations</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="12">give</governor>
+            <dependent idx="20">Asia</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="12">give</governor>
+            <dependent idx="22">meet</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">dissidents</governor>
+            <dependent idx="24">exiled</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="22">meet</governor>
+            <dependent idx="25">dissidents</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="28">Myanmar</governor>
+            <dependent idx="27">military-ruled</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="25">dissidents</governor>
+            <dependent idx="28">Myanmar</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="10">scheduled</dependent>
+          </dep>
+          <dep type="prepc_before">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="2">leaving</dependent>
+          </dep>
+          <dep type="prep_for">
+            <governor idx="2">leaving</governor>
+            <dependent idx="4">Beijing</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="2">leaving</governor>
+            <dependent idx="6">Thursday</dependent>
+          </dep>
+          <dep type="nsubjpass">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="8">Bush</dependent>
+          </dep>
+          <dep type="auxpass">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="9">was</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="12">give</governor>
+            <dependent idx="11">to</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="12">give</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="14">speech</governor>
+            <dependent idx="13">a</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="12">give</governor>
+            <dependent idx="14">speech</dependent>
+          </dep>
+          <dep type="advmod">
+            <governor idx="12">give</governor>
+            <dependent idx="15">here</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="18">relations</governor>
+            <dependent idx="17">US</dependent>
+          </dep>
+          <dep type="prep_on">
+            <governor idx="12">give</governor>
+            <dependent idx="18">relations</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="12">give</governor>
+            <dependent idx="20">Asia</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="10">scheduled</governor>
+            <dependent idx="22">meet</dependent>
+          </dep>
+          <dep type="conj_and">
+            <governor idx="12">give</governor>
+            <dependent idx="22">meet</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="25">dissidents</governor>
+            <dependent idx="24">exiled</dependent>
+          </dep>
+          <dep type="prep_with">
+            <governor idx="22">meet</governor>
+            <dependent idx="25">dissidents</dependent>
+          </dep>
+          <dep type="amod">
+            <governor idx="28">Myanmar</governor>
+            <dependent idx="27">military-ruled</dependent>
+          </dep>
+          <dep type="prep_from">
+            <governor idx="25">dissidents</governor>
+            <dependent idx="28">Myanmar</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

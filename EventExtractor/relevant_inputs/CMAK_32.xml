@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="32">
+        <tokens>
+          <token id="1">
+            <word>I</word>
+            <lemma>I</lemma>
+            <CharacterOffsetBegin>3434</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3435</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>survived</word>
+            <lemma>survive</lemma>
+            <CharacterOffsetBegin>3436</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3444</CharacterOffsetEnd>
+            <POS>VBD</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>the</word>
+            <lemma>the</lemma>
+            <CharacterOffsetBegin>3445</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3448</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>housing</word>
+            <lemma>housing</lemma>
+            <CharacterOffsetBegin>3449</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3456</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>lottery</word>
+            <lemma>lottery</lemma>
+            <CharacterOffsetBegin>3457</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3464</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>3464</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3465</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (NP (PRP I)) (VP (VBD survived) (NP (DT the) (NN housing) (NN lottery))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">survived</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">survived</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">lottery</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">lottery</governor>
+            <dependent idx="4">housing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">survived</governor>
+            <dependent idx="5">lottery</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">survived</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">survived</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">lottery</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">lottery</governor>
+            <dependent idx="4">housing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">survived</governor>
+            <dependent idx="5">lottery</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="2">survived</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="2">survived</governor>
+            <dependent idx="1">I</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="5">lottery</governor>
+            <dependent idx="3">the</dependent>
+          </dep>
+          <dep type="nn">
+            <governor idx="5">lottery</governor>
+            <dependent idx="4">housing</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="2">survived</governor>
+            <dependent idx="5">lottery</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+    </sentences>
+  </document>
+</root>

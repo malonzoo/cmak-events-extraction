@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CoreNLP-to-HTML.xsl" type="text/xsl"?>
+<root>
+  <document>
+    <sentences>
+    	<sentence id="40">
+        <tokens>
+          <token id="1">
+            <word>Failing</word>
+            <lemma>fail</lemma>
+            <CharacterOffsetBegin>3882</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3889</CharacterOffsetEnd>
+            <POS>VBG</POS>
+            <NER>O</NER>
+          </token>
+          <token id="2">
+            <word>your</word>
+            <lemma>you</lemma>
+            <CharacterOffsetBegin>3890</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3894</CharacterOffsetEnd>
+            <POS>PRP$</POS>
+            <NER>O</NER>
+          </token>
+          <token id="3">
+            <word>classes</word>
+            <lemma>class</lemma>
+            <CharacterOffsetBegin>3895</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3902</CharacterOffsetEnd>
+            <POS>NNS</POS>
+            <NER>O</NER>
+          </token>
+          <token id="4">
+            <word>does</word>
+            <lemma>do</lemma>
+            <CharacterOffsetBegin>3903</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3907</CharacterOffsetEnd>
+            <POS>VBZ</POS>
+            <NER>O</NER>
+          </token>
+          <token id="5">
+            <word>n't</word>
+            <lemma>not</lemma>
+            <CharacterOffsetBegin>3907</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3910</CharacterOffsetEnd>
+            <POS>RB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="6">
+            <word>mean</word>
+            <lemma>mean</lemma>
+            <CharacterOffsetBegin>3911</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3915</CharacterOffsetEnd>
+            <POS>VB</POS>
+            <NER>O</NER>
+          </token>
+          <token id="7">
+            <word>you</word>
+            <lemma>you</lemma>
+            <CharacterOffsetBegin>3916</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3919</CharacterOffsetEnd>
+            <POS>PRP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="8">
+            <word>'re</word>
+            <lemma>be</lemma>
+            <CharacterOffsetBegin>3919</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3922</CharacterOffsetEnd>
+            <POS>VBP</POS>
+            <NER>O</NER>
+          </token>
+          <token id="9">
+            <word>a</word>
+            <lemma>a</lemma>
+            <CharacterOffsetBegin>3923</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3924</CharacterOffsetEnd>
+            <POS>DT</POS>
+            <NER>O</NER>
+          </token>
+          <token id="10">
+            <word>loser</word>
+            <lemma>loser</lemma>
+            <CharacterOffsetBegin>3925</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3930</CharacterOffsetEnd>
+            <POS>NN</POS>
+            <NER>O</NER>
+          </token>
+          <token id="11">
+            <word>.</word>
+            <lemma>.</lemma>
+            <CharacterOffsetBegin>3930</CharacterOffsetBegin>
+            <CharacterOffsetEnd>3931</CharacterOffsetEnd>
+            <POS>.</POS>
+            <NER>O</NER>
+          </token>
+        </tokens>
+        <parse>(ROOT (S (S (VP (VBG Failing) (NP (PRP$ your) (NNS classes)))) (VP (VBZ does) (RB n't) (VP (VB mean) (SBAR (S (NP (PRP you)) (VP (VBP 're) (NP (DT a) (NN loser))))))) (. .))) </parse>
+        <dependencies type="basic-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">mean</dependent>
+          </dep>
+          <dep type="csubj">
+            <governor idx="6">mean</governor>
+            <dependent idx="1">Failing</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="3">classes</governor>
+            <dependent idx="2">your</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">Failing</governor>
+            <dependent idx="3">classes</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">mean</governor>
+            <dependent idx="4">does</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="6">mean</governor>
+            <dependent idx="5">n't</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">loser</governor>
+            <dependent idx="7">you</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">loser</governor>
+            <dependent idx="8">'re</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">loser</governor>
+            <dependent idx="9">a</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="6">mean</governor>
+            <dependent idx="10">loser</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">mean</dependent>
+          </dep>
+          <dep type="csubj">
+            <governor idx="6">mean</governor>
+            <dependent idx="1">Failing</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="3">classes</governor>
+            <dependent idx="2">your</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">Failing</governor>
+            <dependent idx="3">classes</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">mean</governor>
+            <dependent idx="4">does</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="6">mean</governor>
+            <dependent idx="5">n't</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">loser</governor>
+            <dependent idx="7">you</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">loser</governor>
+            <dependent idx="8">'re</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">loser</governor>
+            <dependent idx="9">a</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="6">mean</governor>
+            <dependent idx="10">loser</dependent>
+          </dep>
+        </dependencies>
+        <dependencies type="collapsed-ccprocessed-dependencies">
+          <dep type="root">
+            <governor idx="0">ROOT</governor>
+            <dependent idx="6">mean</dependent>
+          </dep>
+          <dep type="csubj">
+            <governor idx="6">mean</governor>
+            <dependent idx="1">Failing</dependent>
+          </dep>
+          <dep type="poss">
+            <governor idx="3">classes</governor>
+            <dependent idx="2">your</dependent>
+          </dep>
+          <dep type="dobj">
+            <governor idx="1">Failing</governor>
+            <dependent idx="3">classes</dependent>
+          </dep>
+          <dep type="aux">
+            <governor idx="6">mean</governor>
+            <dependent idx="4">does</dependent>
+          </dep>
+          <dep type="neg">
+            <governor idx="6">mean</governor>
+            <dependent idx="5">n't</dependent>
+          </dep>
+          <dep type="nsubj">
+            <governor idx="10">loser</governor>
+            <dependent idx="7">you</dependent>
+          </dep>
+          <dep type="cop">
+            <governor idx="10">loser</governor>
+            <dependent idx="8">'re</dependent>
+          </dep>
+          <dep type="det">
+            <governor idx="10">loser</governor>
+            <dependent idx="9">a</dependent>
+          </dep>
+          <dep type="ccomp">
+            <governor idx="6">mean</governor>
+            <dependent idx="10">loser</dependent>
+          </dep>
+        </dependencies>
+      </sentence>
+
+    </sentences>
+  </document>
+</root>
