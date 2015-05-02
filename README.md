@@ -1,5 +1,5 @@
 # Event Extraction for Political Modeling
-#### CMAK Political Events Extraction Model by Camille Malonzo + Areeba Kamal
+#### CMAK Political Events Extraction by Camille Malonzo + Areeba Kamal
 
 ## Introduction 
 As students of politics and computer science, we were naturally impressed by the need for collaboration between the two disciplines for successful computational political forecasting. In addition, we felt that an automated, historically grounded, reliable approach was needed for better political decision-making in contemporary politics, since too often political actors are motivated by their own biases and opinions in predicting future political events. Add to this the fact that hyper active online media and the advent of big data have made it almost impossible for human analyzers alone to take into account every piece of available data, and the idea of a computer reading a large mass of data to make educated predictions is even more appealing. 
